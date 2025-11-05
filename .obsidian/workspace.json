@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "64e9aa7cf5d3db24",
+        "id": "d399fdba143b0f8c",
         "type": "tabs",
         "children": [
           {
-            "id": "47012f5aa1edd5dd",
+            "id": "d0853ae73a655273",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 -Main Notes/Personal Finance Guide.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Personal Finance Guide"
+            }
+          },
+          {
+            "id": "9d894c5d9230e6e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 -Main Notes/Action-Oriented Reading System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Action-Oriented Reading System"
+            }
+          },
+          {
+            "id": "b4dc3a3255063b77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 -Main Notes/Job Application Flags.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Job Application Flags"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6 -Main Notes/Action-Oriented Reading System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Action-Oriented Reading System"
             }
           },
           {
@@ -137,15 +171,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "6 -Main Notes/Action-Oriented Reading System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Action-Oriented Reading System"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,8 +199,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "47012f5aa1edd5dd",
+  "active": "b4dc3a3255063b77",
   "lastOpenFiles": [
+    "Media/Pasted image 20251105234242.png",
+    "Media/Pasted image 20251105234235.png",
+    "6 -Main Notes/Networking Basics Cisco.md",
+    "6 -Main Notes/Job Application Flags.md",
+    "6 -Main Notes/Action-Oriented Reading System.md",
+    "6 -Main Notes/Personal Finance Guide.md",
+    "5 - Template/Default Template.md",
+    "5 - Template/Reflection Template.md",
+    "3 - Tags/Coding.md",
+    "6 -Main Notes/Journal.md",
+    "6 -Main Notes/Advice About Digital Banks.md",
+    "3 - Tags/Finance.md",
+    "Media/Pasted image 20251030182037.png",
     "6 -Main Notes/Git Commit Message.md",
     "Media/README.md"
   ]
