@@ -1,7 +1,7 @@
 
 2025-10-28  09:57
 
-Tags: [[Finance]]
+Tags: [[Finance]] [[Advice]] 
 
 
 ### Reddit

@@ -1,7 +1,7 @@
 
 2025-10-01  12:53
 
-Tags: 
+Tags: [[Guide]] 
 
 # Logic Training
 

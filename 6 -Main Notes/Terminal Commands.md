@@ -3,6 +3,8 @@
 
 Tags: [[Coding]] [[Terminal]] [[Customization]]
 
+---
+
 # Terminal Commands
 
 
@@ -72,6 +74,8 @@ then follow instructions
   
 
 
+---
 
 # References
+
 chatgpt

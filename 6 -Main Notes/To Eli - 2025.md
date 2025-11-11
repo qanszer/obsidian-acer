@@ -1,9 +1,11 @@
 
 2025-09-01  21:27
 
-Tags: 
+Tags: [[Journal]] [[Letters]]
 
-# August to Eli
+---
+
+## August to Eli
 
 
 Hi love. I still love you. And want you. And miss you. So much po. Happy 27th Monthsary Eli! Enjoy the watch, gipiliian jd na nakog dugay hehe. Sorry for the late greeting baby. Nabusy jd sa emergency ni miming love. I'll talk about it later but for now, I  just want to talk about you. 
@@ -36,12 +38,9 @@ Continuing my chikas, ag fire spark incident!!!! Nakuratan jd ko adto ba. Medj n
 Nakalimot kog ask love, pero nidung raba kas overflow eventtt? Akoy gahimo sa ppt ni kuya august; siya ag speaker B) sunglasses na bebe. And one time, nagworkout ming dabid while gauwan. So tough and cool B) HAHAHHAHAHAHA wa nakoy lain maremember ichika lalavs hehe
 
 
+---
 
-
-====
-
-
-# September to Eli
+## September to Eli
 
 
 Hi, love! It's that time of the month again---budots time tududuts duts tuts HAPPY MONTHSARY ELIIIII MY LOVEEEEE!!!! I forgot that for this month, I decided to note things when something interesting happens to me, so that I can tell it here in our monthly letters pero nakalimot mn nuon ko so off the top of my head nalang balik nga happenings ag mabutang nako diri lalaves. 
@@ -73,10 +72,13 @@ Pls continue taking care of yourself ra diha eli my loveeee <3 As for your firin
 i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i love u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i love u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss u i miss uuuuuuu!!!!!
 
 
+---
+
+## October to Eli
+
+Hi Eli! I want to officially get back with you starting with the day you'll see this letter po. Call if you agree with it, or tweet "x" in X if you don't want to. Happy monthsary bb :)
 
 
+---
 
-
-
-
-
+## 

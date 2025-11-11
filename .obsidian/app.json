@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "6 -Main Notes",
   "attachmentFolderPath": "Media",
-  "spellcheck": false
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
 }

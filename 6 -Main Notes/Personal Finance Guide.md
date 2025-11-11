@@ -2,12 +2,12 @@
 
 2025-10-30  18:19
 
-Tags: [[Finance]]
+Tags: [[Finance]] [[Guide]]
 
 
 One of the most frequent questions in /r/personalfinance goes something like:
 
-- **"I have $X, what should I do with it?"** or
+- **"I have $100k, what should I do with it?"** or
 - **"How should I handle my debt/finances/money?"**
 
 This incorporates general guidance found in the [PF Wiki](http://www.reddit.com/r/personalfinance/wiki/index) and that is given often by /r/personalfinance regulars.  If you have suggestions about this article, please message the moderators.
@@ -171,6 +171,8 @@ An HSA [can also be used for retirement savings](http://www.madfientist.com/ulti
 ### [Windfalls](http://www.reddit.com/r/personalfinance/wiki/windfall)
 
 ### [Advice for ages 15-20](https://www.reddit.com/r/personalfinance/wiki/teachme/)
+
+### [Credit building guide](https://www.reddit.com/r/personalfinance/wiki/credit_building/)
 
 
 ## Acknowledgements
