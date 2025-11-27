@@ -21,3 +21,5 @@ Tags: [[Links]] [[Github]]
 14. https://github.com/rasbt/LLMs-from-scratch
 15. ML From Scratch: https://github.com/eriklindernoren/ML-From-Scratch
 16. Made With ML: https://github.com/GokuMohandas/Made-With-ML
+17. Tech Interview Handbook: https://github.com/yangshun/tech-interview-handbook
+18. 

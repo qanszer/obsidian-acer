@@ -8,6 +8,13 @@ Tags: [[Coding]] [[Terminal]] [[Customization]]
 # Terminal Commands
 
 
+See current swappiness value:
+cat /proc/sys/vm/swappiness
+
+Temporarily set new swap value:
+sudo sysctl vm.swappiness=10
+
+
 Check shell version:
 gnome-shell --version
 

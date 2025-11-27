@@ -3,6 +3,12 @@
 
 Tags: 
 
+#### While Reading
+
+-  **Mark passages** that resonate or seem useful
+-  Note critical **questions**
+-  Note **personally** **specific "I should try this"** moments
+
 ---
 
 # {{title}}
@@ -30,13 +36,6 @@ Tags:
 -  [Situation when this book's ideas would help]
 
 
-#### While Reading
-
--  **Mark passages** that resonate or seem useful
--  Note critical **questions**
--  Note **personally** **specific "I should try this"** moments
-
-
 
 ---
 
@@ -61,7 +60,11 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes/Realizations
+
+> 
+> *“Great quotes from the book will be here.”*
+> 
 
 > 
 > *“Great quotes from the book will be here.”*

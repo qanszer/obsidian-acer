@@ -3,6 +3,12 @@
 
 Tags: [[Finance]] [[Book]] [[Investing]] 
 
+### Reminders While Reading
+
+-  **Mark passages** that resonate or seem useful
+-  Note critical **questions**
+-  Note **personally** **specific "I should try this"** moments
+
 ---
 
 # The Bogleheads' Guide to Investing
@@ -32,13 +38,6 @@ Tags: [[Finance]] [[Book]] [[Investing]]
 
 
 
-### Reminders While Reading
-
--  **Mark passages** that resonate or seem useful
--  Note critical **questions**
--  Note **personally** **specific "I should try this"** moments
-
-
 ---
 
 
@@ -64,7 +63,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  This is not specific and concrete, but I want to love learning. Because learning is to the studious, and riches to the careful.
 
 
-### Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“The majesty of simplicity in an empire of parsimony.”*
@@ -108,7 +107,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  Currently can't think of any actionable learning here aside from mindset shifts.
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > _"Do not value money for any more nor any less than its worth; it is a good servant but a bad master."_
@@ -134,23 +133,76 @@ What will I actually DO with this? (specific, concrete actions)
 
 #### Key Takeaways
 
--  **01:** 
+-  **01:** Being a Keeper is not equated to being a cheapskate. It just means that I have the discipline to set aside a regular amount out of every paycheck I get, and then spend the rest the way I want.
 -  **02:** 
 -  **03:** 
 
 
 #### Actions
-
 What will I actually DO with this? (specific, concrete actions)
 
--  
+*I should be doing this in the future:* 
+
+- **Take a minimum of 10%** from every paycheck to be saved/invested.
+- Graduate from the paycheck mentality to the net worth mentality.
+- Make it a habit to calculate my net worth once a year.
 
 
-## Favorite Quotes
+*I can do this in the future:*
+
+- Be in controllable debt for a home mortgage that is easily affordable.
+- Enroll my kids in private for elementary and high school, and then in public/state university for college. (Unless the kid wants to enter a private uni and there's still savings for it)
+- I can do a car loan if it is for a 3 year old car I will purchase and keep for a long time. It should of course be in good condition.
+- I will have a credit card and will only use it for convenience; I will **pay the full amount each month** without fail.
+- Pay off credit card and high-interest debts.
+- **Establish an emergency fund worth 6 months of living expenses.**
+
+
+#### Favorite Quotes
 
 > 
+> *"Are Keepers cheapskates who lead lives of high deprivation in the hope of being rich one day? No, they are not. After setting aside a regular amount each month, they spend most of the money they earn. They wear nice clothes, live in a nice home, dine in fine restaurants, take vacations, and enjoy many of the good things money can buy."*
+> 
+
+ >
 > *“Great quotes from the book will be here.”*
 > 
+
+ >
+> *“Great quotes from the book will be here.”*
+> 
+
+
+#### How to Calculate Net Worth
+
+First option, you can search up "net worth calculator" in Google and use that. If you don't find it accurate, do the 2nd option.
+
+Second option, add up the current dollar value of everything you own. Such items include the following:
+
+- Cash in checking and savings accounts, credit unions, or money market funds
+- The cash value of your life insurance
+- Your home and any other real estate holdings
+- Any stocks, bonds, mutual funds, certificates of deposit, government securities, or other investments
+- Pension or retirement plans
+- Cars, boats, motorcycles, or other vehicles
+- Personal items such as clothing, jewelry, home furnishings, and appliances
+- Collectibles such as art or antiques
+- Your business, if you own one and were to sell it
+- Anything else of value that you own
+
+Once you have the total current value of what you own, add up the total amount of all debts that you currently owe. These include the total amount due on the following:
+
+- The mortgage on your house or any real estate holdings
+- Credit cards
+- Car loans
+- Personal loans
+- Educational loans
+- Life insurance loans
+- Home-equity loans
+- Accounts payable in your business
+- Any other debts
+
+Subtract what you owe from what you own, and that’s your net worth.
 
 
 ---
@@ -176,7 +228,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -206,7 +258,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -236,7 +288,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -266,7 +318,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -296,7 +348,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -326,7 +378,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -356,7 +408,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -386,7 +438,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -416,7 +468,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -446,7 +498,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -476,7 +528,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -506,7 +558,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -536,7 +588,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -566,7 +618,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -596,7 +648,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -632,7 +684,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -662,7 +714,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -692,7 +744,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -722,7 +774,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -752,7 +804,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -782,7 +834,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -812,7 +864,7 @@ What will I actually DO with this? (specific, concrete actions)
 -  
 
 
-## Favorite Quotes
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
