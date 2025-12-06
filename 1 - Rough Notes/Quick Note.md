@@ -51,7 +51,7 @@ video presentation thru ms teams
 additional grades for code with database (optional)
 
 
-final presentation is on december 3
+
 
 
 

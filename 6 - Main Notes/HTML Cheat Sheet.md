@@ -67,8 +67,21 @@ Note: an inline element cannot contain a block-level element!
 
 
 
+## Live Server on Mobile
+
+1. Find the ipv4 addresss of the current wifi of laptop (192.168.1.1)
+2. Look at the port of the live server in laptop (:5500)
+3. Type this in a browser on mobile:
+		`http://ipv4address:5500/index.html`
 
 
+
+
+
+
+
+
+---
 
 # References
 

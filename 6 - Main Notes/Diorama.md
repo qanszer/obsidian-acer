@@ -1,12 +1,14 @@
 
 2025-11-22  13:22
 
-Tags: 
+Tags: [[Networking]] [[School]]
 
 ---
 
 # Diorama measurements
 
+
+## First Floor
 #### Total
 length - 27in
 width - 12in
@@ -66,6 +68,56 @@ width - 1in
 
 
 
+## Second Floor
+#### Walls
+length - 20in
+height - 5.5in
+width - 9.2in
+
+#### Lobby Wall
+length - 8.4
+height - 5.5
+
+#### Bathroom Wall and Wiring Closet Walls (Left and Bottom)
+length - 3.8
+height - 5.5
+
+#### Bookshelf
+top - 8.5 by 0.7
+front/back - 8.5 by 5 (2 pcs)
+sides - 0.7 by 5 (2 pcs)
+
+#### Table
+top - 2.5 x 1.5
+
+#### Hanging Table
+make 2 of these - 9 x 0.7
+
+#### Wiring Closet
+top - 2 x 0.6 (2 pcs)
+sides - 2 x 0.6 (2 pcs)
+
+#### Toilet Bowl
+top - 0.7 x 1.3
+side a - 0.6 x 1.5 (2 pcs)
+side b - 1.3 x 1.5 (2 pcs)
+
+#### Reception Desk
+top - 2.5 x 0.5
+side a - 2.5 x 1.9 (2 pcs)
+side b - 0.5 x 1.9
+
+#### Stairs Top Floor
+7.2 x 2.1
+
+#### IP Camera
+0.3 x 0.3 (estimate)
+
+#### NVR and PoE Switch
+1.5 x 0.5 (2 pcs)
+
+
+
 # Diorama Pictures
 base ka sa pics
 
@@ -109,6 +161,72 @@ pos
 
 receipt printer
 ![[Pasted image 20251124175544.png]]
+
+
+
+
+# Diorama Device Specifications
+
+
+Router:
+Huawei EchoLife EG8041V5
+
+
+
+
+
+# Network Setup
+
+**Router**
+GUI --> Network Setup
+IP Address: 192.168.1.1
+Subnet mask: 255.255.255.0
+DHCP: Enabled
+Start IP Address: 101
+Max users: 100
+Static DNS 1: 8.8.8.8
+
+Scroll to bottom --> Save settings
+
+Scroll back to top --> Click "Wireless" --> Click "Guest Network"
+Enable 2.4hz and 5hz - 1
+
+Click "Config" on top bar
+Setup the SSID and Password for the WiFis
+
+
+**Switch**
+CLI
+enable
+configure terminal
+
+! Configure management VLAN
+interface vlan 1
+ ip address 192.168.1.2 255.255.255.0
+ no shutdown
+exit
+
+! Set default gateway
+ip default-gateway 192.168.1.1
+
+! Save configuration
+end
+write memory
+
+
+
+
+# IP Configurations
+
+![[Pasted image 20251130230621.png]]
+
+
+
+
+
+
+
+
 
 ---
 

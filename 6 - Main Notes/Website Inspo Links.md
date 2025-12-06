@@ -17,7 +17,14 @@ https://godly.website/
 **Cosmos**
 https://www.cosmos.so/
 
+**Mentimeter**
+https://www.mentimeter.com/
 
+**Cloudfare**
+https://www.cloudflare.com/
+
+**Piotrfonte(Portfolio)**
+https://piotrfonte.com/
 
 
 ---

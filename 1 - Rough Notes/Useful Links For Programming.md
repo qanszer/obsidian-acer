@@ -66,6 +66,9 @@ For auto-updates on dependencies. Useful for avoiding random errors due to new u
 #### 2. Graphonline
 https://graphonline.top/
 Tool for creating graphs and then finding the shortest path algorithm
+#### 3. Formspree 
+https://formspree.io/forms
+Tool to connect your website's email form to actually send the message to the designated email account
 
 
 
@@ -93,3 +96,12 @@ Collection of clean website designs
 #### 4. Remove Photos
 https://remove.photos/
 Tool to remove background to make transparent png images
+#### 5. Tabler
+https://tabler.io/icons
+Collection of free svg icons with customizable color for all
+#### 6. Freesvgicons
+https://freesvgicons.com/
+Collection of free svg icons
+
+
+

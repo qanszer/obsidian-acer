@@ -8,6 +8,49 @@ Tags: [[Coding]] [[Terminal]] [[Customization]]
 # Terminal Commands
 
 
+Check status of Database Engine:
+```bash
+systemctl status mssql-server --no-pager
+```
+
+Stop the Database Engine:
+```bash
+sudo systemctl stop mssql-server
+```
+
+Start the Database Engine:
+```bash
+sudo systemctl start mssql-server
+```
+
+Restart the Database Engine:
+```bash
+sudo systemctl restart mssql-server
+```
+
+Login as user_admin on SQL Server:
+```bash
+sqlcmd -S 127.0.0.1 -U admin_user -No
+```
+SecureAdmin123!
+
+
+Guide to reinstall older packages when the dependencies need an older one:
+https://green.cloud/docs/how-to-downgrade-a-package-via-apt-get/#:~:text=Estimated%20reading:%203%20minutes%201386,one%2C%20you%20are%20in%20luck.
+```bash
+apt-cache policy package-name
+sudo apt-get install package-name=package-version-number
+```
+
+
+Install using .deb package:
+first do `sudo apt update && sudo apt upgrade`
+then `sudo apt install build-essential`
+go to directory of the deb file like `cd Downloads/`
+`sudo dpkg -i filename`
+if there were dependency issues, run `sudo apt-get install -f`
+
+
 See current swappiness value:
 cat /proc/sys/vm/swappiness
 
@@ -86,3 +129,4 @@ then follow instructions
 # References
 
 chatgpt
+claude

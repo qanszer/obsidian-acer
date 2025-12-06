@@ -7,6 +7,9 @@ Tags:  [[Coding]] [[CSS]]
 
 [https://htmlcheatsheet.com/css/](https://htmlcheatsheet.com/css/)
 
+
+### Overview Guide
+
 ```CSS
 color
 background-color
@@ -59,7 +62,7 @@ The **currentcolor** keyword refers to the value of the color property of an ele
 
 ![[Pasted image 20250929160323.png]]
 
-#### Alignment
+### Alignment
 
 ![[Pasted image 20250929184104.png]]
 
@@ -74,11 +77,16 @@ align-items: cross axis
     
 - `items` — single items that can be positioned individually.
 
+
 For space between flex items:
 gap
 
 
+### Add font:
 
+```css
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Geist">
+```
 
 
 
