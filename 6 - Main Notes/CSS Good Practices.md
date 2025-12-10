@@ -45,6 +45,14 @@ body {
 [id] { 
 	scroll-margin-top: 150px; 
 }
+
+::selection {
+
+background-color: ;
+
+color: ;
+
+}
 ```
 
 
@@ -234,6 +242,19 @@ Use `em` for breakpoints
     }
 }
 ```
+
+
+
+### Unexpected shrink problem
+If one div child shrinked because of `align-items: center`, add `width: 100%` to the child
+
+
+
+
+
+
+
+
 
 
 

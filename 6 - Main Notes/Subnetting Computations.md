@@ -48,7 +48,7 @@ Hosts: 14
 
 
 #### Formula for computing usable hosts:
-``2^remaining-bits
+``2^remaining-bits - 2
 
 2^5 = 32 total hosts(ip address) for each subnet
 32 - 2 = 30 usable hosts for the devices of each subnet

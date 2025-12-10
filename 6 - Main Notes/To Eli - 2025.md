@@ -81,4 +81,9 @@ Hi Eli! I want to officially get back with you starting with the day you'll see 
 
 ---
 
-## 
+## December to Eli
+
+
+#### 12/09/25
+
+By, you're... harder to love now. Am I the same to you? I want to talk about it

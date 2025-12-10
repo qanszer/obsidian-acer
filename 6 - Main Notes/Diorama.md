@@ -222,6 +222,14 @@ write memory
 
 
 
+# Consultation Takeaways
+
+Consultation Takeaways
+1. required daw yung 150 nodes (devices); bale bahala na daw ket di realistic, basta may 150 nodes HAHAHAHA di ko gagawin to, mga 70 lang siguro aken
+2. kelangan ayusin yung heading (nakay castaneda yung maayos na heading)
+3. lagyan ng header description yung list of figures ("figure no.", "description", "page number")
+4. arrange the cabling sa physical view sa packet tracer using bend points (malalagay sa walls yung cables)
+
 
 
 
