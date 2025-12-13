@@ -118,59 +118,12 @@ side b - 0.5 x 1.9
 
 
 
-# Diorama Pictures
-base ka sa pics
-
-ref
-![[Pasted image 20251124171738.png]]
-
-sink
-![[Pasted image 20251124172210.png]]
-
-aircon
-![[Pasted image 20251124172737.png]]
-
-mirror
-![[Pasted image 20251124173625.png]]
-
-live, laugh, love (or ket ano basta pang picture frame sa wall)
-6pcs
-![[Pasted image 20251124190829.png]]
-![[Pasted image 20251124185945.png]]
-![[Pasted image 20251124190248.png]]
-![[Pasted image 20251124190407.png]]
-![[Pasted image 20251124190621.png]]
-![[Pasted image 20251124190643.png]]
-
-
-fence (same sa pic)
-![[Pasted image 20251124184331.png]]
-
-
-welcome mat
-![[Pasted image 20251124174931.png]]
-
-laptop
-![[Pasted image 20251124184712.png]]
-
-huawei router
-![[Pasted image 20251124185858.png]]
-
-pos
-![[Pasted image 20251124175021.png]]
-
-receipt printer
-![[Pasted image 20251124175544.png]]
-
-
-
 
 # Diorama Device Specifications
 
 
 Router:
 Huawei EchoLife EG8041V5
-
 
 
 
@@ -218,7 +171,61 @@ write memory
 
 # IP Configurations
 
-![[Pasted image 20251130230621.png]]
+IP Address: 192.168.1.0
+Subnets: 6
+Hosts: 30
+
+Network Address: 192.168.1.0
+Subnet Mask: 255.255.255.224 /27
+Borrowed bits: 3
+Remaining bits: 5
+
+Total subnets: 8
+Usable subnets: 6
+
+Total hosts per subnet: 32
+Usable hosts per subnet: 30
+
+
+SUBNET 0 - STATIC
+
+Huawei ECOLIFE Router 1 - 192.168.1.1
+
+PoE Switch - 192.168.1.2
+
+NVR - 192.168.1.4
+IP Camera 1 - 192.168.1.5
+IP Camera 2 - 192.168.1.6
+IP Camera 3 - 192.168.1.7
+IP Camera 4 - 192.168.1.8
+IP Camera 5 - 192.168.1.9
+IP Camera 6 - 192.168.1.10
+IP Camera 7 - 192.168.1.11
+IP Camera 8 - 192.168.1.12
+
+Admin PC - 192.168.1.13
+POS Tablet - 192.168.1.14
+Receipt Printer: 192.168.1.15
+Work Laptop: 192.168.1.16
+
+PC Switch1 - 192.168.1.21
+PC Switch2 - 192.168.1.22
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
 
 
 

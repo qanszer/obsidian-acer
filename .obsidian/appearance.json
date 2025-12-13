@@ -1,5 +1,7 @@
 {
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Obsidian Nord",
   "accentColor": "#87b0c4",
-  "theme": "system"
+  "theme": "system",
+  "interfaceFontFamily": "Verdana",
+  "textFontFamily": "Verdana"
 }

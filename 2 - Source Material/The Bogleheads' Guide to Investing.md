@@ -16,7 +16,7 @@ Tags: [[Finance]] [[Book]] [[Investing]]
 
 ### Brief Summary
 
-[What's this book about? 2-5 sentences]
+What's this book about? 2-5 sentences
 
 
 ### Top 3 Key Concepts
@@ -28,13 +28,13 @@ Tags: [[Finance]] [[Book]] [[Investing]]
 
 ### Actions I Will Take
 
-1. [Specific action from the book]
+1. Specific action from the book
 
 
 
 ### When to Revisit
 
--  [Situation when this book's ideas would help]
+-  Situation when this book's ideas would help
 
 
 
