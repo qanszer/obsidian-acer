@@ -213,22 +213,6 @@ PC Switch2 - 192.168.1.22
 
 
 
-
-
-
-
-  
-
-
-  
-
-
-
-
-
-
-
-
 # Consultation Takeaways
 
 Consultation Takeaways

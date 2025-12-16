@@ -93,7 +93,7 @@ body
 
     --cursor-line-background:        rgba(var(--light0), 0.9);
 
-    --text-normal:                   #eceff4;
+    --text-normal:                   #dbdee2;
     --text-faint:                    var(--light0);
     --text-muted:                    #eceff490;
 
@@ -149,10 +149,11 @@ body
     --mermaid-seqnum:                var(--dark0);
 
     --icon-color-hover:              var(--frost0);
-    --icon-color-focused:            var(--frost2);
+    --icon-color-focused:            var(--frost1);
 
-    --nav-item-color-hover:          var(--frost0);
+    --nav-item-color-hover:          var(--light0);
     --nav-item-color-active:         var(--light0);
+    --nav-item-background-active:    #22262e;
     --nav-file-tag:                  rgba(var(--yellow_x), 0.9);
 
     --graph-line:                    var(--dark3);
@@ -200,7 +201,7 @@ body
 
     --cursor-line-background:        rgba(var(--red_x), 0.0);
 
-    --text-normal:                   var(--dark2);
+    --text-normal:                   #4c5569;
     --text-faint:                    var(--dark0);
     --text-muted:                    #878f9f;
 
@@ -216,8 +217,8 @@ body
     --text-highlight-bg:             #81a1c1;
     --text-highlight-fg:             #edeff3;
 
-    --text-accent:                   var(--frost0);
-    --text-accent-hover:             #6d89a6;
+    --text-accent:                   #6d89a6;
+    --text-accent-hover:             var(--frost0);
 
     --tag-color:                     var(--dark3);
     --tag-background:                var(--light1);
@@ -228,6 +229,8 @@ body
     --inline-title-color:            var(--dark2);
     
     --blockquote-background-color:   #2b313c;
+    --blockquote-color:              var(--light1);
+
 
     --bold-color:                    var(--dark2);
     --italic-color:                  var(--dark2);

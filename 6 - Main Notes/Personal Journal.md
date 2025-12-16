@@ -1,7 +1,7 @@
 
 2025-10-08  00:42
 
-Tags: [[Reflection]] 
+Tags: [[Reflection]] [[Thoughts]]
 
 
 ### October 10/7/25  ---  "Flowers"

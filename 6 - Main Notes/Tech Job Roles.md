@@ -1,7 +1,7 @@
 
 2025-09-24  18:34
 
-Tags: [[]]
+Tags: [[Job]] [[Advice]]
 
 # Future Career Choices
 

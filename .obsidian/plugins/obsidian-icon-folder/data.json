@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiInternetarchive",
       "LiPictureInPicture2",
       "LiNotebook",
       "LiLayoutTemplate",
-      "LiTag",
-      "LiBookOpen"
+      "LiTag"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "3 - Tags": "LiTag",
   "5 - Template": "LiLayoutTemplate",
   "Media": "LiPictureInPicture2",
-  "6 - Main Notes": "LiNotebook"
+  "6 - Main Notes": "LiNotebook",
+  "4 - Index": "SiInternetarchive"
 }
