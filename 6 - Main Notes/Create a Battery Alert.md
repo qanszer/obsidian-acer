@@ -1,7 +1,7 @@
 
 2025-09-14  18:48
 
-Tags:  [[Terminal]] [[Customization]]
+Tags:  [[Terminal]] [[Customization]] [[Coding]]
 
 # Create a Battery Alert
 

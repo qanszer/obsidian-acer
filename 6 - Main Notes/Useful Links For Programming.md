@@ -41,11 +41,14 @@ Password: lets-Go!ADU15
 
 
 
-## Github
+## Github/Git
 
 #### 1. Prettier Extension
 https://dev.to/hannahgooding/vs-code-shortcuts-and-tricks-that-i-wish-i-knew-sooner-3mcj#:~:text=relevant%20commit%20message.-,Prettier,-Prettier%20is%20a
 For consistent code format on group projects
+#### 2. Commit Messages Guide
+https://github.com/RomuloOliveira/commit-messages-guide
+A guide to understanding the importance of commit messages and how to write them well
 
 
 
@@ -69,6 +72,12 @@ Tool for creating graphs and then finding the shortest path algorithm
 #### 3. Formspree 
 https://formspree.io/forms
 Tool to connect your website's email form to actually send the message to the designated email account
+#### 4. CanIuse
+https://caniuse.com/
+Provides up-to-date browser support tables for support of front-end web technologies
+#### 5. Web Skills
+https://andreasbm.github.io/web-skills/?compact
+Visual overview of all the related skills one can learn for web developing ( does not mean one should learn all of it)
 
 
 
@@ -82,7 +91,7 @@ https://github.com/yangshun/tech-interview-handbook
 Useful for tech interviews
 
 
-## Design
+## Design/Frontend
 
 #### 1. Pacdora
 https://www.pacdora.com/
@@ -102,6 +111,9 @@ Collection of free svg icons with customizable color for all
 #### 6. Freesvgicons
 https://freesvgicons.com/
 Collection of free svg icons
+#### 7. FrontendChecklist
+https://frontendchecklist.io/#section-head
+Literal checklist to check/test before launching a website to production
 
 
 

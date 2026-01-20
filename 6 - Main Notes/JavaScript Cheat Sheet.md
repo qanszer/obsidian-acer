@@ -8,7 +8,9 @@ Tags: [[JavaScript]] [[Coding]]
 # 01 - Numbers
 
 
-## Operators
+## Arithmetic Operators
+
+[More Info](https://www.w3schools.com/js/js_arithmetic.asp)
 
 The following are all of the operators in Javascript:
 
@@ -98,6 +100,8 @@ Both `Nan` and `Infinity` are considered numbers in Javascript.
 
 ## Conversions
 
+[More Info](https://www.w3schools.com/js/js_numbers.asp)
+
 By default, JavaScript displays numbers as base 10 decimals.
 But you can use the `toString()` method to output numbers from base 2 to base 36.
 
@@ -156,6 +160,8 @@ For rounding off by your decided number:
 
 ## Comparison Operators
 
+[More Info](https://javascript.info/comparison)
+
 | Operator   - | Name                                 x |
 | ------------ | -------------------------------------- |
 | ===          | Strict equality                        |
@@ -168,16 +174,59 @@ For rounding off by your decided number:
 Use `===` and `!==` on Javascript, not the `==` and `!=` because it also tests out whether the datatypes of the values are the same.
 
 
+## Logical Operators
+
+[More Info](https://javascript.info/logical-operators)
+
+| Operator   - | Name       - | Precedence   - | Description                         x |
+| ------------ | ------------ | -------------- | ------------------------------------- |
+| \|\|         | OR           | 3rd            | First truth value is returned         |
+| &&           | AND          | 2nd            | First false value is returned         |
+| !            | NOT          | 1st            | Inverse value is returned             |
 
 
+**OR Operator When Given Multiple Values:**
+https://javascript.info/logical-operators#or-finds-the-first-truthy-value
+
+Practical Usage of OR Operator as a defualt fallback:
+
+```js
+function getGreeting(language) {
+	const greetings = {
+		'en': 'Hello', 
+		'es': 'Hola', 
+		'fr': 'Bonjour', 
+		'de': 'Guten Tag'
+	}; return greetings[language] || 'Hello'; // fallback if not found
+}
+```
 
 
+**AND Operator When Given Multiple Values:**
+https://javascript.info/logical-operators#and-finds-the-first-falsy-value
+
+**NOT Operator**:
+https://javascript.info/logical-operators#not
 
 
+if (!(age >= 14 && age <= 90));
+
+if (age < 14 && age > 90);
 
 
+## Boolean Conversions
 
+**False values:**
 
+- number `0`
+- empty string `""`
+- `null`
+- `undefined`
+- `NaN`
+
+**Truth values:**
+
+- anything else aside from the above
 
 
 ---
@@ -194,16 +243,19 @@ There are only 2 types of variables:
 
 ## Data Types
 
-| Type         - | Description                                                                   x |
-| -------------- | ------------------------------------------------------------------------------- |
-| number         | integer(whole num) or floating point(decimal num)                               |
-| bigint         | 643116n  // n characterizes the number as bigint                                |
-| string         | "" , ''  are the same; `` is used for embedding variables                       |
-| boolean        | true/false                                                                      |
-| null           | represents "nothing", "empty", or "value unknown"                               |
-| undefined      | "value is not assigned"                                                         |
-| object         | stores collections of data and more complex entities                            |
-| symbol         | used to create unique identifiers for objects                                   |
+[More Info](https://javascript.info/types#:~:text=much%20more%20common.-,Summary,-There%20are%208)
+
+| Type      - | Mutabiltity | Description                                                      x |
+| ----------- | ----------- | ------------------------------------------------------------------ |
+| number      | immutable   | integer(whole num) or floating point(decimal num)                  |
+| bigint      | immutable   | 643116n  // n characterizes the number as bigint                   |
+| string      | immutable   | "" , ''  are the same; `` is used for embedding variables          |
+| boolean     | immutable   | true/false                                                         |
+| null        | immutable   | represents "nothing", "empty", or "value unknown"                  |
+| undefined   | immutable   | "value is not assigned"                                            |
+| object      | mutable     | stores collections of data and more complex entities               |
+| symbol      | immutable   | used to create unique identifiers for objects                      |
+
 
 To check a variable's data type:
 
@@ -212,6 +264,9 @@ typeof variableName;
 ```
 
 
+## Null vs Undefined
+
+Normally, one uses `null` to assign an “empty” or “unknown” value to a variable, while `undefined` is reserved as a default initial value for unassigned things.
 
 
 
@@ -219,7 +274,16 @@ typeof variableName;
 # 03 - Strings
 
 
-Syntax to embed a variable inside a string:
+## Single vs Double vs Backtick Quotes
+
+Single and double quotes function the same. They are used interchangeably but using both can be useful when the string content itself uses one of them. For example:
+
+```js
+let x = "Hello! I'm an example.";
+let y = 'He said, "I\'m an example."'; // use '/' when it gets complex like in this example
+```
+
+Backtick quotes are used to embed a variable inside a string:
 
 ```js
 let x = 10;
@@ -227,11 +291,275 @@ let y = `Use backticks like this to insert a variable: ${x}`;
 ```
 
 
+## Convert data types into string
+
+The function `String()` converts other data types into a string.
 
 
+## Basic String Methods
+
+Javascript strings are primitive and immutable. All string methods produce a new string without altering the original string.
+
+| String Methods | -                                x |
+| -------------- | ---------------------------------- |
+| .length        | .isWellFormed()                    |
+| .charAt()      | .toWellFormed()                    |
+| .charCodeAt()  | .trim()                            |
+| .codePointAt() | .trimStart()                       |
+| .concat()      | .trimEnd()                         |
+| .at()          | .padStart()                        |
+| []             | .padEnd()                          |
+| .slice()       | .repeat()                          |
+| .substring()   | .replace()                         |
+| .substr()      | .replaceAll()                      |
+| .toUpperCase() | .split()                           |
+| .toLowerCase() |                                    |
+
+Other string methods:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
 
 
+If comparisons become tricky/confusing:
+https://javascript.info/comparison
+
+Checking for `null/undefined` separately is a good idea.
+
+
+---
+# 04 - Conditionals
+
+
+## If...else syntax
+
+```js
+if (condition) {
+  /* code to run if condition is true */
+} else {
+  /* run some other code instead */
+}
+```
+
+
+## Connecting if...else statements to HTML:
+
+```html
+<label for="weather">Select the weather type today: </label>
+<select id="weather">
+  <option value="">--Make a choice--</option>
+  <option value="sunny">Sunny</option>
+  <option value="rainy">Rainy</option>
+  <option value="snowing">Snowing</option>
+  <option value="overcast">Overcast</option>
+</select>
+
+<p></p>
+```
+
+```js
+const select = document.querySelector("select");
+const para = document.querySelector("p");
+
+select.addEventListener("change", setWeather);
+
+function setWeather() {
+  const choice = select.value;
+
+  if (choice === "sunny") {
+    para.textContent =
+      "It is nice and sunny outside today. Wear shorts! Go to the beach, or the park, and get an ice cream.";
+  } else if (choice === "rainy") {
+    para.textContent =
+      "Rain is falling outside; take a rain coat and an umbrella, and don't stay out for too long.";
+  } else if (choice === "snowing") {
+    para.textContent =
+      "The snow is coming down — it is freezing! Best to stay in with a cup of hot chocolate, or go build a snowman.";
+  } else if (choice === "overcast") {
+    para.textContent =
+      "It isn't raining, but the sky is grey and gloomy; it could turn any minute, so take a rain coat just in case.";
+  } else {
+    para.textContent = "";
+  }
+}
+```
+
+
+## Switch syntax:
+
+```js
+switch (expression) {
+  case choice1:
+    // run this code
+    break;
+
+  case choice2:
+    // run this code instead
+    break;
+
+  // include as many cases as you like
+
+  default:
+    // actually, just run this code
+    break;
+}
+```
+
+
+## Connecting a switch statement to HTML:
+
+```html
+<label for="weather">Select the weather type today: </label>
+<select id="weather">
+  <option value="">--Make a choice--</option>
+  <option value="sunny">Sunny</option>
+  <option value="rainy">Rainy</option>
+  <option value="snowing">Snowing</option>
+  <option value="overcast">Overcast</option>
+</select>
+
+<p></p>
+```
+
+```js
+const select = document.querySelector("select");
+const para = document.querySelector("p");
+
+select.addEventListener("change", setWeather);
+
+function setWeather() {
+  const choice = select.value;
+
+  switch (choice) {
+    case "sunny":
+      para.textContent =
+        "It is nice and sunny outside today. Wear shorts! Go to the beach, or the park, and get an ice cream.";
+      break;
+    case "rainy":
+      para.textContent =
+        "Rain is falling outside; take a rain coat and an umbrella, and don't stay out for too long.";
+      break;
+    case "snowing":
+      para.textContent =
+        "The snow is coming down — it is freezing! Best to stay in with a cup of hot chocolate, or go build a snowman.";
+      break;
+    case "overcast":
+      para.textContent =
+        "It isn't raining, but the sky is grey and gloomy; it could turn any minute, so take a rain coat just in case.";
+      break;
+    default:
+      para.textContent = "";
+  }
+}
+```
+
+
+## Usage Advice
+
+**Use switches when:**
+
+- checking a variable against many exact values
+- visual clarity and readability is prioritized
+- using fall-through behavior (multiple cases, same result)
+
+
+**Use if...else when:**
+
+- conditions need ranges (<, <=, etc)
+- conditions have many variables
+- for complex boolean logic (&&, ||)
+- simple 2-3 conditions
+
+
+**If...else is more common** in modern JavaScript codebases because:
+
+- It handles any condition type
+- More flexible for complex logic
+- Works with ranges and compound conditions
+
+```js
+// Switch: Good for specific values, readable
+switch(x) { case 'a': return 1; }
+
+// If-else: Good for complex conditions
+if (x > 10 && y < 5) { return 1; }
+
+// Object lookup: Best for simple key-value mappings
+const map = {'a': 1, 'b': 2};
+return map[x];
+```
+
+
+## Ternary/Question Mark Operator Syntax
+
+```js
+condition ? run this code : run this code instead
+```
+
+```js
+const greeting = isBirthday
+  ? "Happy birthday Mrs. Smith — we hope you have a great day!"
+  : "Good morning Mrs. Smith.";
+```
+
+```js
+// Use parentheses for better readability
+let accessAllowed = (age > 18) ? true : false;
+```
+
+## Connecting ternary operators to HTML:
+
+```html
+<label for="theme">Select theme: </label>
+<select id="theme">
+  <option value="white">White</option>
+  <option value="black">Black</option>
+</select>
+
+<h1>This is my website</h1>
+```
+
+```js
+const select = document.querySelector("select");
+const html = document.querySelector("html");
+document.body.style.padding = "10px";
+
+function update(bgColor, textColor) {
+  html.style.backgroundColor = bgColor;
+  html.style.color = textColor;
+}
+
+select.addEventListener("change", () =>
+  select.value === "black"
+    ? update("black", "white")
+    : update("white", "black"),
+);
+```
 
 
 ---
 # References
+
+
+### Main Reference - TheOdinProject
+https://www.theodinproject.com/lessons/foundations-variables-and-operators
+
+### Variables
+https://javascript.info/variables#variable-naming
+https://javascript.info/types
+### Numbers
+https://www.w3schools.com/js/js_arithmetic.asp
+https://www.w3schools.com/js/js_numbers.asp
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Math
+https://javascript.info/operators
+
+### Strings
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Strings
+https://www.w3schools.com/js/js_string_methods.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+
+### Comparisons
+https://javascript.info/comparison
+https://javascript.info/logical-operators
+
+### Conditionals
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Conditionals

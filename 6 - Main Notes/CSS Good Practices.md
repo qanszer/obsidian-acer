@@ -130,7 +130,20 @@ background-size: cover;
 ```
 
 
+Center horizontally:
+```css
+.container {
+	width: 980px; margin: 0 auto;
+}
+```
 
+In this example, two things are done to center this element horizontally within the available space:
+
+- The element is given a specified width
+- The left and right margins are set to `auto`
+
+
+6
 
 ## Responsiveness
 

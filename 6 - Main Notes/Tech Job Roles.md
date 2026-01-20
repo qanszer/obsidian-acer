@@ -1,7 +1,7 @@
 
 2025-09-24  18:34
 
-Tags: [[Job]] [[Advice]]
+Tags: [[Job]] [[Advice]] [[Coding]]
 
 # Future Career Choices
 

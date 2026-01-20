@@ -1,7 +1,7 @@
 
 2025-09-16  15:06
 
-Tags: [[Links]] [[Github]]
+Tags: [[Links]] [[Github]] [[Coding]]
 
 # Github Links
 

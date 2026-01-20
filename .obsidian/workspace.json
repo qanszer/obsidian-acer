@@ -4,51 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "d223182df01851a3",
-        "type": "split",
+        "id": "49c6cd68e9edbd91",
+        "type": "tabs",
         "children": [
           {
-            "id": "2ddafa240a3d17c8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "62a72154d651c15d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "6 - Main Notes/JavaScript Cheat Sheet.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "JavaScript Cheat Sheet"
-                }
-              }
-            ]
+            "id": "e6f8f888dfcb148b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/JavaScript Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript Cheat Sheet"
+            }
           },
           {
-            "id": "0820d8261a723148",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9580dad230e43126",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "6 - Main Notes/JavaScript Good Practices.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "JavaScript Good Practices"
-                }
-              }
-            ]
+            "id": "fda2dc4b8ac02aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Bible Hermeneutics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bible Hermeneutics"
+            }
+          },
+          {
+            "id": "823f40c785da18c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Quick Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quick Note"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +62,7 @@
       {
         "id": "f61e9383bdc88ac5",
         "type": "tabs",
-        "dimension": 66.14906832298136,
+        "dimension": 71.60714285714286,
         "children": [
           {
             "id": "9cd4f00a09e550b2",
@@ -93,6 +95,20 @@
             }
           },
           {
+            "id": "62a72154d651c15d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Tags/Communication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Communication"
+            }
+          },
+          {
             "id": "54bea1830ede1bf7",
             "type": "leaf",
             "state": {
@@ -107,7 +123,7 @@
       {
         "id": "f0c27d17b1f81aa5",
         "type": "tabs",
-        "dimension": 33.85093167701863,
+        "dimension": 28.392857142857142,
         "children": [
           {
             "id": "05c0e5843b5c43f8",
@@ -187,16 +203,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1 - Rough Notes/Quick Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Quick Note"
             }
           },
           {
-            "id": "74021b6c6ed82fda",
+            "id": "5a13cc8e6661faca",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -225,35 +242,38 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "05c0e5843b5c43f8",
+  "active": "823f40c785da18c4",
   "lastOpenFiles": [
-    "6 - Main Notes/JavaScript Cheat Sheet.md",
-    "6 - Main Notes/JavaScript Good Practices.md",
-    "6 - Main Notes/Website Inspo Links.md",
-    "4 - Index",
+    "5 - Template/Hermeneutics Template - Shorter.md",
+    "1 - Rough Notes/Quick Note.md",
+    "6 - Main Notes/Bible Hermeneutics.md",
+    "2 - Source Material/Atomic Habits.md",
+    "5 - Template/Hermeneutics Template - Extensive.md",
     "6 - Main Notes/VsCode Shortcuts.md",
-    "3 - Tags/Vscode.md",
-    "6 - Main Notes/Useful Links For Programming.md",
-    "6 - Main Notes/To Eli - 2025.md",
-    "6 - Main Notes/Thermal Replacement.md",
-    "6 - Main Notes/Terminal Commands.md",
-    "6 - Main Notes/Tech Job Roles.md",
-    "6 - Main Notes/Subnetting Computations.md",
-    "6 - Main Notes/SQL DBMS Odin.md",
-    "6 - Main Notes/Random Ideas.md",
-    "6 - Main Notes/Python Good Practices.md",
-    "6 - Main Notes/Python Cheat Sheet.md",
-    "6 - Main Notes/Personal Journal.md",
-    "3 - Tags/Python.md",
-    "6 - Main Notes/Personal Finance Guide.md",
-    "6 - Main Notes/Networking Basics Cisco.md",
-    "6 - Main Notes/Networking 1 Project.md",
-    "6 - Main Notes/Logic Training.md",
-    "6 - Main Notes/Job Application Flags.md",
-    "6 - Main Notes/HTML Cheat Sheet.md",
-    "3 - Tags/HTML.md",
+    "6 - Main Notes/Genuine Faith, Living Wisely to the Book of James.md",
+    "6 - Main Notes/JavaScript Cheat Sheet.md",
+    "1 - Rough Notes/D-Group Learnings.md",
+    "3 - Tags/Coding.md",
+    "1 - Rough Notes/Her Interests.md",
+    "5 - Template/Default Template.md",
     "6 - Main Notes/Github ReadMe Template.md",
     "6 - Main Notes/Github Links.md",
+    "6 - Main Notes/Generally Useful Links.md",
+    "6 - Main Notes/Bible Verse Logs.md",
+    "6 - Main Notes/Couple Bucket List.md",
+    "3 - Tags/Eli.md",
+    "3 - Tags/Reflection.md",
+    "3 - Tags/Reading.md",
+    "6 - Main Notes/Personal Time Blocks.md",
+    "6 - Main Notes/Personal Journal.md",
+    "6 - Main Notes/Book Logs.md",
+    "3 - Tags/Thoughts.md",
+    "6 - Main Notes/HTML Cheat Sheet.md",
+    "3 - Tags/JavaScript.md",
+    "Media/Pasted image 20251230005454.png",
+    "Media/Pasted image 20251230005446.png",
+    "Media/Pasted image 20251216191004.png",
+    "4 - Index",
     "Media/Pasted image 20251124171738.png",
     "Media/Pasted image 20251105234235.png",
     "Media/Pasted image 20250929184023.png",
@@ -261,9 +281,6 @@
     "Media/Pasted image 20250916171607.png",
     "Media/Pasted image 20251130230621.png",
     "Media/Pasted image 20251130230602.png",
-    "Media/Pasted image 20251124190829.png",
-    "Media/Pasted image 20251124190643.png",
-    "Media/Pasted image 20251124190621.png",
     "Media/networking1-reviewer-prelim.pdf",
     "Untitled.canvas"
   ]

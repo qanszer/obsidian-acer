@@ -1,56 +1,104 @@
 
-Professor Exam-Content Difficulty:
-Tina: S
-Anette: C
-Jy: A
+**Priorities:**
+1. Adv. Database - 29121 / 2 
+2. Object Oriented - 29065 / 6  |  29059 / 60
+3. Design Thinking - 
+4. Information Assurance - 
+5. Networking 2 - 
+
+**General:**
+1. Theo 3 - 
+2. Technical English - 01045
+3. Contemporary World - 08112
 
 
-Straight-through
-- used on different devices
-
-Cross-over
-- 36145278
-
-Rollover
-- configuration of routers (console)
-
-
-A - 1
-B - 4
-C - 5
-D - 2
-
-4 + 1 + 5 + 2 + 4
-
-
-
-As for how it works,
-
-Process of Submitting a Lost Item:
-scan QR code ---> redirects to web form ---> student fills up the form ---> they submit it
-
-Process of Retrieving a Lost Item:
-staff searches up the database to verify and match the records
-
-Database side:
--  it will have a searchable database by using the attributes like the item's category, date, or location
--  it will also have a status tracker if the item is pending, claimed, or donated (apparently, unclaimed cash will be donated to the university scholarship or the bridge program of adamson)
+8524-2011-325
 
 
 
 
-code
-- set of syntax has functions, classes, file IO, exception handling
-
-2 pages of powerpoint
-- discuss title and introduction of group
-- goal of the project, what the problem is and how our system solves it
-
-video presentation thru ms teams
-
-additional grades for code with database (optional)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Register a new number to GCash and transfer the funds and services to your new account.
+
+If you decide to get a new SIM with a different mobile number, you can create a new GCash account and have it fully verified. We can only process the transfer of your funds and services to a fully-verified account.
+
+After you have secured a SIM replacement or obtained another fully verified GCash account, you can chat with Gigi to request for either lifting of the suspension of your account or transferring of funds and services to your other GCash account.
+
+- On the GCash app’s login page, tap Help Center.
+
+- Tap “lost sim/phone” under popular searches.
+
+- Tap “Chat with Gigi.”
+
+
+
+
+duke
+andrei
+paul
+stacy
+
+
+
+jayvee (cyber?)
+
+
+
+
+
+
+STEPS IN INTERPRETING THE BIBLE
+1. PRAY
+2. CONTEXT
+3. OBSERVATION
+4. INTERPRETATION
+5. APPLICATION
+
+
+JEREMIAH 29:11
+'For I know the plans that I have for
+you,’ declares the Lord, ‘plans for
+welfare and not for calamity, to give
+you a future and a hope.'
+
+
+
+
+Break habits
+- fragmented sleep
+- not getting up immediately after waking up
+
+
+
+Introduction to topic
+
+Prayer
+
+Read the verse
+
+Give context to the verse
 
 
 

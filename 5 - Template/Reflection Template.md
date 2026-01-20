@@ -72,3 +72,37 @@ What will I actually DO with this? (specific, concrete actions)
 
 
 ---
+
+
+## 00 - 
+
+#### Main Idea
+
+(1-3 sentences)
+
+#### Key Takeaways
+
+-  **01:** 
+-  **02:** 
+-  **03:** 
+
+
+#### Actions
+
+What will I actually DO with this? (specific, concrete actions)
+
+-  
+
+
+#### Favorite Quotes/Realizations
+
+> 
+> *“Great quotes from the book will be here.”*
+> 
+
+> 
+> *“Great quotes from the book will be here.”*
+> 
+
+
+---

@@ -1,7 +1,7 @@
 
 2025-12-07  21:57
 
-Tags: [[School]] [[Database]] [[SQL]]
+Tags: [[School]] [[Database]] [[SQL]] [[Coding]]
 
 ---
 

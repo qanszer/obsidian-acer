@@ -1,7 +1,7 @@
 
 2025-11-22  13:22
 
-Tags: [[Networking]] [[School]]
+Tags: [[Networking]] [[School]] [[Coding]]
 
 ---
 

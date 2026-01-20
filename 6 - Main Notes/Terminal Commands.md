@@ -70,11 +70,6 @@ nano ~/battery_alert.sh
 Run the battery alert script:
 nohup ~/battery_alert.sh &
 
-Check Ubuntu version:
-lsb_release -a
-
-Know shell version:
-gnome-shell --version
 
 ====
 

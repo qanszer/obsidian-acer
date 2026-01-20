@@ -87,3 +87,34 @@ Hi Eli! I want to officially get back with you starting with the day you'll see 
 #### 12/09/25
 
 By, you're... harder to love now. Am I the same to you? I want to talk about it
+
+
+#### 12/25/25
+
+365 Reasons Why I Love You - 365 Reasons
+1. I love how easy it is to talk to you about anything
+2. I love the way you look at me
+3. I love your unruly hair just the way it is
+4. I love how thoughtful you are with your gifts for me, like my custom necklace with your name carved on it
+5. I love how you always laugh at my jokes even when I think they are not funny. I think it's sweet
+6. I love the way you care about your hair, as well as your different hairstyles with it
+7. I love the way you respect your parents and give them gifts/treats
+8. I love how you face challenges head-on and think of innovative solutions that I wouldn't even think of
+9. I love how much you value your bonds with your friends and how proactive you are in keeping your friendships with them
+10. I love the creativity and effort that you give in all that you do
+11. I love how caring you are of cats, so much so that you keep them even when it becomes inconvenient
+12. I love how much you take care of crinkles
+13. I love that you always involve yourself in organizations and other things that improve you
+14. I love how you strive to become financially wise and know how to take care of your money
+15. I love the fact that your hands are so capable in so many different things---art, crafts, embroidery, letter-making, bouquet-making, and many more
+16. I love how you always bring out the best in me
+17. 🫢
+18. I love the comfort that you give to me naturally
+19. I love your random GIFs when we chat. Some of them were really funny hehe
+20. I love how calm and loving we become with each other after overcoming a challenge we've had in our relationship
+21. I love all the memories we've made on all the different places we've been to together with just the two of us
+22. I love your memory gold
+23. I love you hehe mwa
+24. I love when you become childish and playful when we're together
+25. I love how we've made future plans already on what to do with our future together
+26. i love your "HEH"s mwehehehe

@@ -73,8 +73,8 @@ body
     --color-red:                     var(--red);
     --color-purple-rgb:              var(--purple_x);
     --color-purple:                  var(--purple);
-    --color-green-rgb:               var(--yellow_x);
-    --color-green:                   var(--yellow);
+    --color-green-rgb:               var(--green_x);
+    --color-green:                   var(--green);
     --color-cyan-rgb:                var(--frost1_x);
     --color-cyan:                    var(--frost1);
     --color-blue-rgb:                var(--frost3_x);
@@ -92,6 +92,8 @@ body
     --background-modifier-border:    #434c5e;
 
     --cursor-line-background:        rgba(var(--light0), 0.9);
+    /* --cursor-line-background:        #262b36; */
+
 
     --text-normal:                   #dbdee2;
     --text-faint:                    var(--light0);
@@ -181,8 +183,8 @@ body
     --color-red:                     var(--red);
     --color-purple-rgb:              var(--purple_x);
     --color-purple:                  var(--purple);
-    --color-green-rgb:               var(--green_x);
-    --color-green:                   var(--green);
+    --color-green-rgb:               #90a77c;
+    --color-green:                   #90a77c;
     --color-cyan-rgb:                var(--frost1_x);
     --color-cyan:                    var(--frost1);
     --color-blue-rgb:                var(--frost3_x);
@@ -195,14 +197,14 @@ body
 
     --background-primary:            var(--light1);
     --background-primary-alt:        var(--light3);
-    --background-secondary:          #edeff3;
-    --background-secondary-alt:      #edeff3;
-    --background-modifier-border:    #c5cedd;
+    --background-secondary:          #262b36;
+    --background-secondary-alt:      #2b313c;
+    --background-modifier-border:    #434c5e;
 
     --cursor-line-background:        rgba(var(--red_x), 0.0);
 
     --text-normal:                   #4c5569;
-    --text-faint:                    var(--dark0);
+    --text-faint:                    #717c95;
     --text-muted:                    #878f9f;
 
     --link-url:                      var(--dark1);
@@ -228,9 +230,10 @@ body
 
     --inline-title-color:            var(--dark2);
     
-    --blockquote-background-color:   #2b313c;
-    --blockquote-color:              var(--light1);
-
+    --blockquote-background-color:   var(--light0);
+    --blockquote-color:              #4c5569;
+    --blockquote-border-color:       var(--frost1);
+    --blockquote-border-thickness:   3px;
 
     --bold-color:                    var(--dark2);
     --italic-color:                  var(--dark2);
@@ -250,8 +253,8 @@ body
     --text-selection:                rgba(var(--frost0_x), 0.6);
     --flashing-background:           rgba(var(--frost0_x), 0.3);
 
-    --code-normal:                   var(--frost1);
-    --code-background:               #343b48;
+    --code-normal:                   #70a1ae;
+    --code-background:               #edeff3;
 
     --mermaid-note:                  var(--frost0);
     --mermaid-loopline:              var(--frost1);
@@ -261,16 +264,16 @@ body
     --icon-color-hover:              #81a1c1;
     --icon-color-focused:            var(--frost3);
 
-    --nav-item-color-hover:          #343b48;
-    --nav-item-background-hover:     var(--light1);
-    --nav-item-color-active:         #f8f8f8;
-    --nav-item-background-active:    #343b48;
+    --nav-item-color-active:          #343b48;
+    --nav-item-background-active:     var(--light1);
+    --nav-item-color-hover:         #f8f8f8;
+    --nav-item-background-hover:    #343b48;
     --nav-file-tag:                  rgba(var(--orange_x), 0.9);
 
-    --graph-line:                    #cecfd0;
-    --graph-node:                    var(--dark3);
+    --graph-line:                    var(--dark3);
+    --graph-node:                    var(--light3);
     --graph-node-tag:                var(--red);
-    --graph-node-attachment:         var(--frost0);
+    --graph-node-attachment:         #9edeef;
 
     --calendar-hover:                var(--red);
     --calendar-background-hover:     var(--light0);
@@ -282,7 +285,7 @@ body
     --dataview-value:                var(--text-faint);
     --dataview-value-background:     rgba(var(--light2_x), 0.3);
 
-    --tab-text-color-focused-active:         var(--frost0);
+    --tab-text-color-focused-active:         #878f9f;
     --tab-text-color-focused-active-current: var(--dark2);
 }
 

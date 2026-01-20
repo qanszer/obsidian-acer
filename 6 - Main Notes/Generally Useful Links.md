@@ -7,8 +7,6 @@ Tags: [[Links]]
 # Generally Useful Links
 
 
-## Category 1
-
 #### 1. Mentimeter
 https://www.mentimeter.com/
 Similar to Kahoot 
@@ -24,25 +22,15 @@ Collection of free websites for all kinds of things
 #### 5. Befunky
 https://www.befunky.com/features/photo-editor/
 Great free photo editor
-
-
-
-## Category 2
-
-#### 1. Link 1 - link.com
-Description
-#### 2. Link 2 - link.com
-Description
-#### 3. Link 3 - link.com
-Description
-
-
-
-## Category 3
-
-#### 1. Link 1 - link.com
-Description
-#### 2. Link 2 - link.com
-Description
-#### 3. Link 3 - link.com
-Description
+#### 6. The Home Office Setup Guide for Deep Work
+https://super-productivity.com/blog/home-office-setup-guide-for-deep-work/
+Practical steps to achieving an optimal home setup for focused work
+#### 7. How to Build a Distraction-Free Work Environment
+https://super-productivity.com/blog/how-to-build-a-distraction-free-work-environment/
+More digitally focused guide of the first guide above
+#### 8. How to Achieve Deep Work: A Science-Based Guide
+https://super-productivity.com/blog/how-to-achieve-deep-work/
+More scientifically focused guide of the first guide above
+#### 9. SaaS vs Web App
+https://www.softude.com/blog/saas-and-web-application-big-differences-and-benefits/
+In-depth comparison between SaaS Development and Web App Development

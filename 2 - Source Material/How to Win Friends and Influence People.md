@@ -2,7 +2,7 @@
 
 2025-08-15  22:38
 
-Tags: 
+Tags: [[Book]] [[Communication]] [[Negotiation]]
 
 # How to Win Friends and Influence People
 

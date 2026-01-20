@@ -1,7 +1,7 @@
 
 2025-11-06  11:05
 
-Tags: [[Job]] [[Advice]]
+Tags: [[Job]] [[Advice]] [[Coding]]
 
 ---
 
