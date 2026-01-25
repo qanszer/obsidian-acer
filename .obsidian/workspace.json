@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6f8f888dfcb148b",
+            "id": "ae8e373eec59e676",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/JavaScript Cheat Sheet.md",
+                "file": "6 - Main Notes/Personal Time Blocks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript Cheat Sheet"
+              "title": "Personal Time Blocks"
+            }
+          },
+          {
+            "id": "3c3f65deea2e05e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Holistic Hobbies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Holistic Hobbies"
             }
           },
           {
@@ -36,21 +50,63 @@
             }
           },
           {
-            "id": "823f40c785da18c4",
+            "id": "68f606cfc2a5734e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Quick Note.md",
+                "file": "6 - Main Notes/ICA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Note"
+              "title": "ICA"
+            }
+          },
+          {
+            "id": "df90047673e676d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Food Recipes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Food Recipes"
+            }
+          },
+          {
+            "id": "f56dce4a90ef5e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Genuine Faith, Living Wisely to the Book of James.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genuine Faith, Living Wisely to the Book of James"
+            }
+          },
+          {
+            "id": "59ae063ecef852b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Terminal Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terminal Commands"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -139,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "6de475dd2b4c5e52",
@@ -203,13 +260,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Quick Note.md",
+                "file": "6 - Main Notes/Terminal Commands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quick Note"
+              "title": "Outline of Terminal Commands"
             }
           },
           {
@@ -227,8 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,34 +298,34 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "823f40c785da18c4",
+  "active": "59ae063ecef852b3",
   "lastOpenFiles": [
-    "5 - Template/Hermeneutics Template - Shorter.md",
+    "6 - Main Notes/Genuine Faith, Living Wisely to the Book of James.md",
+    "6 - Main Notes/Everyone's Birthdays.md",
+    "6 - Main Notes/Personal Time Blocks.md",
+    "1 - Rough Notes/Food Recipes.md",
+    "6 - Main Notes/Fonts.md",
+    "6 - Main Notes/ICA.md",
+    "1 - Rough Notes/Eli&Sevs Archive.md",
+    "1 - Rough Notes/Deliberate Practice.md",
+    "6 - Main Notes/D-Group Learnings.md",
     "1 - Rough Notes/Quick Note.md",
     "6 - Main Notes/Bible Hermeneutics.md",
+    "6 - Main Notes/Bible Verse Logs.md",
+    "6 - Main Notes/Note.md",
+    "6 - Main Notes/Holistic Hobbies.md",
+    "6 - Main Notes/Psalm 1.md",
+    "6 - Main Notes/Terminal Commands.md",
+    "3 - Tags/Links.md",
+    "6 - Main Notes/Generally Useful Links.md",
+    "6 - Main Notes/2026 Resolutions.md",
+    "6 - Main Notes/Github ReadMe Template.md",
+    "3 - Tags/Terminal.md",
+    "6 - Main Notes/JavaScript Cheat Sheet.md",
+    "5 - Template/Hermeneutics Template - Shorter.md",
     "2 - Source Material/Atomic Habits.md",
     "5 - Template/Hermeneutics Template - Extensive.md",
     "6 - Main Notes/VsCode Shortcuts.md",
-    "6 - Main Notes/Genuine Faith, Living Wisely to the Book of James.md",
-    "6 - Main Notes/JavaScript Cheat Sheet.md",
-    "1 - Rough Notes/D-Group Learnings.md",
-    "3 - Tags/Coding.md",
-    "1 - Rough Notes/Her Interests.md",
-    "5 - Template/Default Template.md",
-    "6 - Main Notes/Github ReadMe Template.md",
-    "6 - Main Notes/Github Links.md",
-    "6 - Main Notes/Generally Useful Links.md",
-    "6 - Main Notes/Bible Verse Logs.md",
-    "6 - Main Notes/Couple Bucket List.md",
-    "3 - Tags/Eli.md",
-    "3 - Tags/Reflection.md",
-    "3 - Tags/Reading.md",
-    "6 - Main Notes/Personal Time Blocks.md",
-    "6 - Main Notes/Personal Journal.md",
-    "6 - Main Notes/Book Logs.md",
-    "3 - Tags/Thoughts.md",
-    "6 - Main Notes/HTML Cheat Sheet.md",
-    "3 - Tags/JavaScript.md",
     "Media/Pasted image 20251230005454.png",
     "Media/Pasted image 20251230005446.png",
     "Media/Pasted image 20251216191004.png",

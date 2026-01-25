@@ -83,10 +83,6 @@ Clean system journal logs:
 journalctl --disk-usage
 sudo journalctl --vacuum-time=3d
 
-Clean snaps:
-sudo bash clean_snap.sh
-du -h /var/lib/snapd/snaps
-
 Clean thumbnail:  
 rm -rf ~/.cache/thumbnails/*
 

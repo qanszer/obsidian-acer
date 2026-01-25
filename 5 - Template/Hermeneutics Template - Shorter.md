@@ -1,6 +1,9 @@
 
 ## Hermeneutics on Book Chapter:Verse
 
+> 
+> **
+> 
 
 #### 1. PRAY
 
@@ -40,10 +43,28 @@ Find the following:
 
 
 **Author:** 
+
+- 
+
+
 **Audience:** 
+
+- 
+
+
 **Settings of Author:** 
+
+- 
+
+
 **Settings of Audience:** 
+
+- 
+
+
 **Theme:** 
+
+- 
 
 
 #### 3. OBSERVATION
@@ -66,8 +87,6 @@ Find the following:
 
 
 #### 4. INTERPRETATION
-
-##### EXAMPLE INTERPRETATION OF PHILIPPIANS 4:6-7
 
 - Conclusion1
 - Conclusion2

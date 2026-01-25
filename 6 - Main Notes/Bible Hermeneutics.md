@@ -166,6 +166,9 @@ No matter the complexity of your devotion, if there is no application, then it i
 
 ## Hermeneutics on Jeremiah 29:11
 
+> 
+> *'For I know the plans that I have for you,’ declares the Lord, ‘plans for welfare and not for calamity, to give you a future and a hope.'*
+> 
 
 #### 1. PRAY
 
@@ -182,19 +185,159 @@ Useful websites for knowing in-depth context:
 4. Biblegateway.com
 5. Biblehub.com
 
+
 **Author:** Prophet Jeremiah
+
 - Jeremiah is known as the "weeping prophet" due to his deep sorrow over Judah’s sin and the coming judgment
 - He was called by God to prophesy during a time of national crisis for Judah
 - He received divine visions and messages from God, which he delivered faithfully despite opposition, persecution, and rejection.
 
+
 **Audience:** Jewish Exiles
+
 - They had been taken captive by King Nebuchadnezzar of Babylon
 - This group included members of the royal family, priests, prophets, artisans, and other prominent citizens of Judah, many of whom were deported in 597 BC.
-- 
+- They were vulnerable to false prophets who promised a quick end to their exile—some even claiming that Babylon would fall within two years.
+- God sent Jeremiah’s letter to correct these false hopes and to call the people to faithfulness during their long captivity.
+- This verse applied only to the Jews who were in exile in Babylon during the 6th century BC. But the message itself applies to us Christians, even if the historical context does not.
+- This verse does not apply to every human being, but only to those who are in Christ.
 
+
+**Settings of Author:** Jerusalem
+
+- This is the capital of the southern kingdom of Judah
+- At the time, Jerusalem was still standing but was under increasing threat from Babylon.
+- The city would eventually be destroyed in 586 BC, after Jeremiah’s warnings went unheeded.
+- His setting was one of moral decay, political instability, and impending divine judgment.
+
+
+**Settings of Audience:** Babylon
+
+- A powerful empire centered in Mesopotamia (modern-day Iraq). 
+- They lived among a pagan culture, far from the land God had promised to Israel.  
+- Their daily lives were marked by displacement, loss of identity, and the challenge of maintaining faith in a foreign land. 
+- Despite their hardships, God instructed them not to resist or rebel but to settle down, build homes, plant gardens, marry, and seek the peace of Babylon (Jeremiah 29:5–7). This was a radical call to live faithfully in the midst of exile, not in isolation from it.
+
+
+**Theme:** God’s sovereign, redemptive plan for His people even in judgment
+
+- While the verse is often quoted as a personal promise of prosperity, its original context reveals a deeper, more corporate and eschatological hope.
+		*Corporate* - the promise was made to the nation, not individuals
+		*Eschatological* - relating to death, judgment, and the final destiny of the soul and of humankind
+- Ultimately, Jeremiah 29:11 points forward to the New Covenant (Jeremiah 31:31–34) and finds its fullest fulfillment in Christ, who brings true peace, hope, and eternal future.
+
+
+#### 3. OBSERVATION
+
+##### **Things to look for:**
+- Key repeated words
+- Comparisons/contrast
+- Cause and consequences
+- Conjunctions
+- Tense
+- Prescription (to command)?
+- Description (to inform)?
+- Cause and Effect
+- Conclusion
+- Reason/Purpose
+
+**Prophetic**: The verse is a prophesy to the Jewish exiles of Babylon
+
+**Letter**: The verse is part of a letter, so the whole letter should be read to understand the context of the verse
+
+**Reason**: The purpose of Jeremiah on writing this letter is to warn the Jewish exiles of the fake prophets that have been promising them that they will be saved early. He also made it to tell them of God's promise---that after 70 years of suffering under Babylon, He will save them. God allowed them to suffer for 70 years first because of their continuous disobedience to Him, hoping that they would repent during that period of time.
+
+
+#### 4. INTERPRETATION
+
+- God is not promising every individual Christian a comfortable life where their personal plans will succeed, but that God remains faithful to us and gives us hope even during our sufferings in life.
+- Suffering teaches a lesson that prosperity cannot, which is to humble us and turn our hearts to God
+
+
+#### 5. APPLICATION
+
+##### **WHAT NOW?**
+
+- I should stay grounded in my faith in God during times of suffering.
+- I should remember that God always means the best for me in every situation.
+- God does not promise personal success or a comfortable life when living for Him.
+
+
+#### FEEDBACK
+
+1. Do not generalize the context; stick to the verse
+2. Add a word-for-word or phrase-by-phrase observation of the verse, even if it is simple. You can search for their Greek meanings too.
+3. Pray for wisdom from God whenever you're stuck
+
+
+---
+
+## Hermeneutics on Book Chapter:Verse
+
+> 
+> **
+> 
+
+#### 1. PRAY
+
+God’s Word is supernatural. 
+We cannot understand it without the help of its Author—God.
+
+
+#### 2. CONTEXT
+
+Useful websites for knowing in-depth context:
+1. Bible.org
+2. Gotquestions.org
+3. Gty.org (Grace to You)
+4. Biblegateway.com
+5. Biblehub.com
+
+AI Prompt For Easier Research:
+```
+Help me find context for Jeremiah 29:11. I recommend you to use the following websites: 
+
+1. Bible.org 
+2. Gotquestions.org
+3. Gty.org (Grace to You) 
+4. Biblegateway.com 
+5. Biblehub.com -
+
+--
+
+Find the following:
+
+**Author:** 
+**Audience:** 
 **Settings of Author:** 
 **Settings of Audience:** 
+**Theme:**
+```
+
+
+**Author:** 
+
+- 
+
+
+**Audience:** 
+
+- 
+
+
+**Settings of Author:** 
+
+- 
+
+
+**Settings of Audience:** 
+
+- 
+
+
 **Theme:** 
+
+- 
 
 
 #### 3. OBSERVATION
@@ -217,8 +360,6 @@ Useful websites for knowing in-depth context:
 
 
 #### 4. INTERPRETATION
-
-##### EXAMPLE INTERPRETATION OF PHILIPPIANS 4:6-7
 
 - Conclusion1
 - Conclusion2

@@ -7,9 +7,12 @@
 5. Networking 2 - 
 
 **General:**
-1. Theo 3 - 
+1. Theo 3 (Celebrating God's Presence...) - 
 2. Technical English - 01045
 3. Contemporary World - 08112
+4. Code of ethics for IT (Midyear)
+5. Total Quality Management
+6. Technopreneurship LEC/LAB
 
 
 8524-2011-325
@@ -63,25 +66,6 @@ stacy
 
 
 jayvee (cyber?)
-
-
-
-
-
-
-STEPS IN INTERPRETING THE BIBLE
-1. PRAY
-2. CONTEXT
-3. OBSERVATION
-4. INTERPRETATION
-5. APPLICATION
-
-
-JEREMIAH 29:11
-'For I know the plans that I have for
-you,’ declares the Lord, ‘plans for
-welfare and not for calamity, to give
-you a future and a hope.'
 
 
 

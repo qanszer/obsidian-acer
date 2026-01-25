@@ -19,9 +19,7 @@ Similar to bluestacks but better
 #### 4. FreeMediaHeckYeah
 https://fmhy.net/
 Collection of free websites for all kinds of things
-#### 5. Befunky
-https://www.befunky.com/features/photo-editor/
-Great free photo editor
+#### 5. 
 #### 6. The Home Office Setup Guide for Deep Work
 https://super-productivity.com/blog/home-office-setup-guide-for-deep-work/
 Practical steps to achieving an optimal home setup for focused work
