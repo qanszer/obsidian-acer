@@ -10,6 +10,7 @@
           {
             "id": "ae8e373eec59e676",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Personal Time Blocks"
             }
@@ -24,6 +26,7 @@
           {
             "id": "3c3f65deea2e05e4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -31,6 +34,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Holistic Hobbies"
             }
@@ -50,63 +54,50 @@
             }
           },
           {
-            "id": "68f606cfc2a5734e",
+            "id": "1ff665a67186f435",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/ICA.md",
+                "file": "6 - Main Notes/Bible Homiletics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICA"
+              "title": "Bible Homiletics"
             }
           },
           {
-            "id": "df90047673e676d8",
+            "id": "15ff07167030c7e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Food Recipes.md",
+                "file": "6 - Main Notes/Homiletics on Matthew 28 18-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Food Recipes"
+              "title": "Homiletics on Matthew 28 18-20"
             }
           },
           {
-            "id": "f56dce4a90ef5e17",
+            "id": "6cad292441cae2cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Genuine Faith, Living Wisely to the Book of James.md",
+                "file": "6 - Main Notes/Contemporary World.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Genuine Faith, Living Wisely to the Book of James"
-            }
-          },
-          {
-            "id": "59ae063ecef852b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Terminal Commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terminal Commands"
+              "title": "Contemporary World"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -195,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "6de475dd2b4c5e52",
@@ -260,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Terminal Commands.md",
+                "file": "6 - Main Notes/Hermeneutics on Matthew 28 19-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Terminal Commands"
+              "title": "Outline of Hermeneutics on Matthew 28 19-20"
             }
           },
           {
@@ -284,7 +274,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,34 +289,103 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "59ae063ecef852b3",
+  "floating": {
+    "id": "9888c48d7ab2c647",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6b6e27cbd7d021de",
+        "type": "window",
+        "children": [
+          {
+            "id": "3d0360c2d2d597c0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0a324fdddbfba1f5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "6 - Main Notes/Homiletics on Matthew 28 18-20.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Homiletics on Matthew 28 18-20"
+                }
+              },
+              {
+                "id": "0813572a18920442",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "6 - Main Notes/Hermeneutics on Matthew 28 19-20.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Hermeneutics on Matthew 28 19-20"
+                }
+              },
+              {
+                "id": "f1713bbae36087cd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "6 - Main Notes/Personal IT Course Logs.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Personal IT Course Logs"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 1064,
+        "y": 41,
+        "width": 1044,
+        "height": 978,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0813572a18920442",
   "lastOpenFiles": [
+    "6 - Main Notes/Personal IT Course Logs.md",
+    "6 - Main Notes/Design Thinking UI UX.md",
+    "6 - Main Notes/Advanced DBMS.md",
+    "Design Thinking (UI/UX).md",
+    "Design Thinking (UI",
+    "6 - Main Notes/Object-Oriented Programming.md",
+    "6 - Main Notes/Networking 2.md",
+    "6 - Main Notes/Contemporary World.md",
+    "6 - Main Notes/Hermeneutics on Matthew 28 19-20.md",
+    "5 - Template/Class Notes Template.md",
+    "6 - Main Notes/Homiletics on Matthew 28 18-20.md",
+    "6 - Main Notes/Bible Homiletics.md",
     "6 - Main Notes/Genuine Faith, Living Wisely to the Book of James.md",
-    "6 - Main Notes/Everyone's Birthdays.md",
-    "6 - Main Notes/Personal Time Blocks.md",
-    "1 - Rough Notes/Food Recipes.md",
-    "6 - Main Notes/Fonts.md",
-    "6 - Main Notes/ICA.md",
-    "1 - Rough Notes/Eli&Sevs Archive.md",
-    "1 - Rough Notes/Deliberate Practice.md",
-    "6 - Main Notes/D-Group Learnings.md",
     "1 - Rough Notes/Quick Note.md",
+    "5 - Template/Default Template.md",
     "6 - Main Notes/Bible Hermeneutics.md",
-    "6 - Main Notes/Bible Verse Logs.md",
-    "6 - Main Notes/Note.md",
-    "6 - Main Notes/Holistic Hobbies.md",
-    "6 - Main Notes/Psalm 1.md",
-    "6 - Main Notes/Terminal Commands.md",
-    "3 - Tags/Links.md",
-    "6 - Main Notes/Generally Useful Links.md",
-    "6 - Main Notes/2026 Resolutions.md",
-    "6 - Main Notes/Github ReadMe Template.md",
-    "3 - Tags/Terminal.md",
+    "6 - Main Notes/Try 3.md",
+    "6 - Main Notes/Try 2.md",
+    "6 - Main Notes/Try.md",
     "6 - Main Notes/JavaScript Cheat Sheet.md",
-    "5 - Template/Hermeneutics Template - Shorter.md",
-    "2 - Source Material/Atomic Habits.md",
-    "5 - Template/Hermeneutics Template - Extensive.md",
-    "6 - Main Notes/VsCode Shortcuts.md",
+    "6 - Main Notes/Personal Time Blocks.md",
+    "6 - Main Notes/Holistic Hobbies.md",
+    "6 - Main Notes/ICA.md",
+    "1 - Rough Notes/Food Recipes.md",
+    "6 - Main Notes/Terminal Commands.md",
+    "6 - Main Notes/Everyone's Birthdays.md",
+    "6 - Main Notes/Fonts.md",
     "Media/Pasted image 20251230005454.png",
     "Media/Pasted image 20251230005446.png",
     "Media/Pasted image 20251216191004.png",

@@ -193,5 +193,13 @@
       ],
       "key": "G"
     }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "-"
+    }
   ]
 }

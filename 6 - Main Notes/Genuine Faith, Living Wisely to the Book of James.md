@@ -19,7 +19,7 @@ Tags: [[Church Service]] [[Christianity]]
 ---
 ### 01 - Real Faith Rejoices
 
-### Real Faith
+#### Real Faith
 
 - Is recognizing and trusting Jesus Christ as your Lord and Savior
 - Is anchored in God and His truth---not in circumstances or feelings
@@ -35,7 +35,7 @@ Tags: [[Church Service]] [[Christianity]]
 - Are you really living a life of obedience? 
 
 
-### James
+#### James
 
 - The half-brother of Jesus, but he did not mention it himself
 - Not a disciple
@@ -77,7 +77,7 @@ Tags: [[Church Service]] [[Christianity]]
 
 Wisdom is knowing whether rich or poor, I am rich in God knowing 
 
-### 2 Ways in Responding to Problems?
+#### 2 Ways in Responding to Problems?
 
 1. Faith in God's character 
 
@@ -89,7 +89,7 @@ Wisdom is knowing whether rich or poor, I am rich in God knowing
 - God causes all things to work together for good. But this promise is limited to people who love God
 
 
-### Chuch Colson
+#### Chuch Colson
 
 - powerful man who was sent to jail at the height of his career
 - God transformed him in his bad time
@@ -108,7 +108,7 @@ Wisdom is knowing whether rich or poor, I am rich in God knowing
 > God is after our character
 
 
-### Fanny Crosby
+#### Fanny Crosby
 
 - a blind woman
 - "If perfect earthyl sight were offered me tomorrow, I would not accept it. When I get to heaven, the first face that shall ever gladden my sight will be that of my Savior." 
@@ -175,7 +175,6 @@ January 25, 2026
 
 
 **The Practical Exam of Real Faith**
-
 - How do you respond to trials?
 - How do you respond to temptation?
 - How do you react to God's Word?
@@ -187,7 +186,7 @@ January 25, 2026
 
 
 **Favoritism**
-- Is unjustified Partiality
+- Is unjustified partiality
 - Treats people better than others based on appearance, status, wealth, etc
 - Often for personal gain
 

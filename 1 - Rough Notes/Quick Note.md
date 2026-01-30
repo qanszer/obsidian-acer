@@ -8,8 +8,8 @@
 
 **General:**
 1. Theo 3 (Celebrating God's Presence...) - 
-2. Technical English - 01045
-3. Contemporary World - 08112
+2. Technical English - 01001
+3. Contemporary World - 08199 
 4. Code of ethics for IT (Midyear)
 5. Total Quality Management
 6. Technopreneurship LEC/LAB
