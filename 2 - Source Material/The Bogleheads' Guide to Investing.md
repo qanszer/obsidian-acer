@@ -1,7 +1,7 @@
 
 2025-11-09  12:08
 
-Tags: [[Finance]] [[Book]] [[Investing]] 
+Tags: [[Finance]] [[Book]]
 
 ### Reminders While Reading
 

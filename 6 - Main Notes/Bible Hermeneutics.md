@@ -144,12 +144,9 @@ potentiality.
 
 ##### EXAMPLE INTERPRETATION OF PHILIPPIANS 4:6-7
 
-- We are commanded by God not to worry (it’s
-- a sin to worry)
-- Instead, we are commanded by God to pray
-- specific prayers (with thanksgiving)
-- As a result, His peace will guard our hearts
-- and minds
+- We are commanded by God not to worry (it’s a sin to worry)
+- Instead, we are commanded by God to pray specific prayers (with thanksgiving)
+- As a result, His peace will guard our hearts and minds
 
 #### 5. APPLICATION
 

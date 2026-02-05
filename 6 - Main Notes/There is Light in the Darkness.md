@@ -1,7 +1,7 @@
 
 2025-12-28  11:59
 
-Tags: [[Church Service]] [[Christianity]]
+Tags: [[Church-Service]] [[Christianity]]
 
 ---
 

@@ -179,20 +179,20 @@ body
 
 .theme-light
 {
-    --color-red-rgb:                 var(--red_x);
-    --color-red:                     var(--red);
-    --color-purple-rgb:              var(--purple_x);
-    --color-purple:                  var(--purple);
-    --color-green-rgb:               #90a77c;
-    --color-green:                   #90a77c;
-    --color-cyan-rgb:                var(--frost1_x);
-    --color-cyan:                    var(--frost1);
-    --color-blue-rgb:                var(--frost3_x);
-    --color-blue:                    var(--frost3);
-    --color-yellow-rgb:              var(--yellow_x);
-    --color-yellow:                  var(--yellow);
-    --color-orange-rgb:              var(--orange_x);
-    --color-orange:                  var(--orange);
+    --color-red-rgb:                 #cc3838;
+    --color-red:                     #cc3838;
+    --color-purple-rgb:              #9137cd;
+    --color-purple:                  #9137cd;
+    --color-green-rgb:               #159a5b;
+    --color-green:                   #159a5b;
+    --color-cyan-rgb:                #4f93b8;
+    --color-cyan:                    #4f93b8;
+    --color-blue-rgb:                #001964;
+    --color-blue:                    #001964;
+    --color-yellow-rgb:              #e19600;
+    --color-yellow:                  #e19600;
+    --color-orange-rgb:              #c83200;
+    --color-orange:                  #c83200;
     /* --color-pink:                    var(--purple); */
 
     --background-primary:            var(--light1);
@@ -254,7 +254,7 @@ body
     --flashing-background:           rgba(var(--frost0_x), 0.3);
 
     --code-normal:                   #70a1ae;
-    --code-background:               #edeff3;
+    --code-background:               #dfe3ea;
 
     --mermaid-note:                  var(--frost0);
     --mermaid-loopline:              var(--frost1);

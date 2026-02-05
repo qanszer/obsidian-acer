@@ -1,7 +1,7 @@
 
 2025-12-30  20:40
 
-Tags: [[Meditations]] [[Christianity]]
+Tags: [[Christianity]] [[Tracking]]
 
 ---
 

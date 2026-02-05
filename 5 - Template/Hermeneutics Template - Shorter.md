@@ -43,27 +43,25 @@ Find the following:
 
 
 **Author:** 
-
 - 
 
 
 **Audience:** 
-
 - 
 
 
 **Settings of Author:** 
 
-- 
+- **When the author wrote:** 
+- **Author's perspective:** 
+- **Why the author wrote:** 
 
 
 **Settings of Audience:** 
-
 - 
 
 
 **Theme:** 
-
 - 
 
 
@@ -87,6 +85,8 @@ Find the following:
 
 
 #### 4. INTERPRETATION
+
+Seek the author's intended meaning.
 
 - Conclusion1
 - Conclusion2

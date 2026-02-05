@@ -4,7 +4,6 @@
 Tags: [[School]]
 
 ---
-
 # Contemporary World  |  2025-26 
 
 ---
@@ -116,7 +115,7 @@ Therefore, global governance is needed.
 		a. some human rights
 		b. labor rights
 		c. framework conventions on climate change and biodiversity
-3. **International Organizations (IGOs)**
+3. **International Government Organizations (IGOs)**
 	- **238 IGOs** were formed during 2003-2004
 	- Types:
 		a. **Global** - UN, WTO, WHO
@@ -154,13 +153,61 @@ Therefore, global governance is needed.
 
 ---
 
+## Midterm
+
+
 ### Date - Topic
 
-#### Lecture Notes
+#### Subtopic
+
+
+
+---
+
+## Finals
+
+
+### Date - Topic
+
+#### Subtopic
+
+
+
+---
+
+# 2nd Semester
+## Prelim
+
+
+### Date - Topic
+
+#### Subtopic
+
+
+
+---
+
+## Midterm
+
+
+### Date - Topic
+
+#### Subtopic
+
+
+
+---
+
+## Finals
+
+
+### Date - Topic
+
+#### Subtopic
 
 
 
 
 
-#### Powerpoint Notes
+
 

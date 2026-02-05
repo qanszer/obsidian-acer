@@ -1,7 +1,7 @@
 
 2026-01-11  10:51
 
-Tags: [[Church Service]] [[Christianity]]
+Tags: [[Church-Service]] [[Christianity]]
 
 ---
 
@@ -250,7 +250,19 @@ James 2:12-13
 - no luxury, influence, or prestige
 
 
+---
+
+# Week 4 - 
+February 1, 2026
+**James **
+
+
+## Main Points
+
+1. 
+
 
 ---
 
 ## References
+

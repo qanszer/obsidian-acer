@@ -1,7 +1,7 @@
 
 2025-12-20  17:43
 
-Tags: [[Thoughts]] [[Productivity]]
+Tags: [[Productivity]] [[Guide]]
 
 ---
 
@@ -44,23 +44,17 @@ Start the day at your own pace. If you wake before the alarm, get up—fragmente
 - cook rice if none on ref
 - do house chores
 - eat breakfast
-- open time: bebetime, reading, catching up on to-do's, or social time with friends
+- open time options: 
+	- bebetime
+	- reading
+	- catching up on to-do's
+	- social time with friends
 
 
 ---
 
 ## Work Block
-**(9:00 AM - 3:30 PM)**
-
-
-### Pre-Work Transition
-**9:00 AM**
-
-**Purpose:** Shift into "developer mode" mentally and physically
-
-- Change into work outfit (signals role shift)
-- Brief family: communicate boundaries + check-in windows
-- **Synthetic commute:** walk + work-related podcast, return "to the office"
+**(9:30 AM - 3:30 PM)**
 
 
 ### Deep Work Begins
@@ -87,7 +81,7 @@ Start the day at your own pace. If you wake before the alarm, get up—fragmente
 
 ---
 
-## Evening
+## Afternoon to Evening
 **(3:30 PM - 11:00 PM)**
 
 
@@ -95,7 +89,7 @@ Start the day at your own pace. If you wake before the alarm, get up—fragmente
 **3:30 PM**
 
 - **Synthetic commute:** 10-15 minute walk to mentally process the day
-- Change into workout clothes (role shift: "employee" → "person")
+- Change into workout clothes
 - Exercise
 
 

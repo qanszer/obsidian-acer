@@ -505,6 +505,7 @@ const greeting = isBirthday
 let accessAllowed = (age > 18) ? true : false;
 ```
 
+
 ## Connecting ternary operators to HTML:
 
 ```html
@@ -536,10 +537,61 @@ select.addEventListener("change", () =>
 
 
 ---
+# 05 - Functions
+
+
+## Syntax
+
+```js
+function showMessage() {
+	alert( 'Hello everyone!' );
+}
+```
+
+
+**Remember**: A variable declared inside a function is only visible inside that function. It cannot be called upon outside of the function.
+
+**But** functions are able to use variables from the outside. It can even modify the variable inside the function.
+
+
+## Global Variables
+
+- Variables declared outside of any function are called _global_.
+	
+- Global variables are visible from any function (unless shadowed by locals).
+	
+- It’s a **good practice to minimize the use of global variables**. Modern code has few or no globals. Most variables reside in their functions. Sometimes though, they can be useful to store project-level data.
+
+
+## Default Values
+
+If a function is called, but an argument is not provided, then the corresponding value becomes `undefined`. For example:
+
+```js
+function showMessage(from, text) {
+	alert( from + ": " + text);
+}
+
+showMessage("Ann"); // Ann: undefined
+```
+
+We can use "default" values in the parameter to solve this.
+
+```js
+function showMessage(from, text) {
+	alert( from + ": " + text);
+}
+
+showMessage("Ann"); // Ann: undefined
+```
+
+
+
+---
 # References
 
 
-### Main Reference - TheOdinProject
+### Main Reference - The Odin Project
 https://www.theodinproject.com/lessons/foundations-variables-and-operators
 
 ### Variables
@@ -563,3 +615,6 @@ https://javascript.info/logical-operators
 
 ### Conditionals
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Conditionals
+
+### Functions
+https://javascript.info/function-basics

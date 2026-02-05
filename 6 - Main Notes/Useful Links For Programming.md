@@ -114,6 +114,10 @@ Collection of free svg icons
 #### 7. FrontendChecklist
 https://frontendchecklist.io/#section-head
 Literal checklist to check/test before launching a website to production
+#### 8. LawsOfUX
+https://lawsofux.com/
+Comprehensive list and guide of the laws for UX design
+
 
 
 

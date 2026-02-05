@@ -1,7 +1,7 @@
 
 2026-01-25  15:30
 
-Tags: [[Productivity]] [[Healthy Living]]
+Tags: [[Productivity]] [[Healthy-Living]] [[Links]]
 
 ---
 
@@ -23,10 +23,6 @@ For the sauce:
 2 tbsp rice vinegar
 2 tbsp honey
 2.2 tbsp brown sugar
-
-
-
-
 
 
 

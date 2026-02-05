@@ -7,7 +7,6 @@ Tags: [[School]] [[Database]] [[SQL]] [[Coding]]
 
 # AduFind Project Notes
 
-
 ### Live Address Link
 
 http://192.168.0.22:5501/index.html

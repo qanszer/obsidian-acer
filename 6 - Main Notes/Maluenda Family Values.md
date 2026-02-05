@@ -1,34 +1,36 @@
 
-  
+2026-02-01  18:23
 
-Family Life Verse:
+Tags: [[Christianity]]
+
+---
+
+# Maluenda Family Values
+
+
+### Family Life Verse:
 
 Mark 12:30 NKJV
-
 And you shall love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength. This is the first commandment.  
 
-  
 
-Mission: 
+### **Mission:** 
 
 To honor and love God above all, making Him the center in all aspects of our lives.
 
-  
 
-Vision: 
+### **Vision:** 
 
 To see each one of us in the family be fully surrendered to God. To live in His Word. To seek God’s will in our lives. To make personal devotions, prayers, and meditations, a lifestyle. And to become a Discipler, fulfilling His Great Commission.
 
-  
 
-CORE VALUES
+### CORE VALUES
 
-==========
+1. Love God wholeheartedly. 
+2. Love each other in the family faithflully.
+3. Live a life according to His Word.
+4. Live a life like Christ, discipling others.
 
-Love God wholeheartedly. 
 
-Love each other in the family faithflully.
 
-Live a life according to His Word.
-
-Live a life like Christ, discipling others.
+---

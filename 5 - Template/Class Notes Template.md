@@ -1,11 +1,7 @@
 
 ### Date - Topic
 
-#### Lecture Notes
+#### Subtopic
 
 
-
-
-
-#### Powerpoint Notes
 
