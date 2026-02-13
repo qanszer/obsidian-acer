@@ -151,6 +151,21 @@ Therefore, global governance is needed.
 - Monday Activity on BB
 - Quiz on Wednesday
 
+
+---
+
+### 02/09/26 - Global Economy
+
+It is a vast network of industries, markets, and trade spanning the world
+
+#### World Economy
+
+
+
+
+
+
+
 ---
 
 ## Midterm

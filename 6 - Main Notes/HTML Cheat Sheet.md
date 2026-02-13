@@ -82,6 +82,11 @@ It is the browser's blueprint or object model of your web page. It is what Javas
 The DOM is **not** the original HTML source code; it's the browser's in-memory object representation of that code, reflecting the page's current state, including all modifications.
 
 
+## Add Icon on Tabs Section
+
+https://favicon.io/favicon-converter/
+
+
 ---
 
 # References

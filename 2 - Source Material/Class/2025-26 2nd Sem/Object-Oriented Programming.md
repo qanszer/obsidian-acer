@@ -33,37 +33,25 @@ The code namecase standard is still applied here
 
 Void - no return value
   
-Parameter Directions:
+#### Parameter Directions
+
 1. in - input only, does not return an output
+2. out
+3. inout
 
 example: method(in p1:type): type
 
-  
-  
+#### URL Diagram Example
 
-URL Diagram Example
-
-  
-
-===
-
-ClassName
-
-===
-
--attributeOne: dataType
-
-+attributeTwo: dataTyp
-
-===
-
-+methodOne(in/inout/out attributeOne: dataType): void
-
-+methodTwo(in attributeOne: dataType, in attributeOne: dataType): dataTypeOrInOutOfMethod
-
-===
+| ClassName                                                                                  |
+| ------------------------------------------------------------------------------------------ |
+| - attributeOne: dataType                                                                   |
+| + attributeTwo: dataType                                                                   |
+| + methodOne(in/inout/out attributeOne: dataType): void                                     |
+| + methodTwo(in attributeOne: dataType, in attributeOne: dataType): dataTypeOrInOutOfMethod |
 
 
+---
 
 ### 02/05/26 - Java Syntax
 
@@ -72,17 +60,14 @@ ClassName
 - only you and God know your code when you made it
 - when you revisit your code after ~6 months, you'll have a hard time understanding any of it if you don't put comments
 
-
 #### Data Type Good Practice
 
 In Java, instead of using the normal data types like `int`, `double`, `float`, etc
 Use `var` instead
 
-
 #### Printing Syntax:
 
 `System.out.printIn("variable");`
-
 
 #### For Simple Conditionals:
 
@@ -91,7 +76,6 @@ int time = 20;
 String result = (time < 18) ? "Good day." : "Good evening.";
 System.out.println(result);
 ```
-
 
 #### Simple Example for a Nested Loop:
 
@@ -109,7 +93,6 @@ for (int1 = 0; i < 5; i++) {
 		
 	}
 }
-
 
 // The Output
 
@@ -133,6 +116,20 @@ for (int1 = 0; i < 5; i++) {
 5+9
 
 ```
+
+
+---
+
+### 02/10/26 - Topic
+
+#### Subtopic
+
+
+
+
+
+
+
 
 
 ---

@@ -38,6 +38,10 @@ Free AWS Management Console account from CloudNine Worshop
 Account ID: keitodanieru
 Username: cloud9_attendee_workshop
 Password: lets-Go!ADU15
+#### 2. VPS-Mart
+https://www.vps-mart.com/vps-pricing
+Affordable servers. VPS Services
+
 
 
 

@@ -112,7 +112,30 @@ Change sudo password:
 sudo passwd
 then follow instructions
 
-  
+
+**Change video format to mp4:**
+```
+ffmpeg -i input.webm -c:v libx264 -c:a aac output.mp4
+```
+
+
+**Merge videos:**
+1. Create a text file listing the videos
+```
+file 'video1.webm'
+file 'video2.webm'
+```
+
+2. Run the merge command. Change the output file name as needed
+
+```
+ffmpeg -f concat -safe 0 -i videos.txt -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -c:v libx264 -crf 23 -preset medium -c:a aac -b:a 128k merged_output.mp4
+```
+
+**Cut video by time:**
+```
+ffmpeg -ss 00:00:00 -i input.mp4 -t 00:00:30 -c copy output.mp4
+```
 
 
 ---

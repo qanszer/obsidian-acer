@@ -252,14 +252,60 @@ James 2:12-13
 
 ---
 
-# Week 4 - 
-February 1, 2026
-**James **
+# Week 4 - Real Faith Works
+February 8, 2026
+**James 2:14-26**
 
+
+Examine your faith. Make sure Jesus Christ is in you. But how do you know?
+
+According to Jesus:
+
+"So then, you will know them by their fruits. Not everyone who says to me, 'Lord, Lord', will enter the kingdom of heaven. but he who knows my Father will obey."
+
+You cannot be a Christian if you don't obey. A Christian is simply a follower of Jesus
 
 ## Main Points
 
-1. 
+1. Acts not just talks (v14-17)
+2. Surrenders not just knows (v18-20)
+3. Obeys not just believes (v21-26)
+
+
+### 01 - Acts Not Just Talks
+
+A fruit tree because it is alive. It is not alive because it bears fruit.
+
+A Christian bears good works, because they are alive in God. It is not the other way around. 
+
+Christianity is inside out. Because we're loved by God, we can show the same thing to others.
+
+| Paul                                                               | James                                                                      |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| How a person is saved                                              | How saved people live                                                      |
+| Focuses on the root of salvation: salvation by grace through faith | Focuses on the fruit of salvation: faith is shown to be real through works |
+| Against legalism                                                   |                                                                            |
+| Faith in Christ transforms                                         |                                                                            |
+
+
+### 02 - Surrenders Not Just Knows
+
+Knowing is not equal to salvation. Just because you know that the only way to heaven is Jesus
+
+Demons know Jesus. They know about the judgement day, about salvation, and all that relate to it. They know all of that, but they are not of Jesus. Why? Because of where their heart is.
+
+"They profess to know God, but by their deeds they deny Him."
+
+
+**The Honored Society** 
+- A book about a mafia boss that believe they are Christians
+- They are Christians in culture, but not a Christians in heart
+
+
+### 03 - Obeys Not Just Believes
+
+Real faith grows---it is not perfect. 
+
 
 
 ---

@@ -38,51 +38,10 @@
 
 
 
-
-
-
-
-
-Register a new number to GCash and transfer the funds and services to your new account.
-
-If you decide to get a new SIM with a different mobile number, you can create a new GCash account and have it fully verified. We can only process the transfer of your funds and services to a fully-verified account.
-
-After you have secured a SIM replacement or obtained another fully verified GCash account, you can chat with Gigi to request for either lifting of the suspension of your account or transferring of funds and services to your other GCash account.
-
-- On the GCash app’s login page, tap Help Center.
-
-- Tap “lost sim/phone” under popular searches.
-
-- Tap “Chat with Gigi.”
-
-
-
-
 duke
 andrei
-paul
-stacy
 
 
-
-jayvee (cyber?)
-
-
-
-
-Break habits
-- fragmented sleep
-- not getting up immediately after waking up
-
-
-
-Introduction to topic
-
-Prayer
-
-Read the verse
-
-Give context to the verse
 
 
 
@@ -288,3 +247,339 @@ Job responds to Eliphaz—and he's not happy.
 ### **REFLECT:**
 
 _"When I'm suffering, do I bring my pain honestly to God, or do I pretend I'm fine? Do I comfort hurting people, or do I lecture them?"_
+
+
+---
+
+## **DAY 5: JOB 19** (Job's Declaration of Faith)
+
+### **PRAY FIRST:**
+
+_"God, in the middle of Job's suffering, he makes an incredible declaration of faith. Open my eyes to see this hope. Amen."_
+
+### **READ: Job 19**
+
+### **SUMMARY:**
+
+By chapter 19, Job has been through **two full rounds** of speeches from his friends. They keep accusing him. Job keeps defending himself. And now, in his pain, Job makes one of the most powerful declarations of faith in all of Scripture.
+
+**First part: Job's complaint (v. 1-22)**
+
+- "How long will you torment me and crush me with words?" (v. 2)
+    - His friends' words are crushing him
+- "God has wronged me" (v. 6)
+    - **Honest emotion**—Job feels like God is treating him unfairly
+    - (This is wrestling, not apostasy—God doesn't condemn Job for this)
+- "He has alienated my family from me; my acquaintances are completely estranged from me" (v. 13)
+    - Job has lost not just his possessions and children, but his social standing and relationships
+    - Even his breath is offensive to his wife (v. 17)
+- "Have pity on me, my friends, have pity, for the hand of God has struck me" (v. 21)
+    - Job is pleading for compassion instead of condemnation
+
+**THEN—THE TURNING POINT (v. 23-27):**
+
+Even in his darkest moment, Job makes an incredible declaration:
+
+**Verse 25-27 (memorize this!):**
+
+> _"I know that my Redeemer lives,_  
+> _and that in the end he will stand on the earth._  
+> _And after my skin has been destroyed,_  
+> _yet in my flesh I will see God;_  
+> _I myself will see him_  
+> _with my own eyes—I, and not another._  
+> _How my heart yearns within me!"_
+
+**WHAT THIS MEANS:**
+
+1. **"My Redeemer lives"**
+    - Hebrew: _go'el_ = a kinsman-redeemer who vindicates and restores
+    - Job believes someone will vindicate him and prove his innocence
+    - **Christian understanding:** This points to JESUS, our ultimate Redeemer
+2. **"In the end he will stand on the earth"**
+    - Job has hope beyond this life
+    - Even if he dies in this suffering, his Redeemer will come
+3. **"After my skin has been destroyed, yet in my flesh I will see God"**
+    - This is an early hint at **bodily resurrection**
+    - Job believes that even after death, he will physically see God and be vindicated
+4. **"I myself will see him with my own eyes"**
+    - Personal, direct encounter with God
+    - Job's ultimate hope isn't just explanation—it's seeing God face-to-face
+
+**KEY INSIGHTS:**
+
+- **In his darkest hour, Job clings to hope in God**
+    - He doesn't understand what's happening
+    - He feels abandoned
+    - His friends condemn him
+    - BUT—he still trusts there's a Redeemer who will make things right
+- **This is faith at its finest**
+    - Not "I understand everything"
+    - But "I don't understand, yet I trust there is a Redeemer"
+- **This passage points to Jesus**
+    - Our Redeemer who lives
+    - Who stands on the earth (Incarnation)
+    - Who vindicates us (Justification)
+    - Whom we will see face-to-face (Glorification)
+
+**THIS is why Job is in the Bible.** In the middle of unexplained suffering, faith says: **"I know my Redeemer lives."**
+
+### **REFLECT:**
+
+_"When everything falls apart, what do I cling to? Can I say with Job, 'I know my Redeemer lives' even when I don't understand?"_
+
+
+---
+
+## **DAY 6: JOB 38-39** (God Speaks - Part 1)
+
+### **PRAY FIRST:**
+
+_"Lord, You're about to speak to Job. Help me hear Your voice with humility. Show me who You are through Your words to Job. Amen."_
+
+### **READ: Job 38-39**
+
+### **SUMMARY:**
+
+**Finally, after 35 chapters of human speeches, GOD speaks.**
+
+Notice what God does:
+
+- ❌ He does NOT explain WHY Job suffered
+- ❌ He does NOT answer Job's questions about justice
+- ✅ He DOES reveal WHO HE IS—and that's the answer Job needs
+
+**Chapter 38: God's Questions About Creation**
+
+God speaks "out of the storm" (38:1)—showing His power and majesty.
+
+**God's approach: Questions that show Job's limitations**
+
+- "Where were you when I laid the earth's foundation?" (38:4)
+    - Answer: Job wasn't there. Only God was.
+- "Have you ever given orders to the morning?" (38:12)
+    - Can Job control the sunrise? No. God does.
+- "Have you journeyed to the springs of the sea or walked in the recesses of the deep?" (38:16)
+    - Job doesn't even know the depths of the ocean. God does.
+- "Have the gates of death been shown to you?" (38:17)
+    - Job doesn't control life and death. God does.
+- "Can you bind the chains of the Pleiades? Can you loosen Orion's belt?" (38:31)
+    - Can Job control the stars? No. God does.
+
+**Chapter 39: God's Questions About Animals**
+
+God continues with examples from nature:
+
+- Mountain goats giving birth (39:1-4)
+- Wild donkeys roaming free (39:5-8)
+- Wild oxen refusing to serve humans (39:9-12)
+- Ostriches acting foolishly (39:13-18)
+- War horses charging into battle (39:19-25)
+- Hawks and eagles soaring (39:26-30)
+
+**WHAT IS GOD DOING?**
+
+God is showing Job:
+
+1. **The vastness of creation** that Job doesn't understand
+2. **God's sovereignty over all things** that Job can't control
+3. **The complexity of the world** that God manages effortlessly
+
+**GOD'S POINT:**
+
+"Job, if you don't understand how I run the universe, how I created the world, how I manage nature and animals—things you can SEE—how can you presume to understand My purposes in your suffering, which involves spiritual realities you CAN'T see?"
+
+**This isn't God being mean—it's God being loving:**
+
+- He's showing Job: "You don't need to understand everything. You need to trust that I understand everything."
+- He's saying: "I'm big enough to handle what you're going through, even if you can't see how."
+
+**KEY INSIGHT:**
+
+**God's answer to suffering is not EXPLANATION—it's HIMSELF.**
+
+Job wanted to know WHY. God says: "You don't need to know why. You need to know WHO I am."
+
+**The God who:**
+
+- Created the universe
+- Controls the stars
+- Knows the depths of the sea
+- Gives life to animals
+- Manages complexity you can't even comprehend
+
+**...is the same God who is with you in your suffering.**
+
+**Trust His character, not your understanding.**
+
+### **REFLECT:**
+
+_"What areas of my life am I demanding God explain to me? Can I trust God's character even when I don't understand His purposes?"_
+
+
+---
+
+## **DAY 7: JOB 40-42** (God Speaks - Part 2 & Resolution)
+
+### **PRAY FIRST:**
+
+_"Father, bring this journey through Job to a close. Help me see how it ends and what You want me to take away from this book. Amen."_
+
+### **READ: Job 40-42**
+
+### **SUMMARY:**
+
+**Chapter 40:1-5 - Job's First Response**
+
+After God's first speech (chapters 38-39), God asks Job:
+
+- "Will the one who contends with the Almighty correct him?" (40:2)
+
+**Job responds:**
+
+- "I am unworthy—how can I reply to you? I put my hand over my mouth." (40:4)
+- "I spoke once, but I have no answer—twice, but I will say no more." (40:5)
+
+**Job is beginning to see: He's been questioning God as if he were God's equal. He's not.**
+
+---
+
+**Chapter 40:6-41:34 - God's Second Speech**
+
+God continues, focusing on two creatures:
+
+**1. Behemoth (40:15-24)**
+
+- A massive land creature (possibly hippopotamus or symbolic creature)
+- "He ranks first among the works of God" (40:19)
+- Point: God made powerful creatures Job can't control
+
+**2. Leviathan (41:1-34)**
+
+- A fearsome sea creature (possibly crocodile or symbolic creature)
+- "Can you pull in Leviathan with a fishhook?" (41:1)
+- "Nothing on earth is its equal—a creature without fear" (41:33)
+- Point: There are creatures so powerful that Job is helpless before them
+
+**GOD'S POINT:**
+
+"Job, if you can't even handle Behemoth or Leviathan—creatures I MADE—how can you challenge Me, the Creator of all things? If you're helpless before my creatures, how much more should you humble yourself before Me?"
+
+---
+
+**Chapter 42:1-6 - Job's Final Response**
+
+**Now Job truly gets it. This is his repentance:**
+
+**Verses 2-3:**
+
+> "I know that you can do all things;  
+> no purpose of yours can be thwarted.  
+> You asked, 'Who is this that obscures my plans without knowledge?'  
+> Surely I spoke of things I did not understand,  
+> things too wonderful for me to know."
+
+**Job admits:**
+
+- ✅ God is sovereign (can do all things)
+- ✅ God's purposes cannot be stopped
+- ✅ Job spoke about things beyond his understanding
+
+**Verses 5-6:**
+
+> "My ears had heard of you  
+> but now my eyes have seen you.  
+> Therefore I despise myself  
+> and repent in dust and ashes."
+
+**CRITICAL UNDERSTANDING:**
+
+**Job is NOT repenting of some hidden sin** (remember, God said Job was righteous in chapters 1-2).
+
+**Job is repenting of:**
+
+- Demanding God explain Himself
+- Questioning God's justice as if Job had the right to judge God
+- Speaking beyond his knowledge
+
+**Job is saying:**
+
+- "Before this, I knew ABOUT You (secondhand knowledge)."
+- "But now, I have ENCOUNTERED You (firsthand knowledge)."
+- "That changes everything."
+
+**When you truly encounter God, you stop demanding answers and start trusting His character.**
+
+---
+
+**Chapter 42:7-9 - God Rebukes Job's Friends**
+
+**This is so important!**
+
+God says to Eliphaz (and the other two friends):
+
+> "I am angry with you... because **you have not spoken the truth about me, as my servant Job has.**" (42:7)
+
+**WAIT—WHAT?**
+
+- Job, who questioned God, spoke TRUTH about God
+- The friends, who defended God's justice, spoke LIES about God
+
+**HOW?**
+
+**Job spoke truth by:**
+
+- Being honest about his pain
+- Refusing to accept false explanations
+- Trusting God even without understanding
+- Crying out TO God instead of turning away
+
+**The friends lied by:**
+
+- Claiming all suffering is punishment for sin (false theology)
+- Misrepresenting God's character and ways
+- Adding to Job's suffering with wrong judgments
+
+**KEY LESSON:** **Honest lament and wrestling with God is better than false piety and wrong theology.**
+
+God commands the friends to offer sacrifices and have Job pray for them. **Job, the sufferer they condemned, becomes their intercessor.**
+
+---
+
+**Chapter 42:10-17 - God Restores Job**
+
+**After Job prayed for his friends, God restored his fortunes:**
+
+- God gave him **twice as much** as before
+- All his brothers, sisters, and acquaintances came and comforted him
+- He had **7 more sons and 3 more daughters** (same number as before, but NEW children—the first 10 weren't replaced; they await him in eternity)
+- He lived **140 more years** and saw four generations of descendants
+- He died "old and full of years" (42:17)
+
+**IMPORTANT NOTES:**
+
+1. **The restoration came AFTER Job prayed for his friends**
+    - Forgiveness and intercession preceded blessing
+    - Job had to release bitterness
+2. **The restoration doesn't erase the suffering**
+    - Job lost 10 children—getting 10 more doesn't replace them
+    - He endured immense pain
+    - But God proved faithful in the end
+3. **We see the end of the story; Job didn't**
+    - Job trusted God WITHOUT KNOWING restoration was coming
+    - That's faith
+
+
+---
+### **FINAL REFLECT:**
+
+_"What is my biggest takeaway from the book of Job? How will I respond to suffering differently now—whether my own or others'?"_
+
+---
+
+## **CONGRATULATIONS!**
+
+**You made it through Job!**
+
+This is one of the hardest books in the Bible, and you persevered. That shows real commitment to God's Word.
+

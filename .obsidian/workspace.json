@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "6 - Main Notes/Personal Time Blocks.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -41,59 +41,35 @@
             }
           },
           {
-            "id": "199696ef3443321e",
+            "id": "74d055ccf75566ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Hermeneutics on Matthew 28 19-20.md",
+                "file": "6 - Main Notes/Valentines Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hermeneutics on Matthew 28 19-20"
+              "title": "Valentines Ideas"
             }
           },
           {
-            "id": "3be110bce865611b",
+            "id": "544559f691ba518a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Bible Homiletics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bible Homiletics"
-            }
-          },
-          {
-            "id": "2553e28117c6b554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/JavaScript Cheat Sheet.md",
+                "file": "6 - Main Notes/Eli&Sevs Archive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript Cheat Sheet"
+              "title": "Eli&Sevs Archive"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
+    "width": 261.5,
     "collapsed": true
   },
   "right": {
@@ -192,7 +168,7 @@
       {
         "id": "a0a7259539ec42da",
         "type": "tabs",
-        "dimension": 71.77914110429448,
+        "dimension": 73.26906222611744,
         "children": [
           {
             "id": "284a1ba8a72bb0af",
@@ -248,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/JavaScript Cheat Sheet.md",
+                "file": "6 - Main Notes/Valentines Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JavaScript Cheat Sheet"
+              "title": "Outline of Valentines Ideas"
             }
           },
           {
@@ -271,12 +247,12 @@
         "currentTab": 3
       },
       {
-        "id": "b45f0186302eb2e7",
+        "id": "5fa6fc8131ee4345",
         "type": "tabs",
-        "dimension": 28.22085889570552,
+        "dimension": 26.73093777388256,
         "children": [
           {
-            "id": "02764f3f04884d28",
+            "id": "57a4cc4766620b47",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -303,147 +279,37 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "floating": {
-    "id": "9888c48d7ab2c647",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6b6e27cbd7d021de",
-        "type": "window",
-        "children": [
-          {
-            "id": "3d0360c2d2d597c0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "50c1fb67007beb17",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "6 - Main Notes/Reddit Self-Improvement Advice.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Reddit Self-Improvement Advice"
-                }
-              },
-              {
-                "id": "1ff665a67186f435",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "6 - Main Notes/Eli&Sevs Archive.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Eli&Sevs Archive"
-                }
-              },
-              {
-                "id": "0a324fdddbfba1f5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "6 - Main Notes/Homiletics on Matthew 28 18-20.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Homiletics on Matthew 28 18-20"
-                }
-              },
-              {
-                "id": "793c9636f9e89f7c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "6 - Main Notes/Bible Homiletics.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Bible Homiletics"
-                }
-              },
-              {
-                "id": "6a2ce57a6bd8cc98",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "6 - Main Notes/Hermeneutics on Matthew 28 19-20.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Hermeneutics on Matthew 28 19-20"
-                }
-              },
-              {
-                "id": "8d19af0cfa8e449c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1 - Rough Notes/Quick Note.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Quick Note"
-                }
-              }
-            ],
-            "currentTab": 5
-          }
-        ],
-        "direction": "vertical",
-        "x": 1064,
-        "y": 41,
-        "width": 1044,
-        "height": 978,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2553e28117c6b554",
+  "active": "74d055ccf75566ac",
   "lastOpenFiles": [
-    "6 - Main Notes/Bible Homiletics.md",
-    "6 - Main Notes/JavaScript Cheat Sheet.md",
-    "6 - Main Notes/Ta-Da List.md",
-    "6 - Main Notes/Advice About Digital Banks.md",
-    "6 - Main Notes/Bible Hermeneutics.md",
+    "6 - Main Notes/Eli&Sevs Archive.md",
+    "6 - Main Notes/Website Inspo Links.md",
+    "6 - Main Notes/Valentines Ideas.md",
+    "6 - Main Notes/HTML Cheat Sheet.md",
+    "1 - Rough Notes/Titles of the Great One.md",
+    "1 - Rough Notes/Quick Note.md",
+    "6 - Main Notes/Git Commit Message.md",
     "6 - Main Notes/2026 Resolutions.md",
     "6 - Main Notes/Action-Oriented Reading System.md",
     "6 - Main Notes/AduFind Project Notes.md",
-    "2 - Source Material/How to Win Friends and Influence People.md",
-    "2 - Source Material/The Bogleheads' Guide to Investing.md",
-    "2 - Source Material/Atomic Habits.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Duke's/Duke's Advanced DBMS.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Duke's/Duke's General Guide for Java.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Duke's/Duke's Object Oriented Programming.md",
-    "3 - Tags/Duke.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Object-Oriented Programming.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Design Thinking UI UX.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Networking 2.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Advanced DBMS.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Contemporary World.md",
-    "6 - Main Notes/Hermeneutics on Matthew 28 19-20.md",
-    "3 - Tags/Java.md",
+    "6 - Main Notes/Advice About Digital Banks.md",
+    "6 - Main Notes/All Installed Software.md",
+    "6 - Main Notes/Bible Hermeneutics.md",
+    "6 - Main Notes/Bible Homiletics.md",
+    "6 - Main Notes/Bible Logs.md",
+    "6 - Main Notes/Bible Meditations.md",
+    "6 - Main Notes/Bible Verse Logs.md",
+    "6 - Main Notes/Book Logs.md",
+    "6 - Main Notes/Couple Bucket List.md",
+    "6 - Main Notes/Create a Battery Alert.md",
+    "6 - Main Notes/CS50x SQL Notes.md",
+    "6 - Main Notes/CSS Common Properties.md",
+    "6 - Main Notes/CSS Good Practices.md",
+    "6 - Main Notes/D-Group Learnings.md",
+    "6 - Main Notes/Deliberate Practice.md",
+    "6 - Main Notes/DevTools for Debugging.md",
     "2 - Source Material/Class/2025-26 2nd Sem/Duke's",
     "2 - Source Material/Class/2025-26 2nd Sem",
     "2 - Source Material/Class/2025-26 1st Sem",
-    "5 - Template/Class Notes Template.md",
-    "6 - Main Notes/Personal Time Blocks.md",
-    "6 - Main Notes/Future Career Choices.md",
-    "6 - Main Notes/Job Application Flags.md",
     "Design Thinking (UI",
     "Media/Pasted image 20251230005454.png",
     "Media/Pasted image 20251230005446.png",

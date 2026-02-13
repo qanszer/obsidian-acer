@@ -417,11 +417,31 @@ The HAVING clause only applies to the rows made by GROUP BY
 
 
 
+# Good Practices
 
 
+**When updating or deleting from a table, always start with `WHERE`**
+
+```mssql
+UPDATE Student
+	SET Name = "Jayson Ocampo"
+	WHERE ID = "0001"
+```
+
+Here, type `WHERE` first before anything else. Because forgetting the `WHERE` parameter, usually when you're tired, costs millions of dollars to fix
 
 
+**When inserting values into a table, add a column indicator**
 
+```mssql
+INSERT INTO Student(Id,[Name],Course)
+	Values (001, 'Jayson Ocampo', 'IT')
+```
+
+Also, you can use `[]` if the word you use for the column indicator is a keyword
+
+
+**Use Stored Procedures to have reusable functions for established databases**
 
 
 

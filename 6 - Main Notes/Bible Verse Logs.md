@@ -1240,7 +1240,7 @@ Acts of the Apostles 18:9-10 NLT
 ### Chapter 1
 
 **Philippians 1:3-4**
-[3-4] I thank my God every time I remember you. In all my prayers for all of you, I always pray with joy
+[3-4] I thank my God every time I remember you. In all my prayers for all of you, I always pray with joy.
 
 **Philippians 1:7**
 [7] It is right for me to feel this way about all of you, since I have you in my heart and, whether I am in chains or defending and confirming the gospel, all of you share in God’s grace with me.

@@ -542,6 +542,12 @@ select.addEventListener("change", () =>
 
 ## Syntax
 
+```javascript
+function name(parameter1, parameter2, ... parameterN) {
+	// code
+}
+```
+
 ```js
 function showMessage() {
 	alert( 'Hello everyone!' );
@@ -562,6 +568,8 @@ function showMessage() {
 	
 - It’s a **good practice to minimize the use of global variables**. Modern code has few or no globals. Most variables reside in their functions. Sometimes though, they can be useful to store project-level data.
 
+To make the code clean and easy to understand, it’s recommended to use mainly local variables and parameters in the function, not outer variables
+
 
 ## Default Values
 
@@ -578,12 +586,89 @@ showMessage("Ann"); // Ann: undefined
 We can use "default" values in the parameter to solve this.
 
 ```js
-function showMessage(from, text) {
+function showMessage(from, text = "no text given") {
 	alert( from + ": " + text);
 }
 
-showMessage("Ann"); // Ann: undefined
+showMessage("Ann"); // Ann: no text given
 ```
+
+This is also possible if it needs a more complex default value:
+
+```js
+function showMessage(from, text = anotherFunction() {
+	alert( from + ": " + text);
+}
+```
+
+
+## Naming a Function
+
+Functions are actions. So their name is usually a verb. It should be brief, as accurate as possible and describe what the function does, so that someone reading the code gets an indication of what the function does.
+
+It is a widespread practice to start a function with a verbal prefix which vaguely describes the action. **There must be an agreement within the team** on the meaning of the prefixes.
+
+Example functions starting with…
+
+- `"get…"` – return a value,
+- `"calc…"` – calculate something,
+- `"create…"` – create something,
+- `"check…"` – check something and return a boolean, etc.
+
+**Main Rule:** **One function -- one action**
+
+A function should do exactly what is suggested by its name, no more.
+
+Two independent actions usually deserve two functions, even if they are usually called together (in that case we can make a 3rd function that calls those two).
+
+A few examples of breaking this rule:
+
+- `getAge` – would be bad if it shows an `alert` with the age (should only get).
+- `createForm` – would be bad if it modifies the document, adding a form to it (should only create it and return).
+- `checkPermission` – would be bad if it displays the `access granted/denied` message (should only perform the check and return the result).
+
+Functions should be short and do exactly one thing. If that thing is big, maybe it’s worth it to split the function into a few smaller functions. Sometimes **following this rule may not be that easy**, but it’s definitely a good thing.
+
+
+The first variant uses a label:
+
+```javascript
+function showPrimes(n) {
+  nextPrime: for (let i = 2; i < n; i++) {
+
+    for (let j = 2; j < i; j++) {
+      if (i % j == 0) continue nextPrime;
+    }
+
+    alert( i ); // a prime
+  }
+}
+```
+
+The second variant uses an additional function `isPrime(n)` to test for primality:
+
+```javascript
+function showPrimes(n) {
+
+  for (let i = 2; i < n; i++) {
+    if (!isPrime(i)) continue;
+
+    alert(i);  // a prime
+  }
+}
+
+function isPrime(n) {
+  for (let i = 2; i < n; i++) {
+    if ( n % i == 0) return false;
+  }
+  return true;
+}
+```
+
+The second variant is easier to understand, isn’t it? **Instead of the code piece we see a name of the action (`isPrime`)**. Sometimes people refer to such code as _self-describing_.
+
+So, **functions can be created even if we don’t intend to reuse them**. They structure the code and make it readable.
+
 
 
 

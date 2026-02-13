@@ -90,7 +90,10 @@ Start the day at your own pace. If you wake before the alarm, get up—fragmente
 
 - **Synthetic commute:** 10-15 minute walk to mentally process the day
 - Change into workout clothes
-- Exercise
+
+
+### Workout
+**3:45 PM**
 
 
 ### Open Time

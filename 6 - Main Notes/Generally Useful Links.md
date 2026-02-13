@@ -19,7 +19,9 @@ Similar to bluestacks but better
 #### 4. FreeMediaHeckYeah
 https://fmhy.net/
 Collection of free websites for all kinds of things
-#### 5. 
+#### 5. Fun Texting/Talking Games
+https://parade.com/1043064/marynliles/texting-games/
+35 fun games to play to keep connected and have fun with friends
 #### 6. The Home Office Setup Guide for Deep Work
 https://super-productivity.com/blog/home-office-setup-guide-for-deep-work/
 Practical steps to achieving an optimal home setup for focused work
@@ -32,3 +34,6 @@ More scientifically focused guide of the first guide above
 #### 9. SaaS vs Web App
 https://www.softude.com/blog/saas-and-web-application-big-differences-and-benefits/
 In-depth comparison between SaaS Development and Web App Development
+#### 10. CouplesHub
+https://app.coupleshub.io/#
+Aggregator of dates and fun things to do with your partner

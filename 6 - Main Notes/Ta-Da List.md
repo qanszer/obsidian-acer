@@ -33,6 +33,7 @@ cheated-and-used-ai-for-report-activity-due-to-incompetence
 video
 sat-on-backseat-for-class
 video
+looked
 .bible-reading
 .ate-3-meals-total
 .give-coins-to-poor
@@ -64,6 +65,7 @@ late-for-class
 .find-solution-to-book-of-job-dissatisfaction
 not-wash-the-dishes
 doomscrolled
+looked
 slept-late-at-1am
 no-night-routine
 ```
@@ -81,10 +83,52 @@ no-hygiene
 no-odin-project
 .eat-3-meals-total
 forgot-to-add-to-tada-list
-
+looked
 ```
 
 
+**02/05/26**
+
+```css
+doomscrolled
+no-hygiene
+.eat-3-meals-total
+.ate-snacks-between-meals
+.left-phone-at-home
+looked
+.read-nonfiction
+.finished-water-bottle
+```
+
+
+**02/06/26**
+
+```css
+did-not-track
+alright-day
+```
+
+
+**02/07/26**
+
+```css
+did-not-track
+very-unproductive-day
+```
+
+
+**02/10/26**
+
+```css
+.woke-up-in-time-for-class
+.not-late
+.left-phone-at-home
+did-not-bring-meal-boxes-to-save-money
+.did-hygiene
+.read-nonfiction
+looked
+
+```
 
 
 

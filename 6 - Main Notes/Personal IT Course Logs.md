@@ -22,12 +22,12 @@ lorem ipsum
 - Net2
 - DT
 - Contemp
+- IAS1
 
 
 **2026-27  |  1st Sem**
 
 - Theo3 - Celebrating God's
-- IAS1
 - Applications Devt
 - Tech Eng
 - Project Management

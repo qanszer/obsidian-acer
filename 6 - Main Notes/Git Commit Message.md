@@ -55,12 +55,15 @@ google-chrome index.html
 
 Git Commit Template:
 
+```
+
 <Type>(optional scope): <description>
 
 [Optional body]
 
 [Optional-footer(s):<text>]
 
+```
 
 
 
@@ -68,4 +71,6 @@ Git Commit Template:
 
 # References
 
-Odin Project - Foundations
+https://www.theodinproject.com/lessons/foundations-commit-messages#introduction
+
+https://www.conventionalcommits.org/en/v1.0.0/

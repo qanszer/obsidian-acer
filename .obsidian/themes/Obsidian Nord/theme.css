@@ -142,7 +142,7 @@ body
     --text-selection:                rgba(var(--frost0_x), 0.6);
     --flashing-background:           rgba(var(--frost0_x), 0.3);
 
-    --code-normal:                   var(--frost1);
+    --code-normal:                   var(--light3);
     --code-background:               #262b36;
 
     --mermaid-note:                  var(--frost3);
@@ -253,7 +253,7 @@ body
     --text-selection:                rgba(var(--frost0_x), 0.6);
     --flashing-background:           rgba(var(--frost0_x), 0.3);
 
-    --code-normal:                   #70a1ae;
+    --code-normal:                   #434c5e;
     --code-background:               #dfe3ea;
 
     --mermaid-note:                  var(--frost0);
