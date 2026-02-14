@@ -8,6 +8,24 @@ Tags: [[Eli]]
 
 Here are 100 'would you rather' questions for your Valentine's date, organized by category:
 
+## RANDOM & FUN (15 questions)
+
+1. Would you rather fight 100 duck-sized horses or 1 horse-sized duck?
+2. Would you rather have the ability to fly or be invisible?
+3. Would you rather know how you die or when you die?
+4. Would you rather be able to talk to animals or speak all human languages?
+5. Would you rather live without music or without movies?
+6. Would you rather always be 10 minutes late or 20 minutes early?
+7. Would you rather have unlimited battery life on your phone or unlimited internet?
+8. Would you rather lose all your photos or all your messages?
+9. Would you rather win the lottery but have to share with family or earn it slowly yourself?
+10. Would you rather never use social media again or never watch another movie/series?
+11. Would you rather be stuck in traffic or stuck in a long meeting?
+12. Would you rather have a rewind button or pause button for life?
+13. Would you rather know all the mysteries of the universe or all the mysteries of the ocean?
+14. Would you rather be famous or be the best friend of someone famous?
+15. Would you rather live in a world with magic or advanced technology?
+
 ## RELATIONSHIP & US (15 questions)
 
 1. Would you rather have a surprise date planned by me or plan our date together?
@@ -75,23 +93,23 @@ Here are 100 'would you rather' questions for your Valentine's date, organized b
 14. Would you rather read books together or discuss news and articles?
 15. Would you rather have plants everywhere or keep it simple?
 
-## RANDOM & FUN (15 questions)
+## SCENARIOS & CHOICES (15 questions)
 
-1. Would you rather fight 100 duck-sized horses or 1 horse-sized duck?
-2. Would you rather have the ability to fly or be invisible?
-3. Would you rather know how you die or when you die?
-4. Would you rather be able to talk to animals or speak all human languages?
-5. Would you rather live without music or without movies?
-6. Would you rather always be 10 minutes late or 20 minutes early?
-7. Would you rather have unlimited battery life on your phone or unlimited internet?
-8. Would you rather lose all your photos or all your messages?
-9. Would you rather win the lottery but have to share with family or earn it slowly yourself?
-10. Would you rather never use social media again or never watch another movie/series?
-11. Would you rather be stuck in traffic or stuck in a long meeting?
-12. Would you rather have a rewind button or pause button for life?
-13. Would you rather know all the mysteries of the universe or all the mysteries of the ocean?
-14. Would you rather be famous or be the best friend of someone famous?
-15. Would you rather live in a world with magic or advanced technology?
+1. Would you rather lose your phone or your wallet?
+2. Would you rather be too hot or too cold?
+3. Would you rather never eat your favorite food again or only eat your favorite food?
+4. Would you rather have no heating or no air conditioning?
+5. Would you rather wear formal clothes every day or pajamas every day?
+6. Would you rather never be able to use a phone again or never be able to use a computer?
+7. Would you rather be able to control fire or water?
+8. Would you rather live without TV or live without your phone?
+9. Would you rather have an extra hour every day or an extra day every week?
+10. Would you rather always have to say everything on your mind or never speak again?
+11. Would you rather live in a treehouse or a houseboat?
+12. Would you rather be the funniest person or the smartest person in the room?
+13. Would you rather have a photographic memory or learn things super fast?
+14. Would you rather never get tired or never need to sleep?
+15. Would you rather fight one giant spider or 100 tiny spiders?
 
 ## DEEP & MEANINGFUL (15 questions)
 
@@ -111,24 +129,6 @@ Here are 100 'would you rather' questions for your Valentine's date, organized b
 14. Would you rather be surrounded by people or have deep solitude?
 15. Would you rather have all your dreams come true or help others achieve theirs?
 
-## SCENARIOS & CHOICES (15 questions)
-
-1. Would you rather lose your phone or your wallet?
-2. Would you rather be too hot or too cold?
-3. Would you rather never eat your favorite food again or only eat your favorite food?
-4. Would you rather have no heating or no air conditioning?
-5. Would you rather wear formal clothes every day or pajamas every day?
-6. Would you rather never be able to use a phone again or never be able to use a computer?
-7. Would you rather be able to control fire or water?
-8. Would you rather live without TV or live without your phone?
-9. Would you rather have an extra hour every day or an extra day every week?
-10. Would you rather always have to say everything on your mind or never speak again?
-11. Would you rather live in a treehouse or a houseboat?
-12. Would you rather be the funniest person or the smartest person in the room?
-13. Would you rather have a photographic memory or learn things super fast?
-14. Would you rather never get tired or never need to sleep?
-15. Would you rather fight one giant spider or 100 tiny spiders?
-
 ## How to Use These:
 
 - **Mix categories** throughout your date so it doesn't feel monotonous
@@ -137,7 +137,6 @@ Here are 100 'would you rather' questions for your Valentine's date, organized b
 - **No judgment** - some answers might surprise you!
 - **Follow-up questions** - dig deeper into interesting responses
 
-Have fun on your Valentine's date! 💕
 
 
 

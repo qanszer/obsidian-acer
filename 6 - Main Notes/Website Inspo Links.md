@@ -38,6 +38,17 @@ https://artsandculture.google.com/experiment/talking-tours-india/jgGbTdO8wCBRMQ
 **Grace to You**
 https://www.gty.org/
 
+**Unreal Website Animations - Bokoko33**
+https://bokoko33.me/?ref=godly
+
+**Huyml - Independent Designer** 
+https://huyml.co/home.html
+
+**Seed - A vitamin product (can be inspiration for green barley website)**
+https://seed.com/
+
+
+
 
 ---
 
