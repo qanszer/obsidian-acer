@@ -6,7 +6,13 @@ Tags: [[Eli]]
 ---
 # Would You Rather Questions with Eli
 
-Here are 100 'would you rather' questions for your Valentine's date, organized by category:
+
+## How to Use These:
+
+- **Mix categories** throughout your date so it doesn't feel monotonous
+- **Start light** (fun/random), move to **deeper ones** as you get comfortable
+- **Explain your answers** - the "why" is more interesting than the choice
+- **No judgment** - some answers might surprise you!
 
 ## RANDOM & FUN (15 questions)
 
@@ -128,22 +134,5 @@ Here are 100 'would you rather' questions for your Valentine's date, organized b
 13. Would you rather change something about yourself or change something about the world?
 14. Would you rather be surrounded by people or have deep solitude?
 15. Would you rather have all your dreams come true or help others achieve theirs?
-
-## How to Use These:
-
-- **Mix categories** throughout your date so it doesn't feel monotonous
-- **Start light** (fun/random), move to **deeper ones** as you get comfortable
-- **Explain your answers** - the "why" is more interesting than the choice
-- **No judgment** - some answers might surprise you!
-- **Follow-up questions** - dig deeper into interesting responses
-
-
-
-
-
-
-
-
-
 
 ---
