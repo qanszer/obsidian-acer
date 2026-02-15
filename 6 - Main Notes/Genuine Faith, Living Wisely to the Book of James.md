@@ -307,8 +307,82 @@ Demons know Jesus. They know about the judgement day, about salvation, and all t
 Real faith grows---it is not perfect. 
 
 
-
 ---
 
-## References
+# Week 5 - Real Faith Controls the Tongue
+February 15, 2026
+**James 3:1-12**
+
+Before speaking in difficult or important conversations, first pray "Lord, speak through me"
+
+Salvation is only through knowing (ginosko) Jesus. Ginosko means to know someone intimately, like husband and wife. That means that knowing *about* Him is not enough. 
+
+Many people grow up in a Christian household, and therefore know the details about Jesus, His salvation, His commands, and everything else. But they do not *know* Him personally, experiencially, and intimately. 
+
+## Main Points
+
+1. Personal Responsibility
+2. Power to Build or Destroy
+3. Problem of the Heart
+
+### 01 - Personal Responsibility
+
+We will never compromise to fit what the world believes. 
+
+We are responsible for what we say. But at the same time, no one is a perfect man. All of us stumble.
+
+- Speaking out of anger
+- Speaking out of hurt
+- Speaking with the wrong motives
+- Gossip and slander
+- Being critical
+
+The tongue is proof of our maturity
+
+**Make it a commitment to not be critical of others. Never speak ill of anyone especially when you are around not Christians. Unless it is to rebuke them face to face with love**
+
+> Ephesians 4:29
+> 
+> Let no unwholesome word proceed from your mouth, but only such as is good for the edification according to the need of the moment, so that it will give grace to those who hear
+
+1. No unwholesome words
+2. Only say words that lift others up
+3. Care about the timing
+
+How do I speak at home?
+How do I talk about others when upset?
+
+
+### 02 - Power to Build or Destroy
+
+James 3:5 - Why did the Bible compare the tongue with fire? Because the **tongue** is a small part of the body, but **can deal the most impact to others**. Just like how a small fire can burn an entire forest.
+
+**Whatever the mouth speaks, it comes from what fills the heart**
+
+Proverbs says, "Death and life are in the power of the tongue"
+
+
+### 03 - Problem of the Heart
+
+The problem of the tongue is not the tongue itself. It's the heart.
+No one can tame the tongue, it is restless evil and full of deadly poison.
+
+If you are a real Christian, **God will not let you remain as you are**
+
+> 
+> *"Speech problems are heart problems."*
+> 
+
+#### CCF Tongue Test
+
+If what you are about to say does not satisfy these questions, don't say it.
+
+1. Is it necessary?
+2. Is it true?
+3. Is it spoken in love?
+4. Is it encouraging?
+5. Is it glorifying to God?
+
+
+---
 

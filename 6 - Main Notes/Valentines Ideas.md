@@ -27,6 +27,8 @@ Tags: [[Eli]], [[Thoughts]]
 	- Virtual street views of famous sites and landmarks [Link](https://artsandculture.google.com/project/street-view)
 4. **Would You Rather**
 	- [[Would You Rather Questions with Eli]]
+	- [Browser github obsidian repo](https://github.com/qanszer/obsidian-acer/blob/main/6%20-%20Main%20Notes/Would%20You%20Rather%20Questions%20with%20Eli.md)
+	- Browser github separate repo
 5. **401 Questions for Couples**
 	- Refer to the downloaded pdf
 6. **Messenger Game** 
