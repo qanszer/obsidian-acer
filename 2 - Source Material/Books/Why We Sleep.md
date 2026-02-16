@@ -16,62 +16,44 @@ t
 
 ### One-Sentence Summary
 
-[What's this book about? 2-5 sentences]
+This book is a wake-up call to society about the importance of sleep and on how to improve sleep quality.
 
 
-### Top 3 Key Concepts
+### My Top 5 Key Actions
 
--  **Concept 1:** Brief explanation
--  **Concept 2:** Brief explanation
--  **Concept 3:** Brief explanation
-
-
-### All Actions I Will Take
-
-1. [Specific action from the book]
+1. **Same sleep schedule every day, even weekends (most important)**
+2. **No screens 1 hour before bed**
+3. **Cool, dark bedroom**
+4. **Morning sunlight within 30 minutes of waking up**
+5. **Take a 20-30 minute nap only between 1-3pm**
 
 
-### When to Revisit
+### Other Learnings to Keep in Mind
 
--  [Situation when this book's ideas would help]
+- No caffeine after 2pm (coffee, black/green tea)
+- Eat dinner 2-3 hours before bed
+- Avoid alcohol before bed. It helps you sleep but it is not natural and therefore detrimental. It also blocks REM sleep
+- Avoid medications that delay/disrupt sleep
+- No naps after 3pm
+- Exercise improves sleep quality
+- No stress before bed (like intense conversations)
+- Take a hot bath 90 minutes before sleep if you can
+- Bedroom should be 18-19C cold, and pitch-black (blackout curtains or eye mask)
+- If you can't sleep after 20 minutes of lying in bed, get up. The bed should only be associated with sleep and sex
+- No to sleeping pills. It is asssociated with higher mortality risk and memory problems
+- A sign that you're getting enough sleep is you feel alert during the day
 
+- Don't try to "catch up" on sleep on weekends (disrupts rhythm)
+- Don't pull all-nighters (even once has severe consequences)
+- Don't create anxiety trying to force yourself to have 7-8 hours of sleep
 
 
 ---
 
-
 ## 01 - To Sleep
 
-#### Main Idea
 
-(1-3 sentences)
-
-#### Key Takeaways
-
--  **01:** Simplified conclusion: the shorter your sleep, the shorter your life span. See below on notes for more details
--  **02:** 
--  **03:** 
-
-
-#### Actions
-
-What will I actually DO with this? (specific, concrete actions)
-
--  
-
-
-#### Favorite Quotes/Realizations
-
-> 
-> *“Great quotes from the book will be here.”*
-> 
-
-> 
-> *“Great quotes from the book will be here.”*
-> 
-
-
-#### Notes from the Book "Why We Sleep"
+#### Notes
 
 **CONSEQUENCES OF CONTINUOUS LACK OF SLEEP (Less than 6-7 hours)**
 
@@ -129,35 +111,6 @@ Sleep is the top priority between them 3
 ---
 
 
-## 00 - 
+I decided to drop this book after chapter 1 because of the loss of interest in reading the rest of it after knowing about its statistical issues etc. 
 
-#### Main Idea
-
-(1-3 sentences)
-
-#### Key Takeaways
-
--  **01:** 
--  **02:** 
--  **03:** 
-
-
-#### Actions
-
-What will I actually DO with this? (specific, concrete actions)
-
--  
-
-
-#### Favorite Quotes/Realizations
-
-> 
-> *“Great quotes from the book will be here.”*
-> 
-
-> 
-> *“Great quotes from the book will be here.”*
-> 
-
-
----
+Most of the book's info (~80%) still stand, so what I did is that I asked Claude AI to summarize all the call-to-action infos from this book.

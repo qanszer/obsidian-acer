@@ -128,15 +128,29 @@ file 'video2.webm'
 
 2. Run the merge command. Change the output file name as needed
 
+Merge + convert to mp4
 ```
-ffmpeg -f concat -safe 0 -i videos.txt -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -c:v libx264 -crf 23 -preset medium -c:a aac -b:a 128k merged_output.mp4
+ffmpeg -f concat -safe 0 -i videos.txt -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -c:v libx264 -crf 23 -preset medium -c:a aac -b:a 128k output.mp4
 ```
+
+Merge only
+```
+ffmpeg -f concat -safe 0 -i videos.txt -c copy output.mp4
+
+```
+
 
 **Cut video by time:**
 ```
 ffmpeg -ss 00:00:00 -i input.mp4 -t 00:00:30 -c copy output.mp4
 ```
 
+
+**Mass convert webm to mp4**:
+```
+for f in *.webm; do ffmpeg -i "$f" -c:v libx264 -c:a aac "${f%.webm}.mp4"; done
+
+```
 
 ---
 

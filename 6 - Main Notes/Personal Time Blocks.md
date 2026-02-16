@@ -17,6 +17,7 @@ Tags: [[Productivity]] [[Guide]]
 **10:00 PM**
 
 - Plan out tomorrow's tasks
+- Journal
 - Soap face wash, cleanser + moisturizer,  toothbrush
 - Set alarm
 - Pray
@@ -39,9 +40,10 @@ Tags: [[Productivity]] [[Guide]]
 
 Start the day at your own pace. If you wake before the alarm, get up—fragmented sleep won't help.
 
+- cook rice if none on ref
+- drink barley
 - 10-minute walk outside
 - bath + skincare
-- cook rice if none on ref
 - do house chores
 - eat breakfast
 - open time options: 
@@ -68,32 +70,26 @@ Start the day at your own pace. If you wake before the alarm, get up—fragmente
 ### Lunch Break
 **12:00 - 1:00 PM**
 
-- Eat, recharge, stretch
+
+### Afternoon Nap
+**1:00 - 1:30 PM**
 
 
 ### Deep Work Continues
-**1:00 - 3:30 PM**
+**1:30 - 4:00 PM**
 
 
 ### Work Ends
-**3:30 PM**
+**4:00 PM**
 
 
 ---
 
 ## Afternoon to Evening
-**(3:30 PM - 11:00 PM)**
-
-
-### Transition Out
-**3:30 PM**
-
-- **Synthetic commute:** 10-15 minute walk to mentally process the day
-- Change into workout clothes
-
+**(4:00 PM - 11:00 PM)**
 
 ### Workout
-**3:45 PM**
+**4:00 PM**
 
 
 ### Open Time

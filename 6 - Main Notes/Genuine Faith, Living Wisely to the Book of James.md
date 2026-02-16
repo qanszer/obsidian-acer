@@ -384,5 +384,15 @@ If what you are about to say does not satisfy these questions, don't say it.
 5. Is it glorifying to God?
 
 
+#### Grace Words
+
+- "You matter. I appreciate you"
+- "I see God working in your life"
+- "I love you too much to stay silent"
+- "Can I share something hard with you because I care?"
+- "I may be wrong, but this is what I'm seeing"
+
+
+
 ---
 
