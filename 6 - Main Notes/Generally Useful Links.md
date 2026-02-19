@@ -40,3 +40,6 @@ Aggregator of dates and fun things to do with your partner
 #### 11. Umbrel
 https://umbrel.com/
 Your cloud. In your home. Stop renting your digital life. And start owning it with a home server.
+### 12. Sync Obsidian using Github
+https://habr.com/en/articles/883678/
+A complete guide to syncing obsidian to all devices using github for free.
