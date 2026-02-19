@@ -1,76 +1,56 @@
 {
   "main": {
-    "id": "65789b66e35b0cbc",
+    "id": "1e3a3d5bb5bb5f36",
     "type": "split",
     "children": [
       {
-        "id": "49c6cd68e9edbd91",
+        "id": "53e63e96609d3401",
         "type": "tabs",
         "children": [
           {
-            "id": "00e3e32b15e43f71",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Ta-Da List.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Ta-Da List"
-            }
-          },
-          {
-            "id": "bc662096ae795504",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Personal Time Blocks.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Personal Time Blocks"
-            }
-          },
-          {
-            "id": "ab6ed2ce6f20d0c3",
+            "id": "e03010e629c02ccc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/How to Win Friends and Influence People in the Digital Age.md",
+                "file": "6 - Main Notes/A Short Essay on SocMed Addiction from Youtube.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Win Friends and Influence People in the Digital Age"
+              "title": "A Short Essay on SocMed Addiction from Youtube"
+            }
+          },
+          {
+            "id": "63db4581425b4849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "924285eaf02ba357",
+    "id": "d2df6f09e3adbc2f",
     "type": "split",
     "children": [
       {
-        "id": "f61e9383bdc88ac5",
+        "id": "e6e423f2fcba255b",
         "type": "tabs",
-        "dimension": 71.60714285714286,
         "children": [
           {
-            "id": "9cd4f00a09e550b2",
+            "id": "c26537f8dabaf2bc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,7 +63,7 @@
             }
           },
           {
-            "id": "640157441ddea693",
+            "id": "41e860b3089000cc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -100,21 +80,7 @@
             }
           },
           {
-            "id": "62a72154d651c15d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Tags/Communication.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Communication"
-            }
-          },
-          {
-            "id": "54bea1830ede1bf7",
+            "id": "dcfb24895203d583",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -124,45 +90,27 @@
             }
           }
         ]
-      },
-      {
-        "id": "f0c27d17b1f81aa5",
-        "type": "tabs",
-        "dimension": 28.392857142857142,
-        "children": [
-          {
-            "id": "05c0e5843b5c43f8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 300
   },
   "right": {
-    "id": "6de475dd2b4c5e52",
+    "id": "0e25401600fd7086",
     "type": "split",
     "children": [
       {
-        "id": "a0a7259539ec42da",
+        "id": "8266312e660fa28c",
         "type": "tabs",
-        "dimension": 73.26906222611744,
         "children": [
           {
-            "id": "284a1ba8a72bb0af",
+            "id": "a7f7c5afa3d6b69e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 -Main Notes/SQL DBMS Odin.md",
-                "collapseAll": true,
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -171,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SQL DBMS Odin"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
-            "id": "7c66cdce5c1efe2e",
+            "id": "6a3bf3a5bd2ffce4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/The Bogleheads' Guide to Investing.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Bogleheads' Guide to Investing"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
-            "id": "a6b84da5a4b72316",
+            "id": "11422fec1dead70d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -204,22 +152,22 @@
             }
           },
           {
-            "id": "3a7e14f2556ede78",
+            "id": "b98df0cdae9aac94",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/How to Win Friends and Influence People in the Digital Age.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to Win Friends and Influence People in the Digital Age"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
-            "id": "5a13cc8e6661faca",
+            "id": "66cc0a77d09fab4e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -228,29 +176,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "5fa6fc8131ee4345",
-        "type": "tabs",
-        "dimension": 26.73093777388256,
-        "children": [
-          {
-            "id": "57a4cc4766620b47",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -262,53 +192,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-file-cleaner:Clean files": false
+      "obsidian-file-cleaner:Clean files": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab6ed2ce6f20d0c3",
+  "active": "63db4581425b4849",
   "lastOpenFiles": [
-    "5 - Template/Reflection Template.md",
-    "5 - Template/Full Reflection Template.md",
-    "3 - Tags/Reflection.md",
-    "6 - Main Notes/How to Win Friends and Influence People in the Digital Age.md",
-    "2 - Source Material/How to Win Friends and Influence People.md",
-    "2 - Source Material/Books/Why We Sleep.md",
-    "6 - Main Notes/Terminal Commands.md",
-    "6 - Main Notes/Personal Time Blocks.md",
-    "1 - Rough Notes/Quick Note.md",
-    "6 - Main Notes/Journal on Floor Sleeping.md",
-    "6 - Main Notes/Ta-Da List.md",
-    "6 - Main Notes/Genuine Faith, Living Wisely to the Book of James.md",
-    "1 - Rough Notes/Sleep is Important.md",
-    "6 - Main Notes/Valentines Ideas.md",
-    "6 - Main Notes/Useful Links For Programming.md",
-    "6 - Main Notes/Would You Rather Questions with Eli.md",
-    "6 - Main Notes/Website Inspo Links.md",
-    "6 - Main Notes/HTML Cheat Sheet.md",
-    "6 - Main Notes/Generally Useful Links.md",
-    "6 - Main Notes/Eli&Sevs Archive.md",
-    "1 - Rough Notes/Titles of the Great One.md",
-    "6 - Main Notes/Git Commit Message.md",
-    "6 - Main Notes/2026 Resolutions.md",
-    "6 - Main Notes/Action-Oriented Reading System.md",
-    "6 - Main Notes/AduFind Project Notes.md",
-    "6 - Main Notes/Advice About Digital Banks.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Duke's",
-    "2 - Source Material/Class/2025-26 2nd Sem",
-    "2 - Source Material/Class/2025-26 1st Sem",
-    "Design Thinking (UI",
-    "Media/Pasted image 20251230005454.png",
-    "Media/Pasted image 20251230005446.png",
-    "Media/Pasted image 20251216191004.png",
-    "4 - Index",
-    "Media/Pasted image 20251124171738.png",
-    "Media/Pasted image 20251105234235.png",
-    "Media/Pasted image 20250929184023.png",
-    "Media/Pasted image 20250929160258.png",
-    "Media/Pasted image 20250916171607.png",
-    "Media/Pasted image 20251130230621.png",
-    "Media/Pasted image 20251130230602.png",
-    "Media/networking1-reviewer-prelim.pdf",
-    "Untitled.canvas"
+    "6 - Main Notes/A Short Essay on SocMed Addiction from Youtube.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
