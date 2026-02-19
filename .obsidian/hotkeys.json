@@ -1,13 +1,4 @@
 {
-  "insert-template": [
-    {
-      "modifiers": [
-        "Mod",
-        "Meta"
-      ],
-      "key": "T"
-    }
-  ],
   "theme:use-dark": [
     {
       "modifiers": [
@@ -200,6 +191,15 @@
         "Shift"
       ],
       "key": "-"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
     }
   ]
 }
