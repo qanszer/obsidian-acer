@@ -17,8 +17,7 @@ Tags: [[Productivity]] [[Guide]]
 **10:00 PM**
 
 - Plan out tomorrow's tasks
-- Journal
-- Soap face wash, cleanser + moisturizer,  toothbrush
+- Soap face wash, moisturizer, toothbrush
 - Set alarm
 - Pray
 
@@ -42,7 +41,7 @@ Start the day at your own pace. If you wake before the alarm, get up—fragmente
 
 - cook rice if none on ref
 - drink barley
-- 10-minute walk outside
+- 10-minute walk outside / sunshine on rooftop
 - bath + skincare
 - do house chores
 - eat breakfast

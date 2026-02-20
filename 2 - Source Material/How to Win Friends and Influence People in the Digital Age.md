@@ -99,11 +99,11 @@ Do not criticize, condemn, or complain
 ---
 
 
-## 00 - 
+## 02 - Affirm What's Good
 
 #### Main Idea
 
-(1-3 sentences)
+Do not treat a man as he is, because that makes him worse than he is currently. Instead, treat him as for the what he can potentially be---that will make him what he should be.
 
 #### Key Takeaways
 
@@ -125,7 +125,7 @@ Do not criticize, condemn, or complain
 #### Favorite Quotes
 
 > 
-> *“Great quotes from the book will be here.”*
+> *“When we treat man as he is, we make him worse than he is; when we treat him as if he already were what he potentially could be, we make him what he should be.”*
 > 
 
 > 
