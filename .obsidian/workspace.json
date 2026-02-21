@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Personal Time Blocks"
             }
-          },
-          {
-            "id": "132f9f84954c6e41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/How to Win Friends and Influence People in the Digital Age.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to Win Friends and Influence People in the Digital Age"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/How to Win Friends and Influence People in the Digital Age.md",
+                "file": "6 - Main Notes/Personal Time Blocks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to Win Friends and Influence People in the Digital Age"
+              "title": "Outline of Personal Time Blocks"
             }
           },
           {
@@ -249,11 +234,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "132f9f84954c6e41",
+  "active": "bc662096ae795504",
   "lastOpenFiles": [
-    "5 - Template/Reflection Template.md",
-    "2 - Source Material/How to Win Friends and Influence People in the Digital Age.md",
+    "6 - Main Notes/Bible Verse Logs.md",
     "6 - Main Notes/Personal Time Blocks.md",
+    "2 - Source Material/How to Win Friends and Influence People in the Digital Age.md",
+    "5 - Template/Reflection Template.md",
     "6 - Main Notes/Journal on Floor Sleeping and Afternoon Naps.md",
     "6 - Main Notes/JavaScript Cheat Sheet.md",
     "6 - Main Notes/Journal on Floor Sleeping.md",
@@ -265,7 +251,6 @@
     "1 - Rough Notes/Quick Note.md",
     "6 - Main Notes/Eli&Sevs Archive.md",
     "6 - Main Notes/Apparently the 100 Greatest Books Ever Written.md",
-    "6 - Main Notes/Bible Verse Logs.md",
     "5 - Template/Full Reflection Template.md",
     "3 - Tags/Reflection.md",
     "2 - Source Material/How to Win Friends and Influence People.md",
