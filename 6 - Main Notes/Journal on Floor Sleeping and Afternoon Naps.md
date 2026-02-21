@@ -57,5 +57,11 @@ No afternoon nap again
 
 I slept at around 12:30am this time due to doomscrolling Stephano's vids. I enjoyed his vids too much. My sleep was great nonetheless. The only problem was that when I woke up, I got tempted to watch his vids again, and I really did for the first hour of my waking. 
 
+No afternoon nap
+
+### 2/21/26
+
+Great news, I finally slept in the afternoon.
+
 
 ---

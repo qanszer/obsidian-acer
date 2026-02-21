@@ -239,7 +239,7 @@ There are only 2 types of variables:
 
 1. `let`
 2. `const`
-3. `var` (older version of `let`)
+3. `var` (older version of `let`, should not be used)
 
 ## Data Types
 
@@ -670,6 +670,31 @@ The second variant is easier to understand, isn’t it? **Instead of the code pi
 So, **functions can be created even if we don’t intend to reuse them**. They structure the code and make it readable.
 
 
+## Scopes
+
+[More info](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Functions#function_scope_and_conflicts)
+
+When we create functions, the code blocks inside them are half-separate from the outside code. Half-separate, because **variables outside of the function can be called and used** (global scopes), but **variables inside the function *cannot* be called and cannot be used outside of the function** (function scopes).
+
+If made with an analogy of a zoo, the functions themselves are areas for each type of animal's environment---jungle, snow, savannah, etc. 
+
+If a variable (lion) from one function (savannah) is called from another function (snow), it would not happen and would result in an error.
+
+Javascript works like this mainly for security and organization.
+
+**Reminder:** The `ReferenceError: "x" is not defined` error is one of the most common you'll encounter. If you get this error and you are sure that you have defined the variable in question, check what scope it is in.
+
+
+**Loops** (while, for) and **conditionals** (if, if else) **also apply** to this. **They also have their own scopes**. That means the variables that are declared inside of them cannot be accessed to the outside blocks of code.
+
+
+## Return Values
+
+Generally, a return value is **used where the function is an intermediate step in a calculation of some kind**. You want to get to a final result, which involves some values that need to be calculated by a function.
+
+After the function calculates the value, it can return the result so it can be stored in a variable; and you can use this variable in the next stage of the calculation.
+
+
 
 
 ---
@@ -703,3 +728,7 @@ https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Co
 
 ### Functions
 https://javascript.info/function-basics
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Functions
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Return_values
+https://javascript.info/function-expressions
+https://javascript.info/arrow-functions-basics
