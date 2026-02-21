@@ -55,7 +55,7 @@ Do not criticize, condemn, or complain
 -  **03:** The people most widely respected within industries, companies, families, and groups of friends are those who are clear in their own viewpoints while remaining compassionate with those whose minds or behavior they would like to influence
 
 
-#### Actions
+#### Call-to-Actions
 
 - Don't be quick to judge/condemn others when they are wrong
 - Never criticize/condemn/complain no matter how right you are or how wrong they are
@@ -103,7 +103,68 @@ Do not criticize, condemn, or complain
 
 #### Main Idea
 
-Do not treat a man as he is, because that makes him worse than he is currently. Instead, treat him as for the what he can potentially be---that will make him what he should be.
+Always find the good in people. And let them know about it.
+
+#### Key Takeaways
+
+-  **01:** The one who speaks with a spirit of respect, coupled with genuine affirmation will always influence more people than the one who speaks with criticism, condemnation, and condescension
+-  **02:** 
+-  **03:** 
+
+
+#### Call-to-Actions
+
+- Look people in the eye
+- Overcome the instinct of saying things on autopilot. Genuine affirmation over empty flattery
+- **When a person disappoints you or makes you mad or makes you feel betrayed, that is a golden opportunity to surprise them with undeserved grace and unconditional forgiveness**. This is high time to show yourself as someone Christ-like --- a Christian.
+- When you have an enemy, show them that you still regard them with admiration. Compliment their competence, etc. Be the willing party to find what is already good on the table
+- Have intentional talks with friends that show your gratitude for having them in your life
+
+
+#### Learnings
+
+- Do your words and presence lean toward affirmation, or aloofness? The more they lean toward affirmation, the more influence you will gain with others.
+
+
+#### Favorite Quotes
+
+> 
+> *“When we treat man as he is, we make him worse than he is; when we treat him as if he already were what he potentially could be, we make him what he should be.”*
+> 
+
+> 
+> *“Don’t give up so easily. Stay the course. Despite what you’ve been told, you matter and you can accomplish something great.”*
+> 
+
+> 
+> *What would it look like if you began focusing on that person’s best moments and sought to affirm them?
+> 
+> This doesn’t presuppose the person doesn’t have his faults. It doesn’t even presume he has fewer faults than fine qualities. He might be a broken man with years of waste and wrongdoing in his wake. But one thing you can be sure of: if you aim to influence him to change, repeatedly pointing out his rap sheet will do you little good. 
+> 
+> If instead you begin to remind him of what he could be—not with hypothetical hype, but with his own history of goodness, of success, of insight, even if only a brief history—something inside him would have cause to awaken. He could begin to see what he can still be, despite what he has been. “When we treat man as he is, we make him worse than he is; when we treat him as if he already were what he potentially could be, we make him what he should be.”*
+> 
+
+> 
+> *“Showing adversaries that you regard them with admiration can resolve even violent conflicts.”*
+> 
+
+> 
+> *“Well, son, it was shortly afterwards that my paper slipped from my hands and a terrible sickening fear came over me. What has habit been doing to me? The habit of finding fault, of reprimanding—this was my reward to you for being a boy. It was not that I did not love you; it was that I expected too much of youth. I was measuring you by the yardstick of my own years.”*
+> 
+
+> 
+> *“All great progress and problem solving with others begins when at least one party is willing to place what is already good on the table.”*
+> 
+
+
+---
+
+
+## 00 - 
+
+#### Main Idea
+
+(1-3 sentences)
 
 #### Key Takeaways
 
@@ -125,17 +186,12 @@ Do not treat a man as he is, because that makes him worse than he is currently. 
 #### Favorite Quotes
 
 > 
-> *“When we treat man as he is, we make him worse than he is; when we treat him as if he already were what he potentially could be, we make him what he should be.”*
+> *“Great quotes from the book will be here.”*
 > 
 
 > 
 > *“Great quotes from the book will be here.”*
 > 
-
-
-#### Notes
-
-
 
 
 ---
