@@ -43,14 +43,6 @@ sudo apt-get install package-name=package-version-number
 ```
 
 
-Install using .deb package:
-first do `sudo apt update && sudo apt upgrade`
-then `sudo apt install build-essential`
-go to directory of the deb file like `cd Downloads/`
-`sudo dpkg -i filename`
-if there were dependency issues, run `sudo apt-get install -f`
-
-
 See current swappiness value:
 cat /proc/sys/vm/swappiness
 
@@ -113,6 +105,11 @@ sudo passwd
 then follow instructions
 
 
+---
+
+### Video Editing
+
+
 **Change video format to mp4:**
 ```
 ffmpeg -i input.webm -c:v libx264 -c:a aac output.mp4
@@ -152,9 +149,20 @@ for f in *.webm; do ffmpeg -i "$f" -c:v libx264 -c:a aac "${f%.webm}.mp4"; done
 
 ```
 
+
+---
+
+### Uninstall an apt App
+
+```bash
+sudo apt remove --purge AppName && sudo apt autoremove
+```
+
+
 ---
 
 # References
 
 chatgpt
 claude
+google
