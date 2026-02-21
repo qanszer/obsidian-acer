@@ -7,6 +7,8 @@ Tags: [[Coding]] [[Terminal]] [[Customization]]
 
 # Terminal Commands
 
+A list of bash commands I commonly use. This is a note to look back to when I need to use them again.
+
 
 Check status of Database Engine:
 ```bash
@@ -62,41 +64,6 @@ nano ~/battery_alert.sh
 Run the battery alert script:
 nohup ~/battery_alert.sh &
 
-
-====
-
-Clean unneeded packages:
-sudo apt autoremove
-
-Clean cache:  
-sudo apt-get clean
-
-Clean system journal logs:
-journalctl --disk-usage
-sudo journalctl --vacuum-time=3d
-
-Clean thumbnail:  
-rm -rf ~/.cache/thumbnails/*
-
-Current remotes:
-name - gdrive
-type - drive
-
-Rclone gdrive:
-nano ~/.config/systemd/user/rclone-gdrive.service
-
-====
-
-Change terminal color based on wallpaper:
-wal -i ~/pic_location
-
-Automate pywal:
-Add this line to your "nano ~/.bashrc" or "nano ~/.zshrc":
-[[ -f "$HOME/.cache/wal/sequences" ]] && cat "$HOME/.cache/wal/sequences"
-
-Reload terminal:
-source ~/.bashrc
-
 Copy a directory to multiple directories:
 for dir in destination_dir1 destination_dir2 destination_dir3; do cp -r source_directory/* "$dir"; done
 
@@ -107,7 +74,70 @@ then follow instructions
 
 ---
 
-### Video Editing
+### System Cleaning
+
+Clean unneeded packages:
+```bash
+sudo apt autoremove
+```
+
+Clean cache: 
+```bash
+sudo apt-get clean
+```
+
+Clean system journal logs:
+```bash
+journalctl --disk-usage
+sudo journalctl --vacuum-time=3d
+```
+
+Clean thumbnail:  
+```bash
+rm -rf ~/.cache/thumbnails/*
+```
+
+**One-liner Cleaner:**
+```bash
+sudo apt autoremove && sudo apt-get clean && sudo journalctl --vacuum-time=3d && rm -rf ~/.cache/thumbnails/*
+```
+
+
+---
+
+### Change terminal's color scheme based on wallpaper
+
+1. Install everything needed
+```bash
+sudo apt update && sudo apt install python3-pip
+```
+
+```bash
+sudo pip3 install pywal
+```
+
+2. Change terminal's color
+```bash
+wal -i ~/path/to/your/wallpaper.png
+```
+
+3. Automate it on startup
+```bash
+nano ~/.bashrc
+```
+
+```bash
+[[ -f "$HOME/.cache/wal/sequences" ]] && cat "$HOME/.cache/wal/sequences"
+```
+
+```bash
+source ~/.bashrc
+```
+
+
+---
+
+### Video editing
 
 
 **Change video format to mp4:**
@@ -152,10 +182,19 @@ for f in *.webm; do ffmpeg -i "$f" -c:v libx264 -c:a aac "${f%.webm}.mp4"; done
 
 ---
 
-### Uninstall an apt App
+### Uninstall an apt app
 
 ```bash
 sudo apt remove --purge AppName && sudo apt autoremove
+```
+
+
+---
+
+### Edit nautilus' bookmarks
+
+```bash
+nano ~/.config/gtk-3.0/bookmarks
 ```
 
 
