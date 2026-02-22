@@ -352,7 +352,6 @@ The tongue is proof of our maturity
 How do I speak at home?
 How do I talk about others when upset?
 
-
 ### 02 - Power to Build or Destroy
 
 James 3:5 - Why did the Bible compare the tongue with fire? Because the **tongue** is a small part of the body, but **can deal the most impact to others**. Just like how a small fire can burn an entire forest.
@@ -360,7 +359,6 @@ James 3:5 - Why did the Bible compare the tongue with fire? Because the **tongue
 **Whatever the mouth speaks, it comes from what fills the heart**
 
 Proverbs says, "Death and life are in the power of the tongue"
-
 
 ### 03 - Problem of the Heart
 
@@ -391,6 +389,51 @@ If what you are about to say does not satisfy these questions, don't say it.
 - "I love you too much to stay silent"
 - "Can I share something hard with you because I care?"
 - "I may be wrong, but this is what I'm seeing"
+
+
+---
+
+# Week 6 - Real Faith Chooses God's Wisdom
+February 22, 2026
+**James 3:13-18**
+
+Sometimes, as Christians, we feel that we know everything already. That we're already full of wisdom.
+
+A prime example of this is Paul's life before he became a Christian. As Saul of Tarsus (his name before) he was a notorious hunter of Christians. He had rabbinic teaching. His teacher was the head of the Pharisees and a doctor. He knows the Hebrew Scriptures and the Law like the back of his hand. On the other hand, as a resident of Tarsus (a Greek city), he was a progressive thinker---one who is familiar with philosophy and critical thinking.
+
+## Main Points
+
+1. True wisdom lives low
+2. 
+
+### 01 - True Wisdom Lives Low
+
+True wisdom is always being humble and understanding. 
+
+**Humility does not make us weaker. 
+Humility is alignment with God.**
+
+Best time to show wisdom:
+
+- in times of conflict
+- when we are criticized
+- when we criticize
+- when we are frustrated
+- when things don't go as we planned
+- when we think we are better than others
+- when we surrender to Jesus
+
+In situations when we get mad and we are in the right, there are 2 reactions we can do:
+
+1. Worldly wisdom - "You are in the right. You can get mad and lash anger at the other party"
+2. Biblical wisdom - ""
+
+### 02 - True Wisdom Shows Fruits
+
+Is God's wisdom evident in us?
+
+### 03 - True Wisdom Shows Peace
+
 
 
 

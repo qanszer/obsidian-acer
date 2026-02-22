@@ -102,7 +102,7 @@ Sleep is the top priority between them 3
 
 1. **Sleep for 7-8 hours** at night (6 hours at the very least)
 	- Best time to sleep is 9pm-11pm
-2. **Nap for 30-60 minutes** in the afternoon
+2. **Nap for 20-30 minutes** in the afternoon
 	- Post-prandial alertness dip (prandium=meal) is a descent from high-degree wakefulness to low-level alertness. It is a normal part of the daily rhythm of life that society now neglects
 	- Napping in the afternoon decreases your risk of death from heart disease  by a whopping 37%, and over 60% for workingmen(?)
 	- In the small enclaves of Greece where siestas(afternoon naps) still remain intact in their culture, men are nearly 4 times as likely to reach the age of 90 as American men

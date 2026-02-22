@@ -75,6 +75,12 @@ As for my sleep last night, it was great. No problems at all and it was of decen
 
 ### 2/22/26
 
+Great night sleep haha. Setting up the bed is much faster now; found a good method in doing it. I'll probably drop on mentioning my night sleeps at this point because it's been a smooth ride now. 
+
+My afternoon naps are the problem. I napped in the afternoon again, and it got worse. My 25 minute alarm was not heard at all (prob because I'm in the living room and it was noisy here), and turned into a 4-5 hour sleep. Crazy. I woke up at 5:30pm. Crazyyyy
+
+### 2/23/26
+
 
 
 

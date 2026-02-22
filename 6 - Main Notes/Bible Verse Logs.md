@@ -1283,7 +1283,8 @@ Acts of the Apostles 18:9-10 NLT
 **James 3:1-2 NKJV**
 [1] My brethren, let not many of you become teachers, knowing that we shall receive a stricter judgment. [2] For we all stumble in many things. 
 
-**James 3:17-18 NKJV**
+
+**James :17-18 NKJV**
 [17] But the wisdom that is from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, without partiality and without hypocrisy. [18] Now the fruit of righteousness is sown in peace by those who make peace.
 
 ### Chapter 5

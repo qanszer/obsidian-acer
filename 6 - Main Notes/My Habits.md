@@ -15,7 +15,6 @@ Habits I should continue and be proud of myself for having them
 - Desire for self improvement
 - 
 
-
 ## Established Bad Habits
 
 Habits I should get rid of and be proud of myself for noticing them
@@ -26,16 +25,12 @@ Habits I should get rid of and be proud of myself for noticing them
 - My "yes" is not a true "yes". I'm quick to say it to avoid having to say no. That I've already decided in my heart I'm not going to do it
 - 
 
-
 ## Habits I Want to Have
 
 - Always finding the good in others
 - Exercise
 - Bible reading
 - Praying throughout the day
-
-
-
 
 
 
