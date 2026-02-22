@@ -1299,4 +1299,6 @@ Acts of the Apostles 18:9-10 NLT
 
 
 ---
-## References
+## Reference
+
+The Bible

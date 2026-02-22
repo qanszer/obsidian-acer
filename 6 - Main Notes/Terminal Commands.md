@@ -200,6 +200,35 @@ nano ~/.config/gtk-3.0/bookmarks
 
 ---
 
+### When printer cannot print
+
+```bash
+# List all printers
+lpstat -p -d 
+# Check CUPS status
+systemctl status cups 
+# See if printer is detected 
+lpinfo -v
+```
+
+```bash
+# Restart the printing service 
+sudo systemctl restart cups 
+# Check if it's running 
+systemctl status cups
+```
+
+```bash
+system-config-printer
+```
+
+1. Remove printer
+2. Readd printer
+3. Test print
+
+
+---
+
 # References
 
 chatgpt

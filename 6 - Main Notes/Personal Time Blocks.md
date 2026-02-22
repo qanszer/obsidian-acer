@@ -17,8 +17,9 @@ Tags: [[Productivity]] [[Guide]]
 **10:00 PM**
 
 - Plan out tomorrow's tasks
-- Soap face wash, moisturizer, toothbrush
-- Set alarm
+- Bring headband & water bottle
+- Soap face wash, toothbrush, apple cider treatment
+- Petroleum jelly, moisturizer, set alarm
 - Pray
 
 

@@ -105,11 +105,9 @@ Do not criticize, condemn, or complain
 
 Always find the good in people. And let them know about it.
 
-#### Key Takeaways
+#### Key Takeaway
 
 -  **01:** The one who speaks with a spirit of respect, coupled with genuine affirmation will always influence more people than the one who speaks with criticism, condemnation, and condescension
--  **02:** 
--  **03:** 
 
 
 #### Call-to-Actions
