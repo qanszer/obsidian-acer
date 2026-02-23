@@ -33,9 +33,9 @@ No meet on friday, but sir will be on the room if there are clarifications/thing
 
 ### Design Thinking
 
-**Exam Sched**:
+**Exam Sched**: March 2 / Monday / 5:00-6:00pm
 
-- 
+- Coverage: all modules for prelim
 
 
 ---

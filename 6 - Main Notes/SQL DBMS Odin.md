@@ -8,7 +8,25 @@ Tags: [[Coding]] [[Database]] [[SQL]] [[Odin]]
 # Structured Query Language & Database Management System
 
 
-## ALL CLAUSES
+## Definition and Overview
+
+A basic definition of a database is simply "a structured set of data held in a computer."
+
+A **database** can be described as the **spreadsheet**;
+the **tables** as the **worksheet**; 
+the **rows** as the **relational data**; 
+the **column** as the **data with the same type**.
+
+A **database is a more powerful and sophisticated** version of spreadsheets. It can handle much larger data and is more efficient in query, insertion, and modification of data.
+
+A **relational database** is a database organized according to the relational model of data. In simple terms, the relational model **defines a set of relations** (which we can think of as analogous to tables) and **describes the relationships**, or connections, between them in order to determine how the data stored in them can interact.
+
+
+---
+
+## Master List
+
+**ALL CLAUSES**
 
 ```sql
 SELECT
@@ -24,7 +42,7 @@ CASE
 ```
 
 
-## ALL FUNCTIONS
+**ALL FUNCTIONS**
 
 ```sql
 AVG
@@ -39,7 +57,7 @@ COALESCE
 ```
 
 
-## OTHERS
+**OTHERS**
 
 ```sql
 AS
@@ -50,39 +68,88 @@ BETWEEN
 ```
 
 
+---
 
-A basic definition of a database is simple "a structured set of data held in a computer."
+## Syntax Guides, Examples, and Good Practices
 
-A database can be described as the spreadsheet; the tables as the worksheet; the rows as the relational data; the column as the data with the same type.
+The following are long or short syntax guides for SQL commands and processes.
 
-A database is a more powerful and sophisticated version of spreadsheets. It can handle much larger data and is more efficient in query, insertion, and modification of data.
+### Create a table
 
-A relational database is a database organized according to the relational model of data. In simple terms, the relational model defines a set of relations (which we can think of as analogous to tables) and describes the relationships, or connections, between them in order to determine how the data stored in them can interact.
-
-All data types:
-```
-INTEGER
-TEXT
-BLANK PRIMARY KEY
-```
-
-Create a table:
-```
-CREATE TABLE table_name (variable DATA_TYPE, variable DATA_TYPE);
+**Syntax**
+```sql
+CREATE TABLE TableName (
+	variable DATA_TYPE,
+	variable DATA_TYPE
+);
 ```
 
-Insert an item:
+**Example with Foreign Key**
+```sql
+CREATE TABLE Inventory (
+  InventoryID INT PRIMARY KEY, -- PK
+  ProductID INT NOT NULL, -- FK Column Declaration
+  QuantityOnHand INT NOT NULL,
+  UnitCost INT NOT NULL,
+  RetailPrice INT NOT NULL,
+  CONSTRAINT FK_Inventory_Products -- FK
+  FOREIGN KEY (ProductID)
+  REFERENCES Products(ProductID)
+);
 ```
-INSERT INTO table_name VALUES (variable, variable);
+
+**For Copy Paste**
+```sql
+CREATE TABLE TableName (
+  ColumnName INT PRIMARY KEY, -- PK
+  ColumnName INT NOT NULL, -- FK Column Declaration
+  ColumnName VARCHAR(100) NOT NULL,
+  ColumnName NVARCHAR(100) NOT NULL,
+  ColumnName DECIMAL NOT NULL,
+  CONSTRAINT FK_TableName_TableName -- FK
+  FOREIGN KEY (ForeignTableID)
+  REFERENCES ForeignTable(ForeignTableID)
+);
 ```
+
+
+### Insert an item
+
+**Syntax**
+```sql
+INSERT INTO TableName
+	VALUES
+		(value, 'value'),
+		(value, 'value');
+```
+
+**Good Practice / Example**
+- Add a column description on top for easier viewing
+- Use `[]` for sql keyword column names when necessary (makes the compiler ignore it as a keyword)
+```sql
+INSERT INTO Products (ProductID, ProductName, Category, [Date])
+	VALUES 
+	  (1, 'Magic Sarap', 'Cooking', 'YYYY-MM-DD'),
+	  (2, 'Marlboro Light', 'Cigarette', '2025-02-23'),
+	  (3, 'Pochi', 'Snacks & Candies', '2026-02-23');
+```
+
+**For Copy Paste**
+```sql
+INSERT INTO TableName (ColumnName, [ColumnName], ColumnName)
+	VALUES 
+	  (value, value, value),
+	  (value, value, value);
+```
+
 
 Find an item based on its column:
-```
+```sql
 SELECT column_name FROM table_name;
 ```
 
 Find all items in a table:
-```
+```sql
 SELECT * FROM table_name;
 ```
 
