@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "6de475dd2b4c5e52",
@@ -219,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,10 +236,14 @@
   },
   "active": "bc662096ae795504",
   "lastOpenFiles": [
-    "6 - Main Notes/Terminal Commands.md",
-    "6 - Main Notes/Personal Time Blocks.md",
-    "2 - Source Material/Books/Why We Sleep.md",
     "6 - Main Notes/Journal on Floor Sleeping and Afternoon Naps.md",
+    "6 - Main Notes/2025-26 Prelim Exams.md",
+    "6 - Main Notes/Personal Time Blocks.md",
+    "1 - Rough Notes/Current Skill Level in Programming.md",
+    "3 - Tags/Reflection.md",
+    "6 - Main Notes/Psalm 1.md",
+    "6 - Main Notes/Terminal Commands.md",
+    "2 - Source Material/Books/Why We Sleep.md",
     "6 - Main Notes/Genuine Faith, Living Wisely to the Book of James.md",
     "6 - Main Notes/Bible Verse Logs.md",
     "2 - Source Material/How to Win Friends and Influence People in the Digital Age.md",
@@ -254,15 +258,11 @@
     "6 - Main Notes/Eli&Sevs Archive.md",
     "6 - Main Notes/Apparently the 100 Greatest Books Ever Written.md",
     "5 - Template/Full Reflection Template.md",
-    "3 - Tags/Reflection.md",
     "2 - Source Material/How to Win Friends and Influence People.md",
     "6 - Main Notes/Ta-Da List.md",
     "1 - Rough Notes/Sleep is Important.md",
     "6 - Main Notes/Valentines Ideas.md",
     "6 - Main Notes/Useful Links For Programming.md",
-    "6 - Main Notes/Would You Rather Questions with Eli.md",
-    "6 - Main Notes/Website Inspo Links.md",
-    "6 - Main Notes/HTML Cheat Sheet.md",
     "2 - Source Material/Class/2025-26 2nd Sem/Duke's",
     "2 - Source Material/Class/2025-26 2nd Sem",
     "2 - Source Material/Class/2025-26 1st Sem",

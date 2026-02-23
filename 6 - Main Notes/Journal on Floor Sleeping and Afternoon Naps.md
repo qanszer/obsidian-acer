@@ -81,7 +81,9 @@ My afternoon naps are the problem. I napped in the afternoon again, and it got w
 
 ### 2/23/26
 
+Great night sleep, bad start of the day again.
 
+Tried to nap in the afternoon but didn't work out.
 
 
 ---
