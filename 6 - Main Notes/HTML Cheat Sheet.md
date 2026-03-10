@@ -1,7 +1,7 @@
 
 2025-09-14  18:38
 
-Tags: [[HTML]] [[Coding]]
+Tags: [[HTML]] [[Coding]] [[The Odin Project]]
 
 # HTML Cheat Sheet
 
@@ -9,18 +9,16 @@ https://htmlcheatsheet.com/
 
 Standard template:
 Type "!"
+
 ```html
 <link rel="stylesheet" href="style.css">
 ```
 
-
 Make comment:
 Press ctrl + /
 
-
 Open other page on same website:
 Type "./directory/file.html"
-
 
 Open anchor link in new tab with security:
 Add

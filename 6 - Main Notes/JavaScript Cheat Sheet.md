@@ -1,7 +1,7 @@
 
 2025-10-21  13:28
 
-Tags: [[JavaScript]] [[Coding]]
+Tags: [[JavaScript]], [[Coding]], [[The Odin Project]]
 
 ---
 
@@ -695,6 +695,15 @@ Generally, a return value is **used where the function is an intermediate step i
 After the function calculates the value, it can return the result so it can be stored in a variable; and you can use this variable in the next stage of the calculation.
 
 
+## Function Expressions
+[More info](https://javascript.info/function-expressions)
+
+**Callback Functions**
+[More info](https://javascript.info/function-expressions#callback-functions)
+
+
+## Arrow Functions
+[More info](https://javascript.info/arrow-functions-basics)
 
 
 ---

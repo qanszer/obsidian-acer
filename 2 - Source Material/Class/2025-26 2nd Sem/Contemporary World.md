@@ -161,19 +161,19 @@ It is a vast network of industries, markets, and trade spanning the world
 #### World Economy
 
 
-
-
-
-
-
 ---
 
 ## Midterm
 
 
-### Date - Topic
+### 03/09/26 - Global Interstate System
 
-#### Subtopic
+State - any portion of earth where people are living
+
+Global Interstate System 
+- a system of collaboration between states wherein the primary goal is to improve the economical development of the state
+- example is the high rise condos from singapore wherein it is slowly being implemented here on the philippines; this is in order to accommodate alot of the citizens by only utilizing a small area
+
 
 
 

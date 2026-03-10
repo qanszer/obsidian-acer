@@ -1,7 +1,7 @@
 
 2025-09-14  18:15
 
-Tags:  [[Coding]] [[CSS]] 
+Tags:  [[Coding]], [[CSS]], [[The Odin Project]]
 
 # CSS Cheat Sheet
 

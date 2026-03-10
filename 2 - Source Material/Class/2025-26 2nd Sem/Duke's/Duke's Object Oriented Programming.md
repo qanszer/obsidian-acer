@@ -80,7 +80,7 @@ int add(int a, int b) {
 
 ####  Object-Oriented Programming 
 
-Object- Oriented programming  is a programming paradigm that organizes a program in to objects. which represent real-world entities. Each object is create from a class and contains data (attributes)  and behavior(methods). OOP focuses on modeling real-life systems by combining data and operations into a single unit, making programs easier to design , understand , and maintain. 
+Object- Oriented programming is a programming paradigm that organizes a program in to objects. which represent real-world entities. Each object is create from a class and contains data (attributes)  and behavior(methods). OOP focuses on modeling real-life systems by combining data and operations into a single unit, making programs easier to design , understand , and maintain. 
 
 物件導向程式設計（Object-Oriented Programming, OOP）是一種程式設計範式，主要使用「物件」的概念來組織和簡化程式碼。這種方法強調資料與操作資料的方法（函數）的結合，使得程式更易於理解、維護和擴展。
 

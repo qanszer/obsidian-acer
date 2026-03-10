@@ -14,11 +14,11 @@ Tags: [[Reflection]]
 
 **Mental**: 
 
-- Practicing proper typing (touch typing + home row keys)
 - Following The Odin Project (web developer course)
 - Reading the Bible from cover to cover
 - Reading nonfiction practical books for learning
 - Organize my notes/life through Obsidian
+- Practicing proper typing (touch typing + home row keys)
 
 
 **Physical**: 

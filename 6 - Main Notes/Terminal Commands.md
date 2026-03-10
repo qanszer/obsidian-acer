@@ -10,33 +10,6 @@ Tags: [[Coding]] [[Terminal]] [[Customization]]
 A list of bash commands I commonly use. This is a note to look back to when I need to use them again.
 
 
-Check status of Database Engine:
-```bash
-systemctl status mssql-server --no-pager
-```
-
-Stop the Database Engine:
-```bash
-sudo systemctl stop mssql-server
-```
-
-Start the Database Engine:
-```bash
-sudo systemctl start mssql-server
-```
-
-Restart the Database Engine:
-```bash
-sudo systemctl restart mssql-server
-```
-
-Login as user_admin on SQL Server:
-```bash
-sqlcmd -S 127.0.0.1 -U admin_user -No
-```
-SecureAdmin123!
-
-
 Guide to reinstall older packages when the dependencies need an older one:
 https://green.cloud/docs/how-to-downgrade-a-package-via-apt-get/#:~:text=Estimated%20reading:%203%20minutes%201386,one%2C%20you%20are%20in%20luck.
 ```bash
@@ -73,8 +46,12 @@ then follow instructions
 
 
 ---
-
 ### System Cleaning
+
+**One-liner Cleaner:**
+```bash
+sudo apt autoremove && sudo apt-get clean && sudo journalctl --vacuum-time=3d && rm -rf ~/.cache/thumbnails/*
+```
 
 Clean unneeded packages:
 ```bash
@@ -97,14 +74,7 @@ Clean thumbnail:
 rm -rf ~/.cache/thumbnails/*
 ```
 
-**One-liner Cleaner:**
-```bash
-sudo apt autoremove && sudo apt-get clean && sudo journalctl --vacuum-time=3d && rm -rf ~/.cache/thumbnails/*
-```
-
-
 ---
-
 ### Change terminal's color scheme based on wallpaper
 
 1. Install everything needed
@@ -134,9 +104,7 @@ nano ~/.bashrc
 source ~/.bashrc
 ```
 
-
 ---
-
 ### Video editing
 
 
@@ -179,27 +147,21 @@ for f in *.webm; do ffmpeg -i "$f" -c:v libx264 -c:a aac "${f%.webm}.mp4"; done
 
 ```
 
-
 ---
-
 ### Uninstall an apt app
 
 ```bash
 sudo apt remove --purge AppName && sudo apt autoremove
 ```
 
-
 ---
-
 ### Edit nautilus' bookmarks
 
 ```bash
 nano ~/.config/gtk-3.0/bookmarks
 ```
 
-
 ---
-
 ### When printer cannot print
 
 ```bash
@@ -226,11 +188,63 @@ system-config-printer
 2. Readd printer
 3. Test print
 
+---
+
+### When Nautilus gets bugged again
+
+```bash
+killall -9 gvfsd gvfsd-fuse
+```
+
+
+---
+
+### If the suspend command acts up because of Super Productivity
+
+1. Paste this in the terminal
+```bash
+sudo systemctl disable systemd-suspend.service
+sudo systemctl reset-failed
+```
+
+2. Reboot the device
+3. Check if it's working normally again. If not, refer [here](https://claude.ai/share/11a5ee70-ca70-4450-9b3f-df420e2d0bd7)
+
+
+---
+### Database Server
+
+Check status of Database Engine:
+```bash
+systemctl status mssql-server --no-pager
+```
+
+Stop the Database Engine:
+```bash
+sudo systemctl stop mssql-server
+```
+
+Start the Database Engine:
+```bash
+sudo systemctl start mssql-server
+```
+
+Restart the Database Engine:
+```bash
+sudo systemctl restart mssql-server
+```
+
+Login as user_admin on SQL Server:
+```bash
+sqlcmd -S 127.0.0.1 -U admin_user -No
+```
+SecureAdmin123!
+
 
 ---
 
 # References
 
-chatgpt
-claude
-google
+1. Chatgpt
+2. Claude
+3. Google

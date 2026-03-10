@@ -24,7 +24,7 @@ Tags: [[Church-Service]] [[Christianity]]
 - Is recognizing and trusting Jesus Christ as your Lord and Savior
 - Is anchored in God and His truth---not in circumstances or feelings
 - Is evidenced by obedience, works, and a transformed life
-- perseveres to the end
+- Perseveres to the end
 
 
 **2 Corinthians 13:5**
@@ -34,9 +34,7 @@ Tags: [[Church-Service]] [[Christianity]]
 - You will know by their fruits (evidence/actions) if they are a real Christian
 - Are you really living a life of obedience? 
 
-
 #### James
-
 - The half-brother of Jesus, but he did not mention it himself
 - Not a disciple
 - Jesus' brothers did not believe in Him, but Jesus rose from the dead, He appeared to James personally before appearing to the other disciples
@@ -60,8 +58,9 @@ Tags: [[Church-Service]] [[Christianity]]
 **Romans 10:17**
 - Faith comes by hearing and reading the word of God
 
-
+>
 > When faced with trials, you don't put faith in the situation, you put your faith in God
+>
 
 
 ---
@@ -87,7 +86,6 @@ Wisdom is knowing whether rich or poor, I am rich in God knowing
 
 **Romans 8:28-29**
 - God causes all things to work together for good. But this promise is limited to people who love God
-
 
 #### Chuch Colson
 
@@ -272,7 +270,7 @@ You cannot be a Christian if you don't obey. A Christian is simply a follower of
 3. Obeys not just believes (v21-26)
 
 
-### 01 - Acts Not Just Talks
+### 01 - Real Faith Acts, Not Just Talks
 
 A fruit tree because it is alive. It is not alive because it bears fruit.
 
@@ -288,7 +286,7 @@ Christianity is inside out. Because we're loved by God, we can show the same thi
 | Faith in Christ transforms                                         |                                                                            |
 
 
-### 02 - Surrenders Not Just Knows
+### 02 - Real Faith Surrenders, Not Just Knows
 
 Knowing is not equal to salvation. Just because you know that the only way to heaven is Jesus
 
@@ -302,7 +300,7 @@ Demons know Jesus. They know about the judgement day, about salvation, and all t
 - They are Christians in culture, but not a Christians in heart
 
 
-### 03 - Obeys Not Just Believes
+### 03 - Real Faith Obeys, Not Just Believes
 
 Real faith grows---it is not perfect. 
 
@@ -435,7 +433,156 @@ Is God's wisdom evident in us?
 ### 03 - True Wisdom Shows Peace
 
 
+---
+
+# Week 7 - Real Faith is Devotion to God
+March 1, 2026
+**James 4:4-12**
+
+## Main Points
+
+1. Whole Heart
+2. Submissive to God
+
+
+### 01 - Whole Heart
+
+>
+> William Barclay
+> 
+> *"When we sin, we break God's heart, as the heart of one partner in a marriage may be broken by the desertion of the other"*
+>
+
+
+No one can serve 2 masters. The bible says it is *impossible*. 
+
+**Things of the World**
+
+- lust of the flesh (sex, eating)
+- lust of the eyes (covetousness, comparison, greed)
+- pride of life (to impress people)
+
+**Common Idols**
+
+- money
+- possessions
+- power
+- prestige
+- reputation
+- position
+- family
+- ministry
+
+
+So idols can be good or bad in nature, but all of them are wrong.
+
+
+**Everybody has idols. The Christian life is a gradual demolition of the idols in one's life, one at a time.**
+
+
+The Demas Problem
+
+He was a disciple(?) of Paul but eventually loved the world more.
+
+
+### 02 - Submissive Heart
+
+You have a hard time believing the Bible because you have a hard time in truly trusting in God. And you won't have real faith in God if you do not know Him.
+
+The Word of God is ultimately for our protection
+
+**If you fear people more than God, you will begin to compromise. Always fear God more**
+
+
+### 03 - Sanctified Heart
+
+How do you develop a sanctified heart?
+
+Cleanse your hands and purify your hearts
+
+> 
+> *"Purity of heart is to will one thing."*
+>
+
+#### When you sin
+
+When you sin, be miserable and mourn and weep. Do not be comfortable with sin. Do not be neutral about it. Take sin seriously
 
 
 ---
+
+# Week 8 - Real Faith Surrenders to God's Sovereignty
+March 8, 2026
+**James 4:13; James 5:1-6**
+
+## Main Points
+
+1. Our Will
+2. Our Way
+3. Our Wealth
+
+### 01 - Our Will
+
+In our will, do not exclude God. The decisions you make in relation with yourself, your time, place, duration, purpose, and success, always include God.
+
+Include God in the picture. Do not exclude Him.
+
+Many of us plan without asking God. That is why James is warning us of excluding God in our plans.
+
+
+We are ultimately not in control of our lives.
+
+**James 4:14** says,
+*"Yet you do not know what your life will be like tomorrow. Yuu are just a vapor that appears for a litle while and then vanishes away."*
+
+We do not know if we will die the next day. If there will be a war the next month, or if we will lose our house the the next hour.
+
+**James 4:15-16**
+*Instead, you ought to say, "**If the Lord wills, we will live and also do this or that.**" But as it is, you boast in your arrogance; all such boasting is evil.*
+
+It is not a phrase we add to sentences. It is **an attitude of surrender to God**.
+
+
+**Checklist to know if your plans align with God's will:**
+
+- You have truly prayed and asked for His guidance
+- Your attitude is humble
+- Your motives are pure
+- Your plan agrees with God's Word
+- You are more than willing to let go of the plans
+
+
+### 02 - Our Way
+
+> 
+> *Delayed obedience is sin*
+> *Selective obedience is sin*
+> 
+> Research on this
+>
+
+**1 Corinthians 8:1**
+*We know that we all have knowledge. **Knowledge makes arrogant, but love edifies**.*
+
+Application:
+
+Trust in the Lord with all your heart and do not lean on your own understanding.
+In all your ways acknowledge Him, and He will make your paths straight.
+
+
+### 03 - Our Wealth
+
+There is nothing wrong in being wealthy
+
+This is a warning to the unjustly wealthy.
+They trust in their money for security, and not to God.
+
+Jesus told us to beware and be on guard against every form of greed
+
+
+#### What should be our attitude toward money?
+
+Instruct those who are rich in this present world not to be conceited or to fix their hope on the uncertainty of riches, but on God, who richly supplies you with all things to enjoy
+
+**Fix your hope not on the uncertainty of riches, but on God.**
 

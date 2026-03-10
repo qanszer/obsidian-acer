@@ -18,17 +18,12 @@ Tags: [[Eli]] [[Reflection]]
           • Rock climbing (mall)
           • Laser tag (mall)
           • Ice skating (mall)
-          • Train experience
 - Overnight together haha 
-- Movies to watch
-          • Case for Christ
-          • Facing the giants
-          • God's not Dead
+- Movie - God's not Dead
 - Vision Board
-- Online Game
 - Cook together
 - Have shared income generating activity
-- patilawon si eli ug strawberry, taco
+- patilawon si eli ug taco
 - one of us gets drunk and taken care of by the other
 - 2am midnight street walk
 - sm fairview fantasy world 299
@@ -55,11 +50,17 @@ Tags: [[Eli]] [[Reflection]]
 - Museum date
 - Recreate first date
 - Southfarm date
+- Movies to watch
+          • Case for Christ
+          • Facing the giants
 - Island hopping date
 - Night walking
+- Online Game
 - Gym date (disaster) hahaha
 - Public kissing sa Passiflora
+- Train experience
 - Roblox date!!!
+- patilawon si eli ug strawberry
 
 
 

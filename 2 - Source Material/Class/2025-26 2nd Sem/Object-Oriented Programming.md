@@ -1,4 +1,4 @@
-
+ 
 2026-01-30  19:55
 
 Tags: [[School]] [[Coding]] [[Java]]
@@ -67,7 +67,7 @@ Use `var` instead
 
 #### Printing Syntax:
 
-`System.out.printIn("variable");`
+`System.out.println("variable");`
 
 #### For Simple Conditionals:
 
@@ -139,8 +139,68 @@ for (int1 = 0; i < 5; i++) {
 
 ### Date - Topic
 
-#### Subtopic
+#### Note About Else If
 
+If your code block has a long list of else if like:
+
+```
+else () {
+} else if () {
+} else if () {
+} else if () {
+} else if () {
+} else if () {
+} else if () {
+} else if () {
+} else if () {
+}
+```
+
+It is better to make it like this:
+
+```
+if () {
+}
+if () {
+}
+if () {
+}
+if () {
+}
+```
+
+This way, the execution does not have to go through each if statement.
+
+
+For `for` loops, `continue` and `break` are frequently used in real programs.
+
+
+#### Stored Procedure
+
+- Inside of Stored procedure: TSQl - Transaction SQL
+- What's inside depends on the programmer
+- Benefit: you can use it without editing the website itself
+- Best for maintaining websites and systems
+- You can combine `INSERT` and `SELECT` (the most common combi) in one statement and many other combinations
+
+
+**INSERT-SELECT**
+
+```sql
+INSERT INTO OldStudent(Id, Name, Course) // ALWAYS include the column names for safety and to save yourself the trouble of debugging for 3-6 hours because of missing this)
+SELECT Id, Name FROM Student
+```
+
+
+#### Syntax for Stored Procedure
+
+```
+CREATE PROCEDURE ProcedureName
+(
+@columnName dataType,
+@columnName dataType
+)
+```
 
 
 ---

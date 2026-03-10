@@ -53,14 +53,17 @@ Tags: [[Book]]
 -  **03:** 
 
 
-#### Actions
-
-What will I actually DO with this? (specific, concrete actions)
+#### Call-to-Actions
 
 -  
 
 
-#### Favorite Quotes/Realizations
+#### Learnings
+
+- 
+
+
+#### Favorite Quotes
 
 > 
 > *“Great quotes from the book will be here.”*
@@ -73,39 +76,6 @@ What will I actually DO with this? (specific, concrete actions)
 
 ---
 
-
-## 00 - 
-
-#### Main Idea
-
-(1-3 sentences)
-
-#### Key Takeaways
-
--  **01:** 
--  **02:** 
--  **03:** 
-
-
-#### Actions
-
-What will I actually DO with this? (specific, concrete actions)
-
--  
-
-
-#### Favorite Quotes/Realizations
-
-> 
-> *“Great quotes from the book will be here.”*
-> 
-
-> 
-> *“Great quotes from the book will be here.”*
-> 
-
-
----
 
 PREFACE
 
@@ -160,15 +130,9 @@ Dr. Viktor Frankl
 
 "Don't aim at success---the more you aim at it and make it a target, the more you are going to miss it. 
 
-  
-
 For success, like happiness, cannot be pursued---it must ensue, and it only does so as an unintended side effect of one's personal dedication to a cause greater than oneself, or as the byproduct of one's surrender to a person other than oneself. 
 
-  
-
 Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. 
-
-  
 
 I want you to listen to what your conscience commands you to do and go on to carry it out to the best of your knowledge. Then you will live to see that in the long run---in the long run, I say!---success will follow you precisely because you had forgotten to think about it."
 

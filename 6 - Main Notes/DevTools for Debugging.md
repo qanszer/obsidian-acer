@@ -1,7 +1,7 @@
 
 2026-02-03  16:46
 
-Tags: [[Coding]] [[CSS]] [[HTML]] [[JavaScript]]
+Tags: [[Coding]] [[CSS]] [[HTML]] [[JavaScript]] [[The Odin Project]]
 
 ---
 

@@ -15,6 +15,10 @@ lorem ipsum
 
 # AdU - Adamson University
 
+**IT Department Number**
+8524-2011-325
+
+
 **2025-26  |  2nd Sem (Current)**
 
 - OOP

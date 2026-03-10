@@ -1,10 +1,10 @@
 
 2025-09-26  18:30
 
-Tags: [[Coding]] [[Database]] [[SQL]] [[Odin]]
+Tags: [[Coding]], [[Database]], [[SQL]], [[The Odin Project]]
 
 ---
-
+paranaquesucatevacom@pnb.com.ph
 # Structured Query Language & Database Management System
 
 
@@ -127,7 +127,8 @@ INSERT INTO TableName
 - Add a column description on top for easier viewing
 - Use `[]` for sql keyword column names when necessary (makes the compiler ignore it as a keyword)
 ```sql
-INSERT INTO Products (ProductID, ProductName, Category, [Date])
+INSERT INTO Products
+	(ProductID, ProductName, Category, [Date])
 	VALUES 
 	  (1, 'Magic Sarap', 'Cooking', 'YYYY-MM-DD'),
 	  (2, 'Marlboro Light', 'Cigarette', '2025-02-23'),
@@ -136,7 +137,8 @@ INSERT INTO Products (ProductID, ProductName, Category, [Date])
 
 **For Copy Paste**
 ```sql
-INSERT INTO TableName (ColumnName, [ColumnName], ColumnName)
+INSERT INTO TableName
+	(ColumnName, [ColumnName], ColumnName)
 	VALUES 
 	  (value, value, value),
 	  (value, value, value);
@@ -335,7 +337,7 @@ SELECT * FROM family_members WHERE num_legs = (SELECT MIN(num_legs) FROM family_
 
 ### NULL
 
-```sql
+```
 Sometimes, in a given row, there is no value at all for a given column. For example, a dog does not have a favorite book, so in that case there is no point in putting a value in the _favorite_book_ column, and the value is `NULL`. In order to find the rows where the value for a column is or is not `NULL`, you would use `IS NULL` or `IS NOT NULL`.
 ```
 
@@ -510,6 +512,55 @@ Also, you can use `[]` if the word you use for the column indicator is a keyword
 
 **Use Stored Procedures to have reusable functions for established databases**
 
+
+---
+
+CREATE TABLE Products (
+  ProductID INT PRIMARY KEY,
+  ProductName VARCHAR(30) NOT NULL,
+  Category VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE  Inventory (
+  InventoryID INT PRIMARY KEY,
+  ProductID INT NOT NULL,
+  QuantityOnHand INT NOT NULL,
+  UnitCost INT NOT NULL,
+  RetailPrice INT NOT NULL,
+  CONSTRAINT FK_Inventory_Products
+  FOREIGN KEY (ProductID)
+  REFERENCES Products(ProductID)
+);
+
+INSERT INTO Products (ProductID, ProductName, Category)
+	VALUES 
+	  (1, 'Magic Sarap', 'Cooking'),
+	  (2, 'Marlboro Light', 'Cigarette'),
+	  (3, 'Pochi', 'Snacks & Candies');
+	  
+INSERT INTO Inventory (InventoryID, ProductID, QuantityOnHand, UnitCost, RetailPrice)
+  VALUES
+    (1, 3, 325, 3, 4),
+    (2, 2, 14, 15, 20),
+    (3, 1, 46, 20, 25);
+
+
+-- SELECT Products.ProductName, Inventory.QuantityOnHand
+-- FROM Products
+--   INNER JOIN Inventory
+--   ON Products.ProductID = Inventory.ProductID;
+
+
+-- UPDATE Products
+--   SET Category = 'Tabacco'
+--   WHERE ProductID = 2;
+
+-- UPDATE Inventory
+--   SET RetailPrice = 50
+--   WHERE ProductID = 2;
+
+-- SELECT * FROM Products;
+-- SELECT * FROM Inventory;
 
 
 

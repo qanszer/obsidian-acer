@@ -20,4 +20,4 @@ lorem ipsum
 
 ---
 
-## References
+# References

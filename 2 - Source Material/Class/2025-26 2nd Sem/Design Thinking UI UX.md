@@ -99,10 +99,62 @@ UX is the overall feeling and usability of a product. It is what the user feels.
 ## Midterm
 
 
-### Date - Topic
+### 03/09/26 - UI Design Trends
 
-#### Subtopic
+**Skeuomorphism**
+- made to appear like the real-world designs
+- seen in older versions
 
+**Minimalism**
+- follows the "less is more" principle
+- goal is to make the design readable
+- modern trend
+
+**Flat Design**
+- simplicity is the main focus
+- efficiency
+- faster to load
+- flat design 2.0 adds subtle shadows
+
+**Bauhaus Style**
+- centers on gemoetric and abstract shapes
+- Germany inspired
+- this is only used for non-functional details (backgrounds)
+
+**Bold Typography**
+- typography is the focus of the design
+- big statements and shock value
+
+**Neumorphism**
+- makes the element appear to be raised from the background
+- popping effect
+- combination of flat design and skeuomorphism
+- usually used for elements where
+	- there is interactions
+	- things the user should look at
+
+**Glassmorphism**
+- transparency and blur
+- use of opacity
+- proper contrasting is important
+
+**Animation/Motion**
+- for engagement and attraction to the user
+- lessen the animations
+
+**Illustration**
+- gives more personality
+
+**Dark Mode**
+- good practice to implement for websites
+- make it system based
+
+
+Things to ask
+- make the ppts downloadable para madali makagawa ng reviewers
+- ask about the format of the letter, since legal size yung example
+- is the body of the letter copied lang din or gagawa ng sarili
+- i just want to raise the concern about the time ng whole final project sir
 
 
 ---

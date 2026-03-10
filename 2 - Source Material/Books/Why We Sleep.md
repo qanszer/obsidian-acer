@@ -1,8 +1,8 @@
 
 2026-02-08  09:40 am
 
-Tags: [[Healthy-Living]] [[Book]]
-t
+Tags: [[Healthy-Living]], [[Book]]
+
 #### While Reading
 
 -  **Mark passages** that resonate or seem useful

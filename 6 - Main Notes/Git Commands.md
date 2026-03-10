@@ -1,7 +1,7 @@
 
 2025-09-14  19:02
 
-Tags: [[Terminal]] [[Git]] [[Github]] [[Coding]]
+Tags: [[Terminal]] [[Git]] [[Github]] [[Coding]] [[The Odin Project]]
 
 # Git Commands
 

@@ -102,6 +102,49 @@ So please, me, unlearn the part of yourself---that overly trained muscle---of cr
 > 
 
 
+---
+
+## 01 - 
+
+#### Main Idea
+
+(1-3 sentences)
+
+#### Key Takeaways
+
+-  **01:** 
+-  **02:** 
+-  **03:** 
+
+
+#### Call-to-Actions
+
+-  
+
+
+#### Learnings
+
+- People never blame themselves for anything. Or at least rarely do. Even criminals have their own way of justifying their acts. What more about the people we come in contact with everyday?
+- Again, people don't criticize themselves for anything, no matter how wrong they may be
+- Criticism does not win the other side. It will not correct the situation. Instead, it only builds up resentment in them
+- Criticisms are like boomerangs--they return to you. The person we are trying to correct will most probably justify themselves, build resentment to us, and think "I don't see how I could have done any differently from what I have"
+- Read the autobiography of Abraham Lincoln to see his success in dealing with people firsthand
+- When you hear other people criticize someone, say "Don't criticize them. We would be just like them under similar situations"
+
+
+#### Favorite Quotes
+
+> 
+> *“Criticism is futile because it puts people on the defensive and usually makes them strive to justify themselves. Criticism is dangerous because it wounds a person’s precious pride, hurts their sense of importance, and arouses resentment.”*
+> 
+
+> 
+> *“Great quotes from the book will be here.”*
+> 
+
+
+---
+
 
 
 

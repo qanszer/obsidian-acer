@@ -121,7 +121,8 @@ Literal checklist to check/test before launching a website to production
 #### 8. LawsOfUX
 https://lawsofux.com/
 Comprehensive list and guide of the laws for UX design
-
-
+#### 9. RealTimeColors
+https://www.realtimecolors.com/?colors=050315-fbfbfe-2f27ce-dedcff-433bff&fonts=Inter-Inter
+Visualize colors and fonts in a real website. Also has a plugin for figma
 
 
