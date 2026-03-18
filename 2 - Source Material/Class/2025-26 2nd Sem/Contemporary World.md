@@ -172,8 +172,45 @@ State - any portion of earth where people are living
 
 Global Interstate System 
 - a system of collaboration between states wherein the primary goal is to improve the economical development of the state
-- example is the high rise condos from singapore wherein it is slowly being implemented here on the philippines; this is in order to accommodate alot of the citizens by only utilizing a small area
+- example is the high rise condos from singapore wherein it is slowly being implemented here on the philippines; this is in order to accommodate alot of the citizens while only utilizing a small area
 
+### 03/09/26 - Global Divides: North and South
+
+**Global Divides**
+- disparities between regions and countries in socioeconomics, technology, and development
+- examples include:
+	- income inequality
+	- access to adeucation and healthcare
+	- digital technology
+	- infrastructure
+	- overall quality of life
+
+**North**
+- economically advanced countries
+- higher standards of living
+
+**South**
+- less economically developed countries
+- poverty
+
+**Global North**
+- synonym for 1st world countries
+- richest countries in the world 
+- based on GNP per capita
+- Australia, Vatican City, Canada, Japan, Israel, New Zealand, Germancy, etc
+- advantages:
+	- power dynamics - global policies favor them
+	- policy frameworks - more influence in international affairs and decision making processes
+	- gross domestic products (gdp)
+	- access to quality infrastructures - superior quality
+	- education and literacy - more extensive educational structure
+	- technological advancement
+- problems
+	- industrial pollution - severe
+	- colonialism - exploits resources and labor from the South
+
+**Global South**
+- 
 
 
 

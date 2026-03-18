@@ -17,6 +17,10 @@ During lecture, some students have questions but they don't ask it when the prof
 **Solution:** Use/make an app where the students can type out their questions there anonymously, in real time, during the lecture wherein the professor will read and answer it after a segment of their lecture is done.
 
 
+### Dedicated Workout Planner App/Website
+
+Excel-based layout for a workout planner. Its additional feature is that you can look back at the amount of reps you had on a specific workout for previous dates/weeks/months to track the growth of your progress
+
 
 
 

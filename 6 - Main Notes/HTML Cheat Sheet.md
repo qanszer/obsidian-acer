@@ -10,6 +10,9 @@ https://htmlcheatsheet.com/
 Standard template:
 Type "!"
 
+**Custom boilerplate:**
+Type "5html"
+
 ```html
 <link rel="stylesheet" href="style.css">
 ```

@@ -109,42 +109,142 @@ source ~/.bashrc
 
 
 **Change video format to mp4:**
-```
-ffmpeg -i input.webm -c:v libx264 -c:a aac output.mp4
+```bash
+ffmpeg -i input.webm -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -c:v libx264 -c:a aac output.mp4
 ```
 
 
 **Merge videos:**
 1. Create a text file listing the videos
-```
+```bash
 file 'video1.webm'
 file 'video2.webm'
 ```
 
 2. Run the merge command. Change the output file name as needed
 
-Merge + convert to mp4
-```
-ffmpeg -f concat -safe 0 -i videos.txt -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -c:v libx264 -crf 23 -preset medium -c:a aac -b:a 128k output.mp4
+a. Merge + convert to mp4
+```bash
+ffmpeg -f concat -safe 0 -i videos.txt
+-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -c:v libx264 -crf 23 -preset medium -c:a aac -b:a 128k output.mp4
 ```
 
-Merge only
-```
+b. Merge only
+```bash
 ffmpeg -f concat -safe 0 -i videos.txt -c copy output.mp4
-
 ```
 
 
 **Cut video by time:**
-```
+```bash
 ffmpeg -ss 00:00:00 -i input.mp4 -t 00:00:30 -c copy output.mp4
 ```
 
 
 **Mass convert webm to mp4**:
-```
-for f in *.webm; do ffmpeg -i "$f" -c:v libx264 -c:a aac "${f%.webm}.mp4"; done
 
+libx264 w 4 threads
+```bash
+for f in *.mp4; do
+  output="${f%.mp4}_compressed.mp4"
+  
+  # Skip if output already exists
+  if [ -f "$output" ]; then
+    echo "Skipping $f (already compressed)"
+    continue
+  fi
+  
+  nice -n 19 ffmpeg -i "$f" -threads 4 \
+    -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" \
+    -c:v libx264 \
+    -crf 23 \
+    -preset slow \
+    -c:a aac \
+    -b:a 128k \
+    -movflags +faststart \
+    -pix_fmt yuv420p \
+    -y \
+    "$output"
+done
+```
+
+libx265 w 8 threads
+```bash
+for f in *.mp4; do
+  output="[c]${f%.mp4}-h265.mp4"
+  
+  if [ -f "$output" ]; then
+    echo "Skipping $f (already compressed)"
+    continue
+  fi
+  
+  nice -n 19 ffmpeg -i "$f" -threads 8 \
+    -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" \
+    -c:v libx265 \
+    -crf 28 \
+    -preset medium \
+    -c:a aac \
+    -b:a 128k \
+    -movflags +faststart \
+    -pix_fmt yuv420p \
+    -y \
+    "$output"
+done
+```
+
+```bash
+#!/bin/bash
+
+# Enable case-insensitive globbing to catch .MP4, .Mkv, etc.
+shopt -s nocaseglob
+
+# Loop through all common video formats
+for f in *.{mp4,mkv,webm,mpeg,mpg,mov,avi,flv}; do
+  # Check if the file exists (prevents errors if a format is missing)
+  [ -e "$f" ] || continue
+
+  # Create output name: original_name_h265.mp4
+  output="[c]${f%.*}_h265.mp4"
+  
+  if [ -f "$output" ]; then
+    echo "Skipping $f (already compressed)"
+    continue
+  fi
+  
+  echo "Processing: $f"
+  
+  # -threads 8: Keeps your Ryzen 5700U from overheating
+  # -tag:v hvc1: Essential for H.265 to play on Apple devices/standard players
+  nice -n 19 ffmpeg -i "$f" \
+    -threads 8 \
+    -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" \
+    -c:v libx265 \
+    -crf 28 \
+    -preset medium \
+    -tag:v hvc1 \
+    -c:a aac \
+    -b:a 128k \
+    -movflags +faststart \
+    -pix_fmt yuv420p \
+    -y \
+    "$output"
+done
+
+# Turn off case-insensitive globbing
+shopt -u nocaseglob
+
+```
+
+**Run a script unattended**
+```bash
+tmux new -s convert
+# then run your loop script inside
+
+tmux attach -t convert
+# run the existing tmux session
+
+tmux kill-session -t convert
+# kill the tmux session
 ```
 
 ---

@@ -586,3 +586,63 @@ Instruct those who are rich in this present world not to be conceited or to fix 
 
 **Fix your hope not on the uncertainty of riches, but on God.**
 
+
+---
+
+# Week 9 - Real Faith Experiences God's Power
+March 15, 2026
+**James 5:7-20**
+
+
+**The Book of James**
+- practical examples to living the Christian life
+- faith, obedience and ethics in our everyday life
+
+
+### 01 - Persevere: Enduring Power
+
+We wait with the hope of salvation
+We wait while working, not falling to idleness
+We wait in the good times and the bad times
+
+**Importance of Patience**
+- tests our humility
+- makes us rely on God
+
+In times of hardship, can we still follow our faith?
+
+**Ungodly mindsets:**
+- You are running out of time
+- We have all the time in the world
+
+In life, we will endure rejection, persecution, and judgement. But 
+
+
+### 02 - Pray: Miraculous Power
+
+
+### 03 - Proclaim: Saving Power
+
+**We should be shepherds**
+- Seek the lost
+- Keep them safe
+- Thinks of himself last because the flock depends on him
+
+> 
+> A **leader** must be **prepared to be misunderstood** and **bear the burden of decisions** done for the greater good
+> 
+
+> 
+> *"To make mistakes is human, but to persist in error is diabolical"*
+> 
+
+
+**Public Speaking Notes**
+
+- Don't make direct, action-oriented points, or insight bullet points on the powerpoint presentation. As an audience, it's mind numbing to to be spoonfed the learnings
+- It is better to give stories and give the lessons indirectly. It increases engagement and stories engage with the audience much better because it activates their imagination
+- Start with a story
+
+
+---
+

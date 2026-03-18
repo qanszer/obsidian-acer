@@ -58,7 +58,6 @@ This book is a wake-up call to society about the importance of sleep and on how 
 **CONSEQUENCES OF CONTINUOUS LACK OF SLEEP (Less than 6-7 hours)**
 
 - Demolishes your immune system
-- More than doubles your risk of cancer
 - Much more likely to develop Alzheimer's disease
 - Disrupts blood sugar levels to the point that you would be classified as pre-diabetic
 - Increases the likelihood of your coronary arteries becoming blocked and brittle, eventually resulting toward cardiovascular disease, stroke, and congestive heart failure
@@ -113,4 +112,4 @@ Sleep is the top priority between them 3
 
 I decided to drop this book after chapter 1 because of the loss of interest in reading the rest of it after knowing about its statistical issues etc. 
 
-Most of the book's info (~80%) still stand, so what I did is that I asked Claude AI to summarize all the call-to-action infos from this book.
+Most of the book's info (~80%) still stand, so what I did is that I asked Claude AI to summarize all the call-to-action infos from this book, which can be seen at the start of this note.

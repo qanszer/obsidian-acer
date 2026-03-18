@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "6 - Main Notes/Personal Weight Gain Guide.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -24,17 +24,19 @@
             }
           },
           {
-            "id": "a28f8acfd6e93748",
+            "id": "21120e14e9b960ac",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Understanding Errors.md",
+                "file": "6 - Main Notes/Becoming a TOP Success Story.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Understanding Errors"
+              "title": "Becoming a TOP Success Story"
             }
           }
         ],
@@ -137,7 +139,7 @@
       {
         "id": "a0a7259539ec42da",
         "type": "tabs",
-        "dimension": 73.26906222611744,
+        "dimension": 64.85539000876425,
         "children": [
           {
             "id": "284a1ba8a72bb0af",
@@ -193,41 +195,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Understanding Errors.md",
+                "file": "6 - Main Notes/Becoming a TOP Success Story.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Understanding Errors"
-            }
-          },
-          {
-            "id": "5a13cc8e6661faca",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Outline of Becoming a TOP Success Story"
             }
           }
         ],
         "currentTab": 3
       },
       {
-        "id": "5fa6fc8131ee4345",
+        "id": "aa23b6446492ced8",
         "type": "tabs",
-        "dimension": 26.73093777388256,
+        "dimension": 35.14460999123576,
         "children": [
           {
-            "id": "57a4cc4766620b47",
+            "id": "d459e4c6ded27c8a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -249,34 +241,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a28f8acfd6e93748",
+  "active": "21120e14e9b960ac",
   "lastOpenFiles": [
-    "6 - Main Notes/Personal Engagement Log.md",
-    "6 - Main Notes/Thermal Replacement.md",
-    "6 - Main Notes/Understanding Errors.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Advanced DBMS.md",
-    "6 - Main Notes/SQL DBMS Odin.md",
-    "6 - Main Notes/HTML Cheat Sheet.md",
-    "6 - Main Notes/Problem Solving.md",
-    "2 - Source Material/How to Win Friends and Influence People.md",
-    "5 - Template/Engagement Reflection Template.md",
-    "2 - Source Material/Books/Why We Sleep.md",
+    "6 - Main Notes/Becoming a TOP Success Story.md",
     "6 - Main Notes/Worn Clothing Logs.md",
-    "6 - Main Notes/Comprehensive Item Logs.md",
-    "6 - Main Notes/Personal Weight Gain Guide.md",
+    "6 - Main Notes/JavaScript Cheat Sheet.md",
     "2 - Source Material/Class/2025-26 2nd Sem/Design Thinking UI UX.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Contemporary World.md",
-    "3 - Tags/Odin.md",
-    "6 - Main Notes/Bible Verse Logs.md",
-    "6 - Main Notes/Genuine Faith, Living Wisely to the Book of James.md",
+    "6 - Main Notes/Personal Engagement Log.md",
+    "6 - Main Notes/Problem Solving.md",
     "6 - Main Notes/Terminal Commands.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Object-Oriented Programming.md",
-    "6 - Main Notes/Autobiographies of People I Want to Read.md",
-    "6 - Main Notes/Reflection to My Plans.md",
     "1 - Rough Notes/Quick Note.md",
-    "6 - Main Notes/Current Overall Priorities.md",
-    "6 - Main Notes/Doing Life, Leading Lives.md",
-    "5 - Template/Default Template.md",
+    "2 - Source Material/Class/2025-26 2nd Sem/Contemporary World.md",
+    "2 - Source Material/Class/2025-26 2nd Sem/Object-Oriented Programming.md",
+    "2 - Source Material/How to Win Friends and Influence People.md",
+    "5 - Template/Full Book Template.md",
+    "5 - Template/Book Template.md",
+    "6 - Main Notes/About Criticisms.md",
+    "2 - Source Material/The Bogleheads' Guide to Investing.md",
+    "2 - Source Material/Books/Why We Sleep.md",
+    "6 - Main Notes/A Short Essay on SocMed Addiction from Youtube.md",
+    "6 - Main Notes/Personal IT Course Logs.md",
+    "5 - Template/Engagement Reflection Template.md",
+    "6 - Main Notes/Personal Weight Gain Guide.md",
+    "6 - Main Notes/Relationship Advice from the Bible.md",
+    "6 - Main Notes/Genuine Faith, Living Wisely to the Book of James.md",
+    "6 - Main Notes/Comprehensive Item Logs.md",
+    "6 - Main Notes/The Scarlet Worm's Relation to The Gospel.md",
+    "Media/Pasted image 20260314203512.png",
+    "6 - Main Notes/HTML Cheat Sheet.md",
+    "2 - Source Material/Class/2025-26 2nd Sem/Advanced DBMS.md",
+    "Media/nord-night-city.png",
     "-f \"$HOME",
     "2 - Source Material/Class/2025-26 2nd Sem/Duke's",
     "2 - Source Material/Class/2025-26 2nd Sem",
@@ -291,8 +285,6 @@
     "Media/Pasted image 20250929184023.png",
     "Media/Pasted image 20250929160258.png",
     "Media/Pasted image 20250916171607.png",
-    "Media/Pasted image 20251130230621.png",
-    "Media/Pasted image 20251130230602.png",
     "Media/networking1-reviewer-prelim.pdf",
     "Untitled.canvas"
   ]

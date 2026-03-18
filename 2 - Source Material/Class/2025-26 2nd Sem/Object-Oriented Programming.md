@@ -120,24 +120,10 @@ for (int1 = 0; i < 5; i++) {
 
 ---
 
-### 02/10/26 - Topic
-
-#### Subtopic
-
-
-
-
-
-
-
-
-
----
-
 ## Midterm
 
 
-### Date - Topic
+### 03/09/26 
 
 #### Note About Else If
 
@@ -200,6 +186,141 @@ CREATE PROCEDURE ProcedureName
 @columnName dataType,
 @columnName dataType
 )
+```
+
+
+---
+
+### 03/10/26 - Arrays
+
+**Syntax**
+```java
+int[] numbers = {10, 20, 30, 40, 50};
+```
+
+
+**2 Methods of Printing Arrays**
+
+1. Standard for loop
+```java
+for (int i = 0; i < numbers.length; i++) {
+	System.out.print(numbers[i] + " ");
+}
+```
+
+2. Foreach loop specially for arrays
+```java
+for (int element : numbers) {
+	System.out.print(element + " ");
+}
+```
+
+
+---
+
+### 03/12/26 - Multidimensional Arrays
+
+Basically arrays within arrays
+
+**Syntax**
+```java
+int[][] matrix = {
+	{1,5,7},
+	{8,2,6,3},
+	{9,2},
+	{1},
+	{2,3}
+};
+```
+
+On the code above, the first array (main array) is the outermost bracket. See below
+
+```java
+int[][] matrix = { // this one
+	{1,5,7},
+	{8,2,6,3},
+	{9,2},
+	{1},
+	{2,3}
+}; // and this one
+```
+
+That means that the ones inside it are only counted as 1 single element for each that are separated by a comma. See below
+
+```java
+int[][] matrix = {
+	{1,5,7}, // separated by comma here, meaning it's only 1 element
+	{8,2,6,3}, // 2nd element separated by comma
+	{9,2}, // 3rd element
+	{1}, // 4th
+	{2,3} // 5th element
+};
+```
+
+They can be called inside the code through `indexes`. See below
+
+```java
+int[][] matrix = {
+	{1,5,7}, // this whole line can be called with matrix[0]
+	{8,2,6,3}, // matrix[1]
+	{9,2}, // matrix [2] 
+	{1},
+	{2,3}
+};
+```
+
+The thing is, each of those elements are arrays by themselves. See below
+
+```java
+int[][] matrix = {
+	{1,5,7}, // 1st element can be called with matrix[0][0]
+	{8,2,6,3},
+	{9,2},
+	{1},
+	{2,3}
+};
+```
+
+The output of calling `matrix[0][0]` is 1
+
+But if you were to call `matrix[0]`, you will get a hashcode of the element. The only way to solve this is through a for loop. Or if you don't mind having the square brackets, then you can do another method
+
+For loop wherein the output has no square bracket:
+```java
+for (int i = 0; i < matrix[0].length; i++) {
+	System.out.print(matrix[i] + " ");
+}
+```
+
+
+**Example Exercise**
+
+1. Expected Output
+```
+1 5 7
+8 2 6 3
+9 2
+1
+2 3
+```
+
+2. Solution
+```java
+// multidimensional array variable
+int[][] matrix = { 
+	{1,5,7},
+	{8,2,6,3},
+	{9,2},
+	{1},
+	{2,3}
+};
+
+for (int i=0;  i < matrix.length; i++) { // 1st loop is for the vertical length of the output + the actual elements
+	for (int j=0; j < matrix[i].length; j++) { 
+		System.out.print(matrix[i][j] + " ");
+	}
+	System.out.println(); // To add new lines
+}
 ```
 
 

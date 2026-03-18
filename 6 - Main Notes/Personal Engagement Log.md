@@ -89,11 +89,39 @@ Door incident with jacob
 Constant bickering with jacob
 Initiating talk with brandon
 Small talks with sir jason
+Weeb talks with joseph and victor
 
 
-**2026-03-11**
+**2026-03-13**
+
+Alone time with papa on 1st floor before going to my 4pm class
+Coincidental meet with duke after class
+Sudden group chatting near me that I could've joined in
 
 
+**2026-03-14**
+
+Fishing for group members
+First time sharing the Gospel
+Post-feedback after Gospel-sharing
 
 
 ---
+
+#### Week 3: 15-21
+
+**2026-03-16**
+
+Trio gala with kirk and brandon
+Tambay classroom with kirk, brandon, jacob, joseph, and victor
+Talking with ivan while I was using my laptop
+
+
+**2026-03-18**
+
+Asking kuya paul for advice
+Talk with jayvee
+Not socializing and only focusing on the schoolwork during DT
+Rebuke to david
+
+

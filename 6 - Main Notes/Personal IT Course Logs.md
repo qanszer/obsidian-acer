@@ -21,12 +21,12 @@ lorem ipsum
 
 **2025-26  |  2nd Sem (Current)**
 
-- OOP
-- ADBMS
-- Net2
-- DT
-- Contemp
-- IAS1
+- OOP - 94 / 
+- ADBMS - 
+- Net2 - 
+- DT - 
+- Contemp - 
+- IAS1 - 
 
 
 **2026-27  |  1st Sem**

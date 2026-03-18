@@ -6,10 +6,11 @@ Tags: [[Productivity]] [[Healthy-Living]]
 ---
 # Personal Guide to Healthy Weight Gain
 
-### - Eat every 3-4 hours, aiming for 3 main meals and 2-3 snacks per day. Eat a snack after 1 hour of eating a main meal
-### - Take note of the foods to eat and not eat below
-### - Exercise 2 to 3 times per week
-
+> 
+> 1. **Eat every 3-4 hours**, aiming for **3 main meals** and **2-3 snacks** per day. Eat a snack after 1 hour of eating a main meal
+> 2. Take note of the foods to eat and not eat below
+> 3. Exercise 2 to 3 times per week
+> 
 
 ---
 

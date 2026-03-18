@@ -483,8 +483,14 @@ Only use GROUP BY if you will use an aggregate function.
 The HAVING clause only applies to the rows made by GROUP BY
 
 
+---
+
+# How to Install an SQL Server on Ubuntu
+
+https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver17&tabs=ubuntu2004%2C2025ubuntu2204%2Codbc-ubuntu-1804
 
 
+---
 
 # Good Practices
 

@@ -48,7 +48,7 @@ It **defines the steps that need to be taken by the computer to solve a problem*
 
 ## 03 - Divide
 
-From your planning, you should have identified some subproblems of the big problem you’re solving. Pick the smallest or simplest one and start there with coding.
+From your planning, you should have identified some subproblems of the big problem you’re solving. Pick the smallest or simplest one and start there.
 
 It’s important to remember that **you might not know all the steps that you might need up front, so your algorithm may be incomplete—this is fine**. Getting started with and solving one of the subproblems you have identified in the planning stage often reveals the next subproblem you can work on. Or, if you already know the next subproblem, it’s often simpler with the first subproblem solved.
 
@@ -59,23 +59,7 @@ It’s important to remember that **you might not know all the steps that you mi
 
 In short, **break the big problem down and solve each of the smaller problems until you’ve solved the big problem**.
 
-## 04 - Stuck?
-
-First off, **take a deep breath**. Second, **that’s fair**. Don’t worry though, this happens to everyone!
-
-The difference is **the best programmers/problem-solvers are more curious about bugs/errors than irritated**.
-
-#### Things to try when stuck:
-
-- **Debug**: Go step by step through your solution trying to find where you went wrong. “The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.”
-	
-- **Research**: No matter what problem you have, someone has probably solved it. Find that person/ solution. In fact, do this even if you solved the problem! (You can learn a lot from other people’s solutions)
-	
-- **Reasses**: Take a step back. Look at the problem from another perspective. Is there anything that can be abstracted to a more general approach?
-	
-- **Starting Anew**: Delete everything and begin again with fresh eyes. I’m serious. You’ll be dumbfounded at how effective this is.
-
-## 05 - Pseudocode
+## 04 - Pseudocode
 
 Pseudocode is writing out the logic for your program in natural language instead of code. It helps you slow down and think through the steps your program will have to go through to solve the problem.
 
@@ -117,10 +101,28 @@ As they put it, “Why write code twice?” That might be correct in the case of
 - A helpful starting point for [documentation](https://builtin.com/data-science/pseudocode#:~:text=Starting%20Point%20for-,Documentation,-Documentation%20is%20an)
 - Easier to edit and discover bugs
 
+---
+
+## Stuck?
+
+First off, **take a deep breath**. Second, **that’s fair**. Don’t worry though, this happens to everyone!
+
+The difference is **the best programmers/problem-solvers are more curious about bugs/errors than irritated**.
+
+#### Things to try when stuck:
+
+- **Debug**: Go step by step through your solution trying to find where you went wrong. “The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.”
+	
+- **Research**: No matter what problem you have, someone has probably solved it. Find that person/ solution. In fact, do this even if you solved the problem! (You can learn a lot from other people’s solutions)
+	
+- **Reasses**: Take a step back. Look at the problem from another perspective. Is there anything that can be abstracted to a more general approach?
+	
+- **Starting Anew**: Delete everything and begin again with fresh eyes. I’m serious. You’ll be dumbfounded at how effective this is.
+
 
 ---
 
-# How to Improve? Through Practice
+## How to Improve? Through Practice
 
 Don’t expect to be great after just one week. If you want to be a good problem-solver, solve a lot of problems!
 
