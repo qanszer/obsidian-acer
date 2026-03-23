@@ -705,6 +705,245 @@ After the function calculates the value, it can return the result so it can be s
 ## Arrow Functions
 [More info](https://javascript.info/arrow-functions-basics)
 
+The functions `map()` and `filter()` are often used with function expressions
+
+```js
+const cats = ["Leopard", "Serval", "Jaguar", "Tiger", "Caracal", "Lion"];
+
+const filtered = cats.filter((cat) => cat.startsWith("L"));
+console.log(filtered);
+// [ "Leopard", "Lion" ]
+```
+
+
+---
+# 06 - Loops
+
+
+## Syntax
+
+```js
+// for loop
+for (initializer; condition; final-expression) {
+  // code to run
+}
+```
+
+```js
+// while loop
+initializer
+while (condition) {
+  // code to run
+
+  final-expression
+}
+```
+
+```js
+// do...while loop
+initializer
+do {
+  // code to run
+
+  final-expression
+} while (condition)
+```
+
+
+## Two ways of using loops for collections
+
+```js
+// Method 1 - Standard Practice
+const cats = ["Leopard", "Serval", "Jaguar", "Tiger", "Caracal", "Lion"]; 
+
+for (const cat of cats) {
+	console.log(cat);
+}
+```
+
+```js
+// Method 2 - Classic For Loop
+const cats = ["Leopard", "Serval", "Jaguar", "Tiger", "Caracal", "Lion"];
+
+for (let i = 0; i < cats.length; i++) {
+  console.log(cats[i]);
+}
+```
+
+**Reminders for the classic `for` loop:**
+1. The counter variable `i` should always start at `0` because the first index of an array is 0, not 1.
+2. The last array index is at `length - 1`, so `i <= cats.length` is incorrect.
+
+
+**Tip:** Only use the classic `for` loop when an iteration in the loop should differ from the rest. Like here:
+
+```js
+const cats = ["Pete", "Biggles", "Jasmine"];
+
+let myFavoriteCats = "My cats are called ";
+
+for (const cat of cats) {
+  myFavoriteCats += `${cat}, `;
+}
+
+console.log(myFavoriteCats); // "My cats are called Pete, Biggles, Jasmine, "
+```
+
+The final output sentence isn't very well-formed:
+
+```
+My cats are called Pete, Biggles, Jasmine,
+```
+
+We'd prefer it to handle the last cat differently, like this:
+
+```
+My cats are called Pete, Biggles, and Jasmine.
+```
+
+But to do this we need to know when we are on the final loop iteration, and to do that we can use a `for` loop and examine the value of `i`:
+
+```js
+const cats = ["Pete", "Biggles", "Jasmine"];
+
+let myFavoriteCats = "My cats are called ";
+
+for (let i = 0; i < cats.length; i++) {
+  if (i === cats.length - 1) {
+    // We are at the end of the array
+    myFavoriteCats += `and ${cats[i]}.`;
+  } else {
+    myFavoriteCats += `${cats[i]}, `;
+  }
+}
+
+console.log(myFavoriteCats); // "My cats are called Pete, Biggles, and Jasmine."
+```
+
+
+## Break Statement
+[More info](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops#exiting_loops_with_break)
+
+A `break` statement will immediately exit the loop and make the browser move on to any code that follows it.
+
+Say we wanted to search through an array of contacts and telephone numbers and return just the number we wanted to find? We can use the `break` statement.
+
+## Continue Statement
+[More info](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops#skipping_iterations_with_continue)
+
+A `continue` statement skips to the next iteration of the loop.
+
+
+## Labels
+
+`break/continue` support labels before the loop. A label is the only way for `break/continue` to escape a nested loop to go to an outer one.
+
+```js
+outer: for (let i = 0; i < 3; i++) {
+
+	for (let j = 0; j < 3; j++) {
+		let input = prompt(`Value at coords (${i}, ${j})`, '');
+		
+		// if an empty string or canceled, then break out of both loops
+		if (!input) break outer; // (*)
+		
+		// do something with the value
+	}
+}
+
+alert(`Done!);
+```
+
+
+## MDN Playground Exercise
+[Try it yourself](https://developer.mozilla.org/en-US/play?uuid=3504afee6ad46a0bc42f2162b4f26f1c06bc0474&state=fVJNj9MwEP0ro0FIINq0ReJjnabS0iMcEMsNc3CTSWPWsYM96W5Z7X9fOR8GlhW3eeP33oztd4cNtwYFbit9gtKoEAqJrueuZ4k7aQG2XeqrqtXMVEncXcZSbFfdY46nug8D5ctQTZztqtKnnbS4wDIEFMNcuIvi2lle1qrV5iwgKBuWgbyuc2nvpZW2ef0HLehfJGDztrudjzO12ZyXRh1osmuVP2orYJ1HxHTLS2X00Qrw%2Bthw%2Fshrnb3z1A7dG11xI%2BDi%2FfPZ%2FOCq89%2Bum%2FUwGuCgyuujd72tBDyr39QXtUorje83ChuKU6NwVroT%2Bdq4GwGqZzeKcIE%2F4quUzgaGjlxnCAr4FvkS943XQeJiRJfWUgJ7Z7RN6Ct5rxP63GiTwCdnVAJXqk31R3VO9Qffl6P39zzeZFxn%2FnYooHJl35Ll7GdP%2FnxFhkp2%2FoXE7Hc2XuazcMrCf3UpL1E2m2Tx2%2FbOMlmGIt55iBtIzKWdFP9wpryNJGlXKzDOdRBYeQ7QkKep%2FZTBqwKyLMuH8ye3SARcIDfUEgqslL%2FG%2Bwc%3D&srcPrefix=%2Fen-US%2Fdocs%2FLearn_web_development%2FCore%2FScripting%2FLoops%2F)
+
+Display the contents of a collection/array while making the last part not a comma, but a period:
+
+```js
+// My attempt - bad and rough
+const people = [
+  "Chris",
+  "Anne",
+  "Colin",
+  "Terri",
+  "Phil",
+  "Lola",
+  "Sam",
+  "Kay",
+  "Bruce",
+];
+
+const admitted = document.querySelector(".admitted");
+const refused = document.querySelector(".refused");
+admitted.textContent = "Admit: ";
+refused.textContent = "Refuse: ";
+
+
+for (let i = 0; i < people.length; i++) {
+  if (i === people.length - 1) {
+    admitted.textContent += `${people[i]}.`;
+  }
+  else {
+    if (people[i] === "Phil") {
+      refused.textContent += `${people[i]}, `;
+      continue;
+    }
+    if (people[i] === "Lola") {
+      refused.textContent += `${people[i]}.`;
+      continue;
+    }
+    admitted.textContent += `${people[i]}, `;
+  }
+}
+
+// Output
+// Admit: Chris, Anne, Colin, Terri, Sam, Kay, Bruce.
+// Refuse: Phil, Lola.
+```
+
+```js
+// The correct answer - clean and alot better
+const people = [
+  "Chris",
+  "Anne",
+  "Colin",
+  "Terri",
+  "Phil",
+  "Lola",
+  "Sam",
+  "Kay",
+  "Bruce",
+];
+
+const admitted = document.querySelector(".admitted");
+const refused = document.querySelector(".refused");
+admitted.textContent = "Admit: ";
+refused.textContent = "Refuse: ";
+
+for (const person of people) {
+  if (person === "Phil" || person === "Lola") {
+    refused.textContent += `${person}, `;
+  } else {
+    admitted.textContent += `${person}, `;
+  }
+}
+
+refused.textContent = `${refused.textContent.slice(0, -2)}.`;
+admitted.textContent = `${admitted.textContent.slice(0, -2)}.`;
+
+// Output
+// Admit: Chris, Anne, Colin, Terri, Sam, Kay, Bruce.
+// Refuse: Phil, Lola.
+```
+
+
+## Which loops to use for each usecase?
+
+If you're iterating through an array or some other object that supports it, and don't need access to the index position of each item, then `for...of` is the best choice. It's easier to read and there's less to go wrong.
+
+For other uses, `for`, `while`, and `do...while` loops are largely interchangeable. They can all be used to solve the same problems, and which one you use will largely depend on your personal preference — which one you find easiest to remember or most intuitive. We would recommend `for`, at least to begin with, as it is probably the easiest for remembering everything — the initializer, condition, and final-expression all have to go neatly into the parentheses, so it is easy to see where they are and check that you aren't missing them.
+
 
 ---
 # References

@@ -326,6 +326,24 @@ for (int i=0;  i < matrix.length; i++) { // 1st loop is for the vertical length 
 
 ---
 
+### 03/19/26 - Useful Array Functions
+[More info for these functions](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html)
+
+`Arrays.binarySearch()`
+
+`Arrays.sort()`
+
+`Arrays.equals()`
+
+`Arrays.fill()`
+
+`Arrays.toString()`
+
+`Arrays.copyOf()`
+
+
+---
+
 ## Finals
 
 

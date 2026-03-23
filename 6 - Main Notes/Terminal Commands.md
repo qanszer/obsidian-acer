@@ -136,8 +136,20 @@ ffmpeg -f concat -safe 0 -i videos.txt -c copy output.mp4
 
 
 **Cut video by time:**
+a. video
 ```bash
-ffmpeg -ss 00:00:00 -i input.mp4 -t 00:00:30 -c copy output.mp4
+ffmpeg -ss 00:00:00 -to 00:00:30 -i input.mp4 -c copy output.mp4
+```
+
+b. audio
+```bash
+ffmpeg -ss 00:00:00 -to 00:01:30 -i input.mp3 -acodec copy output.mp3
+```
+
+
+**Increase audio volume:**
+```bash
+ffmpeg -i input.mp3 -af "volume=1.5" output.mp3
 ```
 
 

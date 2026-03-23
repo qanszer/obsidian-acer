@@ -9,6 +9,7 @@ Tags: [[Thoughts]], [[Reflection]]
 
 - See this wallpaper picture in person
 	![[nord-night-city.png]]
+- Go to Horeb - the mountain of God
 - 
 
 

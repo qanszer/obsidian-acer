@@ -22,6 +22,12 @@ During lecture, some students have questions but they don't ask it when the prof
 Excel-based layout for a workout planner. Its additional feature is that you can look back at the amount of reps you had on a specific workout for previous dates/weeks/months to track the growth of your progress
 
 
+### Dedicated Shop Website for Anime Products
+
+Make a ecommerce website for all types of anime/manga/light novel related products
+
+
+
 
 
 

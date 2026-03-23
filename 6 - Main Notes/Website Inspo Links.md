@@ -47,6 +47,9 @@ https://huyml.co/home.html
 **Seed - A vitamin product (can be inspiration for green barley website)**
 https://seed.com/
 
+**BuildC**
+https://build-c.com/
+
 
 
 

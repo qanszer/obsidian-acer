@@ -125,3 +125,15 @@ Not socializing and only focusing on the schoolwork during DT
 Rebuke to david
 
 
+**2026-03-19**
+
+Dinner infuriating talk
+
+
+**2026-03-20**
+
+1st attempt of talking with henson and dasig
+2nd attempt o talking with dasig
+Talks with kirk
+Sibs gc chatting
+Talks during elevate practice
