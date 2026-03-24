@@ -180,7 +180,7 @@ Global Interstate System
 - disparities between regions and countries in socioeconomics, technology, and development
 - examples include:
 	- income inequality
-	- access to adeucation and healthcare
+	- access to education and healthcare
 	- digital technology
 	- infrastructure
 	- overall quality of life
@@ -198,19 +198,38 @@ Global Interstate System
 - richest countries in the world 
 - based on GNP per capita
 - Australia, Vatican City, Canada, Japan, Israel, New Zealand, Germancy, etc
-- advantages:
+- **advantages**:
 	- power dynamics - global policies favor them
 	- policy frameworks - more influence in international affairs and decision making processes
 	- gross domestic products (gdp)
 	- access to quality infrastructures - superior quality
 	- education and literacy - more extensive educational structure
 	- technological advancement
-- problems
+- **problems**
 	- industrial pollution - severe
 	- colonialism - exploits resources and labor from the South
 
 **Global South**
-- 
+- 3rd world countries
+- **challenges**:
+	- low per capita income
+	- excessive unemployment
+- Brazil, Philippines, Cuba, Nigeria, Papua New Guinea, Vietnam, Thailand
+- **advantages**:
+	- faster population growth - larger workforce, greater human capital
+	- resources availability - abundance in natural resources
+	- labor condition - large and inexpensive labor force
+- **disadvantages**:
+	- poverty
+	- infrastructure and institution
+	- labor force
+	- climate change
+	- political instability and conflict
+
+**Historical Context of the Divide**
+1. Colonialism and Exploitation
+2. Post-World War Global Reorganization
+3. Rise of Global Trade Networks
 
 
 

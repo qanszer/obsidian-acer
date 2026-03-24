@@ -25,7 +25,6 @@ The following are all of the operators in Javascript:
 | ++              | Increment                               |
 | --              | Decrement                               |
 
-
 ## Number Type
 
 Javascript numbers are always stored as double precision floating point numbers.
@@ -943,6 +942,291 @@ admitted.textContent = `${admitted.textContent.slice(0, -2)}.`;
 If you're iterating through an array or some other object that supports it, and don't need access to the index position of each item, then `for...of` is the best choice. It's easier to read and there's less to go wrong.
 
 For other uses, `for`, `while`, and `do...while` loops are largely interchangeable. They can all be used to solve the same problems, and which one you use will largely depend on your personal preference — which one you find easiest to remember or most intuitive. We would recommend `for`, at least to begin with, as it is probably the easiest for remembering everything — the initializer, condition, and final-expression all have to go neatly into the parentheses, so it is easy to see where they are and check that you aren't missing them.
+
+One use of `do...while` is when you want the user to input something until they get it right:
+
+```js
+let input;
+
+do {
+input = prompt("Type a number greater than 100");
+} while (input < 100 && input);
+```
+
+
+---
+# 07 - Arrays
+
+Arrays in JavaScript are **dynamic** -- their size can be changed and are not immutable like in C or Java. Elements inside arrays can be added, removed, and changed freely.
+
+They are suited for storing and managing ordered data items.
+
+## Syntax
+
+```js
+let arr = new Array(); // avoid using this in javascript
+let arr = []; // used 99% of the time; the usual
+```
+
+They can store elements of any type:
+
+```js
+let arr = [ 'Apple',               // string
+	{ name: 'John' },              // object
+	true,                          // boolean
+	function() { alert('hello'); } // function
+];
+
+// get the object at index 1 and then show its name
+alert( arr[1].name ); // John
+
+// get the function at index 3 and run it
+arr[3](); // hello
+```
+
+
+## Trailing Comma
+
+This style makes it easier to insert/remove items because all lines become alike
+
+```js
+let fruits = [
+	"apple",
+	"orange",
+	"banana",
+]
+```
+
+
+## Negative indexes
+
+For getting the last element of the array, some programming languages use negative indexes like `fruits[-1]`, but it won't work in JavaScript.
+
+JavaScript's solution is `fruits.at(-1)`
+
+`arr.at(i)`
+- exactly the same as `arr[i]` which is the standard syntax for most programming languages
+
+
+## Queues/Stacks
+
+**Queue**
+- operations:
+	- `push` adds an element to the end
+	- `shift` gets an element from the beginning, making the 2nd element become 1st
+- FIFO (first in first out)
+
+![[Pasted image 20260323203739.png]]
+
+**Stack**
+- operations:
+	- `push` adds an element to the end
+	- `pop` takes an element from the end
+- LIFO (last in first out)
+- usually described as a stack of cards on top of each other
+
+![[Pasted image 20260323203942.png]]
+
+
+**Methods** that work with the **end** of the array:
+
+1. `pop` - removes the last element of the array and returns it
+```js
+alert( fruits.pop() );
+```
+
+2. `push` - adds the element to the end of the array
+```js
+fruits.push("Pear", "Lemon"); // can have multiple elements
+```
+
+**Methods** that work with the **beginning** of the array:
+
+1. `shift` - removes the 1st element of the array and returns it
+```js
+fruits.shift();
+```
+
+2. `unshift` - adds the element to the beginning of the array
+```js
+alert( fruits.unshift("Apple", "Pineapple") ); // can have multiple values
+```
+
+
+## Array Specifics
+
+An array is a special kind of object. The square brackets used to access a property `arr[0]` actually come from the object syntax. That’s essentially the same as `obj[key]`, where `arr` is the object, while numbers are used as keys.
+
+They extend objects providing special methods to work with ordered collections of data and also the `length` property. But at the core it’s still an object.
+
+Remember, there are only eight basic data types in JavaScript (see the [Data types](https://javascript.info/types) chapter for more info). Array is an object and thus behaves like an object.
+
+
+**Copies of arrays are only by reference**, not a completely separate array:
+
+```js
+let fruits = ["banana"];
+let arr = fruits; // copy by reference (2 variables are now holding the same array)
+
+alert(arr === fruits); // true
+
+arr.push("pear"); // if you modify the new array variable (arr),
+
+alert(fruits); // the original array variable also gets updated
+```
+
+
+## The ways to misuse an array
+
+- Add a non-numeric property like `arr.test = 5`.
+- Make holes, like: add `arr[0]` and then `arr[1000]` (and nothing between them).
+- Fill the array in the reverse order, like `arr[1000]`, `arr[999]` and so on.
+
+Please think of arrays as special structures to work with the _ordered data_. They provide special methods for that. Arrays are carefully tuned inside JavaScript engines to work with contiguous ordered data, please use them this way. And if you need arbitrary keys, chances are high that you actually require a regular object `{}`.
+
+
+## Performance
+[More info](https://javascript.info/array#performance)
+
+Methods `push/pop` run fast, while `shift/unshift` are slow.
+
+![[Pasted image 20260323212422.png]]
+
+
+## Loops for arrays
+
+**2 Methods**:
+
+```js
+// classic for loop
+for (let i = 0; i < arr.length; i++) {
+	alert(arr[i]);
+}
+```
+
+```js
+// better loop for arrays, the for...of loop
+for (let fruit of fruits) {
+	alert(fruit);
+}
+```
+
+The `for..of` doesn’t give access to the number of the current element, just its value, but in most cases that’s enough. And it’s shorter.
+
+Reason as to why `for...in` loops are bad for arrays: [Link](https://javascript.info/array#internals:~:text=And%20it%E2%80%99s%20shorter.-,Technically,-%2C%20because%20arrays%20are)
+
+So to loop over the elements of the array:
+
+- `for (let i=0; i<arr.length; i++)` – works fastest, old-browser-compatible.
+- `for (let item of arr)` – the modern syntax for items only. shorter and more readable.
+- `for (let i in arr)` – never use.
+
+
+## Clear the array
+
+Remove all the elements of an array while keeping the array itself:
+
+```js
+arr.length = 0;
+```
+
+
+## About String(array)
+
+In JavaScript, `String(arr)` and printing the array as-is (`console.log(arr)`) often appear to produce the same result because both trigger the array's default `toString()` method, which converts the array into a comma-separated string.
+
+However, the purpose of explicitly using `String(arr)` is to **coerce the array into a primitive string type for manipulation, concatenation, or storage**, rather than just displaying it. 
+
+**KEY PURPOSES OF `String(arr)`**
+
+1. **Guaranteed Type Conversion (Coercion):**  
+    `String(arr)` ensures the result is a string primitive, which is useful when you need to concatenate the array contents with text or pass it to a function that requires a string.
+
+```js
+let arr = [1, 2, 3];
+let message = "Result: " + String(arr); // "Result: 1,2,3"
+```
+
+2. **Flattening Nested Arrays:**  
+    The `String()` constructor (like `.toString()`) recursively flattens arrays, converting all elements to strings separated by commas, including nested arrays.
+
+```js
+String([1, [2, 3], 4]); // "1,2,3,4"
+```
+
+3. **Handling `null` or `undefined` Safely:**  
+    If `arr` might be `null` or `undefined`, `String(arr)` safely returns `"null"` or `"undefined"` without throwing an error, whereas calling `arr.toString()` on them would throw a `TypeError`. 
+
+**Note on Behavior**:
+
+`String(arr)` internally calls `arr.toString()`, which in turn calls `arr.join(",")`. Therefore, it effectively creates a string where all items are comma-delimited, without square brackets `[]`.
+
+
+## String Concatenation
+
+```js
+alert( [] + 1 ); // "1"
+alert( [1] + 1 ); // "11"
+alert( [1,2] + 1 ); // "1,21"
+```
+
+Arrays do not have `Symbol.toPrimitive`, neither a viable `valueOf`, they implement only `toString` conversion, so here `[]` becomes an empty string, `[1]` becomes `"1"` and `[1,2]` becomes `"1,2"`.
+
+
+## Don't compare arrrays with ==
+
+The strict comparison `===` is even simpler, as it doesn’t convert types.
+
+So, if we compare arrays with `==`, they are never the same, unless we compare two variables that reference exactly the same array.
+
+So, how to compare arrays? 
+Don’t use the `==` operator. Instead, compare them item-by-item in a loop or using iteration methods.
+
+## Array Methods
+
+Negative indexes are allowed in many array methods.
+
+**`arr.splice`**
+
+This method can insert, remove, and replace elements
+
+```js
+// syntax
+arr.splice(start[, deleteCount, elem1, ..., elemN])
+```
+
+```js
+// remove
+let arr = ["I", "study", "javascript"];
+arr.splice(1,1); // from index 1, remove 1 element
+alert(arr); // ["I", "javascript"]
+```
+
+```js
+// replace
+arr.splice(2, 1, "java", "and c#"); // from index 2, remove 1 element and replace with java and c#
+```
+
+```js
+// check what you removed
+let arr = ["I", "study", "javascript", "right", "now"];
+let removed = arr.splice(0,2); // removes first 2 elements
+alert(removed); // "I", "study"
+```
+
+```js
+// insert elements
+let arr = ["I", "study", "javascript"];
+arr.splice(2, 0, "complex", "language"); // from index 2, delete none, insert "complex" and "language"
+alert(arr); // 
+```
+
+
+**`arr.slice`**
+
+This **method copies the array and makes it a separate array**, unlike copying through reference.
+
+
 
 
 ---

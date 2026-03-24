@@ -2,6 +2,7 @@
 2026-01-30  19:55
 
 Tags: [[School]] [[Coding]] [[Java]]
+Professor: Sir Jayson Ocampo
 
 ---
 # Object-Oriented Programming  |  2025-26
@@ -123,7 +124,7 @@ for (int1 = 0; i < 5; i++) {
 ## Midterm
 
 
-### 03/09/26 
+### 03/09/26 - If Statement Optimization + SQL
 
 #### Note About Else If
 
@@ -157,7 +158,6 @@ if () {
 
 This way, the execution does not have to go through each if statement.
 
-
 For `for` loops, `continue` and `break` are frequently used in real programs.
 
 
@@ -173,7 +173,7 @@ For `for` loops, `continue` and `break` are frequently used in real programs.
 **INSERT-SELECT**
 
 ```sql
-INSERT INTO OldStudent(Id, Name, Course) // ALWAYS include the column names for safety and to save yourself the trouble of debugging for 3-6 hours because of missing this)
+INSERT INTO OldStudent(Id, Name, Course) -- ALWAYS include the column names for safety and to save yourself the trouble of debugging for 3-6 hours because of missing this)
 SELECT Id, Name FROM Student
 ```
 
@@ -340,6 +340,130 @@ for (int i=0;  i < matrix.length; i++) { // 1st loop is for the vertical length 
 `Arrays.toString()`
 
 `Arrays.copyOf()`
+
+
+---
+
+### 03/23/26 - Types of Arrays + SQL Joins
+
+**Fixed Arrays**
+1. `int[]` - 1 dimensional array
+2. `int[][]` - 2d array
+3. `int[][][]` - 3d array
+
+They are rarely used in real programming environments.
+
+The types of arrays that are always used are `LinkedList` and `ArrayList`.
+
+**ArrayList**
+- are resizeable arrays
+- elements can be added and removed easily
+
+```java
+ArrayList<String> cars = new ArrayList<String>();
+cars.add("BYD");
+```
+
+ArrayLists usually don't have normal data types as its data type (String, int, etc). It's always usually objects like this:
+
+```java
+ArrayList<Student> students = new ArrayList<Student>();
+```
+
+
+**SQL JOINS**
+
+Left join is the one that's used 90% of the time in real coding environments
+
+**Left Join**
+- gets all the columns and rows from the 1st table, but only gets the matching columns and rows of the 2nd table to the 1st
+
+
+
+---
+
+### 03/24/26 - Continuation to LinkedLists
+
+**LinkedList Syntax**
+
+```java
+LinkedList<String> Students = new LinkedList<>();
+```
+
+
+**LinkedList vs ArrayList**
+
+Use `LinkedList` if your purpose is mainly modifications of data. 
+Use `ArrayList` if mainly for accessing of data.
+
+
+`.size()` is the `.length()` equivalent of arrays for ArrayLists and LinkedLists
+```java
+Students.size();
+```
+
+
+**LinkedList Methods**
+
+.pop() - removes from the top of the array
+```java
+Students.pop();
+```
+
+.remove() - selected removal anywhere in the array
+```java
+Students.remove("Michael");
+Students.remove(0);
+```
+
+.clean() - removes all elements
+```java
+Students.clean();
+```
+
+.addFirst()
+```java
+Students.addFirst("Jason"); // adds Jason to the bottom of the stack
+```
+
+.addLast()
+```java
+Students.addLast("Jen"); // adds Jenny to the top of the stack
+```
+
+.clone() - copies the elements inside a `LinkedList`, but as an `object` data type
+```java
+new Studentss = Students.clone(); // this does not, see below for solution
+```
+
+
+**Useful Ways of Casting(Converting)**
+
+This will be a normal part of your routine in real coding environments.
+
+```java
+int x = int(2.0); // to catch calculations in your preferred way
+```
+
+```java
+new Studentss = (LinkedList<String>)Students.clone();
+```
+
+but another method that's easier to clone a LinkedList is:
+```java
+LinkedList<String> newStudents = new LinkedList<>(Students);
+```
+
+
+**Good Practice in the Deletion/Modification of Elements**
+
+```java
+If (!Students.isEmpty()) {
+	Students.removeLast();
+}
+```
+
+This avoids a silent error wherein the code removes something that does not exist in the first place, resulting in a future bug that is hard to find.
 
 
 ---

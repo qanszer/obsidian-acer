@@ -158,6 +158,34 @@ Things to ask
 
 
 ---
+### 03/23/26 - Design Thinking
+
+
+**Three Principles of Design Thinking**
+1. Is it desirable?
+2. Is it feasible?
+3. Is it buyable?
+
+**Five Stages of Design Thinking**
+1. Emphathize
+2. Define
+	- Identify the problem of your client. 
+	- If possible, focus on only 1 problem of your client. Choose 1 or 2 problems lang
+4. Ideate
+5. Prototype
+6. Test
+	- We won't be reaching here for our subject
+	- QA test rules
+	- Jira (recommendation ni sir for QA test documentations)
+
+As an IT Professional, we are expected to be capable of using many tools. Apparently, said by sir.
+
+
+---
+### 03/
+
+
+---
 
 ## Finals
 
