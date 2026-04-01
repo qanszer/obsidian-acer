@@ -79,8 +79,22 @@ Car convo on the way back home from church
 **2026-03-09**
 
 Catch up talk with Dominic
+- **Mistake/s:** none afaik
+- **What I did right:** lively from the get-go; like seeing an old time friend which is true in this case but should be applied always in speaking with others
+- **Could improve:** do the same with other people -- talk with them with the energy like they are old time friends
+- **Lesson:** have more energy than the person you're talking to
+
 Me pointing out david's wrong form
-Ate's criticism to me
+- **Mistake/s:** i criticized him, which made him defensive and not follow my advice
+- **What I did right:** none afaik
+- **Could improve:** advise him to look at the mirror while doing the exercise
+- **Lesson:** never criticize others
+
+Ate's criticism to me about me not selling peanuts because of my pride
+- **Mistake/s:** 
+- **What I did right:** 
+- **Could improve:** 
+- **Lesson:** 
 
 
 **2026-03-10**
@@ -137,3 +151,32 @@ Dinner infuriating talk
 Talks with kirk
 Sibs gc chatting
 Talks during elevate practice
+
+
+**2026-03-27**
+
+N/A
+
+
+---
+
+#### Week 4: 29-4
+
+**2026-03-30**
+
+Banter with papa about overlord
+Retrieval of slacks from ken
+
+
+**2025-03-31**
+
+Night call with eli about schoolwork
+Small talk with kirk during class
+
+
+**2025-04-01**
+
+Night call with eli about her cats
+Family lunch and dinner together
+
+

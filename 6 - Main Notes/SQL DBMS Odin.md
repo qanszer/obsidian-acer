@@ -120,7 +120,8 @@ CREATE TABLE TableName (
 INSERT INTO TableName
 	VALUES
 		(value, 'value'),
-		(value, 'value');
+		(value, 'value')
+		;
 ```
 
 **Good Practice / Example**
@@ -141,7 +142,8 @@ INSERT INTO TableName
 	(ColumnName, [ColumnName], ColumnName)
 	VALUES 
 	  (value, value, value),
-	  (value, value, value);
+	  (value, value, value)
+	  ;
 ```
 
 

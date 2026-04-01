@@ -52,23 +52,9 @@
               "icon": "lucide-file",
               "title": "JavaScript Cheat Sheet"
             }
-          },
-          {
-            "id": "04350ffda9d7c6b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/Class/2025-26 2nd Sem/Object-Oriented Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Object-Oriented Programming"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Class/2025-26 2nd Sem/Object-Oriented Programming.md",
+                "file": "6 - Main Notes/JavaScript Cheat Sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Object-Oriented Programming"
+              "title": "Outline of JavaScript Cheat Sheet"
             }
           }
         ],
@@ -269,38 +255,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04350ffda9d7c6b2",
+  "active": "7af17c94b0f7a0b6",
   "lastOpenFiles": [
-    "6 - Main Notes/Personal Weight Gain Guide.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Object-Oriented Programming.md",
+    "6 - Main Notes/Personal Engagement Log.md",
     "6 - Main Notes/JavaScript Cheat Sheet.md",
-    "6 - Main Notes/Website Inspo Links.md",
+    "6 - Main Notes/Random Ideas.md",
     "6 - Main Notes/Bible Verse Logs.md",
+    "6 - Main Notes/TOP Success Stories.md",
+    "2 - Source Material/Class/2025-26 2nd Sem/Advanced DBMS.md",
+    "6 - Main Notes/SQL DBMS Odin.md",
+    "6 - Main Notes/Terminal Commands.md",
+    "6 - Main Notes/Become Genuinely Interested in Other People.md",
+    "6 - Main Notes/Autobiographies of People I Want to Read.md",
+    "6 - Main Notes/Bible Logs.md",
+    "6 - Main Notes/Becoming a TOP Success Story.md",
+    "2 - Source Material/Class/2025-26 2nd Sem/Object-Oriented Programming.md",
+    "6 - Main Notes/Personal Weight Gain Guide.md",
+    "Media/Pasted image 20260325213429.png",
+    "Media/Pasted image 20260325213333.png",
+    "2 - Source Material/Class/2025-26 2nd Sem/Design Thinking UI UX.md",
+    "2 - Source Material/How to Win Friends and Influence People.md",
+    "6 - Main Notes/Website Inspo Links.md",
     "Media/Pasted image 20260323212422.png",
     "Media/Pasted image 20260323203942.png",
     "Media/Pasted image 20260323203739.png",
-    "2 - Source Material/Class/2025-26 2nd Sem/Design Thinking UI UX.md",
     "2 - Source Material/Class/2025-26 2nd Sem/Contemporary World.md",
-    "6 - Main Notes/SQL DBMS Odin.md",
-    "6 - Main Notes/Becoming a TOP Success Story.md",
     "6 - Main Notes/Eye Witness - Lessons From People Who Saw Jesus Suffer.md",
     "6 - Main Notes/Genuine Faith, Living Wisely to the Book of James.md",
-    "6 - Main Notes/Terminal Commands.md",
     "6 - Main Notes/Bible Hermeneutics.md",
     "6 - Main Notes/Bible Homiletics.md",
     "6 - Main Notes/matthew.md",
-    "6 - Main Notes/Personal Engagement Log.md",
     "6 - Main Notes/Personal Bucket List.md",
     "6 - Main Notes/Couple Bucket List.md",
     "6 - Main Notes/Clean Code.md",
-    "1 - Rough Notes/Quick Note.md",
-    "6 - Main Notes/Random Ideas.md",
     "Media/Pasted image 20260319090128.png",
-    "5 - Template/Default Template.md",
-    "6 - Main Notes/Worn Clothing Logs.md",
-    "6 - Main Notes/Problem Solving.md",
-    "2 - Source Material/How to Win Friends and Influence People.md",
-    "5 - Template/Full Book Template.md",
     "Media/Pasted image 20260314203512.png",
     "Media/nord-night-city.png",
     "-f \"$HOME",
@@ -310,9 +298,7 @@
     "Design Thinking (UI",
     "Media/Pasted image 20251230005454.png",
     "Media/Pasted image 20251230005446.png",
-    "Media/Pasted image 20251216191004.png",
     "4 - Index",
-    "Media/Pasted image 20251124171738.png",
     "Media/networking1-reviewer-prelim.pdf",
     "Untitled.canvas"
   ]

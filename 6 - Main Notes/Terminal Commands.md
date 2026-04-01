@@ -301,16 +301,13 @@ system-config-printer
 3. Test print
 
 ---
-
 ### When Nautilus gets bugged again
 
 ```bash
 killall -9 gvfsd gvfsd-fuse
 ```
 
-
 ---
-
 ### If the suspend command acts up because of Super Productivity
 
 1. Paste this in the terminal
@@ -321,7 +318,6 @@ sudo systemctl reset-failed
 
 2. Reboot the device
 3. Check if it's working normally again. If not, refer [here](https://claude.ai/share/11a5ee70-ca70-4450-9b3f-df420e2d0bd7)
-
 
 ---
 ### Database Server
@@ -352,6 +348,28 @@ sqlcmd -S 127.0.0.1 -U admin_user -No
 ```
 SecureAdmin123!
 
+---
+### Artificially increase brightness level
+*This feature is only for X11 users, not Wayland.*
+
+1. Check your monitor name (first word right next to `connected`)
+```bash
+xrandr | grep " connected"
+```
+2. Increase at your own discretion (1.2 ,1.5, etc)
+```bash
+xrandr --output <YOUR_MONITOR_NAME> --brightness 1.2
+```
+
+**Mine**
+```bash
+xrandr --output eDP --brightness 1.3
+```
+
+**Revert back to normal**
+```bash
+xrandr --output eDP --brightness 1
+```
 
 ---
 

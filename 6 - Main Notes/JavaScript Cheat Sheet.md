@@ -227,6 +227,34 @@ if (age < 14 && age > 90);
 
 - anything else aside from the above
 
+**Boolean methods to check a variable's datatype**
+
+- int: `Number.isInteger(variable)`
+- string: `typeof variable === 'string'`
+- array: `Array.isArray(variable)`
+
+
+**Method for checking if a variable has that specific variable/value:**
+
+- `.includes(element/variable/value)`
+
+
+## Rounding off
+
+Custom function:
+```js
+function roundTo(num, precision) {
+  if (precision === undefined || precision === null) return Math.round(num); // Handle default integer rounding
+  // Convert to exponential notation, round, and convert back
+  return Number(Math.round(num + "e+" + precision) + "e-" + precision);
+}
+```
+
+Round to 1 decimal point:
+```js
+Math.round(celsius * 10) / 10;
+```
+
 
 ---
 # 02 - Variables
@@ -715,6 +743,19 @@ console.log(filtered);
 ```
 
 
+## Random Functions
+
+For random negative/positive return:
+```js
+() => Math.random() > 0.5 ? 1 : -1
+```
+
+For random whole number between 1-100:
+```js
+() => Math.floor(Math.random() * 100) + 1
+```
+
+
 ---
 # 06 - Loops
 
@@ -1184,11 +1225,19 @@ Don’t use the `==` operator. Instead, compare them item-by-item in a loop or
 
 ## Array Methods
 
-Negative indexes are allowed in many array methods.
+#### > Add/Remove Items
 
-**`arr.splice`**
+**0. `arr.push()`**
 
-This method can insert, remove, and replace elements
+This method adds the inputted elements to an array.
+
+```js
+arr.push(item, 3, "e");
+```
+
+**1. `arr.splice()`** - returns a new modified array, and modifies the original array
+
+This method can insert, remove, and replace elements.
 
 ```js
 // syntax
@@ -1221,12 +1270,507 @@ arr.splice(2, 0, "complex", "language"); // from index 2, delete none, insert "c
 alert(arr); // 
 ```
 
+```js
+// negative indexes are allowed in array methods
+let arr = [1, 2, 5];
 
-**`arr.slice`**
+// from index -1 (one step from the end)
+// delete 0 elements,
+// then insert 3 and 4
+arr.splice(-1, 0, 3, 4);
+
+alert( arr ); // 1,2,3,4,5
+```
+
+**2. `arr.slice()`** - returns a new array; does not affect the original array
 
 This **method copies the array and makes it a separate array**, unlike copying through reference.
 
+```js
+let arr = ["t", "e", "s", "t"];
 
+// starts at 1
+// ends at 3 (excluding index 3)
+alert( arr.slice(1, 3) ); // e,s (copy from 1 to 3)
+alert( arr.slice(-2) ); // s,t (copy from -2 till the end)
+arr.slice(); // copies the entire array. used for further transformations that should not affect the original array
+```
+
+**3. `arr.concat()`** - returns a new array; does not affect the original array
+
+This method creates a new array that includes values from other arrays and additional items.
+
+```js
+let arr = [1, 2];
+
+// create an array from: arr and [3,4]
+alert( arr.concat([3, 4]) ); // 1,2,3,4
+
+// create an array from: arr and [3,4], then add values 5 and 6
+alert( arr.concat([3, 4], 5, 6) ); // 1,2,3,4,5,6
+```
+
+[Symbol.isConcatSpreadable](https://javascript.info/array-methods#searching-in-array:~:text=has%20a%20special-,Symbol.isConcatSpreadable,-property%2C%20then%20it%E2%80%99s) - object property that treats objects as arrays
+
+**4. `arr.forEach()`** - no return value; a loop; for performing a specific action for each item
+
+This method allows to run a function for every element of the array.
+
+```js
+// syntax
+arr.forEach(function(item, index, array){
+	// do something with an item
+});
+```
+
+```js
+// for each element call alert
+["Bilbo", "Gandalf", "Nazgul"].forEach(alert);
+
+["Bilbo", "Gandalf", "Nazgul"].forEach((item, index, array) => {
+	alert(`${item} is at index ${index} in ${array}`);
+});
+```
+
+
+#### > Searching in Arrays
+
+**1. `arr.indexOf(item, from)`** - returns an index
+
+This method looks for `item` starting from index `from`, and then returns the index where `item` was found. If not found, it would return `-1`.
+
+```js
+let arr = [1, 0, false];
+
+// you input the item itself on the parameter, not its index
+alert( arr.indexOf(0) ); // 1
+alert( arr.indexOf(false) ); // 2
+alert( arr.indexOf(5) ); // -1
+```
+
+**2. `arr.includes(item, from)`** - returns a boolean; checks if the item exists
+
+```js
+// array based above
+alert( arr.includes(1) ); // true
+```
+
+**3. `arr.lastIndexOf(item, from)`** - returns a boolean
+
+This method is the same as `indexOf`, but looks from right to left.
+
+```js
+let fruits = ['Apple', 'Orange', 'Apple']
+
+alert( fruits.indexOf('Apple') ); // 0 (first Apple)
+alert( fruits.lastIndexOf('Apple') ); // 2 (last Apple)
+```
+
+The `includes` method handles `NaN` correctly. [Link](https://javascript.info/array-methods#searching-in-array:~:text=2%20(last%20Apple)-,The,-includes%20method%20handles)
+
+**4. `find` and `findIndex/findLastIndex`** - [details](https://javascript.info/array-methods#find-and-findindex-findlastindex)
+
+```js
+// syntax
+let result = arr.find(function(item, index, array) {
+	
+})
+```
+
+```js
+// example
+let users = [
+	{id: 1, name: "John"},
+	{id: 2, name: "Pete"},
+	{id: 3, name: "Mary"}
+];
+
+let user = users.find(item => item.id == 1);
+
+alert(user.name); // John
+```
+In real life, arrays of objects are a common thing, so the `find` method is very useful.
+
+Note that in the example we provide to `find` the function `item => item.id == 1` with one argument. That’s typical, other arguments of this function are rarely used.
+
+The [arr.findIndex](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex) method has the same syntax but returns the index where the element was found instead of the element itself. The value of `-1` is returned if nothing is found.
+
+The [arr.findLastIndex](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findLastIndex) method is like `findIndex`, but searches from right to left, similar to `lastIndexOf`.
+
+```js
+let users = [
+	{id: 1, name: "John"},
+	{id: 2, name: "Pete"},
+	{id: 3, name: "Mary"},
+	{id: 4, name: "John"}
+];
+
+// Find the index of the first John
+alert(users.findIndex(user => user.name == 'John')); // 0
+
+// Find the index of the last John
+alert(users.findLastIndex(user => user.name == 'John')); // 3
+```
+
+**5. `filter`** 
+
+The `find` method looks for a single (first) element that makes the function return `true`.
+
+If there may be many, we can use `arr.filter(fn)`.
+
+```js
+// syntax
+let results = arr.filter(function(item, index, array) {
+	
+})
+```
+
+```js
+let users = [
+	{id: 1, name: "John"},
+	{id: 2, name: "Pete"},
+	{id: 3, name: "Mary"}
+];
+
+// returns array of the first two users
+let someUsers = users.filter(item => item.id < 3);
+
+alert(someUsers.length); // 2
+```
+
+
+#### > Transform/Reorder an Array
+
+**1. `arr.map()`** - returns the array of results
+
+This method is one of the most useful and often used.
+**Usecase** - when we need to iterate and return the data for each element
+
+```js
+// syntax
+let result = arr.map(function(item, index, array) {
+	
+})
+```
+
+```js
+// example
+let lengths = ["Bilbo", "Gandalf", "Nazgul"].map(item => item.length);
+
+alert(lengths); // 5,7,6
+```
+
+**2. `arr.sort()`**
+[More info](https://javascript.info/array-methods#searching-in-array:~:text=it%20works%20as-,intended.,-Let%E2%80%99s%20step%20aside)
+
+This method sorts the array _in place_, changing its element order.
+
+The items are sorted as strings by default, so we need to supply a function as the argument.
+
+The function should compare two arbitrary values and return:
+
+```js
+function compare(a, b) {
+	if (a > b) return 1; // if the 1st value is greater than the 2nd
+	if (a == b) return 0; // if values are equal
+	if (a < b) return -1; // if the 1st value is less than the 2nd
+}
+```
+
+For instance, to sort as numbers:
+
+```js
+let arr = [ 1, 2, 15 ];
+
+arr.sort((a, b) => a - b); // increasing order
+
+alert(arr); // 1, 2, 15
+```
+
+**For copy-paste**:
+
+```js
+.sort((a, b) => a - b); // increasing order
+```
+
+```js
+.sort((a, b) => b - a); // decreasing order
+```
+
+```js
+.sort((a, b) => a.localeCompare(b)); // alphabetical
+```
+
+**3. `arr.reverse()`** - returns the modified original array
+
+This method reverses the order of elements in the array.
+
+```js
+let arr = [1, 2, 3, 4, 5];
+arr.reverse();
+
+alert( arr ); // 5,4,3,2,1
+```
+
+**4. `string.split(', ')`**
+
+This method splits the string into an array by the given delimiter inside the parameter.
+
+```js
+let names = 'Bilbo, Gandalf, Nazgul';
+
+let arr = names.split(', ');
+
+for (let name of arr) {
+	// A message to Bilbo (and other names)
+	alert( `A message to ${name}.` );
+}
+```
+
+Calling `.split('')` with an empty parameter splits the string into an array of letters:
+
+```js
+let str = "test";
+alert( str.split('') ); // t,e,s,t
+```
+
+**5. `arr.join(glue)`**
+
+This method does the reverse to `split`. It creates a string of `arr` items joined by `glue` between them.
+
+```js
+let arr = ['Bilbo', 'Gandalf', 'Nazgul'];
+
+let str = arr.join(';'); // glue the array into a string using ;
+alert( str ); // Bilbo;Gandalf;Nazgul
+```
+
+**6. `arr.reduce()` and `arr.reduceRight()`** - [more info](https://javascript.info/array-methods#reduce-reduceright)
+
+These methods are used to calculate a single value based on the array.
+
+```js
+// syntax
+let value = arr.reduce(function(accumulator, item, index, array) {
+	
+}, [initial]); 
+```
+
+The function is applied to all array elements one after another and “carries on” its result to the next call.
+
+Arguments:
+- `accumulator` – is the result of the previous function call, equals `initial` the first time (if `initial` is provided).
+- `item` – is the current array item.
+- `index` – is its position.
+- `array` – is the array.
+
+```js
+// example
+let arr = [1, 2, 3, 4, 5];
+
+let result = arr.reduce((sum, current) => sum + current, 0);
+alert(result); // 15
+```
+
+The function passed to `reduce` uses only 2 arguments, that’s typically enough.
+
+I don't get this. For more info, [click here](https://javascript.info/array-methods#reduce-reduceright).
+
+
+## Array.isArray
+
+`typeof` does not help to distinguish a plain object from an array:
+
+```js
+alert(typeof {}); // object
+alert(typeof []); // object (same)
+```
+
+But arrays are used so often that there’s a special method for that:
+
+```js
+alert(Array.isArray({})); // false
+alert(Array.isArray([])); // true
+```
+
+## thisArg
+[More info](https://javascript.info/array-methods#most-methods-support-thisarg)
+
+
+## Summary/Cheatsheet
+
+A cheat sheet of array methods:
+
+- To add/remove elements:
+    
+    - `push(...items)` – adds items to the end,
+    - `pop()` – extracts an item from the end,
+    - `shift()` – extracts an item from the beginning,
+    - `unshift(...items)` – adds items to the beginning.
+    - `splice(pos, deleteCount, ...items)` – at index `pos` deletes `deleteCount` elements and inserts `items`.
+    - `slice(start, end)` – creates a new array, copies elements from index `start` till `end` (not inclusive) into it.
+    - `concat(...items)` – returns a new array: copies all members of the current one and adds `items` to it. If any of `items` is an array, then its elements are taken.
+- To search among elements:
+    
+    - `indexOf/lastIndexOf(item, pos)` – look for `item` starting from position `pos`, and return the index or `-1` if not found.
+    - `includes(value)` – returns `true` if the array has `value`, otherwise `false`.
+    - `find/filter(func)` – filter elements through the function, return first/all values that make it return `true`.
+    - `findIndex` is like `find`, but returns the index instead of a value.
+- To iterate over elements:
+    
+    - `forEach(func)` – calls `func` for every element, does not return anything.
+- To transform the array:
+    
+    - `map(func)` – creates a new array from results of calling `func` for every element.
+    - `sort(func)` – sorts the array in-place, then returns it.
+    - `reverse()` – reverses the array in-place, then returns it.
+    - `split/join` – convert a string to array and back.
+    - `reduce/reduceRight(func, initial)` – calculate a single value over the array by calling `func` for each element and passing an intermediate result between the calls.
+- Additionally:
+    
+    - `Array.isArray(value)` checks `value` for being an array, if so returns `true`, otherwise `false`.
+
+Please note that methods `sort`, `reverse` and `splice` modify the array itself.
+
+These methods are the most used ones, they cover 99% of use cases. But there are few others:
+
+- [arr.some(fn)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some)/[arr.every(fn)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every) check the array.
+    
+    The function `fn` is called on each element of the array similar to `map`. If any/all results are `true`, returns `true`, otherwise `false`.
+    
+    These methods behave sort of like `||` and `&&` operators: if `fn` returns a truthy value, `arr.some()` immediately returns `true` and stops iterating over the rest of items; if `fn` returns a falsy value, `arr.every()` immediately returns `false` and stops iterating over the rest of items as well.
+    
+    We can use `every` to compare arrays:
+```js
+function arraysEqual(arr1, arr2) {
+	return arr1.length === arr2.length && arr1.every((value, index) => value === arr2[index]);
+}
+
+alert( arraysEqual([1, 2], [1, 2])); // true
+```
+- [arr.fill(value, start, end)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill) – fills the array with repeating `value` from index `start` to `end`.
+    
+- [arr.copyWithin(target, start, end)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/copyWithin) – copies its elements from position `start` till position `end` into _itself_, at position `target` (overwrites existing).
+    
+- [arr.flat(depth)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)/[arr.flatMap(fn)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap) create a new flat array from a multidimensional array.
+
+## MDN's Official Array Documentation
+[Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
+
+## The Map Method
+
+This method automatically loops over an array if you'll only use a function inside a loop. So it's **a simplified loop if you want to modify arrays**.
+
+```js
+// syntax
+arr.map();
+```
+
+```js
+// example
+function addOne(num) {
+  return num + 1;
+}
+const arr = [1, 2, 3, 4, 5];
+const mappedArr = arr.map(addOne); // returns a new separate array
+console.log(mappedArr); // Outputs [2, 3, 4, 5, 6]
+```
+
+We can simplify the code above like this through arrow functions:
+
+```js
+const arr = [1, 2, 3, 4, 5];
+const mappedArr = arr.map((num) => num + 1);
+console.log(mappedArr); // Outputs [2, 3, 4, 5, 6]
+```
+
+The `.map()` is always used with arrow functions usually because they pair well together.
+
+## The Filter Method
+
+By its name it filters out the array you use it on, by using your given function that returns a boolean (true or false). It returns a new array where each item is only included _if_ the callback function returns `true` for it.
+
+```js
+// syntax
+arr.filter();
+```
+
+```js
+// example
+function isOdd(num) {
+  return num % 2 !== 0;
+}
+const arr = [1, 2, 3, 4, 5];
+const oddNums = arr.filter(isOdd);
+console.log(oddNums); // Outputs [1, 3, 5];
+console.log(arr); // Outputs [1, 2, 3, 4, 5], original array is not affected
+```
+
+## The Reduce Method
+
+This method is that it will go through every element in `arr` and apply the `callback` function to it. It updates the `accumulator` withou actually changing the array itself. After it's done, it returns the `accumulator`.
+
+```js
+// rough syntax
+arr.reduce((result, function) => {
+	return result;
+}, resultInitialValue);
+```
+
+```js
+// example
+const arr = [1, 2, 3, 4, 5];
+const productOfAllNums = arr.reduce((total, currentItem) => {
+  return total * currentItem;
+}, 1);
+console.log(productOfAllNums); // Outputs 120;
+console.log(arr); // Outputs [1, 2, 3, 4, 5]
+```
+
+| **Visualization on the difference between the 3 methods:** |
+| ---------------------------------------------------------- |
+| ![[Pasted image 20260325213429.png]]                       |
+
+## Consecutive Usage of Array Methods
+
+```js
+// the methods can be lined up like this
+function sumOfTripledEvens(array) {
+  return array
+    .filter((num) => num % 2 === 0)
+    .map((num) => num * 3)
+    .reduce((acc, curr) => acc + curr);
+}
+```
+
+
+## Shuffling an Array
+
+**01 - The Fisher-Yates (aka Knuth) Shuffle** - use for large arrays of more than a few hundred
+
+```js
+function shuffle(array) {
+	for (let i = array.length - 1; i > 0; i--) {
+		let j = Math.floor(Math.random() * (i + 1));
+		[array[i], array[j]] = [array[j], array[i]];
+	}
+}
+```
+
+**02 - Schwartzian Transform Shuffle** - use for arrays with less than a few hundred items
+
+```js
+// Source - https://stackoverflow.com/a/46545530
+// Posted by superluminary, modified by community. See post 'Timeline' for change history
+// Retrieved 2026-03-26, License - CC BY-SA 4.0
+function shuffle(unshuffled) {
+	return unshuffled
+		.map(value => ({ value, sort: Math.random() }))
+	    .sort((a, b) => a.sort - b.sort)
+	    .map(({ value }) => value);
+}
+```
 
 
 ---

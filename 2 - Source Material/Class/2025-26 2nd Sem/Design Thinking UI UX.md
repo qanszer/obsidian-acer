@@ -181,6 +181,17 @@ Things to ask
 As an IT Professional, we are expected to be capable of using many tools. Apparently, said by sir.
 
 
+### 03/25/26 - Figma Lab
+
+Wisdom from youtube comment [here](https://www.youtube.com/watch?v=qaB5HF4ax9M)
+
+> 
+> *"Learn design principles and feed yourself with decent references. No design advancements will make the foundation outdated."*
+> 
+
+
+
+
 ---
 ### 03/
 

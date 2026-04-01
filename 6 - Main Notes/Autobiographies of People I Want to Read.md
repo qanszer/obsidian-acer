@@ -11,7 +11,7 @@ Benjamin Franklin
 Marcus Aurelius
 Church Colson
 C.S. Lewis
-
+Alfred Adler
 
 
 

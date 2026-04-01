@@ -468,6 +468,53 @@ This avoids a silent error wherein the code removes something that does not exis
 
 ---
 
+### 03/26/26 - Continuation to LinkedLists
+
+Cleaner LinkedList initialization:
+```java
+var matrix = new LinkedList<Integer>();
+```
+
+Copy a LinkedList:
+```java
+var matrixClone = new LinkedList<Integer>(matrix);
+```
+
+Two-Dimensional LinkedList Array:
+```java
+var matrix = new LinkedList<LinkedList<Integer>>();
+
+var firstRow = new LinkedList<Integer>();
+firstRow.add(1);
+firstRow.add(1);
+firstRow.add(1);
+matrix.add(firstRow);
+
+var secondRow = new LinkedList<Integer>();
+secondRow.add(2);
+secondRow.add(2);
+secondRow.add(2);
+matrix.add(secondRow);
+```
+
+Accessing the 2d LinkedList Array:
+```java
+System.out.println(matrix.get(0).get(2));
+```
+
+Displaying 2d LinkedList:
+```java
+for(LinkedList<Integer> row : matrix) {
+	for(Integer value : row) {
+		System.out.print(value + " ");
+	}
+	System.out.print();
+}
+```
+
+
+---
+
 ## Finals
 
 

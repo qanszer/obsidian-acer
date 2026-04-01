@@ -610,6 +610,223 @@ ORDER BY TotalQuantity DESC;
 ```
 
 
+### 03/31/26 - Subquery Activity
+
+```sql
+-- Drop tables if they exist (for clean start)
+IF OBJECT_ID('Employees', 'U') IS NOT NULL DROP TABLE Employees;
+IF OBJECT_ID('Departments', 'U') IS NOT NULL DROP TABLE Departments;
+GO
+
+-- Create Departments table
+CREATE TABLE Departments (
+    Department_ID INT PRIMARY KEY,
+    Department_Name VARCHAR(50) NOT NULL,
+    Location_ID INT,
+    Manager_ID INT
+);
+GO
+
+-- Create Employees table
+CREATE TABLE Employees (
+    Employee_ID INT PRIMARY KEY,
+    First_Name VARCHAR(50),
+    Last_Name VARCHAR(50) NOT NULL,
+    Email VARCHAR(100),
+    Phone_Number VARCHAR(20),
+    Hire_Date DATE NOT NULL,
+    Job_ID VARCHAR(20) NOT NULL,
+    Salary DECIMAL(10, 2) NOT NULL,
+    Commission_PCT DECIMAL(3, 2),
+    Manager_ID INT,
+    Department_ID INT,
+    FOREIGN KEY (Department_ID) REFERENCES Departments(Department_ID)
+);
+GO
+
+CREATE TABLE Locations (
+    Location_ID INT PRIMARY KEY,
+    Location_Name VARCHAR(100) NOT NULL
+);
+GO
+
+-- Insert Departments data
+INSERT INTO Departments (Department_ID, Department_Name, Location_ID, Manager_ID)
+VALUES 
+    (10, 'Administration', 1700, 200),
+    (20, 'Marketing', 1800, 201),
+    (50, 'Shipping', 1500, 124),
+    (60, 'IT', 1400, 103),
+    (80, 'Sales', 2500, 145),
+    (90, 'Executive', 1700, 100),
+    (110, 'Accounting', 1700, 205),
+    (190, 'Contracting', 1700, NULL);
+GO
+
+-- Insert Employees data (comprehensive dataset)
+INSERT INTO Employees (Employee_ID, First_Name, Last_Name, Email, Phone_Number, Hire_Date, Job_ID, Salary, Commission_PCT, Manager_ID, Department_ID)
+VALUES 
+    -- Executive (Department 90)
+    (100, 'Steven', 'King', 'SKING', '515.123.4567', '1987-06-17', 'AD_PRES', 24000, NULL, NULL, 90),
+    (101, 'Neena', 'Kochhar', 'NKOCHHAR', '515.123.4568', '1989-09-21', 'AD_VP', 17000, NULL, 100, 90),
+    (102, 'Lex', 'De Haan', 'LDEHAAN', '515.123.4569', '1993-01-13', 'AD_VP', 17000, NULL, 100, 90),
+    
+    -- IT (Department 60)
+    (103, 'Alexander', 'Hunold', 'AHUNOLD', '590.423.4567', '1990-01-03', 'IT_PROG', 9000, NULL, 102, 60),
+    (104, 'Bruce', 'Ernst', 'BERNST', '590.423.4568', '1991-05-21', 'IT_PROG', 6000, NULL, 103, 60),
+    (105, 'David', 'Austin', 'DAUSTIN', '590.423.4569', '1997-06-25', 'IT_PROG', 4800, NULL, 103, 60),
+    (106, 'Valli', 'Pataballa', 'VPATABAL', '590.423.4560', '1998-02-05', 'IT_PROG', 4800, NULL, 103, 60),
+    (107, 'Diana', 'Lorentz', 'DLORENTZ', '590.423.5567', '1999-02-07', 'IT_PROG', 4200, NULL, 103, 60),
+    
+    -- Shipping (Department 50)
+    (124, 'Kevin', 'Mourgos', 'KMOURGOS', '650.123.5234', '1999-11-16', 'ST_MAN', 5800, NULL, 100, 50),
+    (141, 'Trenna', 'Rajs', 'TRAJS', '650.121.8009', '1995-10-17', 'ST_CLERK', 3500, NULL, 124, 50),
+    (142, 'Curtis', 'Davies', 'CDAVIES', '650.121.2994', '1997-01-29', 'ST_CLERK', 3100, NULL, 124, 50),
+    (143, 'Randall', 'Matos', 'RMATOS', '650.121.2874', '1998-03-15', 'ST_CLERK', 2600, NULL, 124, 50),
+    (144, 'Peter', 'Vargas', 'PVARGAS', '650.121.2004', '1998-07-09', 'ST_CLERK', 2500, NULL, 124, 50),
+    
+    -- Sales (Department 80)
+    (145, 'John', 'Russell', 'JRUSSEL', '011.44.1344.429268', '1996-10-01', 'SA_MAN', 14000, 0.40, 100, 80),
+    (146, 'Karen', 'Partners', 'KPARTNER', '011.44.1344.467268', '1997-01-05', 'SA_MAN', 13500, 0.30, 100, 80),
+    (147, 'Alberto', 'Errazuriz', 'AERRAZUR', '011.44.1344.429278', '1997-03-10', 'SA_MAN', 12000, 0.30, 100, 80),
+    (148, 'Gerald', 'Cambrault', 'GCAMBRAU', '011.44.1344.619268', '1999-10-15', 'SA_MAN', 11000, 0.30, 100, 80),
+    (149, 'Eleni', 'Zlotkey', 'EZLOTKEY', '011.44.1344.429018', '2000-01-29', 'SA_MAN', 10500, 0.20, 100, 80),
+    (150, 'Peter', 'Tucker', 'PTUCKER', '011.44.1344.129268', '1997-01-30', 'SA_REP', 10000, 0.30, 145, 80),
+    (151, 'David', 'Bernstein', 'DBERNSTE', '011.44.1344.345268', '1997-03-24', 'SA_REP', 9500, 0.25, 145, 80),
+    (152, 'Peter', 'Hall', 'PHALL', '011.44.1344.478968', '1997-08-20', 'SA_REP', 9000, 0.25, 145, 80),
+    
+    -- Administration (Department 10)
+    (200, 'Jennifer', 'Whalen', 'JWHALEN', '515.123.4444', '1987-09-17', 'AD_ASST', 4400, NULL, 101, 10),
+    
+    -- Marketing (Department 20)
+    (201, 'Michael', 'Hartstein', 'MHARTSTE', '515.123.5555', '1996-02-17', 'MK_MAN', 13000, NULL, 100, 20),
+    (202, 'Pat', 'Fay', 'PFAY', '603.123.6666', '1997-08-17', 'MK_REP', 6000, NULL, 201, 20),
+    
+    -- Accounting (Department 110)
+    (205, 'Shelley', 'Higgins', 'SHIGGINS', '515.123.8080', '1994-06-07', 'AC_MGR', 12000, NULL, 101, 110),
+    (206, 'William', 'Gietz', 'WGIETZ', '515.123.8181', '1994-06-07', 'AC_ACCOUNT', 8300, NULL, 205, 110);
+GO
+
+INSERT INTO Locations (Location_ID, Location_Name)
+VALUES
+    (1400, 'Texas'),
+    (1500, 'California'),
+    (1700, 'Washington'),
+    (1800, 'Canada'),
+    (2500, 'London');
+GO
+
+-- Verify data
+SELECT * FROM Departments;
+SELECT * FROM Employees;
+SELECT * FROM Locations;
+
+
+-- Task 1
+SELECT Employee_ID, Last_Name, Salary
+FROM Employees
+WHERE Salary > (
+    SELECT AVG(SALARY) 
+    FROM Employees)
+ORDER BY Salary ASC
+
+-- Task 2
+SELECT Employee_ID, Last_Name
+FROM Employees
+WHERE Department_ID IN (
+    SELECT Department_ID
+    FROM Employees
+    WHERE Last_Name LIKE '%u%'
+)
+
+-- Task 3
+SELECT Last_Name, Salary
+FROM Employees
+WHERE Manager_ID = (
+    SELECT Employee_ID
+    FROM Employees
+    WHERE Last_Name = 'King'
+)
+
+-- Task 4
+SELECT Department_ID, Last_Name, Job_ID
+FROM Employees
+WHERE Department_ID = (
+    SELECT Department_ID
+    FROM Departments
+    WHERE Department_Name = 'Executive'
+)
+
+-- Task 5
+SELECT Last_Name, Salary
+FROM Employees
+WHERE Salary > (
+    SELECT AVG(Salary)
+    FROM Employees
+    WHERE Employee_ID IN (
+        SELECT Manager_ID
+        FROM Employees
+    )
+) AND Employee_ID NOT IN (
+    SELECT Manager_ID
+    FROM Employees    
+)
+
+-- Task 6
+SELECT Employee_ID, Last_Name
+FROM Employees
+WHERE Department_ID = (
+        SELECT Department_ID
+        FROM Departments
+        WHERE Location_ID = (
+            SELECT Location_ID
+            FROM Locations
+            WHERE Location_Name = 'London'
+        )
+    )
+
+-- Task 7
+SELECT Employee_ID, Last_Name, Salary
+FROM Employees
+WHERE Salary > (
+    SELECT AVG(Salary)
+    FROM Employees
+    WHERE Employee_ID IN (
+        SELECT Manager_ID
+        FROM Employees
+    )
+) AND Employee_ID NOT IN (
+    SELECT Manager_ID
+    FROM Employees    
+)
+
+-- Task 9
+SELECT Last_Name, Job_ID, Salary
+FROM Employees
+WHERE Salary > (
+    SELECT AVG(SALARY) 
+    FROM Employees
+)
+
+-- Task 10
+SELECT Employee_ID, Last_Name, Department_ID
+FROM Employees
+WHERE Department_ID = (
+    SELECT Department_ID
+    FROM Departments
+    WHERE Department_Name = 'Accounting'
+)
+
+-- Task 10
+SELECT Last_Name, Salary AS LowestSalary
+FROM Employees
+WHERE Salary = (
+    SELECT MIN(Salary)
+    FROM Employees
+)
+
+```
+
 
 
 ---

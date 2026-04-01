@@ -250,6 +250,12 @@ Be “hearty in your approbation and lavish in your praise,” and people will c
 
 ---
 
+Notes
+
+- Arouse an eager want to the other person by helping him envision what he could become
+
+---
+
 # References
 
 *How to Win Friends and Influence People* by Dale Carnegie
