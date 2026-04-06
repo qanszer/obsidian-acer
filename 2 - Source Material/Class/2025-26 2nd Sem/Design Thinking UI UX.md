@@ -181,6 +181,7 @@ Things to ask
 As an IT Professional, we are expected to be capable of using many tools. Apparently, said by sir.
 
 
+---
 ### 03/25/26 - Figma Lab
 
 Wisdom from youtube comment [here](https://www.youtube.com/watch?v=qaB5HF4ax9M)
@@ -190,10 +191,49 @@ Wisdom from youtube comment [here](https://www.youtube.com/watch?v=qaB5HF4ax9M)
 > 
 
 
+---
+### 04/06/26 - Empathize with the Users
+
+This is important in order to know the problems we need to solve from the client's. 
+
+For example, if the client wants an online method of paying for their services, but you end up focusing on the design and did not focus on making flexible payment methods online, then the client and users will not be satisfied.
+
+Ask:
+- **what** is happening?
+	- what's the problem? record the details
+- **how** is it happening?
+	- analyze how the client is doing what they are doing
+- **why** is it happening?
+
+Example of a User Persona:
+![[Pasted image 20260406184900.png]]
+
+Example of an Analogous Empathy:
+![[Pasted image 20260406184929.png]]
+Add feedback to the last part
+
+
+**Group Assignment** - Create user personas
+
+Deadline: Next next week (after exams)
+Instructions:
+- any number, as long as it satisfies all the possible scenarios and users who will use the platform. include disabled people. and it should be the target users
+What to pass:
+- screenshots of each user persona (pdf)
+
+
+**Actual Presentation for the Final Project**
+1. Introduction about proposed system
+2. Scopes - Features and Functionalities
+
+
+To ask:
+- research paper and documentation template
 
 
 ---
-### 03/
+### 04/
+
 
 
 ---

@@ -124,5 +124,6 @@ Comprehensive list and guide of the laws for UX design
 #### 9. RealTimeColors
 https://www.realtimecolors.com/?colors=050315-fbfbfe-2f27ce-dedcff-433bff&fonts=Inter-Inter
 Visualize colors and fonts in a real website. Also has a plugin for figma
-
-
+#### 10. Free UX Templates
+https://www.nngroup.com/articles/free-ux-templates/
+Templates for discovery, research, facilitation, mapping, content, design, etc

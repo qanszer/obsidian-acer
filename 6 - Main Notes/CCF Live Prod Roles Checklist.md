@@ -6,7 +6,7 @@ Tags: [[Guide]]
 ---
 # CCF Live Prod Roles Checklist
 
-This is a checklist I can use to see all the preparations to be done, as well as the reminders for during live
+This is a checklist I can use to see all the preparations to be done, as well as the reminders for during live.
 
 ## Main Graphics Operator
 

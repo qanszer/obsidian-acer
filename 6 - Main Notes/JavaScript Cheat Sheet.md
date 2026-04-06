@@ -1773,6 +1773,106 @@ function shuffle(unshuffled) {
 ```
 
 
+
+---
+# 08 - Events
+
+
+## Methods to Select HTML Elements
+
+1. `querySelector()`
+2. `getElementById()`
+
+## Mouse Events
+[More info](https://www.javascripttutorial.net/javascript-dom/javascript-mouse-events/)
+
+#### Methods to register a mouse event
+
+1. General - `addEventListener('click')`
+2. Specific - `onclick`
+
+**It’s a good practice to use the `addEventListener()` to register a mouse event handler.**
+
+#### Mousemove
+
+The `mousemove` event fires repeatedly whenever you move the mouse cursor around an element. This `mousemove` event fires many times per second as the mouse is moved around, even if it is just by one pixel. This may lead to a performance issue if the event handler function is complex.
+
+To avoid the performance issue, it is a good practice to add `mousemove` event handler only when you need it and remove it as soon as it is no longer needed, like this:
+
+```js
+element.onmousemove = mouseMoveEventHandler;
+// ...
+//  later, no longer use
+element.onmousemove = null;
+```
+
+#### Detecting mouse buttons
+
+The `event` object passed to the mouse event handler has a property called `button` that indicates which mouse button was pressed on the mouse to trigger the event.
+
+The mouse button is represented by a number:
+
+- `0`: the main mouse button is pressed, usually the left button.
+- `1`: the auxiliary button is pressed, usually the middle button or the wheel button.
+- `2`: the secondary button is pressed, usually the right button.
+- `3`: the fourth button is pressed, usually the Browser Back button.
+- `4`: the fifth button is pressed, usually the _Browser Forward_ button.
+
+![[Pasted image 20260406210502.png]]
+
+```js
+// example
+
+btn.addEventListener('mouseup', (e) => {
+	let msg = document.querySelector('#message');
+	switch (e.button) {
+		case 0:
+			msg.textContent = 'Left mouse button clicked.';
+			break;
+		case 1:
+			msg.textContent = 'Middle mouse button clicked.';
+			break;
+		case 2:
+			msg.textContent = 'Right mouse button clicked.';
+			break;
+		default:
+			msg.textContent = `Unknown mouse button code: ${event.button}`;
+	}
+});
+```
+
+#### Modifier keys
+
+```js
+.shiftKey
+.ctrlKey
+.altKey
+.metaKey
+```
+
+When you click an element, you may press one or more modifier keys: Shift, Ctrl, Alt, and Meta. Note the Meta key is the Windows key on Windows keyboards and the Command key on the Apple keyboard.
+
+To detect if these modifier keys have been pressed, you can use the `event` object passed to the mouse event handler.
+
+The `event` object has four Boolean properties, where each is set to `true` if the key is being held down or `false` if the key is not pressed.
+
+```js
+// example
+
+btnKeys.addEventListener('click', (e) => {
+	let keys = [];
+
+	if (e.shiftKey) keys.push('shift');
+	if (e.ctrlKey) keys.push('ctrl');
+	if (e.altKey) keys.push('alt');
+	if (e.metaKey) keys.push('meta');
+
+	let msg = document.querySelector('#messageKeys');
+	msg.textContent = `Keys: ${keys.join('+')}`;
+});
+```
+
+
 ---
 # References
 
