@@ -210,5 +210,13 @@
       ],
       "key": "C"
     }
+  ],
+  "select-current-line:select-current-line-on-keystroke": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
   ]
 }

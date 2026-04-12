@@ -22,10 +22,10 @@ This book is a wake-up call to society about the importance of sleep and on how 
 ### My Top 5 Key Actions
 
 1. **Same sleep schedule every day, even weekends (most important)**
-2. **No screens 1 hour before bed**
-3. **Cool, dark bedroom**
-4. **Morning sunlight within 30 minutes of waking up**
-5. **Take a 20-30 minute nap only between 1-3pm**
+2. **Cool, dark bedroom**
+3. **Morning sunlight within 30 minutes of waking up**
+4. **Take a 20-30 minute nap only between 1-3pm**
+5. **No caffeine after 2pm (coffee, black/green tea, soda, energy drinks)**
 
 
 ### Other Learnings to Keep in Mind
@@ -55,7 +55,7 @@ This book is a wake-up call to society about the importance of sleep and on how 
 
 #### Notes
 
-**CONSEQUENCES OF CONTINUOUS LACK OF SLEEP (Less than 6-7 hours)**
+**CONSEQUENCES OF CONTINUOUS LACK OF SLEEP (Less than 6 hours)**
 
 - Demolishes your immune system
 - Much more likely to develop Alzheimer's disease
@@ -66,9 +66,7 @@ This book is a wake-up call to society about the importance of sleep and on how 
 - If you attempt to diet while lacking sleep, most of the weight you'll lose will come from lean body mass, not body fat
 
 
-Drowsy driving is the cause of hundreds of thousands of traffic accidents and fatalities each year. As much as possible, **don't drive while sleep-deprived.**
-
-Vehicular accidents by drowsy driving **exceed those caused by alcohol and drugs** **combined**.
+Drowsy driving is the cause of hundreds of thousands of traffic accidents and fatalities each year. As much as possible, **don't drive while sleep-deprived.** Vehicular accidents by drowsy driving **exceed those caused by alcohol and drugs** **combined**.
 
 
 Every major organ and brain process within our bodies are enhanced optimally by sleep, but also detrimentally impaired when we lack sleep.
@@ -94,7 +92,7 @@ Every major organ and brain process within our bodies are enhanced optimally by 
 
 
 **Health Trinity - Balanced diet, exercise, and sleep**
-Sleep is the top priority between them 3
+Sleep is actually the top priority between the 3
 
 
 **SO HOW SHOULD WE SLEEP?**

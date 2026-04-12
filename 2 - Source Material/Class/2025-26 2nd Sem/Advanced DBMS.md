@@ -828,6 +828,111 @@ WHERE Salary = (
 ```
 
 
+---
+### 04/07/26 - DCL Activity
+
+
+```sql
+CREATE TABLE Students_Record (
+
+StudentID INT PRIMARY KEY,
+
+StudentName VARCHAR(50),
+
+Course VARCHAR(50)
+
+);
+
+  
+
+INSERT INTO Students_Record VALUES
+
+(1,'Ana Cruz','BSIT'),
+
+(2,'Mark Reyes','BSCS'),
+
+(3,'Liza Santos','BSIS');
+
+  
+
+CREATE LOGIN TeacherUser WITH PASSWORD='Teacher123!';
+
+CREATE USER TeacherUser FOR LOGIN TeacherUser;
+
+  
+
+CREATE LOGIN RegistrarUser WITH PASSWORD='Registrar123!';
+
+CREATE USER RegistrarUser FOR LOGIN RegistrarUser;
+
+  
+
+SELECT name, type_desc FROM sys.server_principals WHERE name IN ('TeacherUser', 'RegistrarUser');
+
+SELECT name, type_desc FROM sys.database_principals WHERE name IN ('TeacherUser', 'RegistrarUser');
+
+  
+
+SELECT * FROM Students_Record
+
+  
+
+GRANT SELECT ON Students_Record TO TeacherUser;
+
+GRANT INSERT, UPDATE ON Students_Record TO RegistrarUser;
+
+  
+
+REVOKE UPDATE ON Students_Record FROM RegistrarUser;
+
+  
+  
+  
+
+GRANT SELECT ON Students_Record TO TeacherUser;
+
+GRANT INSERT, UPDATE ON Students_Record TO RegistrarUser;
+
+  
+  
+
+REVOKE UPDATE ON Students_Record FROM RegistrarUser;
+
+  
+
+--1
+
+SELECT grantee_principal_id, permission_name, state_desc
+
+FROM sys.database_permissions
+
+WHERE grantee_principal_id = USER_ID('TeacherUser')
+
+AND permission_name = 'SELECT';
+
+  
+
+--2
+
+SELECT grantee_principal_id, permission_name, state_desc
+
+FROM sys.database_permissions
+
+WHERE grantee_principal_id = USER_ID('RegistrarUser')
+
+AND permission_name = 'INSERT';
+
+  
+
+--3
+
+SELECT permission_name, state_desc
+
+FROM sys.database_permissions
+
+WHERE grantee_principal_id = USER_ID('RegistrarUser');
+```
+
 
 ---
 

@@ -387,6 +387,10 @@ Left join is the one that's used 90% of the time in real coding environments
 **LinkedList Syntax**
 
 ```java
+LinkedList<int> matrix;
+```
+
+```java
 LinkedList<String> Students = new LinkedList<>();
 ```
 
@@ -511,6 +515,78 @@ for(LinkedList<Integer> row : matrix) {
 	System.out.print();
 }
 ```
+
+
+
+---
+### 04/07/26 - Put JSON inside LinkedLists
+
+```java
+// Items JSON
+
+var itemList = new LinkedList<Items>();
+    
+public class Items {
+	int id;
+	String name;
+	double price;
+	LinkedList<Items> subItems;
+}
+```
+
+```java
+// Sections JSON
+
+var sectionsList = new LinkedList<Sections>();
+
+public class Sections {
+	String sectionId;
+	String sectionName;
+	LinkedList<Students> students;
+}
+
+public class Students {
+	int id;
+	String name;
+	int age;
+	double grade;
+}
+```
+
+```java
+// Platforms JSON
+
+var platformList = new LinkedList<Platforms>();
+
+public class Platforms {
+	LinkedList<Stores> stores;
+}
+
+public class Stores {
+	String storeName;
+	LinkedList<Orders> orders;
+}
+
+public class Orders {
+	String orderId;
+	LinkedList<Products> products;
+}
+
+public class Products {
+	String name;
+	double price;
+	int quantity;
+}
+```
+
+
+**Tip**: Always copy the existing naming cases on the websites you copied the JSON from.
+
+
+**Flow when developing projects**
+1. Database first
+2. Object with class
+3. Logic
 
 
 ---

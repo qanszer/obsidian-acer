@@ -756,6 +756,26 @@ For random whole number between 1-100:
 ```
 
 
+## Callbacks
+
+Put simply, **callbacks are functions** that are passed into another function as an argument.
+
+You most likely have seen, or even used, callbacks and not realized it. They are used frequently in JavaScript. **Understanding JavaScript is impossible without understanding callbacks**. Below is an example of something you may have run into before.
+
+```js
+const notes = ['do', 're', 'me'];
+
+notes.forEach((note) => console.log(note));
+```
+
+This is the `forEach` array method. This method simply takes a `callback` function as its argument.
+
+
+**How Callbacks Work**
+
+To state it once more: **Callbacks are just functions** passed into other functions as arguments (as a parameter).
+
+
 ---
 # 06 - Loops
 
@@ -1786,7 +1806,18 @@ function shuffle(unshuffled) {
 ## Mouse Events
 [More info](https://www.javascripttutorial.net/javascript-dom/javascript-mouse-events/)
 
-#### Methods to register a mouse event
+1. `mousedown` - press the mouse button on the element
+2. `mouseup` - release the mouse button on the element
+3. `click` - one `mousedown` and one `mouseup` detected on the element
+4. `dblclick` - 2 `click` events
+5. `mousemove` - move the mouse cursor around an element
+6. `mouseover` - pointer enters the element or any of its children; bubbles
+7. `mouseout` - pointer leaves the element or any of its children; bubbles
+8. `mouseenter` - pointer enters the element itself only; does not bubble
+9. `mouseleave` - pointer leaves the element itself only; does not bubble
+10. `wheel` - scroll the mouse wheel or touchpad
+
+#### Select a mouse event
 
 1. General - `addEventListener('click')`
 2. Specific - `onclick`
@@ -1870,6 +1901,240 @@ btnKeys.addEventListener('click', (e) => {
 	let msg = document.querySelector('#messageKeys');
 	msg.textContent = `Keys: ${keys.join('+')}`;
 });
+```
+
+#### Bubbling behavior summary
+
+|Event|Bubbles|Fires on child elements|
+|---|---|---|
+|mouseover|Yes|Yes|
+|mouseout|Yes|Yes|
+|mouseenter|No|No|
+|mouseleave|No|No|
+|click|Yes|N/A|
+|dblclick|Yes|N/A|
+|mousedown|Yes|N/A|
+|mouseup|Yes|N/A|
+|mousemove|Yes|N/A|
+|wheel|Yes|N/A|
+
+## Keyboard Events
+[More info](https://www.javascripttutorial.net/javascript-dom/javascript-keyboard-events/)
+
+1. `keydown` - press a key on the keyboard and fires repeatedly while you’re holding down the key; repeating
+2. `keypress` - press a character keyboard like `a`,`b`, or `c`, not the left arrow key, home, or end keyboard; repeating
+3. `keyup` - release a key on the keyboard
+
+Both `keydown` and `keypress` events are fired before any change is made to the text box, whereas the keyup event fires after the changes have been made to the text box. If you hold down a character key, the `keydown` and `keypress` are fired repeatedly until you release the key.
+
+When you press a non-character key, the `keydown` event is fired first followed by the `keyup` event. If you hold down the non-character key, the `keydown` is fired repeatedly until you release the key.
+
+#### Select a keyboard event
+
+```html
+<input type="text" id="message">
+```
+
+```js
+let msg = document.getElementById('#message');
+
+msg.addEventListener("keydown", (event) => {
+    // handle keydown
+});
+
+msg.addEventListener("keypress", (event) => {
+    // handle keypress
+});
+
+msg.addEventListener("keyup", (event) => {
+    // handle keyup
+});
+```
+
+#### Important Keyboard Properties
+
+1. `key` - returns the character that has been pressed
+2. `code` - returns the physical key code
+
+For example, if you press the `z` character key, the `event.key` returns `z` and `event.code` returns `KeyZ`.
+
+
+## Event Delegation
+
+The event delegation refers to the **technique of using event bubbling to handle events at a higher level in the DOM** than the element on which the event originated.
+
+Suppose this:
+
+```html
+<ul id="menu">
+    <li><a id="home">home</a></li>
+    <li><a id="dashboard">Dashboard</a></li>
+    <li><a id="report">report</a></li>
+</ul>
+```
+
+```js
+// wrong method
+
+let home = document.querySelector('#home');
+home.addEventListener('click',(event) => {
+    console.log('Home menu item was clicked');
+});
+
+let dashboard = document.querySelector('#dashboard');
+dashboard.addEventListener('click',(event) => {
+    console.log('Dashboard menu item was clicked');
+});
+
+let report = document.querySelector('#report');
+report.addEventListener('click',(event) => {
+    console.log('Report menu item was clicked');
+});
+```
+
+The normal, tedious way of adding event handlers shown above is inefficient because: 
+- each function takes up memory, which slows the performance
+- takes time to assign all the event handlers which causes a delay in the interactivity of the page
+
+Instead of having multiple event handlers, you can **assign a single event handler** to handle all the `click` events:
+
+```js
+// right method
+
+let menu = document.querySelector('#menu');
+
+menu.addEventListener('click', (event) => {
+    let target = event.target;
+	
+    switch(target.id) {
+        case 'home':
+            console.log('Home menu item was clicked');
+            break;
+        case 'dashboard':
+            console.log('Dashboard menu item was clicked');
+            break;
+        case 'report':
+            console.log('Report menu item was clicked');
+            break;
+    }
+});
+```
+
+## The dispatchEvent Method
+[More info](https://www.javascripttutorial.net/javascript-dom/javascript-dispatchevent/)
+
+This lets you create events generated from code instead of user actions for testing.
+
+**Create a new event:**
+```js
+let event = new Event(type, [,options]);
+```
+
+**The 2 parameters:**
+1. type - is a string that specifies the event type such as `'click'`.
+2. options - is an object with two optional properties:
+	- `bubbles`: is a boolean value that determines if the event bubbles or not. If it is `true` then the event is bubbled and vice versa.
+	- `cancelable`: is also a boolean value that specifies whether the event is cancelable when it is `true`.
+
+**By default, the `options` object is:**
+```js
+{ bubbles: false, cancelable: false}
+```
+
+```js
+// example
+let event = new Event('click');
+```
+
+
+**Example scenario**
+
+```html
+<button class="btn">Test</button>
+```
+
+```js
+let btn = document.querySelector('.btn');
+
+ btn.addEventListener('click', function () {
+        alert('Mouse Clicked');
+ });
+
+let clickEvent = new Event('click');
+btn.dispatchEvent(clickEvent);
+```
+
+
+The `Event` is the base type of `UIEvent` which is the base type of other specific event types such as `MouseEvent`, `TouchEvent`, `FocusEvent`, and `KeyboardEvent`.
+
+It’s a good practice to use the specialized event constructor like MouseEvent instead of using the generic `Event` type because these constructors provide more information specific to the events.
+
+
+**The isTrusted Method**
+
+If the event comes from the user actions, the `event.isTrusted` property is set to `true`. 
+
+In case the event is generated by code, the `event.isTrusted` is `false`. Therefore, you can examine the value of `event.isTrusted` property to check the “authenticity” of the event.
+
+## Custom Events
+
+Unlike standard events, custom events are events that you define and dispatch yourself. 
+
+Custom events **allow you to create your own communication system** between different parts of your app.
+
+**Why use custom events?** Custom events allow you to decouple code execution, allowing one piece of code to run after another completes.
+
+For example, you can place event listeners in a separate script file and have multiple listeners for the same custom event.
+
+
+**Create a custom event**
+```js
+let event = new CustomEvent(eventType, options);
+```
+
+**The `CustomEvent()` has two parameters:**
+- The `eventType` is a string that represents the name of the event.
+- The `options` is an object has the `detail` property that contains any custom information about the event.
+
+**Example**
+
+```html
+<div class="note">JS Custom Event</div>
+```
+
+```js
+function highlight(elem) {
+	const bgColor = 'yellow';
+	elem.style.backgroundColor = bgColor;
+
+	// create the event
+	let event = new CustomEvent('mark', {
+		detail: {
+			backgroundColor: bgColor
+		}
+	});
+	// dispatch the event
+	elem.dispatchEvent(event);
+}
+
+// Select the div element
+let div = document.querySelector('.note');
+
+// Add border style
+function addBorder(elem) {
+	elem.style.border = "solid 1px red";
+}
+
+// Listen to the highlight event
+div.addEventListener('mark', function (e) {
+	addBorder(this);
+
+	// examine the background
+	console.log(e.detail);
+});
+
+// highlight div element
+highlight(div);
 ```
 
 
