@@ -9,7 +9,6 @@ Tags: [[JavaScript]], [[Coding]], [[The Odin Project]]
 
 
 ## Arithmetic Operators
-
 [More Info](https://www.w3schools.com/js/js_arithmetic.asp)
 
 The following are all of the operators in Javascript:
@@ -42,7 +41,6 @@ Other programming languages have:
 
 **Javascript numbers are always double** (64-bit floating point).
 
-
 ## Precision
 
 Integers (numbers without a period or exponent notation) are accurate up to 15 digits. 
@@ -67,7 +65,6 @@ To solve the problem above, it helps to multiply and divide:
 let x = (0.2 * 10 + 0.1 * 10) / 10;   // output is 0.3
 ```
 
-
 ## Number Problems
 
 Javascript uses the + operator for both addition(numbers) and concatenation(strings). This creates unexpected outcomes for beginners.
@@ -87,7 +84,6 @@ x = "10" - 20;   // -10
 x = "10" ** 20;   // 10000000
 ```
 
-
 ## Reserved Words
 
 `NaN` is a Javascript reserved word indicating that a number is not a legal number. You can use the global JavaScript function `isNaN()` to find out if a value is a not a number.
@@ -95,7 +91,6 @@ x = "10" ** 20;   // 10000000
 `Infinity` (or `-Infinity`) is the value JavaScript will return if you calculate a number outside the largest possible number. Division by 0 (zero) also generates `Infinity`.
 
 Both `Nan` and `Infinity` are considered numbers in Javascript.
-
 
 ## Conversions
 
@@ -114,7 +109,6 @@ myNumber.toString(8);  // octal
 myNumber.toString(2);  // binary
 ```
 
-
 You can **convert strings into numbers** through `Number()`.
 
 Another method is by using + before the variable/string like:
@@ -128,9 +122,7 @@ alert (Number(apples) + Number(oranges)); // 5
 
 the `Number()` function is recommended for clarity.
 
-
 Other useful math object methods include:
-
 ```js
 Math.random() * 10;  // random num between 0 and 10
 // Generates a random decimal number between 0 (inclusive) and 1 (exclusive). 
@@ -149,16 +141,12 @@ Math.round(4.9)  // 5
 // Rounds a number to the nearest integer
 ```
 
-
 For rounding off by your decided number:
-
 ```js
 .toFixed(2);
 ```
 
-
 ## Comparison Operators
-
 [More Info](https://javascript.info/comparison)
 
 | Operator   - | Name                                 x |
@@ -172,9 +160,7 @@ For rounding off by your decided number:
 
 Use `===` and `!==` on Javascript, not the `==` and `!=` because it also tests out whether the datatypes of the values are the same.
 
-
 ## Logical Operators
-
 [More Info](https://javascript.info/logical-operators)
 
 | Operator   - | Name       - | Precedence   - | Description                         x |
@@ -183,12 +169,10 @@ Use `===` and `!==` on Javascript, not the `==` and `!=` because it also tests o
 | &&           | AND          | 2nd            | First false value is returned         |
 | !            | NOT          | 1st            | Inverse value is returned             |
 
-
 **OR Operator When Given Multiple Values:**
 https://javascript.info/logical-operators#or-finds-the-first-truthy-value
 
-Practical Usage of OR Operator as a defualt fallback:
-
+Practical Usage of OR Operator as a default fallback:
 ```js
 function getGreeting(language) {
 	const greetings = {
@@ -200,23 +184,18 @@ function getGreeting(language) {
 }
 ```
 
-
 **AND Operator When Given Multiple Values:**
 https://javascript.info/logical-operators#and-finds-the-first-falsy-value
 
 **NOT Operator**:
 https://javascript.info/logical-operators#not
 
-
 if (!(age >= 14 && age <= 90));
-
 if (age < 14 && age > 90);
-
 
 ## Boolean Conversions
 
 **False values:**
-
 - number `0`
 - empty string `""`
 - `null`
@@ -224,20 +203,15 @@ if (age < 14 && age > 90);
 - `NaN`
 
 **Truth values:**
-
 - anything else aside from the above
 
 **Boolean methods to check a variable's datatype**
-
 - int: `Number.isInteger(variable)`
 - string: `typeof variable === 'string'`
 - array: `Array.isArray(variable)`
 
-
 **Method for checking if a variable has that specific variable/value:**
-
 - `.includes(element/variable/value)`
-
 
 ## Rounding off
 
@@ -269,7 +243,6 @@ There are only 2 types of variables:
 3. `var` (older version of `let`, should not be used)
 
 ## Data Types
-
 [More Info](https://javascript.info/types#:~:text=much%20more%20common.-,Summary,-There%20are%208)
 
 | Type      - | Mutabiltity | Description                                                      x |
@@ -283,18 +256,14 @@ There are only 2 types of variables:
 | object      | mutable     | stores collections of data and more complex entities               |
 | symbol      | immutable   | used to create unique identifiers for objects                      |
 
-
 To check a variable's data type:
-
 ```js
 typeof variableName;
 ```
 
-
 ## Null vs Undefined
 
 Normally, one uses `null` to assign an “empty” or “unknown” value to a variable, while `undefined` is reserved as a default initial value for unassigned things.
-
 
 
 ---
@@ -317,11 +286,9 @@ let x = 10;
 let y = `Use backticks like this to insert a variable: ${x}`;
 ```
 
-
 ## Convert data types into string
 
 The function `String()` converts other data types into a string.
-
 
 ## Basic String Methods
 
@@ -345,7 +312,6 @@ Javascript strings are primitive and immutable. All string methods produce a new
 Other string methods:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
 
-
 If comparisons become tricky/confusing:
 https://javascript.info/comparison
 
@@ -365,7 +331,6 @@ if (condition) {
   /* run some other code instead */
 }
 ```
-
 
 ## Connecting if...else statements to HTML:
 
@@ -409,7 +374,6 @@ function setWeather() {
 }
 ```
 
-
 ## Switch syntax:
 
 ```js
@@ -429,7 +393,6 @@ switch (expression) {
     break;
 }
 ```
-
 
 ## Connecting a switch statement to HTML:
 
@@ -478,7 +441,6 @@ function setWeather() {
 }
 ```
 
-
 ## Usage Advice
 
 **Use switches when:**
@@ -487,14 +449,12 @@ function setWeather() {
 - visual clarity and readability is prioritized
 - using fall-through behavior (multiple cases, same result)
 
-
 **Use if...else when:**
 
 - conditions need ranges (<, <=, etc)
 - conditions have many variables
 - for complex boolean logic (&&, ||)
 - simple 2-3 conditions
-
 
 **If...else is more common** in modern JavaScript codebases because:
 
@@ -514,7 +474,6 @@ const map = {'a': 1, 'b': 2};
 return map[x];
 ```
 
-
 ## Ternary/Question Mark Operator Syntax
 
 ```js
@@ -531,7 +490,6 @@ const greeting = isBirthday
 // Use parentheses for better readability
 let accessAllowed = (age > 18) ? true : false;
 ```
-
 
 ## Connecting ternary operators to HTML:
 
@@ -581,11 +539,9 @@ function showMessage() {
 }
 ```
 
-
 **Remember**: A variable declared inside a function is only visible inside that function. It cannot be called upon outside of the function.
 
 **But** functions are able to use variables from the outside. It can even modify the variable inside the function.
-
 
 ## Global Variables
 
@@ -596,7 +552,6 @@ function showMessage() {
 - It’s a **good practice to minimize the use of global variables**. Modern code has few or no globals. Most variables reside in their functions. Sometimes though, they can be useful to store project-level data.
 
 To make the code clean and easy to understand, it’s recommended to use mainly local variables and parameters in the function, not outer variables
-
 
 ## Default Values
 
@@ -628,7 +583,6 @@ function showMessage(from, text = anotherFunction() {
 }
 ```
 
-
 ## Naming a Function
 
 Functions are actions. So their name is usually a verb. It should be brief, as accurate as possible and describe what the function does, so that someone reading the code gets an indication of what the function does.
@@ -655,7 +609,6 @@ A few examples of breaking this rule:
 - `checkPermission` – would be bad if it displays the `access granted/denied` message (should only perform the check and return the result).
 
 Functions should be short and do exactly one thing. If that thing is big, maybe it’s worth it to split the function into a few smaller functions. Sometimes **following this rule may not be that easy**, but it’s definitely a good thing.
-
 
 The first variant uses a label:
 
@@ -696,9 +649,7 @@ The second variant is easier to understand, isn’t it? **Instead of the code pi
 
 So, **functions can be created even if we don’t intend to reuse them**. They structure the code and make it readable.
 
-
 ## Scopes
-
 [More info](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Functions#function_scope_and_conflicts)
 
 When we create functions, the code blocks inside them are half-separate from the outside code. Half-separate, because **variables outside of the function can be called and used** (global scopes), but **variables inside the function *cannot* be called and cannot be used outside of the function** (function scopes).
@@ -711,9 +662,7 @@ Javascript works like this mainly for security and organization.
 
 **Reminder:** The `ReferenceError: "x" is not defined` error is one of the most common you'll encounter. If you get this error and you are sure that you have defined the variable in question, check what scope it is in.
 
-
 **Loops** (while, for) and **conditionals** (if, if else) **also apply** to this. **They also have their own scopes**. That means the variables that are declared inside of them cannot be accessed to the outside blocks of code.
-
 
 ## Return Values
 
@@ -721,13 +670,11 @@ Generally, a return value is **used where the function is an intermediate step i
 
 After the function calculates the value, it can return the result so it can be stored in a variable; and you can use this variable in the next stage of the calculation.
 
-
 ## Function Expressions
 [More info](https://javascript.info/function-expressions)
 
 **Callback Functions**
 [More info](https://javascript.info/function-expressions#callback-functions)
-
 
 ## Arrow Functions
 [More info](https://javascript.info/arrow-functions-basics)
@@ -742,7 +689,6 @@ console.log(filtered);
 // [ "Leopard", "Lion" ]
 ```
 
-
 ## Random Functions
 
 For random negative/positive return:
@@ -754,7 +700,6 @@ For random whole number between 1-100:
 ```js
 () => Math.floor(Math.random() * 100) + 1
 ```
-
 
 ## Callbacks
 
@@ -770,9 +715,7 @@ notes.forEach((note) => console.log(note));
 
 This is the `forEach` array method. This method simply takes a `callback` function as its argument.
 
-
-**How Callbacks Work**
-
+**How Callbacks Work**:
 To state it once more: **Callbacks are just functions** passed into other functions as arguments (as a parameter).
 
 
@@ -808,7 +751,6 @@ do {
   final-expression
 } while (condition)
 ```
-
 
 ## Two ways of using loops for collections
 
@@ -880,7 +822,6 @@ for (let i = 0; i < cats.length; i++) {
 console.log(myFavoriteCats); // "My cats are called Pete, Biggles, and Jasmine."
 ```
 
-
 ## Break Statement
 [More info](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops#exiting_loops_with_break)
 
@@ -892,7 +833,6 @@ Say we wanted to search through an array of contacts and telephone numbers and r
 [More info](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops#skipping_iterations_with_continue)
 
 A `continue` statement skips to the next iteration of the loop.
-
 
 ## Labels
 
@@ -913,7 +853,6 @@ outer: for (let i = 0; i < 3; i++) {
 
 alert(`Done!);
 ```
-
 
 ## MDN Playground Exercise
 [Try it yourself](https://developer.mozilla.org/en-US/play?uuid=3504afee6ad46a0bc42f2162b4f26f1c06bc0474&state=fVJNj9MwEP0ro0FIINq0ReJjnabS0iMcEMsNc3CTSWPWsYM96W5Z7X9fOR8GlhW3eeP33oztd4cNtwYFbit9gtKoEAqJrueuZ4k7aQG2XeqrqtXMVEncXcZSbFfdY46nug8D5ctQTZztqtKnnbS4wDIEFMNcuIvi2lle1qrV5iwgKBuWgbyuc2nvpZW2ef0HLehfJGDztrudjzO12ZyXRh1osmuVP2orYJ1HxHTLS2X00Qrw%2Bthw%2Fshrnb3z1A7dG11xI%2BDi%2FfPZ%2FOCq89%2Bum%2FUwGuCgyuujd72tBDyr39QXtUorje83ChuKU6NwVroT%2Bdq4GwGqZzeKcIE%2F4quUzgaGjlxnCAr4FvkS943XQeJiRJfWUgJ7Z7RN6Ct5rxP63GiTwCdnVAJXqk31R3VO9Qffl6P39zzeZFxn%2FnYooHJl35Ll7GdP%2FnxFhkp2%2FoXE7Hc2XuazcMrCf3UpL1E2m2Tx2%2FbOMlmGIt55iBtIzKWdFP9wpryNJGlXKzDOdRBYeQ7QkKep%2FZTBqwKyLMuH8ye3SARcIDfUEgqslL%2FG%2Bwc%3D&srcPrefix=%2Fen-US%2Fdocs%2FLearn_web_development%2FCore%2FScripting%2FLoops%2F)
@@ -997,7 +936,6 @@ admitted.textContent = `${admitted.textContent.slice(0, -2)}.`;
 // Refuse: Phil, Lola.
 ```
 
-
 ## Which loops to use for each usecase?
 
 If you're iterating through an array or some other object that supports it, and don't need access to the index position of each item, then `for...of` is the best choice. It's easier to read and there's less to go wrong.
@@ -1045,7 +983,6 @@ alert( arr[1].name ); // John
 arr[3](); // hello
 ```
 
-
 ## Trailing Comma
 
 This style makes it easier to insert/remove items because all lines become alike
@@ -1058,7 +995,6 @@ let fruits = [
 ]
 ```
 
-
 ## Negative indexes
 
 For getting the last element of the array, some programming languages use negative indexes like `fruits[-1]`, but it won't work in JavaScript.
@@ -1067,7 +1003,6 @@ JavaScript's solution is `fruits.at(-1)`
 
 `arr.at(i)`
 - exactly the same as `arr[i]` which is the standard syntax for most programming languages
-
 
 ## Queues/Stacks
 
@@ -1087,7 +1022,6 @@ JavaScript's solution is `fruits.at(-1)`
 - usually described as a stack of cards on top of each other
 
 ![[Pasted image 20260323203942.png]]
-
 
 **Methods** that work with the **end** of the array:
 
@@ -1113,7 +1047,6 @@ fruits.shift();
 alert( fruits.unshift("Apple", "Pineapple") ); // can have multiple values
 ```
 
-
 ## Array Specifics
 
 An array is a special kind of object. The square brackets used to access a property `arr[0]` actually come from the object syntax. That’s essentially the same as `obj[key]`, where `arr` is the object, while numbers are used as keys.
@@ -1136,7 +1069,6 @@ arr.push("pear"); // if you modify the new array variable (arr),
 alert(fruits); // the original array variable also gets updated
 ```
 
-
 ## The ways to misuse an array
 
 - Add a non-numeric property like `arr.test = 5`.
@@ -1145,14 +1077,12 @@ alert(fruits); // the original array variable also gets updated
 
 Please think of arrays as special structures to work with the _ordered data_. They provide special methods for that. Arrays are carefully tuned inside JavaScript engines to work with contiguous ordered data, please use them this way. And if you need arbitrary keys, chances are high that you actually require a regular object `{}`.
 
-
 ## Performance
 [More info](https://javascript.info/array#performance)
 
 Methods `push/pop` run fast, while `shift/unshift` are slow.
 
 ![[Pasted image 20260323212422.png]]
-
 
 ## Loops for arrays
 
@@ -1182,7 +1112,6 @@ So to loop over the elements of the array:
 - `for (let item of arr)` – the modern syntax for items only. shorter and more readable.
 - `for (let i in arr)` – never use.
 
-
 ## Clear the array
 
 Remove all the elements of an array while keeping the array itself:
@@ -1190,7 +1119,6 @@ Remove all the elements of an array while keeping the array itself:
 ```js
 arr.length = 0;
 ```
-
 
 ## About String(array)
 
@@ -1222,7 +1150,6 @@ String([1, [2, 3], 4]); // "1,2,3,4"
 
 `String(arr)` internally calls `arr.toString()`, which in turn calls `arr.join(",")`. Therefore, it effectively creates a string where all items are comma-delimited, without square brackets `[]`.
 
-
 ## String Concatenation
 
 ```js
@@ -1232,7 +1159,6 @@ alert( [1,2] + 1 ); // "1,21"
 ```
 
 Arrays do not have `Symbol.toPrimitive`, neither a viable `valueOf`, they implement only `toString` conversion, so here `[]` becomes an empty string, `[1]` becomes `"1"` and `[1,2]` becomes `"1,2"`.
-
 
 ## Don't compare arrrays with ==
 
@@ -1352,7 +1278,6 @@ arr.forEach(function(item, index, array){
 });
 ```
 
-
 #### > Searching in Arrays
 
 **1. `arr.indexOf(item, from)`** - returns an index
@@ -1457,7 +1382,6 @@ let someUsers = users.filter(item => item.id < 3);
 
 alert(someUsers.length); // 2
 ```
-
 
 #### > Transform/Reorder an Array
 
@@ -1596,7 +1520,6 @@ The function passed to `reduce` uses only 2 arguments, that’s typically enou
 
 I don't get this. For more info, [click here](https://javascript.info/array-methods#reduce-reduceright).
 
-
 ## Array.isArray
 
 `typeof` does not help to distinguish a plain object from an array:
@@ -1615,7 +1538,6 @@ alert(Array.isArray([])); // true
 
 ## thisArg
 [More info](https://javascript.info/array-methods#most-methods-support-thisarg)
-
 
 ## Summary/Cheatsheet
 
@@ -1676,7 +1598,6 @@ alert( arraysEqual([1, 2], [1, 2])); // true
 
 ## MDN's Official Array Documentation
 [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-
 
 ## The Map Method
 
@@ -1764,7 +1685,6 @@ function sumOfTripledEvens(array) {
 }
 ```
 
-
 ## Shuffling an Array
 
 **01 - The Fisher-Yates (aka Knuth) Shuffle** - use for large arrays of more than a few hundred
@@ -1793,15 +1713,102 @@ function shuffle(unshuffled) {
 ```
 
 
-
 ---
-# 08 - Events
+# 08 - DOM & Events
 
 
-## Methods to Select HTML Elements
+## Select HTML Elements
 
-1. `querySelector()`
-2. `getElementById()`
+1. `document.querySelector()` - selects the 1st matching element in the document; can be html element or class
+2. `document.querySelectorAll()` - selects all matching elements in the document; can be html element or class; stores references in an array-like object called a NodeList
+3. `document.getElementById()` - selects element by id; considered an old method
+4. `document.getElementsByTagName()` - old method of selecting html elements
+
+## Create HTML Elements
+
+1. `document.createElement()`
+2. `document.createTextNode()`
+
+## Move HTML Elements
+
+If we wanted to move the paragraph with the link inside it to the bottom of the section, we could do this:
+
+```js
+sect.appendChild(linkPara);
+```
+
+This moves the paragraph down to the bottom of the section. You might have thought it would make a second copy of it, but this is not the case — `linkPara` is a reference to the one and only copy of that paragraph. If you wanted to make a copy and add that as well, you'd need to use [`Node.cloneNode()`](https://developer.mozilla.org/en-US/docs/Web/API/Node/cloneNode) instead.
+
+## Remove HTML Elements
+
+```js
+// given
+const sect = document.querySelector("section");
+const linkPara = document.querySelector("p");
+```
+
+1. Parent and child reference
+```js
+sect.removeChild(linkPara);
+```
+
+2. Child reference
+```js
+// not supported by older browsers
+linkPara.remove();
+
+// supported
+linkPara.parentNode.removeChild(linkPara);
+```
+
+## Apply Styles to HTML Elements
+
+The following are methods to adding styles dynamically to HTML elements.
+
+1. Add styles directly on the script file
+```js
+para.style.color = "white";
+para.style.backgroundColor = "black";
+para.style.padding = "10px";
+para.style.width = "250px";
+para.style.textAlign = "center";
+```
+
+2. Reference a separate stylesheet by adding/removing a class name
+```html
+<style>
+  .highlight {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+  }
+</style>
+```
+
+```js
+// continuation above
+para.classList.add("highlight");
+```
+
+The first method takes less setup and is good for simple uses, whereas the second method is more purist (no mixing CSS and JavaScript, no inline styles, which are seen as a bad practice). As you start building larger and more involved apps, you will probably start using the second method more, but it is really up to you.
+
+## preventDefault()
+
+```js
+variable.preventDefault();
+```
+
+If your input HTML element is wrapped in a form element, pressing the Enter key will trigger the form to submit. The call to `preventDefault()` will prevent the form from refreshing the page so a new item can be added to the list instead.
+
+## focus()
+
+```js
+variable.focus();
+```
+
+This method sets focus on the specified element, if it can be focused. The focused element is the element that will receive keyboard and similar events by default.
 
 ## Mouse Events
 [More info](https://www.javascripttutorial.net/javascript-dom/javascript-mouse-events/)
@@ -1958,7 +1965,6 @@ msg.addEventListener("keyup", (event) => {
 
 For example, if you press the `z` character key, the `event.key` returns `z` and `event.code` returns `KeyZ`.
 
-
 ## Event Delegation
 
 The event delegation refers to the **technique of using event bubbling to handle events at a higher level in the DOM** than the element on which the event originated.
@@ -2085,7 +2091,6 @@ Custom events **allow you to create your own communication system** between diff
 **Why use custom events?** Custom events allow you to decouple code execution, allowing one piece of code to run after another completes.
 
 For example, you can place event listeners in a separate script file and have multiple listeners for the same custom event.
-
 
 **Create a custom event**
 ```js

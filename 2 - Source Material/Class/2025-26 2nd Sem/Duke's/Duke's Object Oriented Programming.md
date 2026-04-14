@@ -320,15 +320,8 @@ public class CarTest {
 		//display update detailes
 		car1.displayDetails();
 		car2.displayDetails();
-	
-		
-	
-	
 	}
-
 }
-
-
 ```
 
 

@@ -371,6 +371,23 @@ ArrayList<Student> students = new ArrayList<Student>();
 ```
 
 
+*Copy-paste from the internet:*
+
+**When to Use Which?**
+
+Use [ArrayList](https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/LinkedList.html) When:
+- **Reading data frequently:** You need fast lookup by index (e.g., a list of search results).
+- **Most operations are at the end:** Appending elements to the end is very efficient 
+- **Memory is a concern:** You want to minimize overhead per element [8, 12].
+- **Note:** In modern Java, `ArrayList` is the **recommended default** because modern CPUs are highly optimized for sequential memory access [9, 13, 14]. 
+
+Use LinkedList When:
+- **Frequent insertions/deletions at the start:** It doesn't need to shift the whole list like an array [10, 13].
+- **Implementing Stacks or Queues:** It natively implements `Deque` and `Queue` interfaces, providing efficient `addFirst()`, `removeFirst()`, and `peek()` operations [6, 29].
+- **Memory is flexible:** You don't mind the overhead of storing two extra pointers (references) for every single element [3, 6].
+
+
+
 **SQL JOINS**
 
 Left join is the one that's used 90% of the time in real coding environments
