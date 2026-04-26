@@ -40,35 +40,21 @@
             }
           },
           {
-            "id": "55406707587f00b7",
+            "id": "f981bdd4f5af4b05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Pseudocodes.md",
+                "file": "2 - Source Material/Class/2025-26 2nd Sem/Object-Oriented Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pseudocodes"
-            }
-          },
-          {
-            "id": "1fdae44e98eeb229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/JavaScript Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JavaScript Cheat Sheet"
+              "title": "Object-Oriented Programming"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "6de475dd2b4c5e52",
@@ -223,13 +208,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/JavaScript Cheat Sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JavaScript Cheat Sheet"
+              "title": "Outline"
             }
           }
         ],
@@ -254,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,44 +254,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fdae44e98eeb229",
+  "active": "f981bdd4f5af4b05",
   "lastOpenFiles": [
-    "6 - Main Notes/Pseudocodes.md",
+    "6 - Main Notes/AI Prompts.md",
     "2 - Source Material/Class/2025-26 2nd Sem/Object-Oriented Programming.md",
-    "6 - Main Notes/Bible Verse Logs.md",
+    "6 - Main Notes/D-Group Learnings.md",
+    "6 - Main Notes/Dgroup Leading.md",
     "6 - Main Notes/Terminal Commands.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Design Thinking UI UX.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Duke's/Duke's Object Oriented Programming.md",
-    "6 - Main Notes/Problem Solving.md",
-    "6 - Main Notes/Pseudocode Template.md",
+    "6 - Main Notes/Small Things About Her.md",
+    "3 - Tags/Eli.md",
+    "6 - Main Notes/About Me For Claude.md",
+    "5 - Template/Class Notes Template.md",
+    "6 - Main Notes/Bible Verse Logs.md",
     "6 - Main Notes/JavaScript Cheat Sheet.md",
-    "6 - Main Notes/About Sunburn & Protective Measures.md",
-    "6 - Main Notes/About Sleep.md",
-    "2 - Source Material/Books/Why We Sleep.md",
-    "Media/Pasted image 20260412120009.png",
-    "6 - Main Notes/Everyone's Birthdays.md",
-    "6 - Main Notes/Live Prod Outing Notes.md",
-    "6 - Main Notes/Useful Links For Programming.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Advanced DBMS.md",
-    "6 - Main Notes/Personal Engagement Log.md",
-    "6 - Main Notes/Perfectionism is Harmful.md",
-    "6 - Main Notes/Becoming a TOP Success Story.md",
+    "6 - Main Notes/My Commonplace Book.md",
+    "6 - Main Notes/Clean Code.md",
+    "2 - Source Material/Class/2025-26 2nd Sem/Duke's/Duke's Object Oriented Programming.md",
+    "6 - Main Notes/Random Facts.md",
+    "6 - Main Notes/Great Articles.md",
+    "6 - Main Notes/Pseudocodes.md",
     "6 - Main Notes/Personal Weight Gain Guide.md",
-    "3 - Tags/Personal-Learning.md",
-    "5 - Template/Engagement Reflection Template.md",
+    "6 - Main Notes/Becoming a TOP Success Story.md",
+    "6 - Main Notes/Self-Control.md",
+    "6 - Main Notes/Discipline.md",
+    "6 - Main Notes/Courage.md",
+    "6 - Main Notes/Current Core Values.md",
+    "6 - Main Notes/Give High Praise To Others.md",
+    "6 - Main Notes/Be Interested In Others.md",
+    "1 - Rough Notes/Quotes.md",
+    "Media/Pasted image 20250916171750.png",
+    "Media/Pasted image 20250916171627.png",
+    "Media/nord-night-city.png",
+    "Media/Pasted image 20260421214550.png",
+    "Media/Pasted image 20260421134228.png",
+    "Media/Pasted image 20260420190106.png",
+    "Media/Pasted image 20260412120009.png",
     "Media/Pasted image 20260406210502.png",
     "Media/Pasted image 20260406184929.png",
     "Media/Pasted image 20260406184900.png",
-    "1 - Rough Notes/Quick Note.md",
-    "6 - Main Notes/Untitled.md",
-    "6 - Main Notes/CCF Live Prod Roles Checklist.md",
-    "3 - Tags/Advice.md",
-    "Media/Pasted image 20260325213429.png",
-    "Media/Pasted image 20260325213333.png",
-    "Media/Pasted image 20260323212422.png",
-    "Media/Pasted image 20260323203942.png",
-    "Media/Pasted image 20260323203739.png",
-    "Media/Pasted image 20260319090128.png",
     "-f \"$HOME",
     "2 - Source Material/Class/2025-26 2nd Sem/Duke's",
     "2 - Source Material/Class/2025-26 2nd Sem",

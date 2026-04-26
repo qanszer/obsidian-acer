@@ -1,7 +1,7 @@
 
 2025-12-30  20:47
 
-Tags: [[Christianity]] [[Tracking]]
+Tags: [[Christianity]], [[Collection]]
 
 ---
 ## What is this?
@@ -979,6 +979,21 @@ Acts of the Apostles 18:9-10 NLT
 **1 Corinthians 2:1, 4-5 ERV**
 [1] Dear brothers and sisters, when I came to you, I told you the secret truth of God. But I did not use fancy words or great wisdom. 
 [4] My teaching and my speaking were not with wise words that persuade people. But the proof of my teaching was the power that the Spirit gives. [5] I did this so that your faith would be in God’s power, not in human wisdom. 
+
+**1 Corinthians 2:11-13 ESV**
+**11** For who knows a person's thoughts except the spirit of that person, which is in him? So also no one comprehends the thoughts of God except the Spirit of God. **12** Now we have received not the spirit of the world, but the Spirit who is from God, that we might understand the things freely given us by God. **13** And we impart this in words not taught by human wisdom but taught by the Spirit, interpreting spiritual truths to those who are spiritual.
+
+
+### Chapter 3
+
+**1 Corinthians 3:5-7 ESV**
+**5** What then is Apollos? What is Paul? Servants through whom you believed, as the Lord assigned to each. **6** I planted, Apollos watered, but God gave the growth. **7** So neither he who plants nor he who waters is anything, but only God who gives the growth.
+
+**1 Corinthians 3:16-17 ESV**
+**16** Do you not know that you are God's temple and that God's Spirit dwells in you? **17** If anyone destroys God's temple, God will destroy him. For God's temple is holy, and you are that temple.
+
+**1 Corinthians 3:16-17 ESV**
+**18** Let no one deceive himself. If anyone among you thinks that he is wise in this age, let him become a fool that he may become wise. **19** For the wisdom of this world is folly with God. For it is written, “He catches the wise in their craftiness,” **20** and again, “The Lord knows the thoughts of the wise, that they are futile.” 
 
 
 ### Chapter 4

@@ -19,6 +19,5 @@ lorem ipsum
 
 
 ---
-
 # References
 

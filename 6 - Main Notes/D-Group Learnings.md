@@ -144,5 +144,82 @@ What are the things you want to pursue but feel unqualified for?
 
 ---
 
-### Date - Title
+### 4/23/26 - Accountability Time
 
+**Purpose of a dgroup:**
+CHRIST acronym (discipleship covenant)
+C - confidentiality
+H - 
+
+The goal is to really grow more in Christlikeness
+
+Try to incorporate talking to the Lord to your daily life itself, not setting a specific time to do it and then missing it. Like you have your whole daily schedule, but kasama si Lord lahat dun.
+
+Example:
+- otw to school
+
+When you learned a great lesson from a preaching but struggle to share it yourself to other people, it usually means that you did not dig deep enough or learned it deeply.
+
+
+**What really is Scripture? And how can we use it on our daily lives?**
+
+- for teaching
+- reproof (rebuke)
+- correction
+- training in righteousness
+
+
+Bible survey of 40,000 people on the benefit of reading the Scripture on number of days per week
+1. Reading 1-3 times a week has no significant difference to the people who don't read the Bible regularly
+2. Reading 4-7 times a week:
+	- 30% drop in loneliness
+	- 32% decrease in anger issues
+	- 42% reduction in bitterness in relationships
+	- 43% lower rate of alcoholism
+	- 68% decline in rate in sex outside of marriage
+	- 60% fall in feeling spiritually stagnant
+	- 61% reduction in viewing pornography
+
+If we are not seeking wisdom from Scripture, where are you seeking it?
+
+
+Own realization:
+- after waking up and setting the table outside the house, read the bible first before starting my deep work
+
+
+**Prayer Requests**
+
+Amos
+- healing on his foot
+- better sleep schedule
+
+DJ
+- time and wisdom to answer pending problem set assignment
+- smooth process of getting his passport
+
+Laurence
+- PUP results and wisdom if ever di rin maaccept
+- healing on insomnia
+
+Brent
+- guidance on decision-making
+- makastart na talaga magread ng bible
+
+Patt
+- sustenance 
+- quiet time
+
+JC
+- intervention for enrollment tom kasi ubos na ng slots; praying mag open ng new section
+- guidance sa relationship with RB; patience and understanding
+
+Min
+- wisdom and intervention if itutuloy ba talaga yung work or not; if tuloy, guidance kay God na di mahihirapan sa training
+
+Paul
+- wisdom for successful prep sa preaching
+- maayos yung laptop talaga
+
+Mine
+- time for studying sa database certification exam
+- financial breakthrough sa fam

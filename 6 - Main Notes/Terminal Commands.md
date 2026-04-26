@@ -259,6 +259,28 @@ tmux kill-session -t convert
 ```
 
 ---
+### Install a downloaded local deb file
+
+```bash
+sudo dpkg -i ./filename
+```
+
+```bash
+sudo apt install -f
+```
+
+---
+### Search and install an app over internet
+
+```bash
+apt search app-name
+```
+
+```bash
+sudo apt install chosen-app-name
+```
+
+---
 ### Uninstall an apt app
 
 ```bash

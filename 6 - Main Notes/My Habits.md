@@ -13,7 +13,7 @@ This is a list of my current good and bad habits, as well habits I want to have 
 Habits I should continue and be proud of myself for having them
 
 - Desire for self improvement
-- 
+- I usually do my best when I decide to do something
 
 ## Established Bad Habits
 
@@ -23,7 +23,9 @@ Habits I should get rid of and be proud of myself for noticing them
 - Quick to say harsh words
 - Really struggling to say sorry for noticed mistakes
 - My "yes" is not a true "yes". I'm quick to say it to avoid having to say no. That I've already decided in my heart I'm not going to do it
-- 
+- I say one thing and do another thing. My actions contradict my words which creates subconscious distrust to other people
+- Perfectionism
+- Inconsistency
 
 ## Habits I Want to Have
 

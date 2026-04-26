@@ -607,6 +607,70 @@ public class Products {
 
 
 ---
+### 04/20/26 - APIs and Postman
+
+*Advice*: In production databases, **never delete records**. If it needs to be removed, only hide them through a column like `isDeleted` with 1 and 0 as the values.
+
+
+---
+### 04/21/26 - Connecting Java to an API
+
+1. Download the Gson jar file online
+2. Add to netbeans through Properties > add Jar folder > choose jar file
+3. Import to the project
+```java
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+
+import java.io.InputStreamReader;
+import java.lang.reflect.Type;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.util.List;
+```
+4. Declare the url and setup the student class
+```java
+// GET
+try {
+	URL url = new URL ("http://api");
+	HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+	conn.setRequestMethod("GET"); // request data from the internet
+	
+	InputStreamReader reader = new InputStreamReader (conn.getInputStream());
+	
+	Gson gson = new Gson();
+	Type studentListType = new TypeToken<List<Student>>(){}.getType();
+	
+	List<Student> students = gson.fromJson(reader, studentListType); // store students here
+	
+	for(Student stud : students) {
+		System.out.println("Student Name: " + stud.getFullName() + "\nContact No: " + stud.getContactNo());
+	}
+}
+catch (Exception e) {
+	e.printStackTrace();
+}
+
+public class Student {  
+    private String id,fullName,contactNo;  
+  
+    public String getFullName(){ return fullName; }  
+    public String getContactNo(){ return contactNo; }  
+    
+    public void setFullName(String fullName){ this.fullName = fullName; }  
+    public void setContactNo(String contactNo){ this.contactNo = contactNo; }  
+}
+```
+
+
+#### Benefits of using an API
+
+![[Pasted image 20260421134228.png]]
+
+No need to frequently deploy through the use of API. You just have to alter the stored procedure.
+
+
+---
 
 ## Finals
 

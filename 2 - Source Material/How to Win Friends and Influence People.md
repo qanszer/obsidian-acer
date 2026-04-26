@@ -202,26 +202,6 @@ When one of his partners, Edward T. Bedford, lost a million dollars for the firm
 When a study was made a few years ago on runaway wives, what do you think was discovered to be the main reason they fled? It was “lack of appreciation.” I’d bet that a similar study made of runaway husbands would come out the same way. We often take our spouses so much for granted that we never let them know we appreciate them.
 
 
-**> Another example of showing appreciation instead of criticism**
-
-A member of one of our classes told of a request made by his wife. She and a group of other women in her church were involved in a self-improvement program. She asked her husband to help her by listing six things he believed she could do to help her become a better partner. He reported to the class: “I was surprised by such a request. Frankly, it would have been easy for me to list six things I would like to change about her—my heavens, she could have listed a thousand things she would like to change about me—but I didn’t. I said to her, ‘Let me think about it and give you an answer in the morning.’
-
-“The next morning I got up very early and called the florist and had them send six red roses to my wife with a note saying: ‘I can’t think of six things I would like to change about you. I love you the way you are.’
-
-“When I arrived at home that evening, who do you think greeted me at the door? That’s right. My wife! She was almost in tears. Needless to say, I was extremely glad I had not criticized her as she had requested.
-
-“The following Sunday at church, after she had reported the results of her assignment, several women with whom she had been studying came up to me and said, ‘That was the most considerate thing I have ever heard.’ It was then I realized the power of appreciation.”
-
-
-**> Another example of showing appreciation instead of criticism**
-
-“I opened a tiny coffee shop in Grand Central Station. For months the shop was a dismal failure. Then one day it rained and the corridors outside my shop were packed with people who were soaking wet. I’ve never seen a more miserable mass of humanity!
-
-“I knew how those people felt because I had been cold and wet myself. I wanted to show them my honest appreciation for what they were feeling and so on an impulse I had my waffle iron sent from home and served coffee and waffles for free. We began to serve them every day after that but the demand was so great that we had to charge for them.
-
-“Those free waffles turned my business into a success and in five months we had a line half a block long. At the end of five years, I had built six restaurants and my business was worth half a million dollars.”
-
-
 **> About fasting**
 
 I once succumbed to the fad of fasting and went for six days and nights without eating. It wasn’t difficult. I was less hungry at the end of the sixth day than I was at the end of the second. Yet I know, as do you, people who would think they had committed a crime if they let their families or employees go for six days without food. Yet they will let them go for six days, and six weeks, and sometimes sixty years without giving them the hearty appreciation that they crave almost as much as they crave food.
@@ -245,7 +225,7 @@ Every minister, lecturer, and public speaker knows the discouragement of pouring
 
 Let us cease thinking of our accomplishments, our wants. Let us try to figure out the other person’s good points.
 
-Be “hearty in your approbation and lavish in your praise,” and people will cherish your words and repeat them over a lifetime—repeat them years after you have forgotten them.
+Be hearty in your approbation and lavish in your praise, and people will cherish your words and repeat them over a lifetime—repeat them years after you have forgotten them.
 
 
 ---
@@ -256,6 +236,9 @@ Notes
 
 ---
 
+
+
+---
 # References
 
 *How to Win Friends and Influence People* by Dale Carnegie

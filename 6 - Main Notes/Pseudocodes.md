@@ -12,6 +12,8 @@ This is a list of my pseudocode attempts when I code.
 Date: 4/12/26
 Language: Java
 
+**ATTEMPT 1** - Fail
+
 ```java
 public static void main(String[] args) {
 		
@@ -173,6 +175,52 @@ public static void main(String[] args) {
 		String orderName;
 		String orderQty;
 	}
+```
+
+
+**ATTEMPT 2**
+
+All classes needed
+- User
+- Users
+- AdminChoices
+- WarehouseChoices
+- UserChoices
+- Product
+- Products
+
+```java
+public static void main {
+	
+}
+
+class User {
+	String userId, userName, userPassword;
+}
+
+class Users {
+	
+}
+
+class AdminChoices {
+	
+}
+
+class WarehouseChoices {
+	
+}
+
+class UserChoices {
+	
+}
+
+class Product {
+	
+}
+
+class Products {
+	
+}
 ```
 
 
