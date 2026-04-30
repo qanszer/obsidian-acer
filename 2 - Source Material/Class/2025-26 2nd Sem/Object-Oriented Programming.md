@@ -1,7 +1,7 @@
  
 2026-01-30  19:55
 
-Tags: [[School]] [[Coding]] [[Java]]
+Tags: [[School]], [[Coding]], [[Java]]
 Professor: Sir Jayson Ocampo
 
 ---
@@ -675,46 +675,44 @@ No need to frequently deploy through the use of API. You just have to alter the 
 ## Finals
 
 
-### Date - Topic
+### 04/28/26 - Public, Private, Protected, and Default
 
-#### Subtopic
+It is good practice to declare all variables inside classes as private to prevent direct access (protection against hackers), and then make get-setter methods to get and update them as needed.
 
+```java
+public class BankAccount {
+	private double balance;
+	
+	public double getBalance() { return balance; }
+	public double setBalance(double balance) { this.balance = balance};
+}
+```
+
+It is much easier to do this in C#
+
+```C#
+String fullName { get; set; }
+```
+
+
+#### Best Practices
+
+1. Keep fields/attributes private - declare class variables as private and expose them through controlled methods
+2. Provide meaningful methods - should represent clear actions or behaviors of the class
+3. Provide meaningful methods - objects using constructors for cleaner and more reliable code
+4. Follow naming conventions - different for every programming language, but for java:
+	- class: PascalCase
+	- variables and methods: camelCase
+5. Validate input date - always validate inputs in setters or methods to prevent invalid states
+6. Keep classes focused (single responsibility principle) - a class should only have 1 responsibility or purpose
+
+
+**Advice**: Use claude for reports - attach 2 excel sheets and compare them and tell the difference between the two
+
+The real challenge in programming is not in writing code, but in improving its performance from 30 seconds to 3-5 seconds.
+
+
+**Advice for SQL**: Always use alias `AS` because it's very helpful for joins
 
 
 ---
-
-# 2nd Semester
-## Prelim
-
-
-### Date - Topic
-
-#### Subtopic
-
-
-
----
-
-## Midterm
-
-
-### Date - Topic
-
-#### Subtopic
-
-
-
----
-
-## Finals
-
-
-### Date - Topic
-
-#### Subtopic
-
-
-
-
-
-

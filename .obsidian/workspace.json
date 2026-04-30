@@ -38,23 +38,9 @@
               "icon": "lucide-file",
               "title": "Becoming a TOP Success Story"
             }
-          },
-          {
-            "id": "f981bdd4f5af4b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/Class/2025-26 2nd Sem/Object-Oriented Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Object-Oriented Programming"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "right": {
     "id": "6de475dd2b4c5e52",
@@ -208,12 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "6 - Main Notes/Becoming a TOP Success Story.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Becoming a TOP Success Story"
             }
           }
         ],
@@ -238,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,34 +241,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f981bdd4f5af4b05",
+  "active": "21120e14e9b960ac",
   "lastOpenFiles": [
-    "6 - Main Notes/AI Prompts.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Object-Oriented Programming.md",
-    "6 - Main Notes/D-Group Learnings.md",
-    "6 - Main Notes/Dgroup Leading.md",
-    "6 - Main Notes/Terminal Commands.md",
-    "6 - Main Notes/Small Things About Her.md",
-    "3 - Tags/Eli.md",
-    "6 - Main Notes/About Me For Claude.md",
-    "5 - Template/Class Notes Template.md",
     "6 - Main Notes/Bible Verse Logs.md",
-    "6 - Main Notes/JavaScript Cheat Sheet.md",
     "6 - Main Notes/My Commonplace Book.md",
-    "6 - Main Notes/Clean Code.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Duke's/Duke's Object Oriented Programming.md",
-    "6 - Main Notes/Random Facts.md",
-    "6 - Main Notes/Great Articles.md",
-    "6 - Main Notes/Pseudocodes.md",
-    "6 - Main Notes/Personal Weight Gain Guide.md",
+    "6 - Main Notes/Personal Time Blocks.md",
+    "6 - Main Notes/SQL From SQLBolt.md",
     "6 - Main Notes/Becoming a TOP Success Story.md",
-    "6 - Main Notes/Self-Control.md",
-    "6 - Main Notes/Discipline.md",
-    "6 - Main Notes/Courage.md",
-    "6 - Main Notes/Current Core Values.md",
-    "6 - Main Notes/Give High Praise To Others.md",
-    "6 - Main Notes/Be Interested In Others.md",
-    "1 - Rough Notes/Quotes.md",
+    "6 - Main Notes/PPT Script.md",
+    "6 - Main Notes/Website Inspo Links.md",
+    "6 - Main Notes/Fonts.md",
+    "6 - Main Notes/Personal Weight Gain Guide.md",
+    "2 - Source Material/How to Win Friends and Influence People.md",
+    "6 - Main Notes/Random Ideas.md",
+    "2 - Source Material/Books/Why We Sleep.md",
+    "2 - Source Material/Class/2025-26 2nd Sem/Advanced DBMS.md",
+    "2 - Source Material/Class/2025-26 2nd Sem/Object-Oriented Programming.md",
+    "6 - Main Notes/Terminal Commands.md",
+    "1 - Rough Notes/Sleep is Important.md",
+    "6 - Main Notes/About Sleep.md",
+    "1 - Rough Notes/Quick Note.md",
+    "6 - Main Notes/When Public Speaking.md",
+    "6 - Main Notes/I Have No Enemies.md",
+    "1 - Rough Notes/Public Speaking.md",
+    "1 - Rough Notes/Philippians.md",
+    "1 - Rough Notes/Personal Testimonies.md",
+    "1 - Rough Notes/Personal Milestones.md",
+    "1 - Rough Notes/Pencil Theorem.md",
+    "1 - Rough Notes/Old Personal Goals.md",
     "Media/Pasted image 20250916171750.png",
     "Media/Pasted image 20250916171627.png",
     "Media/nord-night-city.png",

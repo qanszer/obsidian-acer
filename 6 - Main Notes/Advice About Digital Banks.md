@@ -1,7 +1,7 @@
 
 2025-10-28  09:57
 
-Tags: [[Finance]] [[Advice]] 
+Tags: [[Finance]], [[Practical Advice]] 
 
 
 ### Reddit
@@ -19,10 +19,3 @@ Tags: [[Finance]] [[Advice]]
 #### Free bank transfers - Physical debitcard
 
 ![[Pasted image 20251028102520.png]]
-
-
-
-
-
-
-# References

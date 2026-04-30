@@ -134,10 +134,10 @@ body
     --checklist-done-color:          rgba(var(--light2_x), 0.5);
 
     --table-header-background:       hsl(220, 16%, 16%);
-    --table-header-background-hover: var(--dark3);
+    /* --table-header-background-hover: var(--dark3); */
     --table-row-even-background:     hsl(220, 16%, 20%);
     --table-row-odd-background:      hsl(220, 16%, 24%);
-    --table-row-background-hover:    var(--dark3);
+    /* --table-row-background-hover:    var(--dark3); */
 
     --text-selection:                rgba(var(--frost0_x), 0.6);
     --flashing-background:           rgba(var(--frost0_x), 0.3);

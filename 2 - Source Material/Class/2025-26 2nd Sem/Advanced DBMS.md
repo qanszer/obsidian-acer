@@ -939,9 +939,35 @@ WHERE grantee_principal_id = USER_ID('RegistrarUser');
 ## Finals
 
 
-### Date - Topic
+### 04/28/26 - Cert Exam Prep
 
-#### Subtopic
+Database - organized, structured collection of data
+DBMS - manages how data is stored, retrieved, updated, and protected
+
+Table - like a spreadsheet
+Column - also called field/attribute; 1 type of information
+Row - also called record/tuple; 1 complete entry
+
+Data Types (choosing the right container)
+INT - whole numbers
+VARCHAR(100) - variable text
+CHAR(2) - fixed text
+DECIMAL(10,2) - precise money
+FLOAT - approximate decimal (scientific measurements)
+DATE - year-month-day
+
+SQL Basics
+SELECT
+- the most important command
+- retrieves data from a table
+
+SELECT full structure:
+```sql
+SELECT column1, column2        -- what to show
+FROM TableName                 -- where the data lives
+WHERE condition                -- filter rows (optional)
+
+```
 
 
 

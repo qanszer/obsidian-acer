@@ -1,7 +1,7 @@
 
 2026-02-13  04:43 pm
 
-Tags: [[Coding]] [[Advice]] [[Guide]]
+Tags: [[Coding]], [[Practical Advice]], [[Guide]]
 
 ---
 # Best Process for Making a Website

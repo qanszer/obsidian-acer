@@ -1,7 +1,7 @@
 
 2026-01-12  11:01
 
-Tags: [[Advice]] [[Reflection]]
+Tags: [[Practical Advice]], [[Reflection]]
 
 ---
 

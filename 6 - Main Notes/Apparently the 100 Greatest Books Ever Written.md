@@ -1,7 +1,7 @@
 
 2026-02-17  03:14 pm
 
-Tags: [[Book]], [[Reading]], [[Advice]]
+Tags: [[Book]], [[Reading]], [[Practical Advice]]
 
 ---
 # Apparently the 100 Greatest Books Ever Written

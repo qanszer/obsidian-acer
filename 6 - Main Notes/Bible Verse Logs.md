@@ -943,22 +943,22 @@ Acts of the Apostles 18:9-10 NLT
 
 ### Chapter 1
 
-**1 Corinthians 1:8 ERV**
+**1 Corinthians 1:8 ERV** [?]
 [8] He will keep you strong until the end so that on the day when our Lord Jesus Christ comes, you will be free from all blame. 
 
-**1 Corinthians 1:10 ERV**
+**1 Corinthians 1:10 ERV** [I have no enemies]
 [10] Brothers and sisters, by the authority of our Lord Jesus Christ, I beg all of you to agree with each other. You should not be divided into different groups. Be completely joined together again with the same kind of thinking and the same purpose.
 
-**1 Corinthians 1:13 ERV**
+**1 Corinthians 1:13 ERV** [?]
 [13] Christ cannot be divided into different groups. It wasn’t Paul who died on the cross for you, was it? Were you baptized in Paul’s name? 
 
-**1 Corinthians 1:18-19 ERV**
+**1 Corinthians 1:18-19 ERV** [?]
 [18] The teaching about the cross seems foolish to those who are lost. But to us who are being saved it is the power of God. [19] As the Scriptures say, “I will destroy the wisdom of the wise. I will confuse the understanding of the intelligent.” Isaiah 29:14
 
-**1 Corinthians 1:23-25 ERV**
+**1 Corinthians 1:23-25 ERV** [?]
 [23] But this is the message we tell everyone: Christ was killed on a cross. This message is a problem for Jews, and to other people it is nonsense. [24] But Christ is God’s power and wisdom to the people God has chosen, both Jews and Greeks. [25] Even the foolishness of God is wiser than human wisdom. Even the weakness of God is stronger than human strength.
 
-**1 Corinthians 1:26 ERV**
+**1 Corinthians 1:26 ERV** 
 [26] Brothers and sisters, God chose you to be his. Think about that! Not many of you were wise in the way the world judges wisdom. Not many of you had great influence, and not many of you came from important families. 
 
 **1 Corinthians 1:27 ERV**
@@ -992,7 +992,7 @@ Acts of the Apostles 18:9-10 NLT
 **1 Corinthians 3:16-17 ESV**
 **16** Do you not know that you are God's temple and that God's Spirit dwells in you? **17** If anyone destroys God's temple, God will destroy him. For God's temple is holy, and you are that temple.
 
-**1 Corinthians 3:16-17 ESV**
+**1 Corinthians 3:18-20 ESV**
 **18** Let no one deceive himself. If anyone among you thinks that he is wise in this age, let him become a fool that he may become wise. **19** For the wisdom of this world is folly with God. For it is written, “He catches the wise in their craftiness,” **20** and again, “The Lord knows the thoughts of the wise, that they are futile.” 
 
 
@@ -1022,14 +1022,17 @@ Acts of the Apostles 18:9-10 NLT
 
 ### Chapter 5
 
-**1 Corinthians 5:11 ERV**
-[11] I meant you must not associate with people who claim to be believers but continue to live in sin. Don’t even eat with a brother or sister who sins sexually, is greedy, worships idols, abuses others with insults, gets drunk, or cheats people.
+**1 Corinthians 5:11-12 ESV**
+**11**But now I am writing to you not to associate with anyone who bears the name of brother if he is guilty of sexual immorality or greed, or is an idolater, reviler, drunkard, or swindler—not even to eat with such a one. **12**For what have I to do with judging outsiders? Is it not those inside the church whom you are to judge? **13**God judges[[14]](#f46-14 "Or 'will judge'") those outside. “Purge the evil person from among you.”
 
 
 ### Chapter 6
 
 **1 Corinthians 6:2-3 ERV**
 [2] Don’t you know that God’s people will judge the world? So if you will judge the world, then surely you can judge small arguments like this. [3] You know that in the future we will judge angels. So surely we can judge life’s ordinary problems. 
+
+**1 Corinthians 6:6-7 ESV**
+**6**but brother goes to law against brother, and that before unbelievers? **7**To have lawsuits at all with one another is already a defeat for you. Why not rather suffer wrong? Why not rather be defrauded? **8**But you yourselves wrong and defraud—even your own brothers!
 
 **1 Corinthians 6:9-10 ERV**
 [9-10] Surely you know that people who do wrong will not get to enjoy God’s kingdom. Don’t be fooled. These are the people who will not get to enjoy his kingdom: those who sin sexually, those who worship idols, those who commit adultery, men who let other men use them for sex or who have sex with other men, those who steal, those who are greedy, those who drink too much, those who abuse others with insults, and those who cheat. 
@@ -1092,7 +1095,7 @@ Acts of the Apostles 18:9-10 NLT
 [39] A woman should stay with her husband as long as he lives. But if the husband dies, the woman is free to marry any man she wants, but he should belong to the Lord. [40] The woman is happier if she does not marry again. This is my opinion, and I believe that I have God’s Spirit.
 
 
-====
+### Chapter 8
 
 **1 Corinthians 8:1-2 ERV**
 [1] Now I will write about meat that is sacrificed to idols. It is certainly true that “we all have knowledge,” as you say. But this knowledge only fills people with pride. It is love that helps the church grow stronger. [2] Those who think they know something do not yet know anything as they should. 

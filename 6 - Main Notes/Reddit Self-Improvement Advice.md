@@ -1,7 +1,7 @@
 
 2026-02-02  01:47
 
-Tags: [[Advice]] [[Guide]]
+Tags: [[Practical Advice]], [[Guide]]
 
 ---
 

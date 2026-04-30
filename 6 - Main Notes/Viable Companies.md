@@ -1,6 +1,6 @@
 2026-01-12  10:21
 
-Tags: [[Coding]] [[Job]] [[Tracking]] [[Advice]]
+Tags: [[Coding]], [[Job]], [[Tracking]], [[Practical Advice]]
 
 ---
 
