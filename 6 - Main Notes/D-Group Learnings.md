@@ -144,7 +144,7 @@ What are the things you want to pursue but feel unqualified for?
 
 ---
 
-### 4/23/26 - Accountability Time
+## 4/23/26 - Accountability Time
 
 **Purpose of a dgroup:**
 CHRIST acronym (discipleship covenant)
@@ -223,3 +223,19 @@ Paul
 Mine
 - time for studying sa database certification exam
 - financial breakthrough sa fam
+
+
+---
+
+## 05/07/26 - Compromise
+
+Double check my resolve in regards to who I please more -- God or people (giving answers during exam, etc)
+
+Daniel 3
+
+Reflective question: Would you still follow God if it meant 
+
+Realization: Sometimes I live as if I have no God
+
+
+Idea: create a collab note wherein maglilista each group member ng times na nahonor si God during a trial in life (ex: not compromising)

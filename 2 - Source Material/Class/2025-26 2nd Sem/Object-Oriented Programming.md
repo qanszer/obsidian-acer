@@ -716,3 +716,64 @@ The real challenge in programming is not in writing code, but in improving its p
 
 
 ---
+### 04/28/26 - Inheritance, Method Overriding, & Super
+
+**Inheritance** allows the child class to inherit the attributes and methods of the parent class.
+
+Inheritance syntax:
+
+```java
+class Dog extends Animal {
+	
+}
+```
+
+
+**Method overriding** allows the child class to replace a method of a parent class, but only within its class.
+
+These conditions need to be met for it to be allowed:
+- same method name
+- same parameters
+- same return type (or covariant)
+
+Method override syntax:
+
+```java
+- class Animal {
+-     void sound() {
+-         System.out.println("Animal makes a sound");
+-     }
+- }
+
+- class Dog extends Animal {
+-     @Override
+-     void sound() {
+-         System.out.println("Dog barks");
+-     }
+- }
+```
+
+
+The **Super** keyword allows the child class to access its parent class's methods, variables, and constructor
+
+```java
+// method
+super.sound();
+
+// variable
+super.name
+
+// constructor
+super();
+```
+
+```js
+for (User user : DataStore.users) {
+	if (username.equals(user.username) 
+			&& password.equals(user.password) 
+			&& role == user.role
+			&& user.isActive) {
+		return user;
+	}
+}
+```

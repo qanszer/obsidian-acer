@@ -118,12 +118,9 @@ Theme:
 
 *1 Peter 5:8 Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour.*
 
-**Subjunctive mood** - the mood of possibility and
-potentiality.
+**Subjunctive mood** - the mood of possibility and potentiality.
 
-*1 Peter 5:8 Be alert and of sober mind. Your*
-*enemy the devil prowls around like a roaring*
-*lion looking for someone to devour.*
+*1 Peter 5:8 Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour.*
 
 
 ##### EXAMPLE OBSERVATION OF PHILIPPIANS 4:6-7

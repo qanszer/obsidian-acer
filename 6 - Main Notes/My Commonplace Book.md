@@ -65,4 +65,7 @@ A collection of my favorite quotes. Quotes that struck something in me.
 *"Be hearty in your approbation and lavish in your praise, and people will cherish your words and repeat them over a lifetime—repeat them years after you have forgotten them."*  - Dale Carnegie
 
 
-"What you missed was not created for you and what was created for you will not be missed, so be assured."
+*"What you missed was not created for you and what was created for you will not be missed, so be assured."*
+
+
+*"Always look at the beautiful things in every situation."*

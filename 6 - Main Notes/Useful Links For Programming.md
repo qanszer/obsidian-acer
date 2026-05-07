@@ -19,6 +19,8 @@ Roadmap for becoming a full-stack web developer
 #### 3. Onelinerhub
 https://onelinerhub.com/
 10,000+ Explained code solutions
+#### 4. Ten Programming Books
+https://thepower.education/en/blog/the-programming-books-that-will-make-you-an-expert
 
 
 
