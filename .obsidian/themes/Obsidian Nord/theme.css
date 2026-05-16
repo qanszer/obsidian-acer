@@ -245,10 +245,10 @@ body
     --checklist-done-color:          rgba(var(--dark2_x), 0.4);
 
     --table-header-background:       rgba(var(--light2_x), 0.2);
-    --table-header-background-hover: var(--frost2);
+    /* --table-header-background-hover: var(--frost2); */
     --table-row-even-background:     rgba(var(--light2_x), 0.4);
     --table-row-odd-background:      rgba(var(--light2_x), 0.8);
-    --table-row-background-hover:    var(--frost2);
+    /* --table-row-background-hover:    var(--frost2); */
 
     --text-selection:                rgba(var(--frost0_x), 0.6);
     --flashing-background:           rgba(var(--frost0_x), 0.3);

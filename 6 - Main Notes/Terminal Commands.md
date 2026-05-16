@@ -393,6 +393,38 @@ xrandr --output eDP --brightness 1
 ```
 
 ---
+### Uninstall a PWA (Progressive Web App)
+
+1. Type `brave://apps` or whatever browser you installed it from, like `chrome://apps`
+2. Remove it from there
+
+---
+### Firewall
+
+```bash
+# 1. (Optional) Set defaults: deny incoming, allow outgoing
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+
+# 2. IMPORTANT: Allow SSH to avoid locking yourself out
+sudo ufw allow ssh
+
+# 3. Turn on the firewall
+sudo ufw enable
+
+# 4. Verify the status
+sudo ufw status verbose
+```
+
+- **Allow Specific Ports:** If you are running a web server, allow traffic on ports 80 (HTTP) and 443 (HTTPS):
+```bash
+sudo ufw allow 80/tcp
+sudo ufw allow 443/tcp
+```
+
+- **Disable Firewall:** If needed, you can stop it using `sudo ufw disable`.
+
+---
 
 # References
 

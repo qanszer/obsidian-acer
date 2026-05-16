@@ -8,6 +8,9 @@ Tags: [[Eli]]
 
 - Enjoys being praised for things she worked hard on (thesis), usually by people ranked higher than her (professors, panelists)
 - Likes being called babe (especially in public)
+- Eats food while lying down sometimes
+- Eating blocks of ice is her guilty pleasure
+- 
 
 
 ---

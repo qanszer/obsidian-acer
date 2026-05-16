@@ -1,7 +1,7 @@
 
 2025-09-20  09:32
 
-Tags: [[Links]] [[Coding]]
+Tags: [[Links]], [[Coding]]
 
 ---
 
@@ -29,6 +29,9 @@ https://thepower.education/en/blog/the-programming-books-that-will-make-you-an-e
 #### 1. DBdiagram
 https://dbdiagram.io/home
 Tool to automatically create an ER diagram just by writing SQL
+#### 2. DataTables
+https://datatables.net/
+Makes your database have an html table with complete functionality
 
 
 
@@ -114,9 +117,9 @@ Tool to remove background to make transparent png images
 #### 5. Tabler
 https://tabler.io/icons
 Collection of free svg icons with customizable color for all
-#### 6. Freesvgicons
-https://freesvgicons.com/
-Collection of free svg icons
+#### 6. Iconbuddy
+https://iconbuddy.com/
+Larger collection of free svg icons with customizable color for all
 #### 7. FrontendChecklist
 https://frontendchecklist.io/#section-head
 Literal checklist to check/test before launching a website to production

@@ -777,3 +777,56 @@ for (User user : DataStore.users) {
 	}
 }
 ```
+
+
+---
+
+### 05/12/26 - Exception Handling
+
+
+#### Types of Errors
+
+1. Syntax error - is caught at compile time; easiest to find
+2. Logic error - does not cause any errors at all, but produces the wrong expected output; hardest to find
+3. Runtime error - is caught during execution when an input or event is not what is expected; solved using try-catch blocks
+
+
+#### Try, catch, finally
+
+```java
+try {
+	// the risky code here
+}
+catch (NumberFormatException e) {
+	// if input is not a number
+}
+catch (Exception e) {
+	// handles the other error types; you can put as many catch blocks as you want
+}
+finally {
+	// always executes
+}
+```
+
+If your execution did not reach `finally`, then an error occured above and was not caught
+
+
+**Advice**: The exceptions used in real coding environments are always the general/generic version. Specific exceptions are only used when the tester wants it to be specific. It is easier on your part in this way also.
+
+#### Common Built-in Exceptions
+
+The following table lists common exceptions you will encounter most frequently in Java development:
+
+| Category                | Exception Name                   | Description                                                                              |
+| ----------------------- | -------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Unchecked (Runtime)** | `NullPointerException`           | Occurs when trying to access an object reference that is `null`.                         |
+|                         | `ArrayIndexOutOfBoundsException` | Thrown when an array is accessed with an illegal index.                                  |
+|                         | `ArithmeticException`            | Thrown for exceptional arithmetic conditions, like division by zero.                     |
+|                         | `IllegalArgumentException`       | Thrown when a method receives an inappropriate argument.                                 |
+|                         | `NumberFormatException`          | Occurs when trying to convert a string to a number format incorrectly.                   |
+|                         | `ClassCastException`             | Thrown when attempting to cast an object to an incompatible subclass.                    |
+| **Checked**             | `IOException`                    | Base class for exceptions that occur during I/O operations (e.g., file/network failure). |
+|                         | `FileNotFoundException`          | Specific `IOException` when a file cannot be found on the disk.                          |
+|                         | `SQLException`                   | Thrown when interacting with a database encounters an error.                             |
+|                         | `ClassNotFoundException`         | Raised when the JVM fails to find a class file by its string name.                       |
+

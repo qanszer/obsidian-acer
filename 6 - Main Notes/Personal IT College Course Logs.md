@@ -1,7 +1,7 @@
 
 2026-01-28  16:48
 
-Tags: [[School]]
+Tags: [[School]], [[Tracking]]
 
 ---
 
@@ -10,7 +10,9 @@ Tags: [[School]]
 
 # UCP - Universal College of Paranaque
 
-lorem ipsum
+**2023-24  |  2nd Sem**
+
+- 
 
 
 # AdU - Adamson University
@@ -21,12 +23,12 @@ lorem ipsum
 
 **2025-26  |  2nd Sem (Current)**
 
-- OOP - 94 / 
-- ADBMS - 
-- Net2 - 
-- DT - 
-- Contemp - 
-- IAS1 - 
+- OOP
+- ADBMS
+- Net2
+- DT
+- Contemp
+- IAS1
 
 
 **2026-27  |  1st Sem**

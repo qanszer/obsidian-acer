@@ -23,7 +23,7 @@ html {
 * {
 	margin: 0px;
 	padding: 0px;
- }
+}
 
 a {
 	text-decoration: none;
@@ -47,11 +47,8 @@ body {
 }
 
 ::selection {
-
-background-color: ;
-
-color: ;
-
+	background-color: ;
+	color: ;
 }
 ```
 

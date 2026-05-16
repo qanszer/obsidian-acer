@@ -69,3 +69,12 @@ A collection of my favorite quotes. Quotes that struck something in me.
 
 
 *"Always look at the beautiful things in every situation."*
+
+
+"*Give yourself the same grace you give to others.*"
+
+
+"*Appreciate the moment.*"
+
+
+"*There are three traps that steal your joy and peace: regret from the past, fear for the future, and ingratitude of the present.*"

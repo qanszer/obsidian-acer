@@ -74,3 +74,21 @@ People, since they love God so much, they make carvings for Him to see Him. But 
 
 ---
 
+# Week 4 - Murder
+May 10, 2026
+
+
+Interesting worldwide data from World Health Organization for 2025:
+1. Intentional homicide - 450,000
+2. Suicide - 800,000
+3. Road traffic accidents - 1,200,000
+
+> 
+> "*Every time we allow anger to control us, we move away from God's peace.*"
+> 
+> - John Scott
+>
+
+
+Applications:
+- encourage someone daily; speak hope, not criticism

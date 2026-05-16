@@ -236,6 +236,33 @@ Notes
 
 ---
 
+## 08 - Talk in Terms of the Other Person's Interests
+
+
+#### Main Idea
+
+A great conversationalist is someone who talks about what the other person is interested in than talk about their own interests. If someone were to talk to you about spaceships and its intricacies and even though their knowledge about it is vast, you're not interested in it. That's not a great conversationalist.
+
+#### Key Takeaway
+
+- Find out what the person you're talking to is interested in
+
+
+#### Specific Actions
+
+-  Try to find what the other person is interested in while you're talking to them. And if you do find it, only talk about that. See how it goes
+- If you're going to talk to someone of higher standing than you, search about them beforehand (facebook, etc) and see their interests. Bring it up when you do meet them and see how it goes
+
+
+#### Favorite Quotes
+
+> 
+> *“The most fascinating conversationalist that you know doesn’t try to impress you with their knowledge of birding in Cornwall or bore you with the finer details of his or her daughter’s upcoming nuptials even though they are undoubtedly well-versed in these topics. You enjoy their company because they talk in terms of _your_ interest and opinions, and who isn’t pleased by that?”*
+> 
+
+
+---
+
 
 
 ---

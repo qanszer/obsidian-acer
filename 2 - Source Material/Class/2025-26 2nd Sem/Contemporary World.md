@@ -238,47 +238,5 @@ Global Interstate System
 ## Finals
 
 
-### Date - Topic
-
-#### Subtopic
-
-
-
----
-
-# 2nd Semester
-## Prelim
-
-
-### Date - Topic
-
-#### Subtopic
-
-
-
----
-
-## Midterm
-
-
-### Date - Topic
-
-#### Subtopic
-
-
-
----
-
-## Finals
-
-
-### Date - Topic
-
-#### Subtopic
-
-
-
-
-
-
+### 5/11/26 - Global Food Security
 

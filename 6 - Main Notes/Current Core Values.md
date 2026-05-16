@@ -10,15 +10,20 @@ Tags: [[Reflection]]
 These are not final and will be ideally reviewed every month.
 
 
-**01 - Curiosity** ( learning / curiosity / growth / wisdom)
+**01 - Curiosity**
+( learning / curiosity / growth / wisdom )
 
-**02 - Precision** ( accuracy / control / thoroughness / focus / organization / beauty )
+**02 - Precision** 
+( accuracy / control / thoroughness / focus / organization / beauty )
 
-**03 - Excellence** ( competence / self control / discipline / integrity / productivity )
+**03 - Excellence** 
+( competence / self control / discipline / integrity / productivity )
 
-**04 - Poise/Zen** ( health rest / quietness / balance )
+**04 - Poise/Zen** 
+( health / rest / quietness / balance )
 
-**05 - Respect** ( communication / thankful / fairness )
+**05 - Respect** 
+( communication / thankful / fairness )
 
 
 ---

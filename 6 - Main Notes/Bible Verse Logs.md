@@ -986,7 +986,7 @@ Acts of the Apostles 18:9-10 NLT
 
 ### Chapter 3
 
-**1 Corinthians 3:5-7 ESV**
+**1 Corinthians 3:5-7 ESV** (herme)
 **5** What then is Apollos? What is Paul? Servants through whom you believed, as the Lord assigned to each. **6** I planted, Apollos watered, but God gave the growth. **7** So neither he who plants nor he who waters is anything, but only God who gives the growth.
 
 **1 Corinthians 3:16-17 ESV**

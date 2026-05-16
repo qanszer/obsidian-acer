@@ -970,40 +970,20 @@ WHERE condition                -- filter rows (optional)
 ```
 
 
-
 ---
-
-# 2nd Semester
-## Prelim
-
-
-### Date - Topic
-
-#### Subtopic
+### 05/11/26 - SQL Trigger
+(Sir Jayson)
 
 
+SQL Trigger is usually used for logs when actions are done to a table.
 
----
-
-## Midterm
-
-
-### Date - Topic
-
-#### Subtopic
-
-
-
----
-
-## Finals
-
-
-### Date - Topic
-
-#### Subtopic
-
-
-
-
-
+Syntax:
+```sql
+CREATE TRIGGER trigger_name
+ON table_name
+{ AFTER | INSTEAD OF } { INSERT, UPDATE, DELETE }
+AS
+BEGIN
+    -- Use the 'inserted' and 'deleted' virtual tables
+END;
+```
