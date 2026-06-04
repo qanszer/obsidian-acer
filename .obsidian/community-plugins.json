@@ -3,5 +3,6 @@
   "obsidian-file-cleaner",
   "obsidian-git",
   "calendar",
-  "select-current-line"
+  "select-current-line",
+  "md-cal-gen"
 ]

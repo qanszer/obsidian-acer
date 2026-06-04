@@ -416,7 +416,7 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
 [37] “Judge not, and you shall not be judged. Condemn not, and you shall not be condemned. Forgive, and you will be forgiven.  [38] Give, and it will be given to you: good measure, pressed down, shaken together, and running over will be put into your bosom. For with the same measure that you use, it will be measured back to you.”
 
 **Luke 6:46-47 NKJV**
-[46] “But why do you call Me ‘Lord, Lord,’ and not do the things which I say?  [47] Whoever comes to Me, and hears My sayings and does them, I will show you whom he is like:  
+[46] “But why do you call Me ‘Lord, Lord,’ and not do the things which I say?  [47] Whoever comes to Me, and hears My sayings and does them, I will show you whom he is like
 
 **Luke 6:22-23 NKJV**
 [22] Blessed are you when men hate you, And when they exclude you, And revile you, and cast out your name as evil, For the Son of Man’s sake. [23] Rejoice in that day and leap for joy! For indeed your reward is great in heaven, For in like manner their fathers did to the prophets. 
@@ -1248,6 +1248,37 @@ Acts of the Apostles 18:9-10 NLT
 [40] But everything should be done in a way that is right and orderly.
 
 
+### Chapter 15
+
+**1 Corinthians 16:55 ESV**
+“Death is swallowed up in victory.”  
+[55] “O death, where is your victory?  
+   O death, where is your sting?”
+
+**1 Corinthians 16:58 ESV**
+**58**Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain.
+
+
+### Chapter 16
+
+**1 Corinthians 16:13-14 ESV**
+**13**Be watchful, stand firm in the faith, act like men, be strong. **14**Let all that you do be done in love.
+
+**1 Corinthians 16:20 ESV**
+**20**All the brothers send you greetings. Greet one another with a holy kiss.
+
+
+---
+
+## 2 Corinthians
+
+**2 Corinthians 1:3-5 ESV**
+**3**Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, **4**who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God. **5**For as we share abundantly in Christ's sufferings, so through Christ we share abundantly in comfort too.
+
+**2 Corinthians 1:11 ESV**
+**11**You also must help us by prayer, so that many will give thanks on our behalf for the blessing granted us through the prayers of many.
+
+
 ---
 
 ## Philippians
@@ -1281,7 +1312,7 @@ Acts of the Apostles 18:9-10 NLT
 
 **James 1:2-3 NKJV**
 [2] My brethren, count it all joy when you fall into various trials, [3] knowing that the testing of your faith produces patience. 
-
+aaaaa
 **James 1:5 NKJV**
 [5] If any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him. 
 

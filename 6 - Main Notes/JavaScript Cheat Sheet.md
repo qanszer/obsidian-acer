@@ -689,6 +689,19 @@ console.log(filtered);
 // [ "Leopard", "Lion" ]
 ```
 
+Simplest form of an arrow function:
+
+```js
+let users = user => console.log(user);
+```
+
+#### Difference between usage of brackets and absence of it:
+
+|                 | Not using brackets<br>`() => expr`                               | Using brackets<br>`() => {return expr}`                                   |
+| --------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Body type**   | Concise (single line)                                            | Block (multiple lines)                                                    |
+| **Return type** | Implicit return (automatically returns the evaluated expression) | Explicit return (returns `undefined` unless you use the `return` keyword) |
+
 ## Random Functions
 
 For random negative/positive return:
@@ -1761,6 +1774,11 @@ linkPara.remove();
 linkPara.parentNode.removeChild(linkPara);
 ```
 
+3. Remove all children
+```js
+sect.replaceChildren();
+```
+
 ## Apply Styles to HTML Elements
 
 The following are methods to adding styles dynamically to HTML elements.
@@ -2141,6 +2159,13 @@ div.addEventListener('mark', function (e) {
 // highlight div element
 highlight(div);
 ```
+
+
+---
+# 09 - Objects
+
+https://javascript.info/object
+
 
 
 ---

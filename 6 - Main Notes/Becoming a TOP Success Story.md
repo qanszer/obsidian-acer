@@ -33,6 +33,7 @@ Things will get hard, so spend some time with the articles at the beginning of T
 Avoid rushing through the curriculum; rushing is a surefire way to burn out. Using the Pomodoro technique can help you stay on task while ensuring that you take the breaks you need. Hard deadlines should be avoided as well, as they will make skipping and rushing very attractive. Moving through the curriculum without having the prerequisite understanding of the previous topics will make each subsequent lesson more and more difficult to learn properly as you dive deeper into the course.
 
 
+
 ---
 
 ## 03 - The Discord Server
@@ -148,13 +149,13 @@ After looking at, and following the advice found in the getting-hired course and
 
 ---
 
-## 06 - Strategically Building Your Portoflio
+## 06 - Strategically Building Your Portfolio
 
 There is no degree or certification for finishing The Odin Project, but it does leave you with the potential for a killer portfolio. There are times when you should spend extra time on a project, and times when you shouldn’t. Not every project should be a portfolio piece.
 
 #### Foundations isn’t a strong portfolio generator
 
-People tend to spend a lot of time on the first few projects expecting them to be portfolio pieces; the problem with this approach is that you will be building more impressive projects very soon after Foundations. Save your time and energy for those projects. The capstone project for Foundations, however, _is_ worth spending extra time on to ensure you are demonstrating the best of your abilities at that time.
+People tend to spend a lot of time on the first few projects expecting them to be portfolio pieces; the problem with this approach is that you will be building more impressive projects very soon after Foundations. Save your time and energy for those projects. The capstone project for Foundations, however, _is_ worth spending extra time on to ensure you are demonstrating the best of your abilities at that time.
 
 #### Pick projects you like and use them as portfolio fodder
 

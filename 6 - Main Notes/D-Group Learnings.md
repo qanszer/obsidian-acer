@@ -85,14 +85,12 @@ How do you differentiate being a salt to the world and being a light to the worl
 #### My Questions
 
 1. Paano po nadidifferentiate yung biblical correction sa pagiging judgemental?
-2. May nanotice po ako na different interpretation sa difference to being a salt and being a light, tapos gusto ko lang po sana malaman if tama parin po ba?
-3. Example, may kilala po kayo na part of the lgbtq community,
+2. May nanotice po ako na different interpretation sa difference to being a salt and being a light, tapos gusto ko lang po sana malaman if tama parin po ba? Example, may kilala po kayo na part of the lgbtq community,
 
 
 ---
 
 ### 10/2/24 - Discern if a Church's Teachings are Godly or Not
-
 
 #### Essentials
 The points that need to be taught in the church to be considered biblical:
@@ -111,7 +109,6 @@ The points that need to be taught in the church to be considered biblical:
 12. Salvation is by grace alone through faith
 13. Eternal life is a gift
 14. Scripture is God's Word
-
 
 #### Non-Essentials
 The teachings which are not considered biblical. These points are acceptable to be varied in between churches.
@@ -162,6 +159,9 @@ When you learned a great lesson from a preaching but struggle to share it yourse
 
 
 **What really is Scripture? And how can we use it on our daily lives?**
+
+2 Timothy 3:16-17
+"All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work."
 
 - for teaching
 - reproof (rebuke)
@@ -239,3 +239,23 @@ Realization: Sometimes I live as if I have no God
 
 
 Idea: create a collab note wherein maglilista each group member ng times na nahonor si God during a trial in life (ex: not compromising)
+
+
+---
+
+## 06/04/26 - 
+
+- think about my calling and conviction again
+- if your disciple tells their desire to lead as well, you need to confront them regarding their commitment to ccf -- that they should decide for themselves to only attend ccf
+- realization: i used to have compassion for other people. like helping someone carry a heavy bag up the overpass, but for the past few months i dont have such compassion anymore. i did not do my example when i saw a tita about to carry heavy groceries up the overpass before going to my dgroup
+- **assignment**: know why i have less compassion compared to before
+
+Matthew 9:36 ESV
+**36**When he saw the crowds, he had compassion for them, because they were harassed and helpless, like sheep without a shepherd.
+
+compassion - you feel for them so much so that you feel compelled for action
+
+Psalm 23:1
+"The Lord is my shepherd; I shall not want."
+
+- part of having compassion is correcting them

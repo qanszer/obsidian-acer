@@ -47,6 +47,7 @@ Tags: [[School]], [[Tracking]]
 **2026-27  |  2nd Sem**
 
 - Capstone1
+
 - IAS2
 - Track 2 - Web Frameworks
 - Track 3 - Software Dev
@@ -57,10 +58,9 @@ Tags: [[School]], [[Tracking]]
 
 **2027-28  |  1st Sem**
 
+- Capstone2
+
 - Track 4 - Software Quality
 - PC Repair
-- Capstone2
 - OJT
 
-
----

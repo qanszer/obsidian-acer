@@ -89,7 +89,19 @@ gap
 ```
 
 
+### Vertically center an element on the left:
+
+```css
+.toolbar {
+	position: fixed;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+}
+```
 
 
+
+---
 # References
 https://www.theodinproject.com/lessons/foundations-intro-to-css
