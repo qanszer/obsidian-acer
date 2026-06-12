@@ -59,6 +59,9 @@ https://plusai.com/
 **Iventions**
 https://iventions.com/
 
+**Kanopy**
+https://www.kanopy.com/en
+
 
 ## Construction Inspos (DT Project)
 

@@ -49,7 +49,7 @@ then follow instructions
 
 **One-liner Cleaner:**
 ```bash
-sudo apt autoremove && sudo apt-get clean && sudo journalctl --vacuum-time=3d && rm -rf ~/.cache/thumbnails/*
+sudo apt autoremove && sudo apt clean && sudo journalctl --vacuum-size=100M && rm -rf ~/.cache/thumbnails/*
 ```
 
 Clean unneeded packages:

@@ -19,3 +19,16 @@ Gala Drawings
 - gala with icy
 - national library with duke
 - anniversary outing to tagaytay
+
+
+
+The importation of rare wild animals to this area is strictly prohibited
+
+NorthStar Basic Computer Skills
+https://assessment.digitalliteracyassessment.org/results/?id=14987839&code=e9fdbadabd67
+
+Windows 11
+https://assessment.digitalliteracyassessment.org/results/?id=14987890&code=45a8b69e36b8
+
+Internet Basics
+https://assessment.digitalliteracyassessment.org/results/?id=14987977&code=6945c5334087

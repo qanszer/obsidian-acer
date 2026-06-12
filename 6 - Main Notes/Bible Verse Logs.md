@@ -527,7 +527,7 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
 [34]  “Watch out! Don’t let your hearts be dulled by carousing and drunkenness, and by the worries of this life. Don’t let that day catch you unaware, [35] like a trap. For that day will come upon everyone living on the earth. 
 
 **Luke 21:36 NLT**
-[36] Keep alert at all times. And pray that you might be strong enough to escape these coming horrors and stand before the Son of Man.”
+[36] Keep alert at all times. And pray that you might be strong enough to escape these coming horrors and stand before the Son of Man.
 
 ### Chapter 22
 

@@ -26,7 +26,7 @@ Give them 1 minute to think
 ---
 ## 02 - Devotional & Discussion
 
-You can raise your hands if may question kayo anytime during the devotional and I will try my best to answer it. If di ko rin alam yung sagot, I will take note of it and ask my dgroup leader then I will get back to you sa gc for the answer.
+Now before I start the devotional, I want to put it out na you can raise your hands if may question kayo anytime during the devotional and I will try my best to answer it. If di ko rin alam yung sagot, I will take note of it and ask my dgroup leader then I will get back to you sa gc for the answer.
 
 You can also go drink water or go to the CR anytime.
 
@@ -45,7 +45,7 @@ Each one does this:
 1. Praise report 
 	- anything that happened during the week na mapapa isip ka nalang ng thank you kay God kasi nangyari yun
 	- or if any of your prayers last week got answered
-2. Prayer reqeust
+2. Prayer request
 	- (ask genuinely) how can i pray for you?
 	- each one prays for one other
 

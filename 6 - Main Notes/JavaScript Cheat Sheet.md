@@ -731,6 +731,13 @@ This is the `forEach` array method. This method simply takes a `callback` fu
 **How Callbacks Work**:
 To state it once more: **Callbacks are just functions** passed into other functions as arguments (as a parameter).
 
+## Get Current Year
+
+```js
+const currentYear = new Date().getFullYear();
+console.log(currentYear); // Output: 2026
+```
+
 
 ---
 # 06 - Loops
@@ -1131,6 +1138,14 @@ Remove all the elements of an array while keeping the array itself:
 
 ```js
 arr.length = 0;
+```
+
+## Remove an Element from Array
+
+```js
+const index = users.findIndex(user => user.id === 102);
+
+users.splice(index, 1); // this mutates the original array; not recommended for React
 ```
 
 ## About String(array)
@@ -1680,6 +1695,21 @@ const productOfAllNums = arr.reduce((total, currentItem) => {
 }, 1);
 console.log(productOfAllNums); // Outputs 120;
 console.log(arr); // Outputs [1, 2, 3, 4, 5]
+```
+
+```js
+// object example
+let john = { name: "John", age: 25 };
+let pete = { name: "Pete", age: 30 };
+let mary = { name: "Mary", age: 29 };
+
+let arr = [ john, pete, mary ];
+
+function getAverageAge(arr) {
+	return avg = arr.reduce((total, user) => total + user.age, 0) / arr.length; // the 0 is essential for it to work
+}
+
+alert( getAverageAge(arr) ); // (25 + 30 + 29) / 3 = 28
 ```
 
 | **Visualization on the difference between the 3 methods:** |

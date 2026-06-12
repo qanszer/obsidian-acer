@@ -25,3 +25,26 @@ Unanswered Questions
 
 Answered Questions
 - 
+
+---
+
+#### June 6
+
+Things to keep in mind about them
+
+Eze
+- feels spiritually dry, and hates that fact; that's why he tries his best to attend the dgroup and elevate service
+
+JM
+- tindahan sa bicol, palengke (damit, school supplies)
+- 
+
+Khyle
+- asthma younger sister; bigyan ng free barley to try out
+
+
+Unanswered Questions
+- 
+
+Answered Questions
+- 

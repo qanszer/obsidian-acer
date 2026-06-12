@@ -32,6 +32,7 @@ Make a ecommerce website for all types of anime/manga/light novel related produc
 A digital/analog indicator for the total voltage used on a given set of time for each electric socket to know which electrical appliances cost the most amount of electricity in the house. The voltage measured will be added over time unless reset by the user.
 
 
+### Freelance Change CSS of Existing Websites
 
-
+Offer services of changing the overall design and layout of badly designed existing websites.
 

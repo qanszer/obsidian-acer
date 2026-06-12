@@ -4,18 +4,18 @@
 Tags: [[Eli]], [[Thoughts]]
 
 ---
-# Valentines Ideas
+# Monthsary/Valentines/Anniversary Ideas
 
 ---
 
-## Web Content
+## Valentines
+
+### 01 - Web Content
 
 1. Valentines Poem with audio (my voice + bg music)
 2. Activities
 
-
-
-## Activities
+### 02 - Activities
 
 1. **Dreamhouse Floorplanning Collab**
 	- Using the 'Floorplanner' desktop app
@@ -35,9 +35,17 @@ Tags: [[Eli]], [[Thoughts]]
 	- [Link](https://messenger.abeto.co/)
 
 
+---
 
+## Anniversary
 
-
+1. Website changes
+	- 365 integrated with archive website
+	- 'archive' section of past special events (birthday message, poem, dance, real life special events, etc)
+	- mobile friendly
+2. Physical changes
+	- haircut (visible nape; probably curtain cut)
+	- fixed teeth
 
 
 

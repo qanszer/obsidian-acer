@@ -13,7 +13,7 @@ Planning/list of my personal website with Eli
 
 1. Hero section
 2. Light/dark mode
-3. Navigation side section
+3. Page outline navigation
 4. Navbar
 
 
@@ -22,7 +22,7 @@ Planning/list of my personal website with Eli
 - Relationship highlights/timeline
 - Best pictures together
 - Collection of gifts received from each other
-- Places visited
+- Places visited with accompanying pictures/vids/date
 
 ### Ideas
 
