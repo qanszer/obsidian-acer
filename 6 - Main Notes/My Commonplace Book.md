@@ -78,3 +78,8 @@ A collection of my favorite quotes. Quotes that struck something in me.
 
 
 "*There are three traps that steal your joy and peace: regret from the past, fear for the future, and ingratitude of the present.*"
+
+
+*"Sin is basically choosing self-will over God's will."*
+
+

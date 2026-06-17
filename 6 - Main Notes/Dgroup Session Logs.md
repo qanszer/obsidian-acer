@@ -48,3 +48,28 @@ Unanswered Questions
 
 Answered Questions
 - 
+
+
+---
+
+#### June 13
+
+Things to keep in mind about them
+
+**Eze**
+- 
+
+**JM**
+- 
+
+**Khyle**
+- find cheap thinkpad for his college
+- ask follow up sa kapatid abt barley
+- 
+
+
+**Unanswered Questions**
+- 
+
+**Answered Questions**
+- 

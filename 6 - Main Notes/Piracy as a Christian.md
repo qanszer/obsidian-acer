@@ -23,3 +23,4 @@ The romcom movie was great btw. 10/10. Not for below 18 years old though.
 1. You Shall Not Steal: Digital Piracy, Christian Stewardship, and the Importance of Physical Ownership - https://bcwarr.substack.com/p/you-shall-not-steal-digital-piracy
 2. Should Christians Pirate Media? A Biblical Debate - https://notmylife.net/2025/06/01/should-christians-pirate-media-a-biblical-debate/
 3. Is it a sin to share, download, or pirate copyrighted material (music, movies, software) on the internet? - https://www.gotquestions.org/sin-copyright.html
+4. Untangled: Is It Okay for Christians to Watch Illegal, Pirated, or Unlicensed Anime Streams? - https://beneaththetangles.com/2023/11/08/untangled-is-it-okay-for-christians-to-illegally-stream-anime/

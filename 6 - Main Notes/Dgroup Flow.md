@@ -8,30 +8,28 @@ Tags: [[Devotional]], [[Christianity]]
 
 ## 01 - Catching up / Icebreakers
 
+You can also go drink water or go to the CR anytime.
+
+Give the barley sachets.
+
 Grace period of 10 minutes for everyone to arrive. In the meantime, have a **general talk** with the arrived disciples **according to their interests**.
 
 **Once 10 minutes is up**, either:
 - do an icebreaker to get to know each other more, or
 - ask genuinely: *"How have you been this past week? Ano mga ganap sa buhay mo?"*
 
-#### **Icebreaker - Deserted island**
+#### **Icebreaker**
 
-**Description:** Imagine this situation: “You’ve been exiled to a deserted island for a year. You are told you may take three things you want, apart from the essentials. What would you take and why?”
-
-Give them 1 minute to think
-
-**Tips:** This icebreaker is fun when people think of quirky answers. Encourage your group to think outside the box. This icebreaker should not take longer than 10 minutes, and the answers should be relatively short.
-
+Go to google forms
 
 ---
 ## 02 - Devotional & Discussion
 
-Now before I start the devotional, I want to put it out na you can raise your hands if may question kayo anytime during the devotional and I will try my best to answer it. If di ko rin alam yung sagot, I will take note of it and ask my dgroup leader then I will get back to you sa gc for the answer.
+Now before I start the devotional, again, you can raise your hands if may question kayo anytime during the devotional and I will try my best to answer it. If di ko rin alam yung sagot, I will take note of it and ask my dgroup leader then I will get back to you sa gc for the answer.
 
 You can also go drink water or go to the CR anytime.
 
 **Start the Devo**
-
 
 ---
 ## 03 - Accountability
@@ -49,8 +47,7 @@ Each one does this:
 	- (ask genuinely) how can i pray for you?
 	- each one prays for one other
 
-**Closing prayer.** Ask God to make His Word irresistible to them.
-
+**Closing prayer.** Have each disciple silently identify the one area they've been grabbing back from God. Close in prayer, surrendering those things together.
 
 ---
 

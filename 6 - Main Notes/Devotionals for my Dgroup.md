@@ -8,37 +8,36 @@ Tags: [[Christianity]], [[Devotional]], [[Collection]]
 
 A list of my prepared devotionals for my dgroup disciples.
 
-# May 2026
+# Year 2026
 
-### May 23 - "Just Do It"
+### May 23 | "Just Do It"
 
 ![[Pasted image 20260523131102.png]]
 
 
 ---
 
-### May 30 - "More Than a Sunday Thing"
+### June 6 | "More Than a Sunday Thing"
 
 **Text:** 2 Timothy 3:16–17 (ESV)
 **Goal:** Call disciples to daily Bible reading
 
-_"Quick question — may bible ba kayo? Like personal or sa bahay or yung bible app? (Pause and wait for their answers) Now be honest. When was the last time you opened your Bible? Not in church. Not in this group. But on your own."_
+_"Quick question -- may bible ba kayo? Like personal or sa bahay or yung bible app? (Pause and wait for their answers) Now be honest. When was the last time you opened your Bible? Not in church. Not in this group. But on your own."_
 
 *"No need to answer. Isipin niyo lang"*
 (Pause)
 
-_"No judgment. Reading the bible does not make you better than someone. But I want to show you today why it actually matters — and I think the data alone will surprise you."_
+_"No judgment. Reading the bible does not make you better than someone. But I want to show you today why it actually matters -- and I think the data alone will surprise you."_
 
----
 
-_"Here's the thing about Sunday service — and I love Sunday services — but here's the thing."_
+_"Here's the thing about Sunday service -- and I love Sunday services -- but here's the thing."_
 
 - **Sunday service = processed food.** In a way na minuya na siya, na process na siya ng pastor. (pause). It keeps you alive, but you can't thrive on it alone.
 - **The Bible = fresh food.** Directly from the source, fresh, and unprocessed.
 
 **Question:**
 
-_"If you could only eat processed food every week — like instant noodles, every single day — what would eventually happen to your body?"_
+_"If you could only eat processed food every week -- like instant noodles, every single day -- what would eventually happen to your body?"_
 
 _(Let them answer, then bridge:)_ "The same thing happens spiritually when the only God's Word you get is once a week."
 
@@ -46,7 +45,6 @@ _(Let them answer, then bridge:)_ "The same thing happens spiritually when the o
 
 *"Sunday services are great, pero if you want to get closer to God and have a personal relationship with Him, na directly Sakanya, walang nasa gitna, then I encourage you to start reading the Bible on your own."* 
 
----
 
 **Read it together:**
 
@@ -55,7 +53,7 @@ _(Let them answer, then bridge:)_ "The same thing happens spiritually when the o
 "All Scripture is God-breathed and is useful for teaching, for reproof, for correction, and for training in righteousness, so that the man of God may be complete, equipped for every good work." 
 ```
 
-**Quick context:** Paul is writing to Timothy — a young leader, probably feeling inadequate, probably surrounded by people pulling him in different directions. Sound familiar?
+**Quick context:** Paul is writing to Timothy -- a young leader, probably feeling inadequate, probably surrounded by people pulling him in different directions. Sound familiar?
 
 Paul's answer to Timothy wasn't _"pray more"_ or _"try harder."_ It was: **get into the Word.**
 
@@ -75,15 +73,14 @@ Paul's answer to Timothy wasn't _"pray more"_ or _"try harder."_ It was: **get i
 	- 1 Thessalonians 5:11 - "Therefore encourage one another and build each other up, just as in fact you are doing."
 ```
 
-_"Notice it doesn't say Scripture is useful for one of those things. It says all four. The Bible isn't just for when you're lost — it's for when you think you're fine too."_
+_"Notice it doesn't say Scripture is useful for one of those things. It says all four. The Bible isn't just for when you're lost -- it's for when you think you're fine too."_
 
 **Question:** (give 30 seconds to think)
 
-> _"Which of those four — teaching, reproof, correction, or training — do you think you need most right now, and why?"_
+> _"Which of those four -- teaching, reproof, correction, or training -- do you think you need most right now, and why?"_
 
----
 
-Now bring in the survey data. Deliver it like you're genuinely amazed — because you should be.
+Now bring in the survey data. Deliver it like you're genuinely amazed -- because you should be.
 
 Link to the actual research: 
 https://bttbfiles.com/web/docs/cbe/Scientific_Evidence_for_the_Power_of_4.pdf
@@ -107,11 +104,10 @@ _"And hindi siya Bible study program or anything. Nagbasa lang talaga sila ng Bi
 
 **Question:** (1 minute)
 
-> _"Looking at that list — loneliness, anger, bitterness — which one hits closest to home for you or someone you know?"_
+> _"Looking at that list -- loneliness, anger, bitterness -- which one hits closest to home for you or someone you know?"_
 
----
 
-_Here's what I want you to walk away with. God didn't give us the Bible as homework. He gave it to us as a lifeline. Paul told Timothy — this young guy navigating life, trying to figure life out — 'that the Word will equip you.'**_
+_Here's what I want you to walk away with. God didn't give us the Bible as homework. He gave it to us as a lifeline. Paul told Timothy -- this young guy navigating life, trying to figure life out -- 'that the Word will equip you.'**_
 
 _Nasa late teens na kayo. You're already making decisions that will shape your 20s. Who you spend time with. What you give your attention to. What you believe about yourself. So I'm proud of you guys to choose to commit your time in a dgroup and gain wisdom from God_
 
@@ -124,6 +120,57 @@ _Nasa late teens na kayo. You're already making decisions that will shape your 2
 	- If you want a comprehensive story: Read Luke
 	- If you want teachings about morality: Read Matthew
 	- If you want deep spiritual reflection: Read John
+
+---
+
+### June 13 | "God's Chisel"
+
+_(After watching the skit)_
+
+> "Kamusta yung video? May impact din diba? Ano learnings niyo or thoughts niyo na nakuha sa video?"
+
+(if may makaka-share na, go. if wala, antay ako ng 1 minute then share na tayo)
+
+```
+https://www.youtube.com/watch?v=3QCkBL2DfVg&list=PLBKo7Ru5383hQo29EBPB1mdSaCNOes0Nx&index=32&t=261s
+```
+
+
+Lagi kong sinasabi na I want to be more like Jesus. I pray for it, I sing it. Pero the moment na God actually starts working on me, and convicts me of something that I need to let go of, or something I need to do, I resist it.
+
+> **Light question:** "So para sa inyo, what is one area of your life na you'd be okay with God changing? And what is another area you'd rather na iwan Niya lang, di Niya pakikialaman?"
+
+_(Wait ako ng 1min 30secs. When you put your sin out in the light, mas nagiging weak siya. So I encourage you to share honestly sa 2nd part about one area you'd rather that God leaves alone. Pero syempre di to compulsory, just share what you're willing to open up to)_
+
+
+1. **Name the chisel.** What is God currently using to shape you -- a relationship, a struggle, or a habit that God keeps convicting you?
+    
+2. **Stop grabbing the chisel back.** Surrender doesn't mean passive. It means choosing daily to let God have have His way with your life -- especially when the process is uncomfortable.
+    
+3. **Replace the lie with the truth.** When you feel worthless or like you're too far gone, go back to Isaiah 64:8. You are the work of His hand. Na yan yung identity mo.
+
+```
+Isaiah 64:8 (ESV)
+"But now, O LORD, you are our Father; we are the clay, and you are our potter; we are all the work of your hand."
+```
+
+
+Moving on, the video used a piece of paper -- which was a note written in college -- as the moment of breakthrough. Yung simple reminder of a past commitment na meron siya, cracked the man open.
+
+I want to ask you something similar.
+
+**Do you remember when you first gave your life to God?** Ano yung gusto niyo na gawin ni God sa life niyo during that time?
+
+No need to answer, pero don't lose that. Wag niyo yun kalimutan.
+
+(pause)
+
+Being a masterpiece is not about feeling like one. It's about trusting the One holding the chisel -- because He doesn't make junk, and He doesn't quit on what He started.
+
+> _"And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ."_ -- **Philippians 1:6 (ESV)**
+
+The process is painful. But the Potter is good. 
+**So let us let God chisel. Let Him work on each of us.**
 
 
 ---

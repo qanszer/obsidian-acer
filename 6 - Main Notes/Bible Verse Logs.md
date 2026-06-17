@@ -897,7 +897,7 @@ Acts of the Apostles 18:9-10 NLT
 [19] So then, let us aim for harmony in the church and try to build each other up.
 
 **Romans 14:20-21 NLT**
-[20] Don’t tear apart the work of God over what you eat. Remember, all foods are acceptable, but it is wrong to eat something if it makes another person stumble. [21] It is better not to eat meat or drink wine or do anything else if it might cause another believer to stumble. 
+[20] Don’t tear apart the work of God over what you eat. Remember, all foods are acceptable, but it is wrong to eat something if it makes another person stumble. [21] It is better not to eat meat or drink wine or do anything else if it might cause another believer to stumble.
 
 **Romans 14:22 NLT**
 [22] You may believe there’s nothing wrong with what you are doing, but keep it between yourself and God. Blessed are those who don’t feel guilty for doing something they have decided is right. 
@@ -1312,7 +1312,7 @@ Acts of the Apostles 18:9-10 NLT
 
 **James 1:2-3 NKJV**
 [2] My brethren, count it all joy when you fall into various trials, [3] knowing that the testing of your faith produces patience. 
-aaaaa
+
 **James 1:5 NKJV**
 [5] If any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him. 
 
@@ -1348,4 +1348,4 @@ aaaaa
 ---
 ## Reference
 
-The Bible
+Bible
