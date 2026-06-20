@@ -40,6 +40,7 @@ ul {
 body {
 	display: flex;
 	flex-direction: column;
+	height: 100vh;
 }
 
 [id] { 
@@ -139,8 +140,6 @@ In this example, two things are done to center this element horizontally within 
 - The element is given a specified width
 - The left and right margins are set to `auto`
 
-
-6
 
 ## Responsiveness
 
@@ -258,12 +257,6 @@ Use `em` for breakpoints
 ### Unexpected shrink problem
 
 If one div child shrinked because of `align-items: center`, add `width: 100%` to the child
-
-
-
-
-
-
 
 
 

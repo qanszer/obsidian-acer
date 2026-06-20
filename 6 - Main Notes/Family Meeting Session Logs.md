@@ -16,11 +16,11 @@ Tags: [[Tracking]]
 **UPDATES**
 - Our old car was sold for 330k instead of 250k
 - Planned to buy a new car but mother's credit score was invalid; tito jun offered to help by him buying with his credit score to pass the barrier
-- The new car is 1.4mil; MG 50 PHEV electric. it is a brand new model and currently very in demand. the papers for the car are already fully paid, but technically we still have to pay that same amount to tito jun
+- The new car is 1.4mil; MG 50 PHEV electric. it is a brand new model and currently very in demand. the papers for the car are already fully paid, but technically we still have to pay 1.1mil to tito jun but with interest
 
 **PRAYERS**
 - Financial provision
-	- 1.4mil payment for the new car
+	- 1.1mil payment with interest for the new car
 	- school tuition (last sem and for the next school year)
 	- monthly bills to pay
 	- all unpaid debts
@@ -34,7 +34,27 @@ Tags: [[Tracking]]
 
 
 **ANSWERED PRAYERS FROM LAST SESSION**
-- idk
+- 
+
+
+---
+
+## June 19, 2026
+
+**MEETING TIME**
+11:05pm - 
+
+
+**UPDATES**
+- The dinner table should always be cleaned before sleeping
+- Start cleaning the house properly and responsibly
+
+**PRAYERS**
+- Activation of papa's indrive application
+
+
+**ANSWERED PRAYERS FROM LAST SESSION**
+- potential job for steven as data annotator (training and final assessment left)
 
 
 ---

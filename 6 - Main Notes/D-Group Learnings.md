@@ -243,7 +243,7 @@ Idea: create a collab note wherein maglilista each group member ng times na naho
 
 ---
 
-## 06/04/26 - 
+## 06/04/26 - Compassion
 
 - think about my calling and conviction again
 - if your disciple tells their desire to lead as well, you need to confront them regarding their commitment to ccf -- that they should decide for themselves to only attend ccf
@@ -259,3 +259,19 @@ Psalm 23:1
 "The Lord is my shepherd; I shall not want."
 
 - part of having compassion is correcting them
+
+
+---
+
+## 06/19/26 - Come To Me, And I Will Give You Rest
+
+**Matthew 11:28-30**
+**28**Come to me, all who labor and are heavy laden, and I will give you rest. **29**Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. **30**For my yoke is easy, and my burden is light.”
+
+Yoke - heavy wooden harness put on the oxen; 2 holes so 2 ox can be put on it.
+
+What is stopping you from coming to Jesus? What struck you the most?
+
+
+Prayer requests:
+- proper preparation for the training tomorrow

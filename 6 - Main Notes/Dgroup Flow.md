@@ -36,6 +36,8 @@ You can also go drink water or go to the CR anytime.
 
 Ask: How did you do with the goal we set last week?
 
+After someone answers, give your thoughts/advice, then ask if the others have something to say as well.
+
 ---
 ## 04 - Praise Report and Prayer Requests
 

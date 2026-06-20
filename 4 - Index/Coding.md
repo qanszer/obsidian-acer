@@ -12,7 +12,7 @@
 1. [[HTML Cheat Sheet]]
 
 ## CSS
-1. [[CSS Common Properties]]
+1. [[CSS Cheat Sheet]]
 2. [[CSS Good Practices]]
 
 ## Javascript

@@ -1262,7 +1262,7 @@ Acts of the Apostles 18:9-10 NLT
 ### Chapter 16
 
 **1 Corinthians 16:13-14 ESV**
-**13**Be watchful, stand firm in the faith, act like men, be strong. **14**Let all that you do be done in love.
+**13** Be watchful, stand firm in the faith, act like men, be strong. **14** Let all that you do be done in love.
 
 **1 Corinthians 16:20 ESV**
 **20**All the brothers send you greetings. Greet one another with a holy kiss.
