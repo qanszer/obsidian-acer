@@ -43,6 +43,7 @@ Tags: [[Eli]], [[Thoughts]]
 	- 365 integrated with archive website
 	- 'archive' section of past special events (birthday message, poem, dance, real life special events, etc)
 	- mobile friendly
+	- list of past 365 reasons
 2. Physical changes
 	- haircut (visible nape; probably curtain cut)
 	- fixed teeth

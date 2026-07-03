@@ -83,3 +83,6 @@ A collection of my favorite quotes. Quotes that struck something in me.
 *"Sin is basically choosing self-will over God's will."*
 
 
+*“The things that make us feel most human are the least compatible with profit.”*
+
+

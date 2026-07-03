@@ -174,3 +174,64 @@ The process is painful. But the Potter is good.
 
 
 ---
+
+## June 26 | Anger
+
+i'm sure lahat kayo naka experience ng ganto. Sumabog kayo dahil lang sa maliit na bagay, kasi yun yung naging tipping point ng bottled up stress niyo.
+
+Nangyayari satin yan. May frustration tayo na gusto sabihin pero di nalang sinasabi. Silent grudges, mga ganyang bagay. Iniisip natin na tama yung pagkeep silent natin kasi in the end, di tayo nag-sin dahil sa pagcontrol sa anger natin.
+
+Actually, na address yan sa Bible, specifically in **Ecclesiastes 7:9 (ESV)**
+
+```
+Ecclesiastes 7:9 (ESV)
+"Be not quick in your spirit to become angry, for anger lodges in the heart of fools."
+```
+
+**Context:**
+
+- **Author:** King Solomon who is considered to be the wisest man who ever lived.
+- **Audience:** Anyone seeking to live wisely.
+- **Theme:** Ecclesiastes is King Solomon's reflection on what actually matters. He's seen everything — wealth, pleasure, power — and he keeps coming back to wisdom and the fear of God.
+
+**Observations:**
+
+- _"Be not quick"_ — This is a command. Slow down before you react.
+- _"In your spirit"_ — Anger starts internal, before it ever comes out.
+- _"Lodges"_ — It's a lodging, not just a visit. Stored-up anger takes up residence.
+
+**Interpretation:** The verse tells us that anger that we hold onto — that we let build — reveals pride at its root. Because when we're angry, at the core, we believe _we're right_ and mali yung other person or something. It's self-seeking. It's "me, me, me." And Solomon says: don't let it stay. A person who stores anger isn't strong — they're foolish.
+
+
+Two practical steps:
+
+1. **Go to God before you go to anyone else.** 
+	- Psalm 139:23 — _"Search me, O God, and know my heart."_ Pray that before you open your mouth.
+2. **Don't let the sun go down on it.** 
+	- Ephesians 4:26 states, 
+
+```
+Ephesians 4:26
+"In your anger do not sin: Do not let the sun go down while you are still angry."
+```
+
+Handle it today. A conversation you dread for five minutes is better than a grudge you carry for five months.
+
+
+"Jesus knew everything you've ever done wrong. Every sin. Every time you let him down. And he doesn't hold a single grudge against you. Not one.
+
+If the God of the universe operates from grace toward you — what's your excuse for storing up anger against someone else?
+
+You're not carrying anger because you're a bad person. You're carrying it because you're human. But you don't have to stay there. The fruits of the Spirit — patience, self-control — aren't things you have to ask for more of. They're already inside you if Christ is in you. You just have to reach for them.
+
+This week, the moment you feel that anger rise — reach to the fruits of the Spirit that God put inside you."
+
+So again, if you have an issue with a brother or sister, handle it before the sun goes down just like what King Solomon said in Ecclesiastes.
+
+James 19
+
+
+**Discussion**: what stuck to you the most or what do you remember about the devotional and why?
+
+
+---

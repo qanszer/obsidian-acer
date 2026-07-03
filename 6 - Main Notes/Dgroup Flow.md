@@ -10,8 +10,6 @@ Tags: [[Devotional]], [[Christianity]]
 
 You can also go drink water or go to the CR anytime.
 
-Give the barley sachets.
-
 Grace period of 10 minutes for everyone to arrive. In the meantime, have a **general talk** with the arrived disciples **according to their interests**.
 
 **Once 10 minutes is up**, either:

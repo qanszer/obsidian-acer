@@ -1,7 +1,7 @@
 
 2026-03-22  10:32 am
 
-Tags: [[Christianity]], [[Sunday Services]]
+Tags: [[Christianity]], [[Church-Service]]
 
 ---
 # Eye Witness - Lessons From People Who Saw Jesus Suffer

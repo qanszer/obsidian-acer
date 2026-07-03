@@ -49,3 +49,6 @@ Send large files fast
 #### 14. Icebreakers for Small Groups
 https://www.cru.org/us/en/train-and-grow/help-others-grow/leading-small-groups/small-group-icebreakers.html#questions
 Great resource for group icebeakers to get to know each other
+#### 15. Netlify
+https://www.netlify.com/
+Idk what it does but it was used to quickly make a website for the job I applied for (linewise)

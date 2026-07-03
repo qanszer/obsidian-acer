@@ -73,3 +73,33 @@ Things to keep in mind about them
 
 **Answered Questions**
 - 
+
+
+---
+
+#### June 26
+
+- successful application sa indrive
+- neglect to my disciples; prioritization over self goals
+- resched to my 
+
+- ask to sit in sa elevate
+
+
+---
+
+#### July 3
+
+Khyle
+- medical matutuloy pa
+- di na aappreciate yung ginagawa niya sa bahay; lahat napapasa sakanya
+- friends are palagala
+- nakatry na mag isa sa bahay
+- introvert; proactive pag comfortable na
+
+- papa gambling problem
+- kapatid lagi nakikipag away
+- doubt for the future
+
+Eze
+- 
