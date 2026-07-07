@@ -13,6 +13,27 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
 
 ---
 
+## Psalm
+
+### Chapter 103
+
+**Psalm 103:8–13**
+**8**The LORD is merciful and gracious,  
+   slow to anger and abounding in steadfast love.  
+**9**He will not always chide,  
+   nor will he keep his anger forever.  
+**10**He does not deal with us according to our sins,  
+   nor repay us according to our iniquities.  
+**11**For as high as the heavens are above the earth,  
+   so great is his steadfast love toward those who fear him;  
+**12**as far as the east is from the west,  
+   so far does he remove our transgressions from us.  
+**13**As a father shows compassion to his children,  
+   so the LORD shows compassion to those who fear him.
+   
+
+---
+
 ## Ecclesiastes
 
 ### Chapter 1
@@ -496,8 +517,8 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
 **Luke 18:1 NLT**
 [1] One day Jesus told his disciples a story to show that they should always pray and never give up. 
 
-**Luke 18:14 NLT**
-[14] I tell you, this sinner, not the Pharisee, returned home justified before God. For those who exalt themselves will be humbled, and those who humble themselves will be exalted.” 
+**Luke 18:9-14 ESV**
+**9**He also told this parable to some who trusted in themselves that they were righteous, and treated others with contempt: **10**“Two men went up into the temple to pray, one a Pharisee and the other a tax collector. **11**The Pharisee, standing by himself, prayed thus: ‘God, I thank you that I am not like other men, extortioners, unjust, adulterers, or even like this tax collector. **12**I fast twice a week; I give tithes of all that I get.’ **13**But the tax collector, standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’ **14**I tell you, this man went down to his house justified, rather than the other. For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”
 
 **Luke 18:27 NLT**
 [27] He replied, “What is impossible for people is possible with God.”
@@ -536,6 +557,16 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
 
 **Luke 22:46 NLT**
 [46] “Why are you sleeping?” he asked them. “Get up and pray, so that you will not give in to temptation.”
+
+
+---
+
+## John
+
+### Chapter 9
+
+**John 9:24-25 ESV**
+**24**So for the second time they called the man who had been blind and said to him, “Give glory to God. We know that this man is a sinner.” **25**He answered, “Whether he is a sinner I do not know. One thing I do know, that though I was blind, now I see.”
 
 
 ---
@@ -613,8 +644,8 @@ Acts of the Apostles 18:9-10 NLT
 
 ### Chapter 3
 
-**Romans 3:9-12 NIV**
-[9] What shall we conclude then? Do we have any advantage? Not at all! For we have already made the charge that Jews and Gentiles alike are all under the power of sin. [10] As it is written: “There is no one righteous, not even one; [11] there is no one who understands; there is no one who seeks God. [12] All have turned away, they have together become worthless; there is no one who does good, not even one.”
+**Romans 3:10-12 NIV**
+[10] As it is written: “There is no one righteous, not even one; [11] there is no one who understands; there is no one who seeks God. [12] All have turned away, they have together become worthless; there is no one who does good, not even one.”
 
 **Romans 3:19 NIV**
 [19] Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world held accountable to God. 

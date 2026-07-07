@@ -22,19 +22,17 @@ Gala Drawings
 
 
 
-The importation of rare wild animals to this area is strictly prohibited
 
-NorthStar Basic Computer Skills
-https://assessment.digitalliteracyassessment.org/results/?id=14987839&code=e9fdbadabd67
+I need feedback through an anonymous form
 
-Windows 11
-https://assessment.digitalliteracyassessment.org/results/?id=14987890&code=45a8b69e36b8
+Main dgroup session
+- get to know each other; icebreakers
+- sharing victories/good things that happened
+- prayer requests
 
-Internet Basics
-https://assessment.digitalliteracyassessment.org/results/?id=14987977&code=6945c5334087
-
-
-
-- ice skating moa
-- star city
-- 
+One-on-one calls
+- kamusta; follow up to prayer requests
+- real talk
+- accountability questions
+- biblical advice
+- encouragement prayer

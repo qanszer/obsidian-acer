@@ -68,7 +68,7 @@
       {
         "id": "f61e9383bdc88ac5",
         "type": "tabs",
-        "dimension": 71.60714285714286,
+        "dimension": 66.12021857923497,
         "children": [
           {
             "id": "9cd4f00a09e550b2",
@@ -127,26 +127,25 @@
         ]
       },
       {
-        "id": "f0c27d17b1f81aa5",
+        "id": "452a3f7cbbea89b3",
         "type": "tabs",
-        "dimension": 28.392857142857142,
+        "dimension": 33.87978142076503,
         "children": [
           {
-            "id": "05c0e5843b5c43f8",
+            "id": "d459e4c6ded27c8a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "6de475dd2b4c5e52",
@@ -155,7 +154,7 @@
       {
         "id": "a0a7259539ec42da",
         "type": "tabs",
-        "dimension": 64.85539000876425,
+        "dimension": 67.30937773882559,
         "children": [
           {
             "id": "284a1ba8a72bb0af",
@@ -224,25 +223,25 @@
         "currentTab": 3
       },
       {
-        "id": "aa23b6446492ced8",
+        "id": "86f6c3b5fd9bb560",
         "type": "tabs",
-        "dimension": 35.14460999123576,
+        "dimension": 32.690622261174404,
         "children": [
           {
-            "id": "d459e4c6ded27c8a",
+            "id": "05c0e5843b5c43f8",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "graph",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 258.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,37 +258,37 @@
   },
   "active": "3074961f8e97c9b6",
   "lastOpenFiles": [
-    "6 - Main Notes/Prayer and Fasting.md",
+    "6 - Main Notes/AI Prompts.md",
+    "5 - Template/Disciple Template.md",
+    "6 - Main Notes/Dgroup Session Logs.md",
+    "6 - Main Notes/My Disciples.md",
+    "6 - Main Notes/Becoming a TOP Success Story.md",
+    "6 - Main Notes/Personal Weight Gain Guide.md",
+    "6 - Main Notes/Personal Sleep Tracking.md",
     "1 - Rough Notes/Quick Note.md",
     "6 - Main Notes/Bible Verse Logs.md",
-    "6 - Main Notes/Dgroup Session Logs.md",
-    "6 - Main Notes/Devotionals for my Dgroup.md",
-    "6 - Main Notes/Personal Sleep Tracking.md",
-    "6 - Main Notes/Becoming a TOP Success Story.md",
-    "6 - Main Notes/Special Event Date Ideas.md",
-    "6 - Main Notes/HTML Cheat Sheet.md",
-    "6 - Main Notes/Terminal Commands.md",
-    "6 - Main Notes/AI Prompts.md",
-    "3 - Tags/Eli.md",
+    "6 - Main Notes/Autobiographies of People I Want to Read.md",
     "6 - Main Notes/Current Overall Priorities.md",
-    "6 - Main Notes/Dgroup Flow.md",
-    "6 - Main Notes/Untitled 6.md",
-    "6 - Main Notes/Untitled 5.md",
-    "6 - Main Notes/Untitled 4.md",
-    "6 - Main Notes/My Commonplace Book.md",
+    "6 - Main Notes/Live Your Purpose, Go Beyond - Sunday Series.md",
+    "6 - Main Notes/Terminal Commands.md",
+    "6 - Main Notes/Intercede July 4.md",
+    "6 - Main Notes/About Sleep.md",
     "6 - Main Notes/Generally Useful Links.md",
-    "6 - Main Notes/Linewise Data Annotation Notes.md",
+    "6 - Main Notes/Great Articles.md",
+    "1 - Rough Notes/Sleep is Important.md",
+    "6 - Main Notes/Devotionals for my Dgroup.md",
+    "6 - Main Notes/Dgroup Flow.md",
+    "6 - Main Notes/My Commonplace Book.md",
+    "6 - Main Notes/Things About Her.md",
+    "3 - Tags/Eli.md",
+    "5 - Template/Sleep Tracker Template.md",
+    "6 - Main Notes/Prayer and Fasting.md",
+    "6 - Main Notes/Special Event Date Ideas.md",
     "Media/Pasted image 20260625012806.png",
     "Media/Pasted image 20260625011809.png",
     "Media/Pasted image 20260625011744.png",
     "Media/Screenshot from 2026-06-25 01-03-23.png",
     "Media/Screenshot from 2026-06-25 00-58-07.png",
-    "6 - Main Notes/Genuine Faith, Living Wisely to the Book of James.md",
-    "6 - Main Notes/Psalms.md",
-    "6 - Main Notes/Personal Weight Gain Guide.md",
-    "3 - Tags/Church-Service.md",
-    "1 - Rough Notes/Sunday Services.md",
-    "6 - Main Notes/Eye Witness - Lessons From People Who Saw Jesus Suffer.md",
     "Media/Pasted image 20260617203803.png",
     "Media/Pasted image 20260523131102.png",
     "Media/Pasted image 20260523110103.png",

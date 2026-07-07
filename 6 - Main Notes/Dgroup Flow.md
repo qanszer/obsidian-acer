@@ -32,7 +32,10 @@ You can also go drink water or go to the CR anytime.
 ---
 ## 03 - Accountability
 
-Ask: How did you do with the goal we set last week?
+Follow up on these from last week:
+- action points
+- answered prayer requests
+- events
 
 After someone answers, give your thoughts/advice, then ask if the others have something to say as well.
 

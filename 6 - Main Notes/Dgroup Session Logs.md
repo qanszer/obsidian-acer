@@ -36,7 +36,6 @@ Eze
 - feels spiritually dry, and hates that fact; that's why he tries his best to attend the dgroup and elevate service
 
 JM
-- tindahan sa bicol, palengke (damit, school supplies)
 - 
 
 Khyle
@@ -101,5 +100,35 @@ Khyle
 - kapatid lagi nakikipag away
 - doubt for the future
 
-Eze
+
+---
+
+#### July 4
+
+Things to keep in mind about them
+
+**Eze**
 - 
+
+**JM**
+- suggestion: devo about time management 
+- workout
+	- bulgarian split squat
+	- squat
+	- romanian deadlift
+	- calf raise
+- prefers factual books like encyclopedias
+- really likes being asked questions
+
+**Khyle**
+- find cheap thinkpad for his college
+- ask follow up sa kapatid abt barley
+- 
+
+
+**Unanswered Questions**
+- 
+
+**Answered Questions**
+- 
+

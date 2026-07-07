@@ -12,14 +12,5 @@ Marcus Aurelius
 Church Colson
 C.S. Lewis
 Alfred Adler
-
-
-
-
-
-
-
-
----
-
-# References
+Hudson Taylor
+William Carey

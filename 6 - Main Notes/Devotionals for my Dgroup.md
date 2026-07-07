@@ -179,7 +179,7 @@ The process is painful. But the Potter is good.
 
 i'm sure lahat kayo naka experience ng ganto. Sumabog kayo dahil lang sa maliit na bagay, kasi yun yung naging tipping point ng bottled up stress niyo.
 
-Nangyayari satin yan. May frustration tayo na gusto sabihin pero di nalang sinasabi. Silent grudges, mga ganyang bagay. Iniisip natin na tama yung pagkeep silent natin kasi in the end, di tayo nag-sin dahil sa pagcontrol sa anger natin.
+Nangyayari satin yan. May frustration tayo na gusto sabihin pero di nalang sinasabi. Silent grudges, mga ganyang bagay. Iniisip natin na tama yung pagkeep silent natin kasi in the end, di tayo nag-sin kasi nacontrol natin yung galit natin.
 
 Actually, na address yan sa Bible, specifically in **Ecclesiastes 7:9 (ESV)**
 
@@ -220,15 +220,29 @@ Handle it today. A conversation you dread for five minutes is better than a grud
 
 "Jesus knew everything you've ever done wrong. Every sin. Every time you let him down. And he doesn't hold a single grudge against you. Not one.
 
-If the God of the universe operates from grace toward you — what's your excuse for storing up anger against someone else?
+```
+Psalm 103:8–13 ESV
+8 The LORD is merciful and gracious,  
+   slow to anger and abounding in steadfast love.  
+9 He will not always chide,  
+   nor will he keep his anger forever.  
+10 He does not deal with us according to our sins,  
+   nor repay us according to our iniquities.  
+11 For as high as the heavens are above the earth,  
+   so great is his steadfast love toward those who fear him;  
+12 as far as the east is from the west,  
+   so far does he remove our transgressions from us.  
+13 As a father shows compassion to his children,  
+   so the LORD shows compassion to those who fear him.
+```
 
-You're not carrying anger because you're a bad person. You're carrying it because you're human. But you don't have to stay there. The fruits of the Spirit — patience, self-control — aren't things you have to ask for more of. They're already inside you if Christ is in you. You just have to reach for them.
+If the God of the universe always forgives us for all the wrong we've done — what is our excuse for storing up anger against someone else?
 
-This week, the moment you feel that anger rise — reach to the fruits of the Spirit that God put inside you."
+But again, you're not carrying anger because you're a bad person. You're carrying it because you're human. But you don't have to stay there. The fruits of the Spirit — patience, self-control — aren't things you have to ask for more of. They're already inside you if Christ is in you. You just have to reach for them.
+
+This week, the moment you feel that anger rise — reach to the fruits of the Spirit that God put inside you. Love, patience, and self-control. And then communicate your side humbly.
 
 So again, if you have an issue with a brother or sister, handle it before the sun goes down just like what King Solomon said in Ecclesiastes.
-
-James 19
 
 
 **Discussion**: what stuck to you the most or what do you remember about the devotional and why?
