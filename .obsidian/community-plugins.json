@@ -5,5 +5,6 @@
   "calendar",
   "select-current-line",
   "md-cal-gen",
-  "cycle-through-panes"
+  "cycle-through-panes",
+  "remotely-save"
 ]

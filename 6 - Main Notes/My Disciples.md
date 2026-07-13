@@ -27,6 +27,7 @@ Tags: [[Christianity]]
 **BACKGROUND**
 - Highly capable and competent student. He knows and has time management, but says he always fails in following it like me
 - Was educated well during childhood by his older brothers(?) which made him lazy because he was ahead in class. He got serious in education when he had to maintain a scholarship during highschool
+- He lost his mother at grade 7
 
 **PERSONALITY**
 - Talks alot and for a long time on topics he is interested in, like:
@@ -39,6 +40,7 @@ Tags: [[Christianity]]
 **LIKES**
 - Glowed up in looks. He likes looksmaxxing
 - Plays alot of PC games and some mobile games
+- Subjects like biology, economics, 
 
 **DISLIKES**
 - 
@@ -47,12 +49,12 @@ Tags: [[Christianity]]
 - Interested in linux
 - Has doubts and anxiety for what the future holds for him
 
-
 ### Prayer Requests
 
 - Currently feels spiritually dry. That's why he attends CCF Elevate even when busy
-- Capstone defense that may take place on Saturday July 11
-
+- Successful capstone defense
+- Injured foot from his most painful tripping experience
+- Successful dance performance
 
 ### Current Life Events
 
@@ -74,7 +76,7 @@ Tags: [[Christianity]]
 6. Occupation: Full time student
 7. Date Joined: May 2026
 8. Attended CCF Events/Milestones:
-	- N/A
+	- Ongoing GLC 1
 
 ### About Him
 
@@ -111,8 +113,8 @@ Tags: [[Christianity]]
 ### Prayer Requests
 
 - Lola's health to improve
-- Wisdom for the summative tests
-
+- Wisdom for the summative tests (ANSWERED)
+	- Only 1 test got a failing mark; everything else was passed
 
 ### Current Life Events
 
@@ -136,13 +138,13 @@ Tags: [[Christianity]]
 6. Occupation: Full time student
 7. Date Joined: May 2026
 8. Attended CCF Events/Milestones:
-	- N/A
+	- Ongoing GLC 1
 
 ### About Him
 
 **BACKGROUND**
 - The street he lives in is all relatives. They all live in the area so it's always lively and noisy there. He does not come from a Christian family but his parents are open to him attending our church
-- He is the eldest among his siblings. So they have expectations on him as the eldest
+- He is the elder one between his one younger sibling who's only 1 year younger. So his parents have expectations on him as the eldest
 - Almost had his left eye blind if not for God's intervention on still having a doctor present when the doctor was about to leave
 
 **PERSONALITY**
@@ -159,20 +161,25 @@ Tags: [[Christianity]]
 - His younger sister has asthma
 - His friends are the type to always go out
 - Great at mobile legendsl; immortal rank
-
+- medj mataas blood pressure
 
 ### Prayer Requests
 
-- Healing for his younger sister's asthma
+- Healing for his younger sister's asthma (ANSWERED)
+	- Her asthma has subsided because of proper precautions
 - Fix his father's gambling problem
 - Divine intervention between the relationship of his parents due to his father's gambling
-- Be accepted to his applied colleges (**Answered Prayer**)
+- Be accepted to his applied colleges (ANSWERED)
+	- Accepted to 3 out of the 3 colleges he applied to in total
 - Find a part time job to start earning for himself while in college
-- Find and buy a cheap laptop for college
-- Successful medical checkup for college requirement
+- Find and buy a cheap laptop for college (ANSWERED)
+	- He will be buying his tito's computer for a cheap price
+- Successful medical checkup for college requirement (ANSWERED)
+	- Done and he is now enrolled; altho it cost 800 pesos
 - Proper delegation of household chores to lessen burden
 - Recognition of his effort on household chores
-- Bad mood of his sibling to be fixed for less arguments
+- Bad mood of his sibling to be fixed for less arguments (ANSWERED)
+	- It has lessened now
 - Remove his doubts for the future
 
 ### Current Life Events

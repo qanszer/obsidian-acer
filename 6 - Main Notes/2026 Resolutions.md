@@ -1,7 +1,7 @@
 
 2026-01-10  18:29
 
-Tags: [[Reflection]] [[Productivity]]
+Tags: [[Reflection]], [[Productivity]]
 
 ---
 
@@ -24,11 +24,6 @@ Tags: [[Reflection]] [[Productivity]]
 ### Calling
 
 1. Discipleship: Actively disciple at least 3 individuals by meeting with them weekly for Bible study and mentorship throughout 2026, completing at least 20 sessions per person by year-end.
-2. Academics: Achieve a target GPA of [specify your target] for 2026 by attending all classes, submitting assignments on time, and dedicating [X hours] per week to focused study.
-
-
-
-
 
 
 

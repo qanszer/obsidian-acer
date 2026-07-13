@@ -6,7 +6,7 @@ Tags: [[Collection]]
 ---
 # Great Articles
 
-A list of articles I enjoyed reading and had great takeaways.
+A list of articles or posts I enjoyed reading and had great takeaways.
 
 ### Peak Experiences: A Definitive Guide with Insights from Maslow & Others
 https://scottjeffrey.com/maslow-peak-experience/#What_is_a_Peak_Experience
@@ -29,3 +29,5 @@ https://petergray.substack.com/p/57-the-good-enough-parent-is-the
 ### The Toxic Consequences of Attending a High Achieving School
 https://petergray.substack.com/p/43-the-toxic-consequences-of-attending
 
+### If Solomon was the wisest man, how did he end up making foolish decisions?
+https://www.facebook.com/share/p/1EDMTQcrUL/

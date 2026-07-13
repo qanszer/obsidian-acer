@@ -8,7 +8,7 @@ Tags: [[Devotional]], [[Christianity]]
 
 ## 01 - Catching up / Icebreakers
 
-You can also go drink water or go to the CR anytime.
+You can go drink water or go to the CR anytime.
 
 Grace period of 10 minutes for everyone to arrive. In the meantime, have a **general talk** with the arrived disciples **according to their interests**.
 

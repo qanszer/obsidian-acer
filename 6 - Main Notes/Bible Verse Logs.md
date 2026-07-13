@@ -17,7 +17,7 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
 
 ### Chapter 103
 
-**Psalm 103:8–13**
+**Psalm 103:8–13 ESV**
 **8**The LORD is merciful and gracious,  
    slow to anger and abounding in steadfast love.  
 **9**He will not always chide,  
@@ -30,6 +30,59 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
    so far does he remove our transgressions from us.  
 **13**As a father shows compassion to his children,  
    so the LORD shows compassion to those who fear him.
+
+
+---
+
+## Proverbs
+
+**Proverbs 1:1-6 ESV**
+**1** The proverbs of Solomon, son of David, king of Israel:
+**2**To know wisdom and instruction,  
+   to understand words of insight,  
+**3**to receive instruction in wise dealing,  
+   in righteousness, justice, and equity;  
+**4**to give prudence to the simple,  
+   knowledge and discretion to the youth—  
+**5**Let the wise hear and increase in learning,  
+   and the one who understands obtain guidance,  
+**6**to understand a proverb and a saying,
+   the words of the wise and their riddles.
+
+**Proverbs 1:7**
+**7**The fear of the LORD is the beginning of knowledge;  
+   fools despise wisdom and instruction.
+
+**Proverbs 1:8-9**
+**8**Hear, my son, your father's instruction,  
+   and forsake not your mother's teaching,  
+**9**for they are a graceful garland for your head  
+   and pendants for your neck.
+
+**Proverbs 1:10, 18-19**
+**10**My son, if sinners entice you,  
+   do not consent.
+**18**but these men lie in wait for their own blood;  
+   they set an ambush for their own lives.  
+**19**Such are the ways of everyone who is greedy for unjust gain;  
+   it takes away the life of its possessors.
+
+**Proverbs 1:27-31**
+**27**when terror strikes you like a storm  
+   and your calamity comes like a whirlwind,  
+   when distress and anguish come upon you.  
+**28**Then they will call upon me, but I will not answer;  
+   they will seek me diligently but will not find me.  
+**29**Because they hated knowledge  
+   and did not choose the fear of the LORD,  
+**30**would have none of my counsel  
+   and despised all my reproof,  
+**31**therefore they shall eat the fruit of their way,  
+   and have their fill of their own devices.
+
+**Proverbs 1:33**
+**33**but whoever listens to me will dwell secure  
+   and will be at ease, without dread of disaster.”
    
 
 ---
@@ -454,7 +507,7 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
 [23] Then He said to them all, “If anyone desires to come after Me, let him deny himself, and take up his cross daily, and follow Me.  
 
 **Luke 9:24-25 NKJV**
-[24] For whoever desires to save his life will lose it, but whoever loses his life for My sake will save it.  [25] For what profit is it to a man if he gains the whole world, and is himself destroyed or lost?  
+[24] For whoever desires to save his life will lose it, but whoever loses his life for My sake will save it. [25] For what profit is it to a man if he gains the whole world, and is himself destroyed or lost?  
 
 ### Chapter 11
 

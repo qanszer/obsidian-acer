@@ -55,3 +55,27 @@ Jonah's Journey
 - Chapter 4 - God wanted to change Jonah's heart
 
 "Should I not have compassion...?"
+
+
+---
+
+### Sharing The Gospel
+July 20
+
+**01 - Look for Opportunities**
+
+- People are usually more open when they are in their times of waiting, trials, 
+- Look for opportunities even when it is inconvenient, tiring, and awkward
+
+**02 - Initiate Meaningful Conversations**
+
+- Initiate in a humble manner
+- Embody kindness to them
+- In sharing the Gospel, it is better to be unqualified. Because when it does work, you can say for sure that it was not by your own power, but by God's
+
+**03 - Keep Reaching Out**
+
+- Some people, it takes time for them to understand
+
+**04 - Empower Them to Do the Same**
+

@@ -127,8 +127,9 @@ Things to keep in mind about them
 
 
 **Unanswered Questions**
-- 
+- Why do INC believe that Jesus is not God
 
 **Answered Questions**
 - 
+
 

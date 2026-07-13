@@ -8,35 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6148f9b918b87221",
+            "id": "0268cfac18c8b683",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Personal Weight Gain Guide.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Personal Weight Gain Guide"
-            }
-          },
-          {
-            "id": "21120e14e9b960ac",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Becoming a TOP Success Story.md",
+                "file": "6 - Main Notes/Victories and Prayer Requests.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Becoming a TOP Success Story"
+              "title": "Victories and Prayer Requests"
+            }
+          },
+          {
+            "id": "f0299c390fe557bd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Bible Verse Logs.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Bible Verse Logs"
             }
           },
           {
@@ -145,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "right": {
     "id": "6de475dd2b4c5e52",
@@ -253,37 +254,38 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-file-cleaner:Clean files": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "3074961f8e97c9b6",
   "lastOpenFiles": [
-    "6 - Main Notes/AI Prompts.md",
-    "5 - Template/Disciple Template.md",
-    "6 - Main Notes/Dgroup Session Logs.md",
-    "6 - Main Notes/My Disciples.md",
-    "6 - Main Notes/Becoming a TOP Success Story.md",
-    "6 - Main Notes/Personal Weight Gain Guide.md",
-    "6 - Main Notes/Personal Sleep Tracking.md",
-    "1 - Rough Notes/Quick Note.md",
     "6 - Main Notes/Bible Verse Logs.md",
-    "6 - Main Notes/Autobiographies of People I Want to Read.md",
-    "6 - Main Notes/Current Overall Priorities.md",
+    "6 - Main Notes/Personal Sleep Tracking.md",
+    "6 - Main Notes/Great Articles.md",
+    "6 - Main Notes/Victories and Prayer Requests.md",
+    "5 - Template/Sleep Tracker Template.md",
+    "6 - Main Notes/JavaScript Cheat Sheet.md",
+    "6 - Main Notes/Website Inspo Links.md",
+    "6 - Main Notes/My Disciples.md",
     "6 - Main Notes/Live Your Purpose, Go Beyond - Sunday Series.md",
     "6 - Main Notes/Terminal Commands.md",
+    "5 - Template/Disciple Template.md",
+    "6 - Main Notes/Created Devotionals.md",
+    "6 - Main Notes/Dgroup Flow.md",
+    "6 - Main Notes/Dgroup Session Logs.md",
+    "6 - Main Notes/AI Prompts.md",
+    "6 - Main Notes/Discipline.md",
+    "6 - Main Notes/2026 Resolutions.md",
+    "6 - Main Notes/About Me For Claude.md",
+    "6 - Main Notes/Personal Weight Gain Guide.md",
+    "6 - Main Notes/Becoming a TOP Success Story.md",
+    "1 - Rough Notes/Quick Note.md",
+    "6 - Main Notes/Autobiographies of People I Want to Read.md",
+    "6 - Main Notes/Current Overall Priorities.md",
     "6 - Main Notes/Intercede July 4.md",
     "6 - Main Notes/About Sleep.md",
     "6 - Main Notes/Generally Useful Links.md",
-    "6 - Main Notes/Great Articles.md",
-    "1 - Rough Notes/Sleep is Important.md",
-    "6 - Main Notes/Devotionals for my Dgroup.md",
-    "6 - Main Notes/Dgroup Flow.md",
-    "6 - Main Notes/My Commonplace Book.md",
-    "6 - Main Notes/Things About Her.md",
-    "3 - Tags/Eli.md",
-    "5 - Template/Sleep Tracker Template.md",
-    "6 - Main Notes/Prayer and Fasting.md",
-    "6 - Main Notes/Special Event Date Ideas.md",
     "Media/Pasted image 20260625012806.png",
     "Media/Pasted image 20260625011809.png",
     "Media/Pasted image 20260625011744.png",

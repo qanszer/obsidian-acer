@@ -30,11 +30,9 @@
 **OTHER INFO**
 - 
 
-
 ### Prayer Requests
 
 - 
-
 
 ### Current Life Events
 

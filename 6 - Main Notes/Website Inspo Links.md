@@ -62,6 +62,8 @@ https://iventions.com/
 **Kanopy**
 https://www.kanopy.com/en
 
+**Obsidian**
+https://obsidian.md/
 
 ## Construction Inspos (DT Project)
 
