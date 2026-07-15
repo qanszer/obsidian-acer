@@ -31,3 +31,7 @@ https://petergray.substack.com/p/43-the-toxic-consequences-of-attending
 
 ### If Solomon was the wisest man, how did he end up making foolish decisions?
 https://www.facebook.com/share/p/1EDMTQcrUL/
+
+### How to Break a Bad Habit
+https://www.lifehack.org/991143/a-simple-way-to-break-a-bad-habit
+

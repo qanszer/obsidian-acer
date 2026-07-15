@@ -23,6 +23,25 @@ These are verses that God wants us to follow. Instructions and warnings from God
 **19**Such are the ways of everyone who is greedy for unjust gain;  
    it takes away the life of its possessors.
 
+**Proverbs 1:27-31**
+**27**when terror strikes you like a storm  
+   and your calamity comes like a whirlwind,  
+   when distress and anguish come upon you.  
+**28**Then they will call upon me, but I will not answer;  
+   they will seek me diligently but will not find me.  
+**29**Because they hated knowledge  
+   and did not choose the fear of the LORD,  
+**30**would have none of my counsel  
+   and despised all my reproof,  
+**31**therefore they shall eat the fruit of their way,  
+   and have their fill of their own devices.
+
+**Proverbs 2:20-21**
+**20**So you will walk in the way of the good  
+   and keep to the paths of the righteous.  
+**21**For the upright will inhabit the land,  
+   and those with integrity will remain in it
+
 
 
 

@@ -3,15 +3,11 @@ after defense, go immediately downstairs and get your desired technical advisor 
 
 right now, isip na agad ng magiging team for capstone 1
 
-- 🟨 **Yellow:** **God's Character** (Attributes, names of God, and His nature)
-
-- 🟩 **Green:** **Jesus, Gospel, & Prophecy** (Verses about salvation, grace, and Christ)
-
-- 🟦 **Blue:** **Commands & Wisdom** (Instructions to follow, warnings, and life lessons)
-
-- 🟧 **Orange:** **Promises** (Verses of encouragement, hope, and God's faithfulness)
-
-- 🟪 **Purple:** **Prayers & Praise** (Personal takeaways, expressions of worship, and petitions)
+- Commands of God - These are verses that God wants us to follow. Instructions and warnings from God.
+- Character of God - These are verses that explain God's attributes and His nature.
+- Promises of God - These are verses of God's faithfulness and hope for us.
+- Salvation of God - These verses are all about Jesus, the Gospel, and His grace for us.
+- Wisdom from God - These are verses of my personal takeaways and life lessons from the Bible.
 
 
 jan 6 - enjoy the reward

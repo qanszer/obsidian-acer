@@ -8,6 +8,20 @@ Tags: [[Christianity]], [[Collection]]
 
 This is a collection of my bookmarked verses for each chapter of the Bible.
 
+## Verse Categorization
+
+1. [[Character of God]]
+2. [[Commands of God]]
+3. [[Promises of God]]
+4. [[Salvation of God]]
+5. [[Wisdom from God]]
+
+### Done Categorizing So Far
+
+1. Psalms 103
+2. Proverbs 1-2
+
+
 ---
 # Old Testament
 
@@ -84,7 +98,7 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
 
 **Proverbs 1:33**
 **33**but whoever listens to me will dwell secure  
-   and will be at ease, without dread of disaster.”
+   and will be at ease, without dread of disaster.
 
 ### Chapter 2
 
@@ -115,9 +129,10 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
    and knowledge will be pleasant to your soul;  
 **11**discretion will watch over you,  
    understanding will guard you,  
-**12**delivering you from the way of evil,
+**12**delivering you from the way of evil
 
-**Proverbs 2:12b-15**
+**Proverbs 2:12-15**
+**12**delivering you from the way of evil
    from men of perverted speech,  
 **13**who forsake the paths of uprightness  
    to walk in the ways of darkness,  
@@ -1615,4 +1630,4 @@ Acts of the Apostles 18:9-10 NLT
 ---
 ## Reference
 
-Bible
+The Bible
