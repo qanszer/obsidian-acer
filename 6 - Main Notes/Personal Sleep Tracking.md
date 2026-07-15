@@ -72,7 +72,7 @@ I just want to know my sleeping time and waking hours concretely.
 | 9    | 12:30am - 9:30am | 9h             | N/A | 30m       |
 | 10   | 12:30am - 9:50am | 9h 20m         | N/A | 0         |
 | 11   | 4:30am - 12:50pm | 8h 20m         | N/A | 4h        |
-| 12   |                  |                |     |           |
-| 13   |                  |                |     |           |
+| 12   | 1:00am - 6:10am  | 5h 10m         | 4h  | 3h 30m    |
+| 13   | 2:20am - 10:50am | 8h 30m         | N/A | 1h 20m    |
 | 14   |                  |                |     |           |
 

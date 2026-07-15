@@ -36,6 +36,8 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
 
 ## Proverbs
 
+### Chapter 1
+
 **Proverbs 1:1-6 ESV**
 **1** The proverbs of Solomon, son of David, king of Israel:
 **2**To know wisdom and instruction,  
@@ -83,7 +85,138 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
 **Proverbs 1:33**
 **33**but whoever listens to me will dwell secure  
    and will be at ease, without dread of disaster.”
-   
+
+### Chapter 2
+
+**Proverbs 2:1-5**
+**1** My son, if you receive my words  
+   and treasure up my commandments with you,  
+**2**making your ear attentive to wisdom  
+   and inclining your heart to understanding;  
+**3**yes, if you call out for insight  
+   and raise your voice for understanding,  
+**4**if you seek it like silver  
+   and search for it as for hidden treasures,  
+**5**then you will understand the fear of the LORD  
+   and find the knowledge of God.
+
+**Proverbs 2:6-8**
+**6**For the LORD gives wisdom;  
+   from his mouth come knowledge and understanding;  
+**7**he stores up sound wisdom for the upright;  
+   he is a shield to those who walk in integrity,  
+**8**guarding the paths of justice  
+   and watching over the way of his saints.
+
+**Proverbs 2:9-12a**
+**9**Then you will understand righteousness and justice  
+   and equity, every good path;  
+**10**for wisdom will come into your heart,  
+   and knowledge will be pleasant to your soul;  
+**11**discretion will watch over you,  
+   understanding will guard you,  
+**12**delivering you from the way of evil,
+
+**Proverbs 2:12b-15**
+   from men of perverted speech,  
+**13**who forsake the paths of uprightness  
+   to walk in the ways of darkness,  
+**14**who rejoice in doing evil  
+   and delight in the perverseness of evil,  
+**15**men whose paths are crooked,  
+   and who are devious in their ways.
+
+**Proverbs 2:20-21**
+**20**So you will walk in the way of the good  
+   and keep to the paths of the righteous.  
+**21**For the upright will inhabit the land,  
+   and those with integrity will remain in it
+
+### Chapter 3
+
+**Proverbs 3:1-2**
+**1** My son, do not forget my teaching,  
+   but let your heart keep my commandments,  
+**2**for length of days and years of life  
+   and peace they will add to you.
+
+**Proverbs 3:3-4**
+**3**Let not steadfast love and faithfulness forsake you;  
+   bind them around your neck;  
+   write them on the tablet of your heart.  
+**4**So you will find favor and good success 
+   in the sight of God and man.
+
+**Proverbs 3:5-6**
+**5**Trust in the LORD with all your heart,  
+   and do not lean on your own understanding.  
+**6**In all your ways acknowledge him,  
+   and he will make straight your paths.
+
+**Proverbs 3:7-8**
+**7**Be not wise in your own eyes;  
+   fear the LORD, and turn away from evil.  
+**8**It will be healing to your flesh  
+   and refreshment to your bones.
+
+**Proverbs 3:9-10**
+**9**Honor the LORD with your wealth  
+   and with the firstfruits of all your produce;  
+**10**then your barns will be filled with plenty,  
+   and your vats will be bursting with wine.
+
+**Proverbs 3:11-12**
+**11**My son, do not despise the LORD's discipline  
+   or be weary of his reproof,  
+**12**for the LORD reproves him whom he loves,  
+   as a father the son in whom he delights.
+
+**Proverbs 3:13-18**
+**13**Blessed is the one who finds wisdom,  
+   and the one who gets understanding,  
+**14**for the gain from her is better than gain from silver  
+   and her profit better than gold.  
+**15**She is more precious than jewels,  
+   and nothing you desire can compare with her.  
+**16**Long life is in her right hand;  
+   in her left hand are riches and honor.  
+**17**Her ways are ways of pleasantness,  
+   and all her paths are peace.  
+**18**She is a tree of life to those who lay hold of her;  
+   those who hold her fast are called blessed.
+
+**Proverbs 3:21-23**
+**21**My son, do not lose sight of these—  
+   keep sound wisdom and discretion,  
+**22**and they will be life for your soul  
+   and adornment for your neck.  
+**23**Then you will walk on your way securely,  
+   and your foot will not stumble.
+
+**Proverbs 3:25-26**
+**25**Do not be afraid of sudden terror  
+   or of the ruin of the wicked, when it comes,  
+**26**for the LORD will be your confidence  
+   and will keep your foot from being caught.
+
+**Proverbs 3:27**
+**27**Do not withhold good from those to whom it is due,
+   when it is in your power to do it.
+
+**Proverbs 3:29**
+**29**Do not plan evil against your neighbor,  
+   who dwells trustingly beside you.
+
+**Proverbs 3:30**
+**30**Do not contend with a man for no reason,  
+   when he has done you no harm.
+
+**Proverbs 3:31-32**
+**31**Do not envy a man of violence  
+   and do not choose any of his ways,  
+**32**for the devious person is an abomination to the LORD,  
+   but the upright are in his confidence.
+
 
 ---
 
@@ -459,10 +592,60 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
 **Matthew 8:26 NLT**
 [26] Jesus responded, “Why are you afraid? You have so little faith!” Then he got up and rebuked the wind and waves, and suddenly there was a great calm.
 
+### Chapter 9
+
+**Matthew 9:2-6a**
+**2**And when Jesus saw their faith, he said to the paralytic, “Take heart, my son; your sins are forgiven.” **3**And behold, some of the scribes said to themselves, “This man is blaspheming.” **4**But Jesus, knowing[[34]](#f40-34 "Some manuscripts 'perceiving'") their thoughts, said, “Why do you think evil in your hearts? **5**For which is easier, to say, ‘Your sins are forgiven,’ or to say, ‘Rise and walk’? **6**But that you may know that the Son of Man has authority on earth to forgive sins”
+
+**Matthew 9:6b-7**
+he then said to the paralytic—“Rise, pick up your bed and go home.” **7**And he rose and went home.
+
+**Matthew 9:10-12**
+**10**And as Jesus[[35]](#f40-35 "Greek 'he'") reclined at table in the house, behold, many tax collectors and sinners came and were reclining with Jesus and his disciples. **11**And when the Pharisees saw this, they said to his disciples, “Why does your teacher eat with tax collectors and sinners?” **12**But when he heard it, he said, “Those who are well have no need of a physician, but those who are sick.
+
+**Matthew 9:13b**
+For I came not to call the righteous, but sinners.
+
+**Matthew 9:36**
+**36**When he saw the crowds, he had compassion for them, because they were harassed and helpless, like sheep without a shepherd.
+
+**Matthew 9:37-38**
+**37**Then he said to his disciples, “The harvest is plentiful, but the laborers are few; **38**therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”
+
+### Chapter 10
+
+**Matthew 10:2-4**
+**2**The names of the twelve apostles are these: first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother; **3**Philip and Bartholomew; Thomas and Matthew the tax collector; James the son of Alphaeus, and Thaddaeus; **4**Simon the Cananaean, and Judas Iscariot, who betrayed him.
+
+**Matthew 10:11-15**
+**11**And whatever town or village you enter, find out who is worthy in it and stay there until you depart. **12**As you enter the house, greet it. **13**And if the house is worthy, let your peace come upon it, but if it is not worthy, let your peace return to you. **14**And if anyone will not receive you or listen to your words, shake off the dust from your feet when you leave that house or town. **15**Truly, I say to you, it will be more bearable on the day of judgment for the land of Sodom and Gomorrah than for that town.
+
+**Matthew 10:16-20**
+**16**“Behold, I am sending you out as sheep in the midst of wolves, so be wise as serpents and innocent as doves. **17**Beware of men, for they will deliver you over to courts and flog you in their synagogues, **18**and you will be dragged before governors and kings for my sake, to bear witness before them and the Gentiles. **19**When they deliver you over, do not be anxious how you are to speak or what you are to say, for what you are to say will be given to you in that hour. **20**For it is not you who speak, but the Spirit of your Father speaking through you.
+
+**Matthew 10:22-23**
+**22**and you will be hated by all for my name's sake. But the one who endures to the end will be saved. **23**When they persecute you in one town, flee to the next, for truly, I say to you, you will not have gone through all the towns of Israel before the Son of Man comes.
+
+**Matthew 10:24-25**
+**24**“A disciple is not above his teacher, nor a servant above his master. **25**It is enough for the disciple to be like his teacher, and the servant like his master.
+
+**Matthew 10:26-28**
+**26**“So have no fear of them, for nothing is covered that will not be revealed, or hidden that will not be known. **27**What I tell you in the dark, say in the light, and what you hear whispered, proclaim on the housetops. **28**And do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell.
+
+**Matthew 10:30-33**
+**30**But even the hairs of your head are all numbered. **31**Fear not, therefore; you are of more value than many sparrows. **32**So everyone who acknowledges me before men, I also will acknowledge before my Father who is in heaven, **33**but whoever denies me before men, I also will deny before my Father who is in heaven.
+
+**Matthew 10:34-39**
+**34**“Do not think that I have come to bring peace to the earth. I have not come to bring peace, but a sword. **35**For I have come to set a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law. **36**And a person's enemies will be those of his own household. **37**Whoever loves father or mother more than me is not worthy of me, and whoever loves son or daughter more than me is not worthy of me. **38**And whoever does not take his cross and follow me is not worthy of me. **39**Whoever finds his life will lose it, and whoever loses his life for my sake will find it.
+
+**Matthew 10:40-42**
+**40**“Whoever receives you receives me, and whoever receives me receives him who sent me. **41**The one who receives a prophet because he is a prophet will receive a prophet's reward, and the one who receives a righteous person because he is a righteous person will receive a righteous person's reward. **42**And whoever gives one of these little ones even a cup of cold water because he is a disciple, truly, I say to you, he will by no means lose his reward.”
+
 ### Chapter 11
 
 **Matthew 11:28-30 NLT**
 [28] Then Jesus said, “Come to me, all of you who are weary and carry heavy burdens, and I will give you rest. [29] Take my yoke upon you. Let me teach you, because I am humble and gentle at heart, and you will find rest for your souls. [30] For my yoke is easy to bear, and the burden I give you is light.”
+
 
 
 ---

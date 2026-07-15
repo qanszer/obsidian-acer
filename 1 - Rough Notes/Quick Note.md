@@ -3,7 +3,15 @@ after defense, go immediately downstairs and get your desired technical advisor 
 
 right now, isip na agad ng magiging team for capstone 1
 
+- 🟨 **Yellow:** **God's Character** (Attributes, names of God, and His nature)
 
+- 🟩 **Green:** **Jesus, Gospel, & Prophecy** (Verses about salvation, grace, and Christ)
+
+- 🟦 **Blue:** **Commands & Wisdom** (Instructions to follow, warnings, and life lessons)
+
+- 🟧 **Orange:** **Promises** (Verses of encouragement, hope, and God's faithfulness)
+
+- 🟪 **Purple:** **Prayers & Praise** (Personal takeaways, expressions of worship, and petitions)
 
 
 jan 6 - enjoy the reward
