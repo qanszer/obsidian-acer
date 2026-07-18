@@ -661,6 +661,19 @@ For I came not to call the righteous, but sinners.
 **Matthew 11:28-30 NLT**
 [28] Then Jesus said, “Come to me, all of you who are weary and carry heavy burdens, and I will give you rest. [29] Take my yoke upon you. Let me teach you, because I am humble and gentle at heart, and you will find rest for your souls. [30] For my yoke is easy to bear, and the burden I give you is light.”
 
+### Chapter 12
+
+**Matthew 12:7-8**
+**7**And if you had known what this means, ‘I desire mercy, and not sacrifice,’ you would not have condemned the guiltless. **8**For the Son of Man is lord of the Sabbath.”
+
+**Matthew 12:31-32**
+**31**Therefore I tell you, every sin and blasphemy will be forgiven people, but the blasphemy against the Spirit will not be forgiven. **32**And whoever speaks a word against the Son of Man will be forgiven, but whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come.
+
+**Matthew 12:34b**
+For out of the abundance of the heart the mouth speaks.
+
+**Matthew 12:35-37**
+**35**The good person out of his good treasure brings forth good, and the evil person out of his evil treasure brings forth evil. **36**I tell you, on the day of judgment people will give account for every careless word they speak, **37**for by your words you will be justified, and by your words you will be condemned.”
 
 
 ---

@@ -1994,11 +1994,11 @@ When you press a non-character key, the `keydown` event is fired first followe
 let msg = document.getElementById('#message');
 
 msg.addEventListener("keydown", (event) => {
-    // handle keydown
+    // handle keydown; recommended usage
 });
 
 msg.addEventListener("keypress", (event) => {
-    // handle keypress
+    // handle keypress; deprecated and should be avoided
 });
 
 msg.addEventListener("keyup", (event) => {
@@ -2012,6 +2012,14 @@ msg.addEventListener("keyup", (event) => {
 2. `code` - returns the physical key code
 
 For example, if you press the `z` character key, the `event.key` returns `z` and `event.code` returns `KeyZ`.
+
+#### Know the key pressed
+
+```js
+window.addEventListener('keydown', (event) => {
+	console.log("Key Name:", event.key);
+});
+```
 
 ## Event Delegation
 
