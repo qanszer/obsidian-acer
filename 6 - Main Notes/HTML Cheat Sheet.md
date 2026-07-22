@@ -3,9 +3,12 @@
 
 Tags: [[HTML]] [[Coding]] [[The Odin Project]]
 
+---
+
 # HTML Cheat Sheet
 
 https://htmlcheatsheet.com/
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements
 
 Standard template:
 Type "!"
@@ -86,6 +89,77 @@ The DOM is **not** the original HTML source code; it's the browser's in-memory o
 ## Add Icon on Tabs Section
 
 https://favicon.io/favicon-converter/
+
+
+---
+
+## SVG
+[More info](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-svg)
+
+SVGs are often used for:
+1. Icons
+2. Graphs/Charts
+3. Large, simple images
+4. Patterned backgrounds
+5. Applying effects to other elements via SVG filters
+
+Not used for:
+- If your image is supposed to be photo-realistic, or it has fine detail or texture (“[grunge textures](https://unsplash.com/s/photos/grunge-texture)” are a great example), then SVGs are the wrong tool for the job.
+
+**Anatomy of SVG**
+https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-svg#anatomy-of-an-svg
+
+### **Complete List of SVG Elements**
+https://developer.mozilla.org/en-US/docs/Web/SVG/Element
+
+Many SVG attributes, such as `fill` and `stroke`, can be changed in your CSS. Learn more in this [article on SVG properties and CSS](https://css-tricks.com/svg-properties-and-css/).
+
+
+### **2 Methods of Using SVGs**
+
+Linking SVGs works basically the same way as linking any other image. You can use an HTML image element such as `<img>`, or link it in your CSS using `background-image: url(./my-image.svg)`. They will still scale properly, but the contents of the SVG will not be accessible from the webpage.
+
+The alternative is to inline your SVGs by pasting their contents directly into your webpage’s code, rather than linking to it as an image. It will still render correctly, but the SVG’s properties will be visible to your code, which will allow you to alter the image dynamically via CSS or JavaScript.
+
+Inlining SVGs allows you to unlock their full potential, but it also comes with some serious drawbacks: it makes your code harder to read, makes your page less cacheable, and if it’s a large SVG it might delay the rest of your HTML from loading.
+
+Some of the drawbacks of inlining SVG code can be avoided once you’ve learned a front-end JavaScript library like React, or a build-tool like webpack.
+
+**Linking is generally cleaner and simpler, so prefer that unless you need to tweak the SVG code alongside your HTML.**
+
+
+### Guide to Tweaking SVGs
+[More info](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/#hello-svg-1)
+
+### Create Regular Polygons
+[More info](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/#hello-svg-1:~:text=To%20create%20regular%20polygons)
+
+### Proper SVG Formatting
+
+```html
+// proper
+<polygon
+  points="
+    60,100
+    100,180
+    140,140
+    180,180
+    220,100
+  "
+/>
+```
+
+```html
+// improper
+<polygon points="60 100 100 180 140 140 180 180 220 100" />
+```
+
+
+### Scalable Handmade SVGs
+[More info](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/#hello-svg-1:~:text=The%20viewBox%20attribute)
+
+
+
 
 
 ---

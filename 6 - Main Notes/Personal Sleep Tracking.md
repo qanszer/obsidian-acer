@@ -13,9 +13,9 @@ I just want to know my sleeping time and waking hours concretely.
 | Date | Time of Sleep    | Hours of Sleep | Afternoon Nap |
 | ---- | ---------------- | -------------- | ------------- |
 | 28   |                  |                |               |
-| 29   | 1:00am - 8:20am  | 7h 20m     | N/A           |
-| 30   | 12:00am - 9:00am | 9h           | 5m          |
-| 31   | 11:30pm - 9:50am | 10h 20m    | N/A           |
+| 29   | 1:00am - 8:20am  | 7h 20m         | N/A           |
+| 30   | 12:00am - 9:00am | 9h             | 5m            |
+| 31   | 11:30pm - 9:50am | 10h 20m        | N/A           |
 
 
 ## June 2026
@@ -79,10 +79,10 @@ I just want to know my sleeping time and waking hours concretely.
 | 16   | 3:00am - 10:30am | 7h 30m         | N/A | 40m       |
 | 17   | 1:00am - 6:30am  | 5h 30m         | N/A | 2h        |
 | 18   | 12:30am - 9:20am | 9h 10m         | N/A | 30m       |
-| 19   |                  |                |     |           |
-| 20   |                  |                |     |           |
-| 21   |                  |                |     |           |
-| 22   |                  |                |     |           |
+| 19   | 2:30am - 9:30am  | 7h             | N/A | 2h        |
+| 20   | 1:30am - 9:30am  | 8h             | N/A | 1h        |
+| 21   | 3:20am - 12:00pm | 8h 40m         | N/A | 1h 50m    |
+| 22   | 3:30am - 10:00am | 6h 30m         | N/A | 10m       |
 | 23   |                  |                |     |           |
 | 24   |                  |                |     |           |
 | 25   |                  |                |     |           |

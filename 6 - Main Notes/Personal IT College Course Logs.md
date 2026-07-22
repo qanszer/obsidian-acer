@@ -25,22 +25,22 @@ Tags: [[School]], [[Tracking]]
 
 - OOP
 - ADBMS
-- Net2
 - DT
 - Contemp
-- IAS1
 
 
 **2026-27  |  1st Sem**
 
 - Theo3 - Celebrating God's
-- Applications Devt
 - Tech Eng
+- Applications Devt
+- Information Assurance 1
+- Networking 2
 - Project Management
 - Track1 - Mobile Devt
-- System Admin
+- English Proficiency / Capstone 1
+
 - Total Quality
-- English Proficiency
 - *Code of Ethics*
 
 
@@ -48,11 +48,11 @@ Tags: [[School]], [[Tracking]]
 
 - Capstone1
 
+- System Admin
 - IAS2
 - Track 2 - Web Frameworks
 - Track 3 - Software Dev
 - Technopreneurship
-- *System Integration*
 - *IT issues*
 
 
@@ -60,7 +60,9 @@ Tags: [[School]], [[Tracking]]
 
 - Capstone2
 
+- *System Integration*
 - Track 4 - Software Quality
 - PC Repair
 - OJT
+
 

@@ -1,6 +1,10 @@
 {
-  "booksDirs": [],
-  "outputFolder": "Books",
+  "booksDirs": [
+    "/home/steven/.var/app/com.bilingify.readest/data/com.bilingify.readest/Readest/Books/",
+    "",
+    "/run/user/1000/doc/f683b295/Books"
+  ],
+  "outputFolder": "2 - Source Material/Books",
   "filenameTemplate": "{title}",
   "syncHeadingTemplate": "Highlights",
   "syncHeadingLevel": 2,

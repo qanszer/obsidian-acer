@@ -11,6 +11,4 @@ Tags: [[Tracking]]
 - Weights
 - Vinyl
 - Great mechanical keyboard
-
-
----
+- Skylight

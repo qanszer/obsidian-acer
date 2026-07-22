@@ -1,7 +1,7 @@
 
 2026-07-05  04:08 pm
 
-Tags: [[Sunday Services]], [[Christianity]]
+Tags: [[Sunday Services]], [[Christianity]], [[Church-Service]]
 
 ---
 # Live Your Purpose, Go Beyond - Sunday Series
@@ -60,7 +60,7 @@ Jonah's Journey
 ---
 
 ### Sharing The Gospel
-July 20
+July 12
 
 **01 - Look for Opportunities**
 
@@ -78,4 +78,16 @@ July 20
 - Some people, it takes time for them to understand
 
 **04 - Empower Them to Do the Same**
+
+
+---
+
+### Take a Bold Step of Faith
+July 19
+- We all need someone who believes in us. In our dreams and goals. A dgroup is important for that reason
+- Take a bold step of faith. When we take it, God always makes a way
+- God will always bless those who take bold steps
+
+
+---
 

@@ -233,6 +233,8 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
    but the upright are in his confidence.
 
 
+
+
 ---
 
 ## Ecclesiastes

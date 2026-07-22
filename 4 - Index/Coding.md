@@ -49,11 +49,3 @@
 1. [[Git Commands]]
 2. [[Git Commit Message]]
 
-
-
-
-
-
----
-
-## References

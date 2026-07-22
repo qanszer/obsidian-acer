@@ -10,8 +10,6 @@ These verses are all about Jesus, the Gospel, and His grace for us.
 
 
 
-
-
 ---
 # References
 

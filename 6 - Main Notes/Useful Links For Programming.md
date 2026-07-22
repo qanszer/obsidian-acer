@@ -58,6 +58,19 @@ For consistent code format on group projects
 #### 2. Commit Messages Guide
 https://github.com/RomuloOliveira/commit-messages-guide
 A guide to understanding the importance of commit messages and how to write them well
+#### 3. Commit Comments Guide
+https://conventionalcomments.org/
+A guide to making conventional comments for code reviews, peer reviews, revising/editing, and RFC
+#### 4. Playwright
+https://playwright.dev/
+A widely used, open-source automation framework. It features auto-waiting (preventing flaky tests), cross-browser compatibility (Chromium, Firefox, and WebKit), and test isolation.
+#### 5. pnpm
+https://pnpm.io/
+A fast, disk-space-efficient package manager for JavaScript. Instead of duplicating heavy modules across your projects, pnpm uses hard links and symlinks to reference these shared files, drastically reducing disk usage and installation times.
+#### 6. Zod
+https://zod.dev/
+Zod is a TypeScript-first validation library. Using Zod, you can define _schemas_ you can use to validate data, from a simple `string` to a complex nested object.
+
 
 
 
