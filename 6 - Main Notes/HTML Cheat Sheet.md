@@ -163,7 +163,7 @@ Some of the drawbacks of inlining SVG code can be avoided once you’ve learned 
 
 ## Tables
 
-Example of a proper HTML table:
+#### Example of a proper HTML table:
 
 ```html
 <table>
@@ -244,6 +244,95 @@ tfoot td {
     background-color: #46edc8;
     text-align: center;
 }
+```
+
+
+#### Example with `colgroup` and `col`:
+
+```html
+<table>
+  <caption>School language timetable</caption>
+  <colgroup>
+    <col span="2" />
+    <col class="column-background" />
+    <col class="column-fixed-width" />
+    <col class="column-background" />
+    <col class="column-background-border" />
+    <col span="2" class="column-fixed-width" />
+  </colgroup>
+  <tr>
+    <td>&nbsp;</td>
+    <th>Mon</th>
+    <th>Tues</th>
+    <th>Wed</th>
+    <th>Thurs</th>
+    <th>Fri</th>
+    <th>Sat</th>
+    <th>Sun</th>
+  </tr>
+  <tr>
+    <th>1st period</th>
+    <td>English</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>German</td>
+    <td>Dutch</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <th>2nd period</th>
+    <td>English</td>
+    <td>English</td>
+    <td>&nbsp;</td>
+    <td>German</td>
+    <td>Dutch</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <th>3rd period</th>
+    <td>&nbsp;</td>
+    <td>German</td>
+    <td>&nbsp;</td>
+    <td>German</td>
+    <td>Dutch</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <th>4th period</th>
+    <td>&nbsp;</td>
+    <td>English</td>
+    <td>&nbsp;</td>
+    <td>English</td>
+    <td>Dutch</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+```
+
+```css
+.column-background {
+  background-color: #97db9a;
+}
+
+.column-fixed-width {
+  width: 40px;
+}
+
+.column-background-border {
+  background-color: #dcc48e;
+  border: 4px solid #c1437a;
+}
+```
+
+
+#### Example with `colspan`:
+
+```html
+<td colspan="number_of_columns">Cell Content</td>
 ```
 
 
