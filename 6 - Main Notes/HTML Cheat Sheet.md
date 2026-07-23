@@ -159,6 +159,92 @@ Some of the drawbacks of inlining SVG code can be avoided once you’ve learned 
 [More info](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/#hello-svg-1:~:text=The%20viewBox%20attribute)
 
 
+---
+
+## Tables
+
+Example of a proper HTML table:
+
+```html
+<table>
+    <caption>My Concerts 🎸</caption>
+    <thead>
+        <tr>
+            <th scope="col">Artist</th>
+            <th scope="col">Location</th>
+            <th scope="col">Cost</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Blur</td>
+            <td>Exeter</td>
+            <td>£50</td>
+        </tr>
+        <tr>
+            <td>Billie Eilish</td>
+            <td>London</td>
+            <td>£90</td>
+        </tr>
+        <tr>
+            <td>The Weeknd</td>
+            <td>Glasgow</td>
+            <td>£110</td>
+        </tr>
+        <tr>
+            <td>Adele</td>
+            <td>Bristol</td>
+            <td>£65</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="2">Sum</td>
+            <td>£315</td>
+        </tr>
+    </tfoot>
+</table>
+```
+
+```css
+html, body {
+    margin: 0;
+    padding: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    font-size: 20px;
+}
+
+caption {
+    margin-bottom: 14px;
+    font-size: 30px;
+}
+
+th {
+    background-color: #374d7c;
+    color: #fff;
+}
+
+table {
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+td {
+    background-color: #fdf289;
+}
+
+td, th {
+    padding: 10px 20px;
+}
+
+tfoot td {
+    background-color: #46edc8;
+    text-align: center;
+}
+```
 
 
 

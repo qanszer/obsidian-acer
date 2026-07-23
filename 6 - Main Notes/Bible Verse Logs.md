@@ -232,7 +232,235 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
 **32**for the devious person is an abomination to the LORD,  
    but the upright are in his confidence.
 
+### Chapter 4
 
+**Proverbs 4:7 NLT**
+7 Getting wisdom is the wisest thing you can do!
+And whatever else you do, develop good judgment.
+
+**Proverbs 4:10-12 NLT**
+10 My child,* listen to me and do as I say,
+and you will have a long, good life.
+11 I will teach you wisdom’s ways
+and lead you in straight paths.
+12 When you walk, you won’t be held back;
+when you run, you won’t stumble.
+
+**Proverbs 4:13 NLT**
+13 Take hold of my instructions; don’t let them go.
+Guard them, for they are the key to life.
+
+**Proverbs 4:14-19 NLT**
+14 Don’t do as the wicked do,
+and don’t follow the path of evildoers.
+15 Don’t even think about it; don’t go that way.
+Turn away and keep moving.
+16 For evil people can’t sleep until they’ve done their evil deed for the day.
+They can’t rest until they’ve caused someone to stumble.
+17 They eat the food of wickedness
+and drink the wine of violence!
+18 The way of the righteous is like the first gleam of dawn,
+which shines ever brighter until the full light of day.
+19 But the way of the wicked is like total darkness.
+They have no idea what they are stumbling over.
+
+**Proverbs 4:20-21 NLT**
+20 My child, pay attention to what I say.
+Listen carefully to my words.
+21 Don’t lose sight of them.
+Let them penetrate deep into your heart
+
+**Proverbs 4:23 NLT**
+23 Guard your heart above all else,
+for it determines the course of your life.
+
+**Proverbs 4:24 NLT**
+24 Avoid all perverse talk;
+stay away from corrupt speech.
+
+**Proverbs 4:25-27 NLT**
+25 Look straight ahead,
+and fix your eyes on what lies before you.
+26 Mark out a straight path for your feet;
+stay on the safe path.
+27 Don’t get sidetracked;
+keep your feet from following evil.
+
+### Chapter 5
+
+**Proverbs 5:3-6 NLT**
+3 For the lips of an immoral woman are as sweet as honey,
+and her mouth is smoother than oil.
+4 But in the end she is as bitter as poison,
+as dangerous as a double-edged sword.
+5 Her feet go down to death;
+her steps lead straight to the grave.
+6 For she cares nothing about the path to life.
+She staggers down a crooked trail and doesn’t realize it.
+
+**Proverbs 5:8-11 NLT**
+8 Stay away from her!
+Don’t go near the door of her house!
+9 If you do, you will lose your honor
+and will lose to merciless people all you have achieved.
+10 Strangers will consume your wealth,
+and someone else will enjoy the fruit of your labor.
+11 In the end you will groan in anguish
+when disease consumes your body.
+
+**Proverbs 5:15-19 NLT**
+15 Drink water from your own well—
+share your love only with your wife.
+16 Why spill the water of your springs in the streets,
+having sex with just anyone?
+17 You should reserve it for yourselves.
+Never share it with strangers.
+18 Let your wife be a fountain of blessing for you.
+Rejoice in the wife of your youth.
+19 She is a loving deer, a graceful doe.
+Let her breasts satisfy you always.
+May you always be captivated by her love.
+
+**Proverbs 5:21 NLT**
+21 For the LORD sees clearly what a man does,
+examining every path he takes.
+
+**Proverbs 5:22-23 NLT**
+22 An evil man is held captive by his own sins;
+they are ropes that catch and hold him.
+23 He will die for lack of self-control;
+he will be lost because of his great foolishness.
+
+### Chapter 6
+
+**Proverbs 6:6-11 NLT**
+6 Take a lesson from the ants, you lazybones.
+Learn from their ways and become wise!
+ 7 Though they have no prince
+or governor or ruler to make them work,
+ 8 they labor hard all summer,
+gathering food for the winter.
+ 9 But you, lazybones, how long will you sleep?
+When will you wake up?
+10 A little extra sleep, a little more slumber,
+a little folding of the hands to rest—
+11 then poverty will pounce on you like a bandit;
+scarcity will attack you like an armed robber.
+
+**Proverbs 6:16-19 NLT**
+16 There are six things the LORD hates—
+no, seven things he detests:
+17 haughty eyes,
+a lying tongue,
+hands that kill the innocent,
+18 a heart that plots evil,
+feet that race to do wrong,
+19 a false witness who pours out lies,
+a person who sows discord in a family.
+
+**Proverbs 6:20-23 NLT**
+20 My son, obey your father’s commands,
+and don’t neglect your mother’s instruction.
+21 Keep their words always in your heart.
+Tie them around your neck.
+22 When you walk, their counsel will lead you.
+When you sleep, they will protect you.
+When you wake up, they will advise you.
+23 For their command is a lamp
+and their instruction a light;
+their corrective discipline
+is the way to life.
+
+**Proverbs 6:26-29 NLT**
+26 For a prostitute will bring you to poverty,*
+but sleeping with another man’s wife will cost you your life.
+27 Can a man scoop a flame into his lap
+and not have his clothes catch on fire?
+28 Can he walk on hot coals
+and not blister his feet?
+29 So it is with the man who sleeps with another man’s wife.
+He who embraces her will not go unpunished.
+
+**Proverbs 6:32-33 NLT**
+32 But the man who commits adultery is an utter fool,
+for he destroys himself.
+33 He will be wounded and disgraced.
+His shame will never be erased.
+
+### Chapter 7
+
+**Proverbs 7:7-27 NLT**
+7 I saw some naive young men,
+and one in particular who lacked common sense.
+ 8 He was crossing the street near the house of an immoral woman,
+strolling down the path by her house.
+ 9 It was at twilight, in the evening,
+as deep darkness fell.
+10 The woman approached him,
+seductively dressed and sly of heart.
+11 She was the brash, rebellious type,
+never content to stay at home.
+12 She is often in the streets and markets,
+soliciting at every corner.
+13 She threw her arms around him and kissed him,
+and with a brazen look she said,
+14 “I’ve just made my peace offerings
+and fulfilled my vows.
+15 You’re the one I was looking for!
+I came out to find you, and here you are!
+16 My bed is spread with beautiful blankets,
+with colored sheets of Egyptian linen.
+17 I’ve perfumed my bed
+with myrrh, aloes, and cinnamon.
+18 Come, let’s drink our fill of love until morning.
+Let’s enjoy each other’s caresses,
+19 for my husband is not home.
+He’s away on a long trip.
+20 He has taken a wallet full of money with him
+and won’t return until later this month.*”
+21 So she seduced him with her pretty speech
+and enticed him with her flattery.
+22 He followed her at once,
+like an ox going to the slaughter.
+He was like a stag caught in a trap,
+23 awaiting the arrow that would pierce its heart.
+He was like a bird flying into a snare,
+little knowing it would cost him his life.
+24 So listen to me, my sons,
+and pay attention to my words.
+25 Don’t let your hearts stray away toward her.
+Don’t wander down her wayward path.
+26 For she has been the ruin of many;
+many men have been her victims.
+27 Her house is the road to the grave.*
+Her bedroom is the den of death.
+
+
+### Chapter 8
+
+**Proverbs 8:11 NLT**
+11 For wisdom is far more valuable than rubies.
+Nothing you desire can compare with it.
+
+### Chapter 9
+
+**Proverbs 9:7-8a NLT**
+7 Anyone who rebukes a mocker will get an insult in return.
+Anyone who corrects the wicked will get hurt.
+ 8 So don’t bother correcting mockers;
+they will only hate you.
+
+**Proverbs 9:8b-9 NLT**
+But correct the wise,
+and they will love you.
+ 9 Instruct the wise,
+and they will be even wiser.
+Teach the righteous,
+and they will learn even more.
+
+**Proverbs 9:10 NLT**
+10 Fear of the LORD is the foundation of wisdom.
+Knowledge of the Holy One results in good judgment.
 
 
 ---

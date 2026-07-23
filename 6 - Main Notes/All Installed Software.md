@@ -1,7 +1,7 @@
 
 2026-02-09  05:02 am
 
-Tags: [[Tracking]]
+Tags: [[Tracking]], [[Customization]]
 
 ---
 # All Installed Software
@@ -36,6 +36,7 @@ This is a list of all of my installed software in case my laptop breaks/gets sto
 - Themes: Nordic polar and Nordic darker (v40)
 - Rmpc
 - Shotwell
+- Tlp
 
 ### Gnome Extensions
 
