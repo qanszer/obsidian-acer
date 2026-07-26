@@ -254,7 +254,7 @@ So again, if you have an issue with a brother or sister, handle it before the su
 
 ---
 
-### July 11 | How to Find Time For God While Busy
+## July 11 | How to Find Time For God While Busy
 Dgroup Downline
 
 Finding time with God in a busy schedule is not about adding another taxing item to your to-do list; it is a posture of inviting Him into the moments you already have. A real connection with God happens by **integrating short moments of prayer and scripture into your daily routines**. 
@@ -284,3 +284,36 @@ In any case, when your life feels too full, invite God into the spaces you alrea
 So ayan yung answer to finding time for God even while busy: which is to integrate God through short prayers in all that we do.
 
 But what if we ARE free? That we have time to read the Bible and have a devotional about His word? Yan yung iddiscuss ko next week. But for now, that's where we will end this devotional.
+
+
+---
+
+## July 25 | Find Joy in Trials
+
+1 - Imagine you've had the worst days of your life for the past week
+2 - You vent about it to your friend and he says "Great! Good for you! Consider yourself blessed!"
+3 - That is what James says in the book of James 1:2
+```
+James 1:2 NIV
+Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds.
+```
+4 - The verse tells us not to rejoice because of the trials
+
+Crucially, James doesn't invite us to rejoice because of trials so much as during them. It's not the trials themselves that are good; it's the Christian character they produce. "The testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything" (vv. 3–4). Being mature and complete—being someone who loves, rejoices in, and trusts Jesus till the end of days—is absolutely worth going through the trials.
+
+I remember sitting with one of the godliest friends I have and listening to all that she had been through that year. It seems like she had taken everything the world could throw at a student: abusive boyfriend, distant parents, difficult friends, bad grades. But then her face shone as she said, "But you know what? He has been so good to me."
+
+That's the joy James is talking about.
+
+The problem in our culture (at least in 21st-Century Britain, where I am writing from) is that we hate trials. One of the great idols of our times is comfort: we spend so much money trying to become creators and sustainers of our own safe, contained world.
+
+But Jesus challenges that.
+
+The world says: "Take up your glass and sit back."  
+Christ says: "Take up your cross and follow me."
+
+James also says, "whenever you face trials of many kinds" (v. 2). If you live long enough in this world, you will inevitably go through some kind of suffering. But as Christians, you can take comfort in the fact that it is not pointless; God is shaping and pruning you all the while.
+
+Notice how James introduces himself at the start: "a servant of God and of the Lord Jesus Christ" (v. 1). Jesus' little half-brother is not writing to be insensitive but to help; he wants to serve Jesus and His people. And notice he is writing to "the twelve tribes scattered among the nations." (v. 1) As he is writing to the 1st-century church, he is naturally writing to a predominantly Jewish church but it also applies to the new Israel, the church today. This is a message that we all need.
+
+When you suffer, it's tempting to think that God is mean. But James finishes verse 4 by saying you will be "not lacking anything." God isn't a bully; He works mightily to nurture and provide for His children. If you're going through trials, however difficult, know that His Spirit is working in you to present you blameless and joyful before the throne of Christ. You are not abandoned. You are not alone. In all things, through all circumstances, God is molding, shaping and perfecting you. You lack nothing.

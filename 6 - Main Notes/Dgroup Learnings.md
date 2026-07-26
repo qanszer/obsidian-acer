@@ -5,7 +5,7 @@ Tags: [[Christianity]]
 
 ---
 
-# D-Group Learnings
+# Dgroup Learnings
 
 
 ### 01/07/24 - An Effective Believer

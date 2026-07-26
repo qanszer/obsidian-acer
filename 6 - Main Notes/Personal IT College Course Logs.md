@@ -15,19 +15,54 @@ Tags: [[School]], [[Tracking]]
 - 
 
 
+---
 # AdU - Adamson University
 
-**IT Department Number**
+**IT Department Number for Contact**
 8524-2011-325
 
+---
+#### 2024-2025
 
-**2025-26  |  2nd Sem (Current)**
+**1st Sem**
 
-- OOP
-- ADBMS
-- DT
-- Contemp
+- Digital Logic Circuits
+- Environmental Science
+- Applied Physics for IT
+- Pathfit 3
+- Ethics
+- Understanding the Self
+- Theo 1
 
+**2nd Sem**
+
+- Applied Chemistry for IT
+- Rizal's Life and Works
+- Computer Programming 1
+- Data Structures & Algorithm
+- Web Design Principles
+- Pathfit 4
+- Theo 2
+
+---
+#### 2025-2026
+
+**1st Sem**
+
+- Database Management System
+- Computer Programming 2
+- Multimedia
+- Networking 1
+
+**2nd Sem**
+
+- Object Oriented Programming
+- Advanced Database Management System
+- Design Thinking
+- Contemporary World
+
+---
+#### 2026-2027
 
 **2026-27  |  1st Sem**
 

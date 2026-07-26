@@ -81,6 +81,11 @@ align-items: cross axis
 For space between flex items:
 gap
 
+Opacity
+- value is between 0 to 1
+- example: 0.5
+- When you use `opacity` you make the element and everything inside it transparent, whereas using RGB or hex with an alpha parameter only makes the color you are specifying transparent.
+
 
 ### Add font:
 
@@ -97,6 +102,35 @@ gap
 	left: 0;
 	top: 50%;
 	transform: translateY(-50%);
+}
+```
+
+
+### Keep aspect ratio
+
+```css
+/* full-width * aspect-ratio */
+.full-width {
+  width: 100vw;
+  height: calc(100vw * (9/16));
+}
+```
+
+
+### Text Styles
+
+```css
+font-style: italic;
+letter-spacing: 0.5rem;
+line-height: 1.5;
+text-transform: uppercase;
+text-shadow: ;
+
+/* ellipsis (...) for overflowing text */
+.overflowing {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 ```
 

@@ -239,7 +239,7 @@ This is a collection of my bookmarked verses for each chapter of the Bible.
 And whatever else you do, develop good judgment.
 
 **Proverbs 4:10-12 NLT**
-10 My child,* listen to me and do as I say,
+10 My child, listen to me and do as I say,
 and you will have a long, good life.
 11 I will teach you wisdom’s ways
 and lead you in straight paths.
@@ -434,7 +434,6 @@ Don’t wander down her wayward path.
 many men have been her victims.
 27 Her house is the road to the grave.*
 Her bedroom is the den of death.
-
 
 ### Chapter 8
 

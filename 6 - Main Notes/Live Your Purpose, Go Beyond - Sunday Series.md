@@ -91,3 +91,82 @@ July 19
 
 ---
 
+
+**The world tells us that our life purpose is to:**
+- grow as the best person of ourselves
+- to make a difference in the world
+- to be popular (number 1 vocational aspiration of gen z is influencer)
+- to be successful
+- to be rich
+- to find the "one"
+
+**What is God's purpose for us?**
+- to be reconciled to God (col 1:22)
+- to glorify God (1 corin 10:31)
+- to love God and others (matt 22:37-40)
+- to become more like Jesus (rom 8:29)
+- to suffer for our faith (2 tim 3:12)
+- to make disciples of Christ
+
+**Does God have a specific purpose for each person?**
+**Does God have a specific purpose for me?**
+
+Psalms 139:16
+- Verse: 
+- God already knew you before you were even born
+
+Ephesians 2:8-10
+- God saves us because he has something for us to do here on earth
+
+Acts 13:36
+- 
+
+*God has a purpose for each of us to fulfill, until God takes us home*
+
+
+1 Kings 17:19
+- Story of a widow
+
+
+**How do you discover God's purpose?**
+
+Genesis 12:1-3
+- Story of Abraham
+- God commanded him to take his whole family and go somewhere that God did not tell him where yet. Imagine having a peaceful life already with your family, and then God calls you to go someplace else that you don't even know and have to convince your whole family to go with you
+- Abraham did it anyway because he had faith in God
+
+Genesis 12:4-5
+
+
+### 01 - Believe and Obey
+
+Genesis 12:10-11
+
+Abraham's path was not easy
+	- famine in egypt
+	- dispute with lot over land
+	- attack on lot
+	- desruction of sodom
+	- worst of all: he had no heir
+
+Genesis 17:4-5
+Genesis 17:17-19
+
+Genesis 21:5-7
+
+
+### 02 - Persevere
+
+Genesis 22:1-2
+
+
+### 03 - Surrender
+
+Abraham continuously surrendered his decisions to God
+- leave his peaceful home and go to an unknown place with his family
+- sacrifice his only son that was born when he was 100 years old because God told him to do it
+
+- Go and make disciples of all nations
+
+Acts 1:8
+

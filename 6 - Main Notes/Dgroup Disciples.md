@@ -4,7 +4,7 @@
 Tags: [[Christianity]]
 
 ---
-# My Disciples
+# Dgroup Disciples
 
 
 # 01 - Eze
@@ -19,7 +19,8 @@ Tags: [[Christianity]]
 5. Email: godsekel@gmail.com
 6. Occupation: Full time student
 7. Date Joined: April 2026
-8. Attended CCF Events/Milestones:
+8. Number: 9617336067
+9. Attended CCF Events/Milestones:
 	- N/A
 
 ### About Him
@@ -75,7 +76,8 @@ Tags: [[Christianity]]
 5. Email: johnmichaelmercado031710@gmail.com
 6. Occupation: Full time student
 7. Date Joined: May 2026
-8. Attended CCF Events/Milestones:
+8. Number: 
+9. Attended CCF Events/Milestones:
 	- Ongoing GLC 1
 
 ### About Him
@@ -137,7 +139,8 @@ Tags: [[Christianity]]
 5. Email: khyleesto509@gmail.com
 6. Occupation: Full time student
 7. Date Joined: May 2026
-8. Attended CCF Events/Milestones:
+8. Number: 9852508321
+9. Attended CCF Events/Milestones:
 	- Ongoing GLC 1
 
 ### About Him
