@@ -80,16 +80,16 @@ I just want to know my sleeping time and waking hours concretely.
 | 15   |                  |                |     |           |      |
 | 16   | 3:00am - 10:30am | 7h 30m         | N/A | 40m       |      |
 | 17   | 1:00am - 6:30am  | 5h 30m         | N/A | 2h        |      |
-| 18   | 12:30am - 9:20am | 9h 10m         | N/A | 30m       | no   |
-| 19   | 2:30am - 9:30am  | 7h             | N/A | 2h        | no   |
-| 20   | 1:30am - 9:30am  | 8h             | N/A | 1h        | no   |
-| 21   | 3:20am - 12:00pm | 8h 40m         | N/A | 1h 50m    | no   |
-| 22   | 3:30am - 10:00am | 6h 30m         | N/A | 10m       | no   |
-| 23   | 12:30am - 7:10am | 6h 40m         | N/A | 2h        | no   |
-| 24   | 11:50pm - 8:00am | 8h 10m         | 5m  | 40m       | yes  |
-| 25   | 1:50am - 6:45am  | 4h 55m         | N/A | 2h        | no   |
-| 26   | 2:20am - 8:40am  | 6h 20m         | N/A | 30m       | no   |
-| 27   |                  |                |     |           |      |
+| 18   | 12:30am - 9:20am | 9h 10m         | N/A | 30m       | ✘    |
+| 19   | 2:30am - 9:30am  | 7h             | N/A | 2h        | ✘    |
+| 20   | 1:30am - 9:30am  | 8h             | N/A | 1h        | ✘    |
+| 21   | 3:20am - 12:00pm | 8h 40m         | N/A | 1h 50m    | ✘    |
+| 22   | 3:30am - 10:00am | 6h 30m         | N/A | 10m       | ✘    |
+| 23   | 12:30am - 7:10am | 6h 40m         | N/A | 2h        | ✘    |
+| 24   | 11:50pm - 8:00am | 8h 10m         | 5m  | 40m       | ✅    |
+| 25   | 1:50am - 6:45am  | 4h 55m         | N/A | 2h        | ✘    |
+| 26   | 2:20am - 8:40am  | 6h 20m         | N/A | 30m       | ✘    |
+| 27   | 11:50pm - 8:50am | 9h             | N/A | 2h 30m    | ✅    |
 | 28   |                  |                |     |           |      |
 | 29   |                  |                |     |           |      |
 | 30   |                  |                |     |           |      |

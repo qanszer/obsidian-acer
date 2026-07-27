@@ -140,49 +140,7 @@
             }
           },
           {
-            "id": "27c3eacfa8468e7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Live Your Purpose, Go Beyond - Sunday Series.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Live Your Purpose, Go Beyond - Sunday Series"
-            }
-          },
-          {
-            "id": "5b2a023eeba5c430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Dgroup Fishing for New Members.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dgroup Fishing for New Members"
-            }
-          },
-          {
-            "id": "906d81cb6b4f7573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/CSS Good Practices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSS Good Practices"
-            }
-          },
-          {
-            "id": "35a3ab364141fecb",
+            "id": "a6a141bc469f941a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -384,16 +342,17 @@
       "readest-highlights:Sync all books to folder": false
     }
   },
-  "active": "35a3ab364141fecb",
+  "active": "a6a141bc469f941a",
   "lastOpenFiles": [
     "6 - Main Notes/CSS Good Practices.md",
+    "6 - Main Notes/CSS Cheat Sheet.md",
+    "6 - Main Notes/Personal Sleep Tracking.md",
+    "6 - Main Notes/Bible Verse Logs.md",
+    "6 - Main Notes/How to Speak Well.md",
+    "6 - Main Notes/Live Your Purpose, Go Beyond - Sunday Series.md",
     "6 - Main Notes/Dgroup Fishing for New Members.md",
     "6 - Main Notes/AI Prompts.md",
-    "6 - Main Notes/CSS Cheat Sheet.md",
-    "6 - Main Notes/Live Your Purpose, Go Beyond - Sunday Series.md",
-    "6 - Main Notes/Personal Sleep Tracking.md",
     "6 - Main Notes/Terminal Commands.md",
-    "6 - Main Notes/How to Speak Well.md",
     "6 - Main Notes/Wisdom from God.md",
     "6 - Main Notes/Salvation of God.md",
     "6 - Main Notes/Promises of God.md",
@@ -412,7 +371,6 @@
     "6 - Main Notes/Dgroup Learnings.md",
     "6 - Main Notes/Victories and Prayer Requests.md",
     "6 - Main Notes/Zen Browser Configurations.md",
-    "6 - Main Notes/Bible Verse Logs.md",
     "2 - Source Materials/Books",
     "2 - Source Materials",
     "Books",
