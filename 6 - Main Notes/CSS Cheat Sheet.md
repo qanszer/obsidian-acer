@@ -141,6 +141,107 @@ text-shadow: ;
 # CSS Good Practices
 
 
+## General Good Practices
+
+
+**System Font Stack:**
+
+```css
+html {
+  font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+```
+
+
+Avoid using id too much
+
+
+Combine selectors of common properties:
+```css
+.class1, class.2 {
+	color: white;
+	text-align: center:
+}
+```
+
+If you wanted to adjust the size of the image without causing it to lose its proportions, you would use a value of “auto” for the height property and adjust the width value:
+```css
+img {
+  height: auto;
+  width: 500px;
+}
+```
+
+Order of values:
+padding: (top/bottom)px (left/right)px (bottom)px (right)px;
+
+Remove link underline:
+```css
+text-decoration: none;
+```
+
+Ensures container takes full viewport height:
+```css
+min-height: 100vh; 
+```
+
+For max size:
+```css
+width: 100vw;
+height: 100vh;
+```
+
+Vertically center inline texts like header links:
+do 
+```css
+align-items: center; 
+```
+on the main navbar container
+
+
+For unordered lists (ul) :
+```css
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	gap: 20px;
+}
+```
+
+To avoid a container shrinking by itself:
+```css
+flex-shrink: 0;
+```
+
+Take up whole space:
+```css
+width: 100%;
+```
+
+
+For non-moving background:
+```css
+background: url() no-repeat center center fixed;
+background-size: cover;
+```
+
+
+Center horizontally:
+```css
+.container {
+	width: 980px; margin: 0 auto;
+}
+```
+
+In this example, two things are done to center this element horizontally within the available space:
+
+- The element is given a specified width
+- The left and right margins are set to `auto`
+
+
+---
+
 ## CSS Resets
 
 The purpose of CSS Resets is to match the styling for all browsers, while at the same time improve the defaults of the styling.
@@ -393,103 +494,142 @@ h1, h2, h3, h4, h5, h6 {
 
 ---
 
-## General Good Practices
+## Web Fonts
 
+### Nuance
 
-**System Font Stack:**
+Manual method (self-hosting) is only faster if your site uses a Content Delivery Network (CDN) and HTTP/2. Otherwise the automatic method beats self-hosting.
+[More info](https://web.dev/articles/font-best-practices#use_self-hosted_fonts)
 
+*Checking via Command Line (cURL):*
+- Open your terminal or command prompt.
+- Run the command: `curl -I --http2 https://<your-github-username>.github.io/<repo-name>/`
+- If it says `HTTP/2 200`, your site is successfully running HTTP/2.
+- If it says `via: 1.1 varnish`, your site is successfully running CDN.
+
+### 1 - Manual Method
+For production sites where every millisecond matters
+[More info](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Web_fonts#generating_the_required_code)
+
+- Find a free font distributor and download there: This is a site that makes free fonts available for download (there may still be some license conditions, such as crediting the font creator). Examples include [Font Squirrel](https://www.fontsquirrel.com/ "External link (opens in new tab)"), [DaFont](https://www.dafont.com/ "External link (opens in new tab)"), and [Everything Fonts](https://everythingfonts.com/ "External link (opens in new tab)").
+- Unzip them and choose 1 file from each font's directory to convert on [Transfonter Webfont Generator](https://transfonter.org/ "External link (opens in new tab)"). Click *Add fonts* button and choose each selected font file. Click *Convert* and then *Download*.
+- Unzip the downloaded file on the repo directory (with the html and css). Rename the unzipped file to `fonts`.
+- Copy the css files inside the `fonts` directory to your main css file and adjust the url with `fonts/`:
+```css
+/* only use woff2 */
+@font-face {
+	font-family: 'Vogue';
+	src: url('fonts/Vogue-Regular.woff2') format('woff2'),
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+```
+- Add this to html inside `<head` and before your main css `<link>` element (adjust href as needed):
+```html
+<link rel="preload" href="fonts/Vogue-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/AltoneTrial-Regular.woff2" as="font" type="font/woff2" crossorigin>
+```
+- Use it normally on your font stacks
 ```css
 html {
-  font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-family: "Vogue", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+```
+
+### 2 - Automatic Method
+For small projects where convenience matters
+[More info](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Web_fonts#using_an_online_font_service)
+
+- Go to [Google Fonts](https://fonts.google.com/). Find your selected font and click *Get font*. Click *Get embed code*.
+- Copy the `<link>` elements before your main css `<link>` element
+- Use it normally on your font stacks
+```css
+html {
+	font-family: "Google Sans", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 ```
 
 
-Avoid using id too much
+### Font Best Practices
+https://web.dev/articles/font-best-practices
 
-
-Combine selectors of common properties:
+- Two approaches can be combined: for example, use `font-display: swap` for branding and other visually distinctive page elements. Use `font-display: optional` for fonts used in body text.
 ```css
-.class1, class.2 {
-	color: white;
-	text-align: center:
+html {
+	font-family: "Google Sans", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-display: optional;
+}
+
+h1, h2, h3 {
+	font-family: "Vogue", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-display: swap;
 }
 ```
 
-If you wanted to adjust the size of the image without causing it to lose its proportions, you would use a value of “auto” for the height property and adjust the width value:
+- When possible, replace icon fonts with SVGs, which is also better for accessibility. Newer versions of popular icon fonts typically support SVG. For more information on switching to SVGs, see [Font Awesome](https://fontawesome.com/v5.15/how-to-use/on-the-web/advanced/svg-sprites) and [Material Icons](https://google.github.io/material-design-icons/#svg).
+
+
+---
+
+## Typography
+
+### Scaling and Clamping Text
+
+Ideal way to scale text based on viewer width:
 ```css
-img {
-  height: auto;
-  width: 500px;
+html {
+  font-size: clamp(1rem, 0.75rem + 1.5vw, 2rem);
+}
+```
+- 1st value is min size
+- 2nd value is same as `calc()`
+- 3rd value is max size
+
+### Line Length
+
+In his classic book [_The Elements of Typographic Style_](http://webtypography.net/2.1.2), Robert Bringhurst had this to say on line length (or measure):
+
+> Anything from 45 to 75 characters is widely regarded as a satisfactory line length for a single-column page set in a serifed text face in a text size. The 66-character line (counting both letters and spaces) is widely regarded as ideal. For multiple column work, a better average is 40 to 50 characters.
+
+```css
+article {
+  max-inline-size: 66ch;
+}
+```
+- Using `ch` units for width will cause new lines to wrap at the 66th character at that font size.
+
+### Line Height
+
+Use unitless values for your `line-height` declarations. This ensures that the line height is relative to the `font-size`.
+```css
+line-height: 24px; /*  wrong  */
+line-height: 1.5;  /* correct */
+```
+
+Shorter lines of text can have larger `line-height` values. But if you use large `line-height` values for long lines of text, it's hard for the reader's eye to move from the end of one line to the start of the next line.
+```css
+article {
+  max-inline-size: 66ch;
+  line-height: 1.65;
+}
+blockquote {
+  max-inline-size: 45ch;
+  line-height: 2;
 }
 ```
 
-Order of values:
-padding: (top/bottom)px (left/right)px (bottom)px (right)px;
+### Hierarchy
 
-Remove link underline:
-```css
-text-decoration: none;
-```
+Remember to prioritize hierarchy as you build your user interfaces for better clarity and page flow. A great way to do this is with [a typography scale built into your design system](https://material.io/design/typography/the-type-system.html#type-scale).
 
-Ensures container takes full viewport height:
-```css
-min-height: 100vh; 
-```
+### Variable Fonts
 
-For max size:
-```css
-width: 100vw;
-height: 100vh;
-```
+If you are using lots of different weights or styles of the same typeface, you may end up using lots of separate font files—a separate font file for each weight or style.
 
-Vertically center inline texts like header links:
-do 
-```css
-align-items: center; 
-```
-on the main navbar container
+[Variable fonts](https://web.dev/articles/variable-fonts) solve this problem by using one file. Instead of having separate files for regular, bold, extra bold, and other variants, a variable font file is responsive. It contains all the information it needs to be displayed across a spectrum of weights or styles.
 
-
-For unordered lists (ul) :
-```css
-ul {
-	list-style-type: none;
-	padding: 0;
-	margin: 0;
-	gap: 20px;
-}
-```
-
-To avoid a container shrinking by itself:
-```css
-flex-shrink: 0;
-```
-
-Take up whole space:
-```css
-width: 100%;
-```
-
-
-For non-moving background:
-```css
-background: url() no-repeat center center fixed;
-background-size: cover;
-```
-
-
-Center horizontally:
-```css
-.container {
-	width: 980px; margin: 0 auto;
-}
-```
-
-In this example, two things are done to center this element horizontally within the available space:
-
-- The element is given a specified width
-- The left and right margins are set to `auto`
+If you're styling elements using the `system-ui` value for `font-face` property, you might get all the benefits of variable fonts without downloading any font files. [More and more system fonts are now variable fonts](https://web.dev/blog/more-variable-font-options-in-chromium-83).
 
 
 ---

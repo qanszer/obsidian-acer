@@ -18,3 +18,7 @@ Gala Drawings
 - gala with icy
 - national library with duke
 - anniversary outing to tagaytay
+
+
+Total tuition of all sibs
+129427.91
