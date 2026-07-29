@@ -86,3 +86,4 @@ A collection of my favorite quotes. Quotes that struck something in me.
 *“The things that make us feel most human are the least compatible with profit.”*
 
 
+*"Your small steps matter. God sees your effort."*

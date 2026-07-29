@@ -19,7 +19,7 @@ Tags: [[School]], [[Tracking]]
 # AdU - Adamson University
 
 **IT Department Number for Contact**
-8524-2011-325
+(02) 8524-2011-325
 
 ---
 #### 2024-2025
@@ -66,17 +66,20 @@ Tags: [[School]], [[Tracking]]
 
 **2026-27  |  1st Sem**
 
-- Theo3 - Celebrating God's
-- Tech Eng
-- Applications Devt
-- Information Assurance 1
-- Networking 2
-- Project Management
-- Track1 - Mobile Devt
-- English Proficiency / Capstone 1
+- Theo3 - Celebrating God's |
+- Tech Eng |
 
-- Total Quality
+- Applications Devt ?
+- Information Assurance 1 ?
+- Networking 2 ?
+- Project Management ?
+- Track1 - Mobile Devt |
+- English Proficiency ?
+
+- Total Quality ?
+
 - *Code of Ethics*
+- Capstone 1
 
 
 **2026-27  |  2nd Sem**

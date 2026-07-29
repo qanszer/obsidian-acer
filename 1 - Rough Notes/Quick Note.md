@@ -22,3 +22,17 @@ Gala Drawings
 
 Total tuition of all sibs
 129427.91
+
+
+richbert
+andrei
+ortiz
+tejadilla
+henson
+karl villas
+elijah auza
+exadello palomino
+troy pineda
+
+bolivar
+launico

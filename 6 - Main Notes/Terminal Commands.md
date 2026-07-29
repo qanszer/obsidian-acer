@@ -9,6 +9,9 @@ Tags: [[Coding]] [[Terminal]] [[Customization]]
 A list of bash commands I commonly use. This is a note to look back to when I need to use them again.
 
 
+---
+
+
 Guide to reinstall older packages when the dependencies need an older one:
 https://green.cloud/docs/how-to-downgrade-a-package-via-apt-get/#:~:text=Estimated%20reading:%203%20minutes%201386,one%2C%20you%20are%20in%20luck.
 ```bash
@@ -17,31 +20,56 @@ sudo apt-get install package-name=package-version-number
 ```
 
 
-See current swappiness value:
+**See current swappiness value:**
+```bash
 cat /proc/sys/vm/swappiness
+```
 
 Temporarily set new swap value:
+```bash
 sudo sysctl vm.swappiness=10
+```
 
 
-Check shell version:
+**Check shell version:**
+```bash
 gnome-shell --version
+```
 
 Remove mounted disks on dock:
+```bash
 gsettings set org.gnome.shell.extensions.dash-to-dock show-mounts false
+```
 
 Edit the battery alert script:
+```bash
 nano ~/battery_alert.sh
+```
 
 Run the battery alert script:
+```bash
 nohup ~/battery_alert.sh &
+```
 
 Copy a directory to multiple directories:
+```bash
 for dir in destination_dir1 destination_dir2 destination_dir3; do cp -r source_directory/* "$dir"; done
+```
 
-Change sudo password:
+
+**Change sudo password:**
+```bash
 sudo passwd
+```
 then follow instructions
+
+
+**Check system processes:**
+```bash
+htop
+btop
+sudo powertop
+```
 
 
 ---
@@ -423,6 +451,36 @@ sudo ufw allow 443/tcp
 ```
 
 - **Disable Firewall:** If needed, you can stop it using `sudo ufw disable`.
+
+---
+### Wayland / Xorg
+
+Check what you're using:
+```bash
+echo $XDG_SESSION_TYPE
+```
+
+**Use xorg on login:**
+
+1. Go to config
+```bash
+sudo nano /etc/gdm3/custom.conf
+```
+
+2. Uncomment this line
+```bash
+# Uncomment the line below to force the login screen to use Xorg
+#WaylandEnable=false
+```
+
+
+**Use wayland again:**
+
+1. Comment out this line
+```bash
+WaylandEnable=false
+```
+
 
 ---
 

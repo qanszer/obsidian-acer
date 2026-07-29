@@ -3,10 +3,10 @@
 
 Tags:  [[Coding]], [[CSS]], [[The Odin Project]]
 
+---
+
 # CSS Cheat Sheet
-
 [https://htmlcheatsheet.com/css/](https://htmlcheatsheet.com/css/)
-
 
 ### Overview Guide
 
@@ -78,14 +78,210 @@ align-items: cross axis
 - `items` — single items that can be positioned individually.
 
 
-For space between flex items:
+**For space between flex items:**
 gap
 
-Opacity
-- value is between 0 to 1
-- example: 0.5
-- When you use `opacity` you make the element and everything inside it transparent, whereas using RGB or hex with an alpha parameter only makes the color you are specifying transparent.
 
+### Opacity
+
+```css
+opacity: 0;
+opacity: 0.33;
+opacity: 90%;
+opacity: 1;
+```
+
+- When you use `opacity` you make the element and everything inside it transparent, whereas using RGB or hex with an alpha parameter only makes the color you are specifying transparent.
+- To change the opacity of a background only, use the [`background`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/background) property with a [color value](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/color_value) that allows for an alpha channel.
+
+Opacity alone should not be used to provide information to screen readers. Use the HTML [`hidden`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/hidden) attribute, CSS [`visibility`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/visibility), or CSS [`display`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/display) style properties. It's best to avoid using [`aria-hidden`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-hidden) attribute, but if the element is hidden with opacity, then hide it from screen readers as well.
+
+**Transition animation**
+
+```css
+.card {
+  transition:
+    opacity 5s,
+    display 5s;
+  background-color: orange;
+
+  transition-behavior: allow-discrete;
+  @starting-style {
+    opacity: 0;
+  }
+}
+
+.card.hidden {
+  display: none;
+  opacity: 0;
+}
+```
+
+**Accessibility for Color Contrast**
+[Color contrast checker](https://webaim.org/resources/contrastchecker/)
+
+To style elements based on user's operating systems transparency preferences, use the [`prefers-reduced-transparency`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-transparency) media query. The following example demonstrates how to use the `prefers-color-scheme` media query to specify the desired `opacity` based on the user's preferences.
+
+```css
+.element {
+  opacity: 0.5;
+}
+
+@media (prefers-reduced-transparency) {
+  .element {
+    opacity: 1;
+  }
+}
+```
+
+### Background
+
+`background` is a shorthand for the following properties:
+- [`background-attachment`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/background-attachment)
+- [`background-clip`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/background-clip)
+- [`background-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/background-color)
+- [`background-image`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/background-image)
+- [`background-origin`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/background-origin)
+- [`background-position`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/background-position)
+- [`background-repeat`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/background-repeat)
+- [`background-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/background-size)
+
+While there is no order requirement for the other background properties, the following order is recommended for consistency and legibility; remember that none of the values are required:
+
+`<bg-image> <bg-position> / <bg-size> <repeat-style> <attachment> <bg-clip> <bg-origin> <'background-color'>`
+
+```css
+background: green;
+background: content-box radial-gradient(crimson, skyblue);
+background: no-repeat url("/shared-assets/images/examples/lizard.png");
+background: left 5% / 15% 60% repeat-x
+  url("/shared-assets/images/examples/star.png");
+background:
+  center / contain no-repeat
+    url("/shared-assets/images/examples/firefox-logo.svg"),
+  #eeeeee 35% url("/shared-assets/images/examples/lizard.png");
+```
+
+The following `background` explicitly sets all the default values in this order:
+```css
+background: none 0% 0% / auto auto repeat scroll border-box padding-box
+  transparent;
+```
+
+### Border
+
+The `border` shorthand is especially useful when you want all four borders to be the same. To make them different from each other, however, you can use the longhand [`border-width`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/border-width), [`border-style`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/border-style), and [`border-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/border-color) properties, which accept different values for each side. Alternatively, you can target one border at a time with the physical (e.g., [`border-top`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/border-top) ) and logical (e.g., [`border-block-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/border-block-start)) border properties.
+
+```css
+border: solid;
+border: dashed red;
+border: 1rem solid;
+border: thick double #32a1ce;
+border: 4mm ridge rgb(211 220 50 / 0.6);
+```
+
+Borders and [outlines](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/outline) are very similar. However, outlines differ from borders in the following ways:
+
+- Outlines never take up space, as they are drawn outside of an element's content.
+- According to the spec, outlines don't have to be rectangular, although they usually are.
+
+### Border-radius
+
+The `border-radius` property is specified as:
+
+- one, two, three, or four [`<length>`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/length) or [`<percentage>`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/percentage) values. This is used to set a single radius for the corners.
+- followed optionally by "/" and one, two, three, or four `<length>` or `<percentage>` values. This is used to set an additional radius, so you can have elliptical corners.
+
+```css
+border-radius: 30px;
+border-radius: 25% 10%;
+border-radius: 10% 30% 50% 70%;
+
+border-radius: 10% / 50%;
+border-radius: 10px 100px / 120px;
+border-radius: 50% 20% / 10% 40%;
+```
+
+The `border-radius` property does not apply to table elements when [`border-collapse`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/border-collapse) is `collapse`.
+
+```css
+/* cool random example */
+div {
+  box-shadow: 1px 1px 3px gray;
+  border-radius: 0 20% 50px 30%;
+  corner-shape: superellipse(0.5) bevel notch squircle;
+}
+```
+
+### Box-shadow
+[Box-shadow generator](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Backgrounds_and_borders/Box-shadow_generator)
+
+Specify a single box-shadow using:
+
+- Two, three, or four [`<length>`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/length) values.
+    - If only two values are given, they are interpreted as `<offset-x>` and `<offset-y>` values.
+    - If a third value is given, it is interpreted as a `<blur-radius>`.
+    - If a fourth value is given, it is interpreted as a `<spread-radius>`.
+- Optionally, the `inset` keyword.
+- Optionally, a [`<color>`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/box-shadow#color) value.
+
+To specify multiple shadows, provide a comma-separated list of shadows.
+
+```css
+box-shadow: 10px 5px 5px red;
+box-shadow: 60px -16px teal; 
+box-shadow: 12px 12px 2px 1px rgb(0 0 255 / 0.2);
+box-shadow: inset 5em 1em gold;
+box-shadow:
+  3px 3px red,
+  -1em 0 0.4em olive;
+```
+
+```css
+/* example with 3 shadows*/
+blockquote {
+  padding: 20px;
+  box-shadow:
+    inset 0 -3em 3em rgb(0 200 0 / 30%),
+    0 0 0 2px white,
+    0.3em 0.3em 1em rgb(200 0 0 / 60%);
+}
+```
+
+### Overflow
+
+```css
+/* Keyword values */
+overflow: visible;
+overflow: hidden;
+overflow: clip;
+overflow: scroll;
+overflow: auto;
+
+/* Two-value syntax: horizontal | vertical */
+overflow: hidden visible;
+```
+
+[`visible`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/overflow#visible)
+Overflow content is not clipped and may be visible outside the element's padding box. The element box is not a [scroll container](https://developer.mozilla.org/en-US/docs/Glossary/Scroll_container). This is the default value.
+
+[`hidden`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/overflow#hidden)
+Overflow content is clipped at the element's padding box, hiding the clipped content. When overflowing, the element box is a [scroll container](https://developer.mozilla.org/en-US/docs/Glossary/Scroll_container) with no scroll bars; scrolling is still possible via other methods including tabbing to hidden focusable elements, properties such as [`scrollLeft`](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollLeft "scrollLeft") property, and methods like [`scrollTo()`](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTo "scrollTo()").
+
+[`clip`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/overflow#clip)
+Overflow content is clipped at the element's _overflow clip edge_ defined by the [`overflow-clip-margin`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/overflow-clip-margin) property. The element box is not a scroll container, clipped content is not visible, and programmatic scrolling is not supported.
+
+[`scroll`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/overflow#scroll)
+Overflow content is clipped at the element's padding box. Whether overflowing or not, the element box is always a scroll container displaying scroll bars.
+
+[`auto`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/overflow#auto)
+Overflow content is clipped at the element's padding box. When overflowing, the element box is a scroll container displaying scroll bars.
+
+[`overlay`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/overflow#overlay)
+Its use in new code is discouraged. A legacy alias for `auto`, defined in the specification for web compatibility. Originally implemented as a non-standard value to render scrollbars on top of content rather than taking up space. 
+
+**Accessibility**
+In some browsers, scrolling content areas are not keyboard-focusable, so they cannot be scrolled by a keyboard-only user. To ensure all keyboard-only users can scroll the container, enable the element to receive focus by setting [`tabindex="0"`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/tabindex) on the container. To give screen reader users context when the container receives focus, set an appropriate [WAI-ARIA role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Roles) on the container, such as `role="region"`, and an accessible name using the [`aria-label`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-label) or [`aria-labelledby`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-labelledby) attribute.
 
 ### Add font:
 

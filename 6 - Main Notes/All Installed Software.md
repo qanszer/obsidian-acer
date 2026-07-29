@@ -1,7 +1,7 @@
 
 2026-02-09  05:02 am
 
-Tags: [[Tracking]], [[Customization]]
+Tags: [[Tracking]], [[Customization]], [[Productivity]]
 
 ---
 # All Installed Software
@@ -37,6 +37,13 @@ This is a list of all of my installed software in case my laptop breaks/gets sto
 - Rmpc
 - Shotwell
 - Tlp
+- Zen browser
+- Handbrake
+- Kamoso
+- Anydesk
+- Blanket
+- Aqloss
+- Flathub
 
 ### Gnome Extensions
 
@@ -95,8 +102,3 @@ This is a list of all of my installed software in case my laptop breaks/gets sto
 - Fingerprint
 - LAN realtek
 - Wireless LAN MTK
-
-
----
-
-## References
