@@ -461,6 +461,255 @@ and they will learn even more.
 10 Fear of the LORD is the foundation of wisdom.
 Knowledge of the Holy One results in good judgment.
 
+### Chapter 10
+
+**Proverbs 10:1 NLT**
+1 The proverbs of Solomon:
+A wise child brings joy to a father;
+a foolish child brings grief to a mother.
+
+**Proverbs 10:2 NLT**
+2 Tainted wealth has no lasting value,
+but right living can save your life.
+
+**Proverbs 10:3-4 NLT** ??
+3 The LORD will not let the godly go hungry,
+but he refuses to satisfy the craving of the wicked.
+ 4 Lazy people are soon poor;
+hard workers get rich.
+
+**Proverbs 10:7 NLT** ??
+7 We have happy memories of the godly,
+but the name of a wicked person rots away.
+
+**Proverbs 10:8 NLT**
+8 The wise are glad to be instructed,
+but babbling fools fall flat on their faces.
+
+**Proverbs 10:12 NLT**
+12 Hatred stirs up quarrels,
+but love makes up for all offenses.
+
+**Proverbs 10:14 NLT**
+14 Wise people treasure knowledge,
+but the babbling of a fool invites disaster.
+
+**Proverbs 10:16 NLT**
+16 The earnings of the godly enhance their lives,
+but evil people squander their money on sin.
+
+**Proverbs 10:17 NLT**
+17 People who accept discipline are on the pathway to life,
+but those who ignore correction will go astray.
+
+**Proverbs 10:18 NLT**
+18 Hiding hatred makes you a liar;
+slandering others makes you a fool.
+
+**Proverbs 10:19 NLT**
+19 Too much talk leads to sin.
+Be sensible and keep your mouth shut.
+
+**Proverbs 10:21 NLT**
+21 The words of the godly encourage many,
+but fools are destroyed by their lack of common sense.
+
+**Proverbs 10:23 NLT**
+23 Doing wrong is fun for a fool,
+but living wisely brings pleasure to the sensible.
+
+**Proverbs 10:25 NLT**
+25 When the storms of life come, the wicked are whirled away,
+but the godly have a lasting foundation.
+
+**Proverbs 10:31-32 NLT**
+31 The mouth of the godly person gives wise advice,
+but the tongue that deceives will be cut off.
+32 The lips of the godly speak helpful words,
+but the mouth of the wicked speaks perverse words.
+
+### Chapter 11
+
+**Proverbs 11:2 NLT**
+2 Pride leads to disgrace,
+but with humility comes wisdom.
+
+**Proverbs 11:3 NLT**
+3 Honesty guides good people;
+dishonesty destroys treacherous people.
+
+**Proverbs 11:4 NLT**
+4 Riches won’t help on the day of judgment,
+but right living can save you from death.
+
+**Proverbs 11:5 NLT**
+5 The godly are directed by honesty;
+the wicked fall beneath their load of sin.
+
+**Proverbs 11:12 NLT**
+12 It is foolish to belittle one’s neighbor;
+a sensible person keeps quiet.
+
+**Proverbs 11:13 NLT**
+13 A gossip goes around telling secrets,
+but those who are trustworthy can keep a confidence.
+
+**Proverbs 11:14 NLT**
+14 Without wise leadership, a nation falls;
+there is safety in having many advisers.
+
+**Proverbs 11:18 NLT**
+18 Evil people get rich for the moment,
+but the reward of the godly will last.
+
+**Proverbs 11:20 NLT**
+20 The LORD detests people with crooked hearts,
+but he delights in those with integrity.
+
+**Proverbs 11:21 NLT**
+21 Evil people will surely be punished,
+but the children of the godly will go free.
+
+**Proverbs 11:24-25 NLT**
+24 Give freely and become more wealthy;
+be stingy and lose everything.
+25 The generous will prosper;
+those who refresh others will themselves be refreshed.
+
+**Proverbs 11:29 NLT**
+29 Those who bring trouble on their families inherit the wind.
+The fool will be a servant to the wise.
+
+**Proverbs 11:30 NLT**
+30 The seeds of good deeds become a tree of life;
+a wise person wins friends.
+
+### Chapter 12
+
+**Proverbs 12:1 NLT**
+1 To learn, you must love discipline;
+it is stupid to hate correction.
+
+**Proverbs 12:4 NLT**
+4 A worthy wife is a crown for her husband,
+but a disgraceful woman is like cancer in his bones.
+
+**Proverbs 12:9 NLT**
+9 Better to be an ordinary person with a servant
+than to be self-important but have no food.
+
+**Proverbs 12:11 NLT**
+11 A hard worker has plenty of food,
+but a person who chases fantasies has no sense.
+
+**Proverbs 12:12 NLT**
+12 Thieves are jealous of each other’s loot,
+but the godly are well rooted and bear their own fruit.
+
+**Proverbs 12:13-14 NLT**
+13 The wicked are trapped by their own words,
+but the godly escape such trouble.
+14 Wise words bring many benefits,
+and hard work brings rewards.
+
+**Proverbs 12:15 NLT**
+15 Fools think their own way is right,
+but the wise listen to others.
+
+**Proverbs 12:16 NLT**
+16 A fool is quick-tempered,
+but a wise person stays calm when insulted.
+
+**Proverbs 12:21 NLT** ??
+21 No harm comes to the godly,
+but the wicked have their fill of trouble.
+
+**Proverbs 12:22 NLT**
+22 The LORD detests lying lips,
+but he delights in those who tell the truth.
+
+**Proverbs 12:23 NLT**
+23 The wise don’t make a show of their knowledge,
+but fools broadcast their foolishness.
+
+**Proverbs 12:24 NLT**
+24 Work hard and become a leader;
+be lazy and become a slave.
+
+**Proverbs 12:25 NLT**
+25 Worry weighs a person down;
+an encouraging word cheers a person up.
+
+**Proverbs 12:26 NLT**
+26 The godly give good advice to their friends;
+the wicked lead them astray.
+
+**Proverbs 12:27 NLT**
+27 Lazy people don’t even cook the game they catch,
+but the diligent make use of everything they find.
+
+### Chapter 13
+
+**Proverbs 13:1 NLT**
+1 A wise child accepts a parent’s discipline;
+a mocker refuses to listen to correction.
+
+**Proverbs 13:3 NLT**
+3 Those who control their tongue will have a long life;
+opening your mouth can ruin everything.
+
+**Proverbs 13:4 NLT**
+4 Lazy people want much but get little,
+but those who work hard will prosper.
+
+**Proverbs 13:6 NLT**
+6 Godliness guards the path of the blameless,
+but the evil are misled by sin.
+
+**Proverbs 13:8 NLT**
+8 The rich can pay a ransom for their lives,
+but the poor won’t even get threatened.
+
+**Proverbs 13:10 NLT**
+10 Pride leads to conflict;
+those who take advice are wise.
+
+**Proverbs 13:11 NLT**
+11 Wealth from get-rich-quick schemes quickly disappears;
+wealth from hard work grows over time.
+
+**Proverbs 13:13 NLT**
+13 People who despise advice are asking for trouble;
+those who respect a command will succeed.
+
+**Proverbs 13:15 NLT**
+15 A person with good sense is respected;
+a treacherous person is headed for destruction.
+
+**Proverbs 13:16 NLT**
+16 Wise people think before they act;
+fools don’t—and even brag about their foolishness.
+
+**Proverbs 13:18 NLT**
+18 If you ignore criticism, you will end in poverty and disgrace;
+if you accept correction, you will be honored.
+
+**Proverbs 13:20 NLT**
+20 Walk with the wise and become wise;
+associate with fools and get in trouble.
+
+**Proverbs 13:22 NLT**
+22 Good people leave an inheritance to their grandchildren,
+but the sinner’s wealth passes to the godly.
+
+**Proverbs 13:24 NLT** ??
+24 Those who spare the rod of discipline hate their children.
+Those who love their children care enough to discipline them.
+
+**Proverbs 13:25 NLT**
+25 The godly eat to their hearts’ content,
+but the belly of the wicked goes hungry.
+
 
 ---
 

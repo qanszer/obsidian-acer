@@ -484,6 +484,73 @@ WaylandEnable=false
 
 ---
 
+### Clear laptop fan noise with TLP
+
+```bash
+sudo apt install tlp tlp-rdw
+sudo systemctl enable tlp --now
+```
+
+Configure tlp based on your laptop's specs using AI.
+
+```bash
+sudo apt install linux-tools-common linux-tools-generic
+```
+
+```bash
+cpupower frequency-info
+sudo cpupower frequency-set -g powersave
+```
+
+Check TLP is running balance power
+
+```bash
+cat /sys/devices/system/cpu/cpu*/cpufreq/energy_performance_preference
+```
+
+if not on balance power, run this:
+```bash
+echo balance_power | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/energy_performance_preference
+sudo sed -i 's/CPU_ENERGY_PERF_POLICY_ON_AC=balance_performance/CPU_ENERGY_PERF_POLICY_ON_AC=balance_power/' /etc/tlp.conf
+sudo systemctl restart tlp
+```
+
+
+---
+
+### Hide cursor using shortcut (x11 only; wayland uses gnome extension)
+
+```bash
+sudo apt install unclutter-xfixes
+```
+
+```bash
+nano ~/toggle_cursor.sh
+```
+
+```bash
+#!/bin/bash
+if pgrep -x "unclutter" > /dev/null
+then
+    pkill -x unclutter
+else
+    # --timeout 0 hides it instantly without waiting for inactivity
+    unclutter --timeout 0 &
+fi
+```
+
+- Open your GNOME **Settings** application.
+- Navigate to **Keyboard** -> **Keyboard Shortcuts** -> **View and Customise Shortcuts**.
+- Scroll down and select **Custom Shortcuts**, then click the **+** (Add Shortcut) button.
+- Fill out the fields:
+    - **Name**: Toggle Mouse Cursor
+    - **Command**: `/home/YOUR_USERNAME/toggle_cursor.sh` _(Replace `YOUR_USERNAME` with your actual Linux username)_
+    - **Shortcut**: Press your desired key combination (e.g., `Alt` + `C`).
+- Click **Add**.
+
+
+---
+
 # References
 
 1. Chatgpt

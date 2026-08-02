@@ -24,15 +24,19 @@ Total tuition of all sibs
 129427.91
 
 
-richbert
-andrei
-ortiz
-tejadilla
-henson
-karl villas
-elijah auza
-exadello palomino
-troy pineda
+60138 st202 mth 5:00-6:30pm
+60108 st325 mth 2:00-3:30pm
+60108 st223 mth 2:00-3:30pm
 
-bolivar
-launico
+
+files
+clock
+calculator
+shein
+pinterest
+settings
+ios maps
+gdrive
+gkeep
+youtube
+app store

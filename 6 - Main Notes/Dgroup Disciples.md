@@ -136,6 +136,7 @@ Tags: [[Christianity]]
 3. Age: 18
 4. Campus:
 	- Senior high - Olivarez College Parañaque
+	- College - Dr. Filemon Aguilar Memorial College
 5. Email: khyleesto509@gmail.com
 6. Occupation: Full time student
 7. Date Joined: May 2026
@@ -149,6 +150,7 @@ Tags: [[Christianity]]
 - The street he lives in is all relatives. They all live in the area so it's always lively and noisy there. He does not come from a Christian family but his parents are open to him attending our church
 - He is the elder one between his one younger sibling who's only 1 year younger. So his parents have expectations on him as the eldest
 - Almost had his left eye blind if not for God's intervention on still having a doctor present when the doctor was about to leave
+- He was an active church member as a Catholic but questioned the purpose of his devoutness to God as a youth leader. He ended up being invited to a Born Again Christian church and had a much better connection with God because of the fact that the service talks about God and His attributes, as well as the fact that they are encouraged to read the Bible themselves—something that was not normalized in the Catholics. He wanted to be baptized soon after but was denied by his parents. Devastated, he left God for 2 years. God came back to his life through his crush who is a CCF dgroup leader already. Their feelings are mutual, but the girl can’t reciprocate his feelings due to faith concerns. Khyle got back with God for the wrong motive, but I thank God for khyle’s own decision to attend to CCF paranaque instead of CCF las piñas to show commitment that he is doing this for the Lord, not for his crush.
 
 **PERSONALITY**
 - Introvert but proactive when he becomes comfortable

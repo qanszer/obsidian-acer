@@ -91,6 +91,7 @@ July 19
 
 ---
 
+July 26
 
 **The world tells us that our life purpose is to:**
 - grow as the best person of ourselves
@@ -119,7 +120,6 @@ Ephesians 2:8-10
 - God saves us because he has something for us to do here on earth
 
 Acts 13:36
-- 
 
 *God has a purpose for each of us to fulfill, until God takes us home*
 
@@ -137,7 +137,6 @@ Genesis 12:1-3
 
 Genesis 12:4-5
 
-
 ### 01 - Believe and Obey
 
 Genesis 12:10-11
@@ -154,11 +153,9 @@ Genesis 17:17-19
 
 Genesis 21:5-7
 
-
 ### 02 - Persevere
 
 Genesis 22:1-2
-
 
 ### 03 - Surrender
 
@@ -169,4 +166,7 @@ Abraham continuously surrendered his decisions to God
 - Go and make disciples of all nations
 
 Acts 1:8
+
+
+---
 

@@ -24,7 +24,7 @@ Tags: [[School]], [[Tracking]]
 ---
 #### 2024-2025
 
-**1st Sem**
+**1st Sem** | Total Units: 21
 
 - Digital Logic Circuits
 - Environmental Science
@@ -34,7 +34,8 @@ Tags: [[School]], [[Tracking]]
 - Understanding the Self
 - Theo 1
 
-**2nd Sem**
+
+**2nd Sem** | Total Units: 21
 
 - Applied Chemistry for IT
 - Rizal's Life and Works
@@ -47,14 +48,15 @@ Tags: [[School]], [[Tracking]]
 ---
 #### 2025-2026
 
-**1st Sem**
+**1st Sem** | Total Units: 12
 
 - Database Management System
 - Computer Programming 2
 - Multimedia
 - Networking 1
 
-**2nd Sem**
+
+**2nd Sem** | Total Units: 12
 
 - Object Oriented Programming
 - Advanced Database Management System
@@ -64,43 +66,58 @@ Tags: [[School]], [[Tracking]]
 ---
 #### 2026-2027
 
-**2026-27  |  1st Sem**
+**1st Sem** | Total Units: 18/24 (not final)
 
-- Theo3 - Celebrating God's |
-- Tech Eng |
+- Theo 3 - Celebrating God's 
+- Tech Eng
+- Applications Devt 
+- Networking 2 
+- Project Management 
+- Track1 - Mobile Devt 
 
-- Applications Devt ?
-- Information Assurance 1 ?
-- Networking 2 ?
-- Project Management ?
-- Track1 - Mobile Devt |
-- English Proficiency ?
+Can be added:
+- Information Assurance 1
+- English Proficiency
+- Nihonggo
+- Technopreneurship
 
-- Total Quality ?
 
-- *Code of Ethics*
+**2nd Sem** | Total Units: 18/18 (predicted)
+
+- Theo 4
 - Capstone 1
-
-
-**2026-27  |  2nd Sem**
-
-- Capstone1
-
 - System Admin
 - IAS2
 - Track 2 - Web Frameworks
 - Track 3 - Software Dev
-- Technopreneurship
-- *IT issues*
+
+Can be added:
+- Theo 4 - Transforming the World
+
+---
+#### Midyear 2027
+
+Total Units: 9/9
+
+- Systems Integration
+- Code of Ethics
+- IT Issues
+
+---
+
+#### 2027-2028
+
+**1st Sem** | Total Units: ?/13
+
+- Track 4 - Software Quality Assurance
+- Capstone 2
+- PC Repair & Troubleshooting
 
 
-**2027-28  |  1st Sem**
+**2nd Sem** | Total Units: ?/9
 
-- Capstone2
+- OJT (6 units)
 
-- *System Integration*
-- Track 4 - Software Quality
-- PC Repair
-- OJT
+
 
 
