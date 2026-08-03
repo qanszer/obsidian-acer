@@ -40,3 +40,7 @@ gdrive
 gkeep
 youtube
 app store
+
+discord
+zoom
+gmeet

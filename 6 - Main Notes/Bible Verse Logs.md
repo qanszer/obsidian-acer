@@ -706,9 +706,45 @@ but the sinner’s wealth passes to the godly.
 24 Those who spare the rod of discipline hate their children.
 Those who love their children care enough to discipline them.
 
-**Proverbs 13:25 NLT**
+**Proverbs 13:25 NLT** ??
 25 The godly eat to their hearts’ content,
 but the belly of the wicked goes hungry.
+
+### Chapter 14
+
+**Proverbs 14:7 NLT**
+7 Stay away from fools,
+for you won’t find knowledge on their lips.
+
+**Proverbs 14:10 NLT**
+10 Each heart knows its own bitterness,
+and no one else can fully share its joy.
+
+**Proverbs 14:13 NLT**
+13 Laughter can conceal a heavy heart,
+but when the laughter ends, the grief remains.
+
+**Proverbs 14:15-16 NLT**
+15 Only simpletons believe everything they’re told!
+The prudent carefully consider their steps.
+16 The wise are cautious* and avoid danger;
+fools plunge ahead with reckless confidence.
+
+**Proverbs 14:21 NLT**
+21 It is a sin to belittle one’s neighbor;
+blessed are those who help the poor.
+
+**Proverbs 14:29 NLT**
+29 People with understanding control their anger;
+a hot temper shows great foolishness.
+
+**Proverbs 14:30 NLT**
+30 A peaceful heart leads to a healthy body;
+jealousy is like cancer in the bones.
+
+**Proverbs 14:34 NLT**
+34 Godliness makes a nation great,
+but sin is a disgrace to any people.
 
 
 ---
