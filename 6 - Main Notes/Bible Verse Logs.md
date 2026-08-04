@@ -727,7 +727,7 @@ but when the laughter ends, the grief remains.
 **Proverbs 14:15-16 NLT**
 15 Only simpletons believe everything they’re told!
 The prudent carefully consider their steps.
-16 The wise are cautious* and avoid danger;
+16 The wise are cautious and avoid danger;
 fools plunge ahead with reckless confidence.
 
 **Proverbs 14:21 NLT**

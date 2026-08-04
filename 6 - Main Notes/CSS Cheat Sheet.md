@@ -331,7 +331,6 @@ text-shadow: ;
 ```
 
 
-
 ---
 
 # CSS Good Practices
@@ -826,6 +825,128 @@ If you are using lots of different weights or styles of the same typeface, you m
 [Variable fonts](https://web.dev/articles/variable-fonts) solve this problem by using one file. Instead of having separate files for regular, bold, extra bold, and other variants, a variable font file is responsive. It contains all the information it needs to be displayed across a spectrum of weights or styles.
 
 If you're styling elements using the `system-ui` value for `font-face` property, you might get all the benefits of variable fonts without downloading any font files. [More and more system fonts are now variable fonts](https://web.dev/blog/more-variable-font-options-in-chromium-83).
+
+
+---
+
+## Advanced Selectors
+
+
+### Specificity Value (Importance)
+[More info](https://css-tricks.com/specifics-on-css-specificity/#aa-calculating-css-specificity-value)
+
+### Pseudo Classes
+[More info](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/Pseudo-classes)
+
+[`:focus`](https://css-tricks.com/almanac/pseudo-selectors/f/focus/) applies to an element that is currently selected by the user either through selecting it with their cursor or using their keyboard.
+
+[`:hover`](https://css-tricks.com/almanac/pseudo-selectors/h/hover/) will affect anything under the user’s mouse pointer. It can be used to give extra oomph to buttons and links to highlight that they’re interactable, or to trigger a drop-down menu.
+
+[`:active`](https://css-tricks.com/almanac/pseudo-selectors/a/active/) applies to elements that are currently being clicked, and is especially useful for giving your user feedback that their action had an effect. This is a great one to give your buttons and other interactive elements more ‘tactile’ feedback.
+
+
+To implement your own custom styling for links, take advantage of the [`:link`](https://css-tricks.com/almanac/pseudo-selectors/l/link/) and [`:visited`](https://css-tricks.com/almanac/pseudo-selectors/v/visited/) pseudo-classes. A simplified version of default browser styling might look something like this:
+
+```css
+/* This rule will apply to all links */
+a {
+	text-decoration: underline;
+}
+
+/* This will apply to unvisited links */
+a:link {
+	color: blue;
+}
+
+/* And you guessed it, this applies to all links the user has clicked on */
+a:visited {
+	color: purple;
+}
+```
+
+
+[`:root`](https://css-tricks.com/almanac/pseudo-selectors/r/root/) is a special class that represents the very top level of your document - the one element that has no parents. Generally when working with the web, this is equivalent to the `html` element, but there are a [few subtle differences between `:root` and `html`](https://stackoverflow.com/questions/15899615/whats-the-difference-between-css3s-root-pseudo-class-and-html).
+
+`:root` is generally the place where you will place your ‘global’ CSS rules that you want available everywhere - such as your custom properties and CSS variables, or rules such as `box-sizing: border-box;`.
+
+[`:first-child`](https://css-tricks.com/almanac/pseudo-selectors/f/first-child/) and [`:last-child`](https://css-tricks.com/almanac/pseudo-selectors/l/last-child/) will match elements that are the first or last sibling.
+
+Similarly, [`:empty`](https://css-tricks.com/almanac/pseudo-selectors/e/empty/) will match elements that have no children at all, and [`:only-child`](https://css-tricks.com/almanac/pseudo-selectors/o/only-child/) will match elements that don’t have any siblings.
+
+For a more dynamic approach we can use [`:nth-child`](https://css-tricks.com/almanac/pseudo-selectors/n/nth-child/). This is a flexible pseudo-class with a few different uses.
+
+```css
+.myList:nth-child(5) {/* Selects the 5th element with class myList */}
+
+.myList:nth-child(3n) { /* Selects every 3rd element with class myList */}
+
+.myList:nth-child(3n + 3) { /* Selects every 3rd element with class myList, beginning with the 3rd */}
+
+.myList:nth-child(even) {/* Selects every even element with class myList */}
+```
+
+
+### Pseudo Elements
+[More info](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+
+[`::marker`](https://css-tricks.com/almanac/pseudo-selectors/m/marker/) allows you to customize the styling of your `<li>` elements’ bullets or numbers.
+
+[`::first-letter`](https://css-tricks.com/almanac/pseudo-selectors/f/first-letter/) and [`::first-line`](https://css-tricks.com/almanac/pseudo-selectors/f/first-line/) allow you to (you guessed it!) give special styling to the first letter or line of some text.
+
+[`::selection`](https://css-tricks.com/almanac/pseudo-selectors/s/selection/) allows you to change the highlighting when a user selects text on the page.
+
+Check the link above for more elements.
+
+
+### Attribute Selectors
+[More info](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
+
+- `[attribute]` - This general selector will select anything where the given attribute exists. Its value doesn’t matter.
+- `selector[attribute]` - Optionally we can combine our attribute selectors with other types of selectors, such as class or element selectors.
+- `[attribute="value"]` - To get really specific, we can use `=` to match a specific attribute with a specific value.
+
+```css
+[src] {
+/* This will target any element that has a src attribute. */
+}
+
+img[src] {
+/* This will only target img elements that have a src attribute. */
+}
+
+img[src="puppy.jpg"] {
+/* This will target img elements with a src attribute that is exactly "puppy.jpg" */
+}
+```
+
+
+- `[attribute^="value"]` - `^=` Will match strings from the start.
+- `[attribute$="value"]` - `$=` Will match strings from the end.
+- `[attribute*="value"]` - `*=` The wildcard selector will match anywhere inside the string.
+
+```css
+[class^='aus'] {
+  /* Classes are attributes too!
+    This will target any class that begins with 'aus':
+    class='austria'
+    class='australia'
+  */
+}
+
+[src$='.jpg'] {
+  /* This will target any src attribute that ends in '.jpg':
+  src='puppy.jpg'
+  src='kitten.jpg'
+  */
+}
+
+[for*='ill'] {
+  /* This will target any for attribute that has 'ill' anywhere inside it:
+  for="bill"
+  for="jill"
+  */
+}
+```
 
 
 ---

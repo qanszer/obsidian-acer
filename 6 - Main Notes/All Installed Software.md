@@ -357,7 +357,26 @@ WantedBy=graphical-session.target
 ```
 
 
+`toggle-recorder.sh`
 
+```bash
+#!/bin/bash
+PID=$(pgrep -f "ffmpeg -f x11grab")
+
+if [ -n "$PID" ]; then
+    kill -2 $PID
+    notify-send "Screen Recorder" "Recording saved to Screencasts folder."
+else
+    # Automatically detects your active resolution (e.g., 1366x768, 2560x1440)
+    RESOLUTION=$(xdpyinfo | grep dimensions | awk '{print $2}')
+    
+    notify-send "Screen Recorder" "Recording started..."
+    
+    # Uses the detected resolution and system DISPLAY variable dynamically
+    ffmpeg -f x11grab -video_size "$RESOLUTION" -i "$DISPLAY" -c:v libx264 -pix_fmt yuv420p 
+    ~/Screencasts/recording_$(date +%Y%m%d_%H%M%S).mp4 & # Change to correct file path
+fi
+```
 
 
 ---

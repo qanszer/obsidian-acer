@@ -66,7 +66,7 @@ Tags: [[School]], [[Tracking]]
 ---
 #### 2026-2027
 
-**1st Sem** | Total Units: 18/24 (not final)
+**1st Sem** | Total Units: 21/24 (not final)
 
 - Theo 3 - Celebrating God's 
 - Tech Eng
@@ -74,9 +74,9 @@ Tags: [[School]], [[Tracking]]
 - Networking 2 
 - Project Management 
 - Track1 - Mobile Devt 
+- Information Assurance 1
 
 Can be added:
-- Information Assurance 1
 - English Proficiency
 - Nihonggo
 - Technopreneurship

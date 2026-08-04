@@ -551,6 +551,137 @@ fi
 
 ---
 
+### Create a custom GNOME 42 image popup extension
+
+I did this for an easily accessible schedule popup.
+
+1. **Create the Directory**
+Open your terminal and create the required local extension folder:
+```bash
+mkdir -p ~/.local/share/gnome-shell/extensions/image-popup@yourname.local
+cd ~/.local/share/gnome-shell/extensions/image-popup@yourname.local
+```
+
+2. **Create `metadata.json`**
+Create a file named `metadata.json` to register the extension with GNOME 42:
+```json
+{
+  "name": "Image Popup Extension",
+  "description": "Pops up a custom image when clicked",
+  "uuid": "image-popup@yourname.local",
+  "shell-version": [ "42" ]
+}
+```
+
+3. **Create `extension.js`**
+Create a file named `extension.js` with the following system code. _(Ensure you update the `/path/to/your/image.png` placeholder to your real file path)._
+```javascript
+const Gio = imports.gi.Gio;
+const St = imports.gi.St;
+const PanelMenu = imports.ui.panelMenu;
+const Main = imports.ui.main;
+
+let _indicator;
+
+function init() {}
+
+function enable() {
+    _indicator = new PanelMenu.Button(0.0, 'Image Popup Indicator', false);
+
+    let panelIcon = new St.Icon({
+        gicon: new Gio.ThemedIcon({ name: 'image-x-generic-symbolic' }),
+        style_class: 'system-status-icon'
+    });
+    _indicator.add_child(panelIcon);
+
+    let box = new St.BoxLayout({ vertical: true });
+    let imagePath = '/path/to/your/image.png'; 
+    let file = Gio.File.new_for_path(imagePath);
+    let gicon = new Gio.FileIcon({ file: file });
+
+    let imageWrapper = new St.Bin({
+        width: 720,
+        height: 758,
+        x_align: St.Align.MIDDLE,
+        y_align: St.Align.MIDDLE
+    });
+
+    let popupImage = new St.Icon({
+        gicon: gicon,
+        icon_size: 758
+    });
+
+    imageWrapper.set_child(popupImage);
+    box.add_child(imageWrapper);
+    _indicator.menu.box.add_child(box);
+
+    Main.panel.addToStatusArea('image-popup-indicator', _indicator, 0, 'left');
+}
+
+function disable() {
+    if (_indicator) {
+        _indicator.destroy();
+        _indicator = null;
+    }
+}
+```
+
+4. Activate the Extension
+Reload your desktop environment to register your newly created local files:
+- **X11 Display**: Press `Alt + F2`, type `r`, and press `Enter`.
+- **Wayland Display**: Log out of your Linux session and log back in.
+
+Open the **Extensions** app (or run `gnome-extensions enable image-popup@yourname.local`) to activate it.
+
+
+---
+
+### Create own screen recorder using ffmpeg
+
+```bash
+sudo apt update && sudo apt install ffmpeg notify-osd
+```
+
+```bash
+nano ~/toggle_record.sh
+```
+
+```bash
+#!/bin/bash
+PID=$(pgrep -f "ffmpeg -f x11grab")
+
+if [ -n "$PID" ]; then
+    kill -2 $PID
+    notify-send "Screen Recorder" "Recording saved to Screencasts folder."
+else
+    # Automatically detects your active resolution (e.g., 1366x768, 2560x1440)
+    RESOLUTION=$(xdpyinfo | grep dimensions | awk '{print $2}')
+    
+    notify-send "Screen Recorder" "Recording started..."
+    
+    # Uses the detected resolution and system DISPLAY variable dynamically
+    ffmpeg -f x11grab -video_size "$RESOLUTION" -i "$DISPLAY" -c:v libx264 -pix_fmt yuv420p 
+    ~/Screencasts/recording_$(date +%Y%m%d_%H%M%S).mp4 & # Change to correct file path
+fi
+```
+
+```bash
+chmod +x ~/toggle_record.sh
+```
+
+**Set Up Shortcut Key**
+
+1. Open your Ubuntu **Settings** app and head to **Keyboard** -> **Keyboard Shortcuts** -> **View and Customise Shortcuts**.
+2. Scroll to the bottom edge, choose **Custom Shortcuts**, and hit the **+** (Add) button.
+3. Apply the parameters below exactly:
+    - **Name:** `MP4 Recorder`
+    - **Command:** `/home/steven/toggle_record.sh`
+    - **Shortcut:** Set it to your desired custom keys (for example: `Alt + R` or `Super + R`).
+4. Click **Add**.
+
+
+---
+
 # References
 
 1. Chatgpt
