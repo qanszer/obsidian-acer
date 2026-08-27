@@ -17,48 +17,48 @@ Ended: July 17, 2026
 
 ## Full Stack Javascript Course
 
-Started: July 18, 2026
-Ended: 
+**Started**: July 18, 2026
+**Ended**: 
 
 **Total Duration**: 
 
-### 01 - Intermediate HTML and CSS
+#### 01 - Intermediate HTML and CSS
 Started: 
 Ended: 
 
 **Total Duration**: 
 
-### 02 - Javascript
+#### 02 - Javascript
 Started: 
 Ended: 
 
 **Total Duration**: 
 
-### 03 - Advanced HTML and CSS
+#### 03 - Advanced HTML and CSS
 Started: 
 Ended: 
 
 **Total Duration**: 
 
-### 04 - React
+#### 04 - React
 Started: 
 Ended: 
 
 **Total Duration**: 
 
-### 05 - Databases
+#### 05 - Databases
 Started: 
 Ended: 
 
 **Total Duration**: 
 
-### 06 - NodeJS
+#### 06 - NodeJS
 Started: 
 Ended: 
 
 **Total Duration**: 
 
-### 07 - Getting Hired
+#### 07 - Getting Hired
 Started: 
 Ended: 
 

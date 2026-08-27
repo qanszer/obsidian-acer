@@ -65,6 +65,14 @@ https://www.kanopy.com/en
 **Obsidian**
 https://obsidian.md/
 
+**TypeQuicker**
+https://www.typequicker.com/
+
+**Norse Font**
+https://www.joelcarrouche.com/fonts/norse#NaN
+
+
+
 ## Construction Inspos (DT Project)
 
 (contact and footers)

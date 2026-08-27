@@ -96,7 +96,7 @@ https://formspree.io/forms
 Tool to connect your website's email form to actually send the message to the designated email account
 #### 4. CanIuse
 https://caniuse.com/
-Provides up-to-date browser support tables for support of front-end web technologies
+A great resource to help you validate if new features are supported by browsers
 #### 5. Web Skills
 https://andreasbm.github.io/web-skills/?compact
 Visual overview of all the related skills one can learn for web developing ( does not mean one should learn all of it)
@@ -145,3 +145,5 @@ Visualize colors and fonts in a real website. Also has a plugin for figma
 #### 10. Free UX Templates
 https://www.nngroup.com/articles/free-ux-templates/
 Templates for discovery, research, facilitation, mapping, content, design, etc
+#### 11. UI Templates
+https://uiverse.io/

@@ -300,39 +300,65 @@ done
 
 ```bash
 #!/usr/bin/env bash
-# water_reminder.sh — sends a desktop notification every 2 hours, aligned to clock hours
 
 DISPLAY="${DISPLAY:-:0}"
 DBUS_SESSION_BUS_ADDRESS="${DBUS_SESSION_BUS_ADDRESS:-unix:path=/run/user/$(id -u)/bus}"
-
 export DISPLAY
 export DBUS_SESSION_BUS_ADDRESS
 
-TITLE="Hydration reminder"
-BODY="Drink water"
-ICON="dialog-information"
-
 while true; do
-    # Get current minute and second
+    NOW=$(date +%s)
+    HOUR=$(date +%-H)
     MINUTE=$(date +%-M)
     SECOND=$(date +%-S)
 
-    # Calculate seconds until next even 2-hour mark (0,2,4,...,22)
+    # Build candidate trigger times for today
+    NEXT=999999999
+
+    # Hourly water/walk reminder — next whole hour
+    SECS_TO_HOUR=$(( (60 - MINUTE) * 60 - SECOND ))
+    [ "$SECS_TO_HOUR" -le 0 ] && SECS_TO_HOUR=3600
+    [ "$SECS_TO_HOUR" -lt "$NEXT" ] && NEXT=$SECS_TO_HOUR
+
+    # 22:30 wind down
+    TARGET_2230=$(date -d "today 22:30:00" +%s)
+    SECS_TO_2230=$(( TARGET_2230 - NOW ))
+    [ "$SECS_TO_2230" -le 0 ] && TARGET_2230=$(date -d "tomorrow 22:30:00" +%s) && SECS_TO_2230=$(( TARGET_2230 - NOW ))
+    [ "$SECS_TO_2230" -lt "$NEXT" ] && NEXT=$SECS_TO_2230
+
+    # 23:20 sleep now
+    TARGET_2320=$(date -d "today 23:20:00" +%s)
+    SECS_TO_2320=$(( TARGET_2320 - NOW ))
+    [ "$SECS_TO_2320" -le 0 ] && TARGET_2320=$(date -d "tomorrow 23:20:00" +%s) && SECS_TO_2320=$(( TARGET_2320 - NOW ))
+    [ "$SECS_TO_2320" -lt "$NEXT" ] && NEXT=$SECS_TO_2320
+
+    sleep "$NEXT"
+
     HOUR=$(date +%-H)
-    HOURS_UNTIL_NEXT=$(( 2 - (HOUR % 2) ))
-    if [ "$HOURS_UNTIL_NEXT" -eq 2 ] && [ "$MINUTE" -eq 0 ] && [ "$SECOND" -eq 0 ]; then
-        HOURS_UNTIL_NEXT=0
+    MINUTE=$(date +%-M)
+    DAY=$(date +%u)
+
+    if [ "$HOUR" -eq 22 ] && [ "$MINUTE" -eq 30 ]; then
+        notify-send --urgency=critical --icon="dialog-information" "Notice" "Start winding down for sleep."
+        paplay /usr/share/sounds/freedesktop/stereo/complete.oga
+    elif [ "$HOUR" -eq 23 ] && [ "$MINUTE" -eq 20 ]; then
+        notify-send --urgency=critical --icon="dialog-information" "Bedtime" "Stop what you're doing and go to sleep now."
+        paplay /usr/share/sounds/freedesktop/stereo/bell.oga
+    elif [ "$HOUR" -eq 17 ] && [ "$MINUTE" -eq 0 ] && { [ "$DAY" -eq 1 ] || [ "$DAY" -eq 3 ]; }; then
+        notify-send --urgency=critical --icon="dialog-information" "Notice" "Time for your workout!"
+        paplay /usr/share/sounds/freedesktop/stereo/complete.oga
+    elif [ "$HOUR" -eq 7 ] && [ "$MINUTE" -eq 0 ] && [ "$DAY" -eq 6 ]; then
+        notify-send --urgency=critical --icon="dialog-information" "Notice" "Time for your workout!"
+        paplay /usr/share/sounds/freedesktop/stereo/complete.oga
+    else
+        if [ $(( HOUR % 2 )) -eq 0 ]; then
+            notify-send --urgency=normal --icon="dialog-information" "Reminder" "Stand up and stretchhhh"
+            paplay /usr/share/sounds/freedesktop/stereo/message.oga
+        else
+            notify-send --urgency=normal --icon="dialog-information" "Reminder" "Drink water and stretchhhhh"
+            paplay /usr/share/sounds/freedesktop/stereo/complete.oga
+        fi
     fi
-
-    SECONDS_UNTIL_NEXT=$(( (HOURS_UNTIL_NEXT * 3600) - (MINUTE * 60) - SECOND ))
-
-    if [ "$SECONDS_UNTIL_NEXT" -le 0 ]; then
-        SECONDS_UNTIL_NEXT=$(( 7200 - (MINUTE * 60) - SECOND ))
-    fi
-
-    sleep "$SECONDS_UNTIL_NEXT"
-
-    notify-send --urgency=normal --icon="$ICON" "$TITLE" "$BODY"
 done
 ```
 

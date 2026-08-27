@@ -331,6 +331,131 @@ text-shadow: ;
 ```
 
 
+### Light/Dark Theme
+
+#### Method 1 - Manual Button
+[Live preview](https://codepen.io/TheOdinProjectExamples/pen/PojVRMb)
+
+```html
+<div class="container">
+  <p>You're now viewing this example with the <span class='theme-name'>dark</span> theme!</p>
+  <button class="theme-toggle">Toggle Theme</button>
+</div>
+```
+
+```css
+:root.dark {
+  --border-btn: 1px solid rgb(220, 220, 220);
+  --color-base-bg: rgb(18, 18, 18);
+  --color-base-text: rgb(240, 240, 240);
+  --color-btn-bg: rgb(36, 36, 36);
+}
+
+:root.light {
+  --border-btn: 1px solid rgb(36, 36, 36);
+  --color-base-bg: rgb(240, 240, 240);
+  --color-base-text: rgb(18, 18, 18);
+  --color-btn-bg: rgb(220, 220, 220);
+}
+
+body,
+.theme-toggle {
+  color: var(--color-base-text);
+}
+
+body {
+  background-color: var(--color-base-bg);
+  padding: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+.theme-toggle {
+  background-color: var(--color-btn-bg);
+  border: var(--border-btn);
+  font-size: 1.125rem;
+  padding: 10px 20px;
+}
+
+.theme-toggle:hover {
+  cursor: pointer;
+}
+
+.theme-toggle:focus {
+  outline: var(--border-btn);
+}
+```
+
+```js
+function setTheme() {
+  const root = document.documentElement;
+  const newTheme = root.className === 'dark' ? 'light' : 'dark';
+  root.className = newTheme;
+  
+  document.querySelector('.theme-name').textContent = newTheme;
+}
+
+document.querySelector('.theme-toggle').addEventListener('click', setTheme)
+```
+
+#### Method 2 - User's Operating System Setting
+[Live preview](https://codepen.io/TheOdinProjectExamples/pen/powGZzE)
+
+```html
+<div class="container">
+  <p>Based on your theme setting in your OS or user agent, you're now viewing this example with the <span class='theme-name'></span> theme!</p>
+</div>
+```
+
+```css
+:root {
+  --border-btn: 1px solid rgb(36, 36, 36);
+  --color-base-bg: rgb(240, 240, 240);
+  --color-base-text: rgb(18, 18, 18);
+  --color-btn-bg: rgb(220, 220, 220);
+  --theme-name: "light";
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --border-btn: 1px solid rgb(220, 220, 220);
+    --color-base-bg: rgb(18, 18, 18);
+    --color-base-text: rgb(240, 240, 240);
+    --color-btn-bg: rgb(36, 36, 36);
+    --theme-name: "dark";
+  }
+}
+
+body {
+  background-color: var(--color-base-bg);
+  color: var(--color-base-text);
+  padding: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+.theme-name::after {
+  content: var(--theme-name);
+}
+```
+
+
 ---
 
 # CSS Good Practices
@@ -486,7 +611,7 @@ body {
 }
 ```
 
-#### 2 - Matt Brictson
+#### 2 - Matt Brictson (preferred)
 
 ```css
 /*! modern-normalize v3.0.1 | MIT License | https://github.com/sindresorhus/modern-normalize */
@@ -506,10 +631,10 @@ html {
         Arial,
         sans-serif,
         'Apple Color Emoji',
-        'Segoe UI Emoji'; /* 1 */
-    line-height: 1.15; /* 2 */
-    -webkit-text-size-adjust: 100%; /* 3 */
-    tab-size: 4; /* 4 */
+        'Segoe UI Emoji'; 
+    line-height: 1.15; 
+    -webkit-text-size-adjust: 100%; 
+    tab-size: 4; 
 }
 
 body {
@@ -531,8 +656,8 @@ pre {
         Consolas,
         'Liberation Mono',
         Menlo,
-        monospace; /* 1 */
-    font-size: 1em; /* 2 */
+        monospace; 
+    font-size: 1em; 
 }
 
 small {
@@ -564,10 +689,10 @@ input,
 optgroup,
 select,
 textarea {
-    font-family: inherit; /* 1 */
-    font-size: 100%; /* 1 */
-    line-height: 1.15; /* 1 */
-    margin: 0; /* 2 */
+    font-family: inherit;
+    font-size: 100%; 
+    line-height: 1.15; 
+    margin: 0;
 }
 
 button,
@@ -591,8 +716,8 @@ progress {
 }
 
 [type='search'] {
-    -webkit-appearance: textfield; /* 1 */
-    outline-offset: -2px; /* 2 */
+    -webkit-appearance: textfield; 
+    outline-offset: -2px;
 }
 
 ::-webkit-search-decoration {
@@ -600,8 +725,8 @@ progress {
 }
 
 ::-webkit-file-upload-button {
-    -webkit-appearance: button; /* 1 */
-    font: inherit; /* 2 */
+    -webkit-appearance: button; 
+    font: inherit; 
 }
 
 summary {
@@ -814,6 +939,28 @@ blockquote {
 }
 ```
 
+### The Perfect Width
+
+According to [The Elements of Typographic Style](http://webtypography.net/2.1.2#:%7E:text=%E2%80%9CAnything%20from%2045%20to%2075,is%2040%20to%2050%20characters.%E2%80%9D) by Robert Bringhurst, "anything from 45 to 75 characters is widely regarded as a satisfactory length of line for a single-column page set in a serifed text face in a text size."
+
+To ensure that your text blocks stay between 45 and 75 characters wide, use `clamp()` and the `ch` (0-width [character advance](https://developer.mozilla.org/docs/Web/CSS/length)) unit:
+```css
+p {
+  width: clamp(45ch, 50%, 75ch);
+}
+```
+
+## Fluid typography
+
+To enable [fluid typography](https://www.smashingmagazine.com/2016/05/fluid-typography/), [Mike Riethmeuller](https://twitter.com/mikeriethmuller) popularized a technique that uses the `clamp()` function to set a minimum font size, maximum font size, and allow scaling between those sizes.
+```css
+p {
+  font-size: clamp(1.5rem, 5vw, 3rem);
+}
+```
+
+**Warning:** Limiting maximum font sizes using `max()` or `clamp()` can cause a WCAG failure under [1.4.4 Resize text (AA)](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=144#resize-text), because it might prevent users from scaling the text to 200% of its original size. Make sure to [test the results with zoom](https://adrianroselli.com/2019/12/responsive-type-and-zoom.html).
+
 ### Hierarchy
 
 Remember to prioritize hierarchy as you build your user interfaces for better clarity and page flow. A great way to do this is with [a typography scale built into your design system](https://material.io/design/typography/the-type-system.html#type-scale).
@@ -831,6 +978,9 @@ If you're styling elements using the `system-ui` value for `font-face` property,
 
 ## Advanced Selectors
 
+
+### Check Browser Support
+[Website link](https://www.css3.info/selectors-test/)
 
 ### Specificity Value (Importance)
 [More info](https://css-tricks.com/specifics-on-css-specificity/#aa-calculating-css-specificity-value)
@@ -949,6 +1099,12 @@ img[src="puppy.jpg"] {
 ```
 
 
+### Game for Practice
+https://flukeout.github.io/
+
+Try it out to practice selector methods. You have to follow the instructions on the header. Hints are given on the right side of the page.
+
+
 ---
 
 ## Responsiveness
@@ -1036,6 +1192,16 @@ Use `rem` or `%`
 /* ❌ Avoid fixed pixels for large spacing */
 .hero {
     padding: 100px;  /* Too rigid */
+}
+```
+
+## Manage padding
+
+You can also use `max()` to set a minimum padding size. This example comes from [CSS Tricks](https://css-tricks.com/using-max-for-an-inner-element-max-width/), where reader Caluã de Lacerda Pataca shared this idea: Let an element have additional padding at larger screen sizes, but keep a minimum padding at smaller screen sizes. To do this, use `calc()` or `max()` and subtract the minimum padding from both sides of the element: `calc((100vw - var(--contentWidth)) / 2)`, or `max(2rem, 50vw - var(--contentWidth) / 2)`. In your style sheet, it should look like this:
+
+```css
+footer {
+  padding: var(--blockPadding) max(2rem, 50vw - var(--contentWidth) / 2);
 }
 ```
 

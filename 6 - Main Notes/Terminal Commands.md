@@ -517,7 +517,18 @@ sudo systemctl restart tlp
 
 
 ---
+### Auto-hide cursor
 
+```bash
+sudo apt install unclutter-xfixes
+```
+
+Add to startup applications:
+```bash
+unclutter-xfixes -idle 3
+```
+
+---
 ### Hide cursor using shortcut (x11 only; wayland uses gnome extension)
 
 ```bash
@@ -530,11 +541,14 @@ nano ~/toggle_cursor.sh
 
 ```bash
 #!/bin/bash
-if pgrep -x "unclutter" > /dev/null
-then
+running_pid=$(pgrep -x unclutter | while read -r pid; do
+    state=$(ps -p "$pid" -o stat= 2>/dev/null)
+    [[ "$state" != Z* ]] && echo "$pid"
+done)
+
+if [ -n "$running_pid" ]; then
     pkill -x unclutter
 else
-    # --timeout 0 hides it instantly without waiting for inactivity
     unclutter --timeout 0 &
 fi
 ```
@@ -564,6 +578,10 @@ cd ~/.local/share/gnome-shell/extensions/image-popup@yourname.local
 
 2. **Create `metadata.json`**
 Create a file named `metadata.json` to register the extension with GNOME 42:
+```bash
+nano metadata.json
+```
+
 ```json
 {
   "name": "Image Popup Extension",
@@ -575,6 +593,10 @@ Create a file named `metadata.json` to register the extension with GNOME 42:
 
 3. **Create `extension.js`**
 Create a file named `extension.js` with the following system code. _(Ensure you update the `/path/to/your/image.png` placeholder to your real file path)._
+```bash
+nano extension.js
+```
+
 ```javascript
 const Gio = imports.gi.Gio;
 const St = imports.gi.St;

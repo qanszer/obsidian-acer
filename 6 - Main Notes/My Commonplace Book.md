@@ -87,3 +87,8 @@ A collection of my favorite quotes. Quotes that struck something in me.
 
 
 *"Your small steps matter. God sees your effort."*
+
+
+*"Those that remember it, call that freedom of speech with a good dose of common sense, known as an opinion, which when expressed does not have to be agreed with nor dismissed, but it is good manners to respect the persons point of view as theirs, just as you would wish your own to be."*
+
+

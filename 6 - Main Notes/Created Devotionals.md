@@ -308,3 +308,325 @@ The testing of your faith produces perseverance. Let perseverance finish its wor
 8 - But Jesus challenges that. The world says: "Take up your glass and sit back." Christ says: "Take up your cross and follow me."
 9 - James also says, "whenever you face trials of many kinds" (v. 2). If you live long enough in this world, you will inevitably go through some kind of suffering. But as Christians, you can take comfort in the fact that it is not pointless; God is shaping and pruning you all the while.
 10 - When you suffer, it's tempting to think that God is mean. But God does not abandon you. You are not alone. In all things, through all circumstances, God is molding, shaping and perfecting you.
+
+
+---
+
+
+Born into royalty around 1010 BCE, Solomon’s life began in the shadow of controversy as the son of King David and Bathsheba. Despite being a younger son, he ascended the throne of Israel after a fierce palace power struggle, guided by the strategic counsel of his mother and the prophet Nathan. Early in his reign, the young king sought divine guidance, asking God not for wealth or long life, but for an understanding mind to govern his people justly. 
+
+According to the biblical account in 1 Kings 3, God Himself spoke directly to Solomon in a dream.
+
+While Solomon was staying at Gibeon to offer sacrifices, God appeared to him during the night and explicitly said, "Ask what I shall give you." [1 Kings 3:5] Instead of requesting long life, personal wealth, or the death of his enemies, Solomon humbly requested an "understanding mind" (or a discerning heart) to properly govern the nation [1 Kings 3:9-11]. God was so pleased with this unselfish request that He granted Solomon unmatched wisdom, while also promising him the riches and honor he did not ask for [1 Kings 3:11-13].
+
+This request was granted, and Solomon quickly became world-renowned for his unrivaled wisdom, famously demonstrated when he resolved a dispute between two mothers over a single living baby by offering to cut the child in half—successfully revealing the true mother's identity through her desperate plea to save the boy's life.
+
+With wisdom came unprecedented prosperity, ushering Israel into a golden age of wealth and global influence. Solomon transformed Jerusalem into a architectural marvel, spending seven years constructing the magnificent First Holy Temple to house the Ark of the Covenant, followed by thirteen years building his own sprawling royal palace. He established vast commercial networks, built a powerful navy, and accumulated wealth so vast that silver was said to be as common as stones in the city. His fame spread so far that the legendary Queen of Sheba traveled across continents to test his intellect with hard questions, leaving breathless and bearing gifts of gold and rare spices after witnessing the splendor of his court. During this prosperous era, he also penned timeless literature, filling pages with the poetry and profound observations of Proverbs, Ecclesiastes, and the Song of Songs.
+
+However, the golden age eventually gave way to spiritual and political decline. To secure international alliances, Solomon married hundreds of foreign princesses, eventually maintaining a household of 700 wives and 300 concubines. As he aged, these foreign marriages turned his heart away from his upbringing; he began building altars to pagan deities like Molech and Ashtoreth, participating in the very idolatry he had once guarded against. This spiritual compromise fractured the unity of his kingdom, sparking internal rebellions and stirring up foreign adversaries. After a 40-year reign, Solomon died of natural causes around 931 BCE. He left behind a fragile empire that immediately fractured into two rival nations, Israel and Judah, under the harsh rule of his son Rehoboam.
+
+𝙞𝙛 𝙎𝙤𝙡𝙤𝙢𝙤𝙣 𝙬𝙖𝙨 𝙩𝙝𝙚 𝙬𝙞𝙨𝙚𝙨𝙩 𝙢𝙖𝙣, 𝙝𝙤𝙬 𝙙𝙞𝙙 𝙝𝙚 𝙚𝙣𝙙 𝙪𝙥 𝙢𝙖𝙠𝙞𝙣𝙜 𝙨𝙤 𝙢𝙖𝙣𝙮 𝙛𝙤𝙤𝙡𝙞𝙨𝙝 𝙘𝙝𝙤𝙞𝙘𝙚𝙨?
+
+𝘐 𝘳𝘦𝘢𝘭𝘪𝘻𝘦𝘥 𝘐 𝘤𝘰𝘮𝘱𝘭𝘦𝘵𝘦𝘭𝘺 𝘮𝘪𝘴𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘰𝘰𝘥 𝘚𝘰𝘭𝘰𝘮𝘰𝘯'𝘴 𝘴𝘵𝘰𝘳𝘺.
+
+When people think of Solomon,
+
+one word usually comes to mind.
+
+W I S D O M.
+
+After all, he's known as the wisest man who ever lived.
+
+God Himself gave him extraordinary wisdom.
+
+So here's the question that kept bothering me.
+
+If Solomon was the wisest man who ever lived,
+
+how did he end up making some of the biggest mistakes
+
+in the Bible?
+
+Honestly...
+
+that doesn't seem to make sense.
+
+Until I read his story again.
+
+Most of us know what happened at the beginning.
+
+Nag-appear si Lord kay Solomon in a dream and said,
+
+"Ask for whatever you want Me to give you." (1 Kings 3:5)
+
+Imagine that.
+
+You could ask for anything.
+
+Riches.
+
+Long life.
+
+Victory over your enemies.
+
+Instead, ang hiningi ni Solomon ay wisdom.
+
+More specifically, he asked for "an understanding heart"
+
+to lead God's people well.
+
+At ang sabi ng Scripture,
+
+GOD WAS PLEASED.
+
+So He gave Solomon wisdom unlike anyone else.
+
+But that's not all.
+
+God also gave him wealth, honor, and influence.
+
+Everything seemed to be going perfectly.
+
+Until I reached 1 Kings 11.
+
+And I honestly had to stop reading for a moment.
+
+Ang sabi ng Bible,
+
+"King Solomon LOVED many FOREGN WOMEN..." (1 Kings 11:1)
+
+Then it tells us he had 700 wives and 300 concubines.
+
+Every time I read that, I used to think,
+
+Wow ha, that's really a lot ha! haha
+
+But I never stopped to ask kung bakit sinama pa rin ito sa Bible.
+
+Naisip mo rin ba?
+
+Then I discovered something I had completely missed.
+
+Hundreds of years earlier, God had already warned Israel's future kings.
+
+In Deuteronomy 17:17,
+
+God said,
+
+"He must not take many wives, or his heart will be led astray."
+
+Did you catch that?
+
+Hindi lang ito random rule.
+
+God already knew what would happen.
+
+And that's exactly what happened to Solomon.
+
+The Bible says,
+
+"His wives turned his heart after other gods." (1 Kings 11:4)
+
+And I want you to notice something important.
+
+The problem wasn't that Solomon married women from other nations because of their ethnicity.
+
+The issue was their gods.
+
+Many of these marriages were political alliances.
+
+At sa ancient world, kings often married the daughters
+
+of neighboring kingdoms to secure peace.
+
+But those alliances also brought foreign worship
+
+into Israel.
+
+Eventually, Solomon didn't just allow it.
+
+He built places of worship for those false gods.
+
+The very king who built God's temple,
+
+also built altars for IDOLS.
+
+That honestly broke my heart.
+
+Then I asked myself,
+
+How could the wisest man do something so unwise?
+
+And I think the answer surprised me.
+
+Ready?
+
+.
+
+.
+
+.
+
+Sure?
+
+.
+
+.
+
+.
+
+Here's the thing.
+
+The Bible never says Solomon stopped being intelligent.
+
+It never says God suddenly took away his wisdom.
+
+The tragedy wasn't that Solomon didn't know what was right.
+
+The tragedy was that he didn't continue living it.
+
+And maybe, that's one of the biggest lessons in his story.
+
+Because wisdom isn't just knowing the right thing.
+
+It's CHOOSING the right thing again,
+
+and again,
+
+and AGAIN..
+
+Think about it.
+
+How many times do we already know kung ano yung sinabi ni Lord?
+
+but still struggle to obey?
+
+We know we should forgive.
+
+But we hold on to bitterness.
+
+We know we should be honest.
+
+But we compromise when it benefits us.
+
+We know our identity is found in Christ.
+
+But we keep looking for approval from people.
+
+Because here's the truth my friend.
+
+The problem isn't always a lack of knowledge.
+
+Sometimes, it's a lack of obedience.
+
+And that's exactly why Solomon's story feels so relevant.
+
+Because today, we have more access to biblical teaching
+
+than ever before.
+
+There's thousands of podcast already available.
+
+Books.
+
+YouTube.
+
+Bible apps.
+
+Sermons.
+
+We can know a lot about God.
+
+But knowing isn't the same as following.
+
+Then something else hit me.
+
+Solomon himself wrote Proverbs,
+
+where he repeatedly warned people to fear the Lord and walk in wisdom.
+
+Yet later,
+
+his own life drifted from those very truths.
+
+But that doesn't make Solomon's writings worthless.
+
+If anything, it makes his story even more sobering.
+
+It reminds us that it's possible to speak wisely,
+
+while slowly drifting in our hearts.
+
+And honestly,
+
+that scares me.
+
+Because this story isn't just about Solomon.
+
+IT'S ABOUT US.
+
+Maybe today,
+
+God isn't asking,
+
+"How much do you know?"
+
+Maybe He's asking,
+
+"What are you doing with what you already know?"
+
+Because at the end of the day,
+
+God isn't simply looking for people who know His Word.
+
+He's looking for people who will live it.
+
+And that's where I found the beauty of the Gospel.
+
+When I finished reading Solomon's story,
+
+ito yung na-realize ko.
+
+If the wisest man couldn't save himself through wisdom alone,
+
+what hope do the rest of us have?
+
+The answer isn't
+
+"Try harder."
+
+The answer
+
+is Jesus.
+
+The Bible calls Jesus someone "greater than Solomon."
+
+(Matthew 12:42)
+
+Unlike Solomon, Jesus never allowed His heart to turn away
+
+from the Father.
+
+Unlike Solomon, He perfectly lived the wisdom He taught.
+
+And unlike Solomon, Jesus didn't simply tell us how to live.
+
+He came to rescue people who have failed to live wisely.
+
+That's why our hope has never been our own wisdom.
+
+Our hope is Christ.
+
+The One who perfectly obeyed where every one of us, including Solomon,
+
+has fallen short.
+
+At alam mo ba, Reading Solomon's story made me realize something.
+
+I'm not afraid of not knowing enough.
+
+I'm afraid of slowly drifting while thinking na okay naman ako.
+
+So tonight, my prayer is simple,
+
+"Jesus, never let my heart drift from You."

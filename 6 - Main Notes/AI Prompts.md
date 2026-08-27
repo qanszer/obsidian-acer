@@ -6,11 +6,19 @@ Tags: [[Productivity]]
 ---
 # AI Prompts
 
-
 ```
-Ask me questions using AskUserQuestion before you start. I want to insertTaskHere to insertGoalHere. Read my files. No commentary. No explanations. Just the output.
+Ask me questions using AskUserQuestion before you start. I want to insertTaskHere. Read my files.
 ```
 
+## Detectors
+
+https://copyleaks.com/ai-detector
+https://www.turnitin.com/
+
+## Humanizer
+
+https://www.essaydone.ai/humanizer
+https://quillbot.com/ai-humanizer
 
 
 ---

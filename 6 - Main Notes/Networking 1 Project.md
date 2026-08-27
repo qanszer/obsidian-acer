@@ -220,13 +220,3 @@ Consultation Takeaways
 2. kelangan ayusin yung heading (nakay castaneda yung maayos na heading)
 3. lagyan ng header description yung list of figures ("figure no.", "description", "page number")
 4. arrange the cabling sa physical view sa packet tracer using bend points (malalagay sa walls yung cables)
-
-
-
-
-
-
-
----
-
-## References

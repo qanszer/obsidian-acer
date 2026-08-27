@@ -746,6 +746,318 @@ jealousy is like cancer in the bones.
 34 Godliness makes a nation great,
 but sin is a disgrace to any people.
 
+### Chapter 15
+
+**Proverbs 15:1 NLT**
+1 A gentle answer deflects anger,
+but harsh words make tempers flare.
+
+**Proverbs 15:3 NLT**
+3 The LORD is watching everywhere,
+keeping his eye on both the evil and the good.
+
+**Proverbs 15:4 NLT**
+4 Gentle words are a tree of life;
+a deceitful tongue crushes the spirit.
+
+**Proverbs 15:5 NLT**
+5 Only a fool despises a parent’s discipline;
+whoever learns from correction is wise.
+
+**Proverbs 15:10 NLT**
+10 Whoever abandons the right path will be severely disciplined;
+whoever hates correction will die.
+
+**Proverbs 15:12 NLT**
+12 Mockers hate to be corrected,
+so they stay away from the wise.
+
+**Proverbs 15:13 NLT**
+13 A glad heart makes a happy face;
+a broken heart crushes the spirit.
+
+**Proverbs 15:14 NLT**
+14 A wise person is hungry for knowledge,
+while the fool feeds on trash.
+
+**Proverbs 15:15 NLT**
+15 For the despondent, every day brings trouble;
+for the happy heart, life is a continual feast.
+
+**Proverbs 15:16 NLT**
+16 Better to have little, with fear for the LORD,
+than to have great treasure and inner turmoil.
+
+**Proverbs 15:20 NLT**
+20 Sensible children bring joy to their father;
+foolish children despise their mother.
+
+**Proverbs 15:22 NLT**
+22 Plans go wrong for lack of advice;
+many advisers bring success.
+
+**Proverbs 15:23 NLT**
+23 Everyone enjoys a fitting reply;
+it is wonderful to say the right thing at the right time!
+
+**Proverbs 15:25 NLT** ??
+25 The LORD tears down the house of the proud,
+but he protects the property of widows.
+
+**Proverbs 15:28 NLT**
+28 The heart of the godly thinks carefully before speaking;
+the mouth of the wicked overflows with evil words.
+
+**Proverbs 15:30 NLT**
+30 A cheerful look brings joy to the heart;
+good news makes for good health.
+
+**Proverbs 15:31-33 NLT**
+31 If you listen to constructive criticism,
+you will be at home among the wise.
+32 If you reject discipline, you only harm yourself;
+but if you listen to correction, you grow in understanding.
+33 Fear of the LORD teaches wisdom;
+humility precedes honor.
+
+### Chapter 16
+
+**Proverbs 16:1 NLT**
+1 We can make our own plans,
+but the LORD gives the right answer.
+
+**Proverbs 16:2 NLT**
+2 People may be pure in their own eyes,
+but the LORD examines their motives.
+
+**Proverbs 16:3 NLT**
+3 Commit your actions to the LORD,
+and your plans will succeed.
+
+**Proverbs 16:4 NLT**
+4 The LORD has made everything for his own purposes,
+even the wicked for a day of disaster.
+
+**Proverbs 16:5 NLT**
+5 The LORD detests the proud;
+they will surely be punished.
+
+**Proverbs 16:6 NLT**
+6 Unfailing love and faithfulness make atonement for sin.
+By fearing the LORD, people avoid evil.
+
+**Proverbs 16:8 NLT**
+8 Better to have little, with godliness,
+than to be rich and dishonest.
+
+**Proverbs 16:9 NLT**
+9 We can make our plans,
+but the LORD determines our steps.
+
+**Proverbs 16:11 NLT**
+11 The LORD demands accurate scales and balances;
+he sets the standards for fairness.
+
+**Proverbs 16:18 NLT**
+18 Pride goes before destruction,
+and haughtiness before a fall.
+
+**Proverbs 16:19 NLT**
+19 Better to live humbly with the poor
+than to share plunder with the proud.
+
+**Proverbs 16:20 NLT**
+20 Those who listen to instruction will prosper;
+those who trust the LORD will be joyful.
+
+**Proverbs 16:22 NLT**
+22 Discretion is a life-giving fountain to those who possess it,
+but discipline is wasted on fools.
+
+**Proverbs 16:23 NLT**
+23 From a wise mind comes wise speech;
+the words of the wise are persuasive.
+
+**Proverbs 16:24 NLT**
+24 Kind words are like honey—
+sweet to the soul and healthy for the body.
+
+**Proverbs 16:25 NLT**
+25 There is a path before each person that seems right,
+but it ends in death.
+
+**Proverbs 16:26 NLT**
+26 It is good for workers to have an appetite;
+an empty stomach drives them on.
+
+**Proverbs 16:28 NLT**
+28 A troublemaker plants seeds of strife;
+gossip separates the best of friends.
+
+**Proverbs 16:31 NLT** ??
+31 Gray hair is a crown of glory;
+it is gained by living a godly life.
+
+**Proverbs 16:32 NLT**
+32 Better to be patient than powerful;
+better to have self-control than to conquer a city.
+
+**Proverbs 16:33 NLT**
+33 We may throw the dice,
+but the LORD determines how they fall.
+
+### Chapter 17
+
+**Proverbs 17:1 NLT**
+1 Better a dry crust eaten in peace
+than a house filled with feasting—and conflict.
+
+**Proverbs 17:3 NLT**
+3 Fire tests the purity of silver and gold,
+but the LORD tests the heart.
+
+**Proverbs 17:4-5 NLT**
+4 Wrongdoers eagerly listen to gossip;
+liars pay close attention to slander.
+ 5 Those who mock the poor insult their Maker;
+those who rejoice at the misfortune of others will be punished.
+
+**Proverbs 17:8 NLT** ??
+8 A bribe is like a lucky charm;
+whoever gives one will prosper!
+
+**Proverbs 17:9 NLT**
+9 Love prospers when a fault is forgiven,
+but dwelling on it separates close friends.
+
+**Proverbs 17:10 NLT**
+10 A single rebuke does more for a person of understanding
+than a hundred lashes on the back of a fool.
+
+**Proverbs 17:12 NLT**
+12 It is safer to meet a bear robbed of her cubs
+than to confront a fool caught in foolishness.
+
+**Proverbs 17:13 NLT**
+13 If you repay good with evil,
+evil will never leave your house.
+
+**Proverbs 17:14 NLT**
+14 Starting a quarrel is like opening a floodgate,
+so stop before a dispute breaks out.
+
+**Proverbs 17:16 NLT**
+16 It is senseless to pay tuition to educate a fool,
+since he has no heart for learning.
+
+**Proverbs 17:17 NLT**
+17 A friend is always loyal,
+and a brother is born to help in time of need.
+
+**Proverbs 17:19 NLT**
+19 Anyone who loves to quarrel loves sin;
+anyone who trusts in high walls invites disaster.
+
+**Proverbs 17:21 NLT**
+21 It is painful to be the parent of a fool;
+there is no joy for the father of a rebel.
+
+**Proverbs 17:22 NLT**
+22 A cheerful heart is good medicine,
+but a broken spirit saps a person’s strength.
+
+**Proverbs 17:24 NLT**
+24 Sensible people keep their eyes glued on wisdom,
+but a fool’s eyes wander to the ends of the earth.
+
+**Proverbs 17:25 NLT**
+25 Foolish children bring grief to their father
+and bitterness to the one who gave them birth.
+
+**Proverbs 17:27 NLT**
+27 A truly wise person uses few words;
+a person with understanding is even-tempered.
+
+**Proverbs 17:28 NLT**
+28 Even fools are thought wise when they keep silent;
+with their mouths shut, they seem intelligent.
+
+### Chapter 18
+
+**Proverbs 18:1 NLT**
+1 Unfriendly people care only about themselves;
+they lash out at common sense.
+
+**Proverbs 18:2 NLT**
+2 Fools have no interest in understanding;
+they only want to air their own opinions.
+
+**Proverbs 18:6 NLT**
+6 Fools’ words get them into constant quarrels;
+they are asking for a beating.
+ 7 The mouths of fools are their ruin;
+they trap themselves with their lips.
+
+**Proverbs 18:8 NLT**
+8 Rumors are dainty morsels
+that sink deep into one’s heart.
+
+**Proverbs 18:9 NLT**
+9 A lazy person is as bad as
+someone who destroys things.
+
+**Proverbs 18:10 NLT**
+10 The name of the LORD is a strong fortress;
+the godly run to him and are safe.
+
+**Proverbs 18:11 NLT**
+11 The rich think of their wealth as a strong defense;
+they imagine it to be a high wall of safety.
+
+**Proverbs 18:12 NLT**
+12 Haughtiness goes before destruction;
+humility precedes honor.
+
+**Proverbs 18:13 NLT**
+13 Spouting off before listening to the facts
+is both shameful and foolish.
+
+**Proverbs 18:14 NLT**
+14 The human spirit can endure a sick body,
+but who can bear a crushed spirit?
+
+**Proverbs 18:15 NLT**
+15 Intelligent people are always ready to learn.
+Their ears are open for knowledge.
+
+**Proverbs 18:16 NLT**
+16 Giving a gift can open doors;
+it gives access to important people!
+
+**Proverbs 18:18 NLT**
+18 Flipping a coin can end arguments;
+it settles disputes between powerful opponents.
+
+**Proverbs 18:19 NLT**
+19 An offended friend is harder to win back than a fortified city.
+Arguments separate friends like a gate locked with bars.
+
+**Proverbs 18:20 NLT**
+20 Wise words satisfy like a good meal;
+the right words bring satisfaction.
+
+**Proverbs 18:21 NLT**
+21 The tongue can bring death or life;
+those who love to talk will reap the consequences.
+
+**Proverbs 18:22 NLT**
+22 The man who finds a wife finds a treasure,
+and he receives favor from the LORD.
+
+**Proverbs 18:24 NLT**
+24 There are “friends” who destroy each other,
+but a real friend sticks closer than a brother.
+
 
 ---
 
@@ -1440,7 +1752,7 @@ Acts of the Apostles 18:9-10 NLT
 ### Chapter 4
 
 **Romans 4:14-16 NLT**
-[14] If God’s promise is only for those who obey the law, then faith is not necessary and the promise is pointless. [15] For the law always brings punishment on those who try to obey it. (The only way to avoid breaking the law is to have no law to break!) [16] So the promise is received by faith. It is given as a free gift. And we are all certain to receive it, whether or not we live according to the law of Moses, if we have faith like Abraham’s. For Abraham is the father of all who believe. 
+[14] If God’s promise is only for those who obey the law, then faith is not necessary and the promise is pointless. [15] For the law always brings punishment on those who try to obey it. (The only way to avoid breaking the law is to have no law to break!) [16] So the promise is received by faith. It is given as a free gift. And we are all certain to receive it, whether or not we live according to the law of Moses, if we have faith like Abraham’s. For Abraham is the father of all who believe.
 
 **Romans 4:24-25 NLT**
 [24] for our benefit, too, assuring us that God will also count us as righteous if we believe in him, the one who raised Jesus our Lord from the dead. [25] He was handed over to die because of our sins, and he was raised to life to make us right with God.

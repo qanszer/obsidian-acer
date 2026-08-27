@@ -52,15 +52,19 @@ Foward workspace: alt + shift + s
 - Go to manage sync; check the workspaces box
 
 
-## 2 - Customize Timer for Unloading Tabs
+## 2 - Hidden Config
 
 Enter url:
 ```
 about:config
 ```
 
-Search and change to 180000 (3 minutes):
+**Search and change to 180000 (3 minutes):**
 ```
 browser.tabs.min_inactive_duration_before_unload
 ```
 
+**Disable show sidebar on hover:**
+```
+zen.view.compact.show-sidebar-and-toolbar-on-hover
+```
