@@ -38,19 +38,9 @@
               "icon": "lucide-file",
               "title": "Bible Verse Logs"
             }
-          },
-          {
-            "id": "a0e7d112f1a53ef3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,6 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "6 - Main Notes/Bible Verse Logs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 234.76544189453125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,35 +230,35 @@
       "readest-highlights:Sync all books to folder": false
     }
   },
-  "active": "a0e7d112f1a53ef3",
+  "active": "f0299c390fe557bd",
   "lastOpenFiles": [
+    "6 - Main Notes/Terminal Commands.md",
+    "6 - Main Notes/Workout Routine Archive.md",
     "6 - Main Notes/Bible Verse Logs.md",
+    "6 - Main Notes/Victories and Prayer Requests.md",
+    "6 - Main Notes/All Installed Software.md",
+    "6 - Main Notes/Technical English.md",
+    "1 - Rough Notes/Quick Note.md",
+    "6 - Main Notes/Form Basics and Validation.md",
+    "6 - Main Notes/HTML Cheat Sheet.md",
+    "6 - Main Notes/CSS Cheat Sheet.md",
+    "6 - Main Notes/quick.md",
+    "6 - Main Notes/Git Commit Message.md",
+    "6 - Main Notes/Our Conflict Agreements.md",
+    "6 - Main Notes/Theology 3.md",
     "6 - Main Notes/AI Prompts.md",
     "6 - Main Notes/Nihongo.md",
-    "6 - Main Notes/Technical English.md",
-    "6 - Main Notes/CSS Cheat Sheet.md",
-    "6 - Main Notes/Git Commit Message.md",
     "6 - Main Notes/Personal IT College Course Logs.md",
     "6 - Main Notes/Deal with Canker Sore.md",
     "6 - Main Notes/Website Inspo Links.md",
-    "6 - Main Notes/Victories and Prayer Requests.md",
-    "6 - Main Notes/Theology 3.md",
-    "1 - Rough Notes/Quick Note.md",
     "2 - Source Material/Class/2025-26 2nd Sem/Networking 2.md",
     "6 - Main Notes/Useful Links For Programming.md",
     "6 - Main Notes/Personal Sleep Tracking.md",
     "Unite Dgroup Event.md",
-    "6 - Main Notes/All Installed Software.md",
     "6 - Main Notes/Dgroup Disciples.md",
     "3 - Tags/Customization.md",
     "6 - Main Notes/Created Devotionals.md",
-    "6 - Main Notes/Promises of God.md",
-    "6 - Main Notes/HTML Cheat Sheet.md",
-    "6 - Main Notes/Terminal Commands.md",
-    "6 - Main Notes/How to Speak Well.md",
-    "6 - Main Notes/Fonts.md",
     "Media/Pasted image 20260810085316.png",
-    "6 - Main Notes/Networking 1 Project.md",
     "Media/Pasted image 20260725100150.png",
     "2 - Source Materials/Books",
     "2 - Source Materials",

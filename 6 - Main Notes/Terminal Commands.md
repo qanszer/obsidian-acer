@@ -102,6 +102,33 @@ rm -rf ~/.cache/thumbnails/*
 ```
 
 ---
+### Locate any file
+
+Setup:
+```
+sudo apt install plocate -y
+```
+
+```
+sudo updatedb
+```
+
+How to:
+```
+locate filename.txt
+```
+
+Tips:
+- use `-i` for case-insensitivity
+```
+locate -i filename.txt
+```
+- use wildcards
+```
+locate -i "*.docx"
+```
+
+---
 ### Change terminal's color scheme based on wallpaper
 
 1. Install everything needed
@@ -564,7 +591,6 @@ fi
 
 
 ---
-
 ### Create a custom GNOME 42 image popup extension
 
 I did this for an easily accessible schedule popup.
@@ -655,9 +681,7 @@ Reload your desktop environment to register your newly created local files:
 
 Open the **Extensions** app (or run `gnome-extensions enable image-popup@yourname.local`) to activate it.
 
-
 ---
-
 ### Create own screen recorder using ffmpeg
 
 ```bash
@@ -700,6 +724,56 @@ chmod +x ~/toggle_record.sh
     - **Command:** `/home/steven/toggle_record.sh`
     - **Shortcut:** Set it to your desired custom keys (for example: `Alt + R` or `Super + R`).
 4. Click **Add**.
+
+---
+### Open XAMPP
+
+```
+sudo /opt/lampp/lampp start
+```
+
+Open in browser:
+```
+http://localhost/dashboard
+```
+
+Setup XAMPP app shortcut
+```bash
+cd ~/.local/share/applications/
+```
+
+```bash
+cat <<EOF > ~/.local/share/applications/xampp.desktop
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=XAMPP Control Panel
+Comment=Start and Stop XAMPP
+Exec=sh -c "pkexec env DISPLAY=\$DISPLAY XAUTHORITY=\$XAUTHORITY /opt/lampp/manager-linux-x64.run"
+Icon=/opt/lampp/htdocs/favicon.ico
+Terminal=false
+Categories=Development;
+EOF
+```
+
+---
+### Add more workspace keybinds
+
+```bash
+# Switch to Workspaces 5 through 9 using Alt + Number
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-5 "['<Alt>5']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 "['<Alt>6']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-7 "['<Alt>7']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-8 "['<Alt>8']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-9 "['<Alt>9']"
+
+# Move Windows to Workspaces 5 through 9 using Shift + Alt + Number
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-5 "['<Shift><Alt>5']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-6 "['<Shift><Alt>6']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-7 "['<Shift><Alt>7']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-8 "['<Shift><Alt>8']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-9 "['<Shift><Alt>9']"
+```
 
 
 ---

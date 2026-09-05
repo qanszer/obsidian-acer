@@ -331,6 +331,29 @@ text-shadow: ;
 ```
 
 
+### Darken a color
+
+**Method 1** - best approach for modern browsers and actually changes the color
+
+```css
+:root { 
+	--color: #3498db; /* Can be hex, rgb, or hsl */ /* 
+	
+	Mixes 80% of your color with 20% black to make it 20% darker */ 
+	--dark: color-mix(in srgb, var(--color), black 20%);
+}
+```
+
+**Method 2** - does not change the color value itself
+
+```css
+.button { background-color: var(--primary-color); } 
+
+/* Dim the whole element to 85% brightness on hover */ 
+.button:hover { filter: brightness(0.85); }
+```
+
+
 ### Light/Dark Theme
 
 #### Method 1 - Manual Button
@@ -550,7 +573,8 @@ background-size: cover;
 Center horizontally:
 ```css
 .container {
-	width: 980px; margin: 0 auto;
+	width: 980px; 
+	margin: 0 auto;
 }
 ```
 
@@ -611,9 +635,13 @@ body {
 }
 ```
 
-#### 2 - Matt Brictson (preferred)
+#### 2 - Matt Brictson + Personal (preferred)
 
 ```css
+:root {
+	
+}
+
 /*! modern-normalize v3.0.1 | MIT License | https://github.com/sindresorhus/modern-normalize */
 
 *,
@@ -700,6 +728,7 @@ button,
 [type='reset'],
 [type='submit'] {
     -webkit-appearance: button;
+    cursor: pointer;
 }
 
 legend {
@@ -733,7 +762,7 @@ summary {
     display: list-item;
 }
 
-/* Matt Brictson */
+/* Matt Brictson CSS Reset */
 
 :root {
   line-height: 1.5;
@@ -756,6 +785,34 @@ h1, h2, h3, h4, h5 {
 img {
   display: block;
   max-inline-size: 100%;
+}
+
+/* ================================ */
+/* ================================ */
+/* ================================ */
+/* ================================ */
+/*         MAIN CUSTOM CSS          */
+/* ================================ */
+/* ================================ */
+/* ================================ */
+/* ================================ */
+
+html {
+	font-size: clamp(1rem, 0.75rem + 1.5vw, 2rem);
+}
+
+::selection {
+	background-color: ;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	cursor: pointer;
+}
+
+[id] {
+	scroll-margin-top: 150px;
 }
 ```
 
@@ -899,7 +956,7 @@ h1, h2, h3 {
 Ideal way to scale text based on viewer width:
 ```css
 html {
-  font-size: clamp(1rem, 0.75rem + 1.5vw, 2rem);
+    font-size: clamp(1rem, 0.75rem + 1.5vw, 2rem);
 }
 ```
 - 1st value is min size

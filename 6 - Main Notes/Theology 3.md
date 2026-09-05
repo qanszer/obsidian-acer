@@ -92,27 +92,28 @@ Beginning of the covenant
 
 ---
 
-Baptism
+### 8/24/26 - Baptism
+
+#### Baptism
 - given missions
 - celebrate a simple rite
 
-Sacrament of Baptism
-- it is important because 
-- bad arguments
+#### Sacrament of Baptism
+- **bad arguments**
 	- extra money from ninong ninang
 	- only when about to die
 	- only faith is important
-- gateway to life in the Spirit
+- **gateway to life in the Spirit**
 	- spirit is giver of life; all your sins are cleansed
 - gives access to other sacraments
-- Greek baptizein meaning plunge or immerse
+- Greek "baptizein" meaning plunge or immerse
 - catechumen’s burial into Christ’s death, rises up by resurrection with him, with a new life
-- 3 graces
+- **3 graces**
 	- forgiveness of original sin (adam and eve)
 	- incorporation in the church 
 	- adoption of God’s children (new identity)
 - death of sins, new life
-- the great flood, crossinng of the red sea
+- the great flood, crossing of the red sea
 - we bury our sin, and have a new life with Christ
 - romans 6:3-4
 	- baptism - dying to old life
@@ -122,24 +123,24 @@ Sacrament of Baptism
 - rising from baptism
 	- becoming holy
 	- ?
-- Jesus’ baptism foreshadowed his death and ressurection; He formally received His anointing and His mission
+- Jesus’ baptism foreshadowed his death and resurrection; He formally received His anointing and His mission
 - a bath that purifies, justifies, and sanctifies (confession for continued sanctification)
-- as long as the religion believes in the Holy Spirit, Jesus, and God, the catholic believes they are saved
-- renew baptismal promises
+- for the case of other religions with baptism, as long as the religion believes in the Holy Spirit, Jesus, and God, the catholic believes they are saved
+- **renew baptismal promises**
 	- profess faith
 	- grow in sanctity to hear God more clearly (live a decent life responsible, compassionate, truthful)
 		- to be holy is to be perfect
 	- be Christ-like to others (love and unity; no division)
 	- prepare for our final resting place with God
 
-Additional info
+**Additional info**
 - Reception of the children
 - Celebration of the Word
 - Celebration of the Sacrament
 - only deacons, priests, and bishops can baptize
 - baptismal font
 - paschal candle - every year is holy; dedicated to God
-- sacred chrism - 
+- **sacred chrism**
 	- prophetic mission
 		- when we speak or act, be a witness to Jesus
 	- kingly mission
@@ -156,3 +157,74 @@ Additional info
 
 - We learned that the renewal of baptismal promises include confession for continued sanctity, so as believers we will confess our sins and ask for forgiveness daily.
 - We learned that after being baptized, we have a kingly mission which is to become servant leaders. We will do this by 
+
+
+---
+
+### 8/27/26 - Sacrament of Confirmation
+
+Holy Spirit
+- 3rd person of the Holy Trinity
+- symbols:
+	- wind
+	- fire
+	- dove
+- advocate - defends, promotes, supports
+- Jesus left the Holy Spirit
+- Saint Cyrene - said the HS closest to our hearts
+- if you cannot approach anyone for help, approach the Holy Spirit
+
+Confirmation
+- Latin ‘confirmare’ to ratify (approve formally)
+- ratifying and strengthening the baptismal grace and makin the confirmands mature Christians
+- confirm means strengthen
+- baptism - we become disciples
+- confirmation - revisiting the baptismal commitment and inviting God to strengthen
+- transformation taking place
+- oils have effects to us; like how efficascent helps in muscle pain, sacred chrism has an effect on us spiritually
+- if confirmed, you are inspired to live out the Christian faith
+	- praying
+	- participating sacraments
+	- acts of charity and service
+	- evangelization
+	- pursuing holiness
+	- personal sanctification
+- if confirmed, you have the power of strength and fortitude
+	- Lorenzo Luis - filipino missionary who went to Japan who was tortured and killed. “if i had a thousand lives, i would give it all to God”
+
+Pentecost
+- appearance
+	- strong wind
+	- tongues of fire
+- birthday of the church
+- speak tongues
+- the disciples were equipped for spreading the Good News worldwide
+- ‘began to speak in tongues’ - does not mean they learn another language, but that they will spread it in many other languages
+- Peter’s speech at pentecost
+
+Confirmation
+- bring a new reality in our lives and lives of others
+- Vatican 2 - “the confirmed are more obliged to spread and defend the faith word by word and deed as true witness of Christ”
+- happens during mass but does not need during mass
+- Rite of confirmation
+	- before homily
+		- presentation of candidates
+	- after homily
+		- renewal of baptismal promises
+		- laying of hands
+- institution of sacrament
+	- during last supper (Jesus said I will be sending you a friend (Holy Spirit))
+	- pentecost (receive the Holy Spirit)
+- only bishop can do
+- matter: laying of hands and sacred chrism
+- form: receive the Holy Spirit
+- Philip went to Samaria, 
+- slapping is for preparation for life’s battles, being a soldier of Christ
+
+- Emperor Constantine freed Christians from their persecutions
+
+
+Questions:
+- why are bishops the only one
+
+Next meeting Thursday

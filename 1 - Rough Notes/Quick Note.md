@@ -93,3 +93,21 @@ intel core 15 11th gen
 14 fhd screen
 intel iris xe graphics
 
+
+### Changes
+
+- new theme 'nord night' for dark mode
+- new selectors for many previously unselected elements
+- fixed the dark border on navbar below the adamson logo
+
+### Unsolved Issues
+
+- i don't know how to apply and test in firefox
+- input element color issues (form input elements are notorious for being hard to style, much less select)
+- activity stream item hover
+
+### Future Improvements
+
+- better styling for input elements (dropdown, label, etc)
+- correct the hover styling on activity stream page
+- connect the nord light and dark mode themes, and then make a system default option for it

@@ -44,6 +44,7 @@ This is a list of all of my installed software in case my laptop breaks/gets sto
 - Blanket
 - Aqloss
 - Flathub
+- Plocate
 
 ### Gnome Extensions
 

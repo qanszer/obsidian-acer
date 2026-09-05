@@ -86,6 +86,73 @@ Technical
 - clarity
 - conciseness
 - concreteness
-- complete(?)
+- completeness
 - courtesy
 
+---
+
+### Sep 1, 2026
+
+Cs of Effective, Empathic, and Ethical Communication (Technical Writing)
+1. **Correctness**
+	- refers to the accuracy and precision
+2. **Clarity**
+	- avoid these
+		- at the end of the day
+		- with all due respect
+		- needless to say
+		- as per your request
+	- instead
+		- ultimately / in conclusion
+		- therefore / as a result
+		- as requested
+3. **Conciseness**
+	- example
+		- This is to inform you that the students who were able to pass the qualifying examination shall be the only ones allowed to enroll.
+		- Only students who passed the qualifying exam may enroll.
+4. **Concreteness**
+	- should be clear with the details and has no multiple interpretations
+	- opposites are vague and ambiguous
+		- vague - lacking in details
+		- ambiguous - has multiple interpretations
+5. **Completeness**
+	- 
+6. **Courtesy**
+	- 
+
+**COM of Writing**
+- Content 40
+	- it is the main idea of the message
+	- it gets the biggest share because organization and mechanics do not matter, if the content of the message is incorrect or lacking
+	- it is the substance of the writing
+	- you can improve your content by gaining more knowledge on the subject matter
+	- this will show your intelligence or stupidity of the topic
+- Organization 30
+	- types (research the definitions of these)
+		- inductive 
+			- specific to general
+			- presents observations, facts or data, building a logical case before finally stating the core message at the end
+			- used for delivering bad news, persuading a skeptical audience, or building suspense
+		- deductive
+			- general to specific
+		- inductive deductive
+		- deductive inductive
+		- hinted
+- Mechanics 30
+	- grammar
+	- syntax
+	- spelling
+	- punctuation
+	- capitalization
+	- format
+
+
+**Assignemnt**
+- compare jargons
+	- columns: definition, baby boomers, millenials, gen z
+	- hard copy
+- research about 
+	- magic words, 
+	- sandwich psychology approach, 
+	- politically correct terms
+- buy the tech eng book
