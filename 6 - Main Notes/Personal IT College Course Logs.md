@@ -19,7 +19,7 @@ Tags: [[School]], [[Tracking]]
 # AdU - Adamson University
 
 **IT Department Number for Contact**
-(02) 8524-2011-325
+(02) 8524-2011 +325
 
 ---
 #### 2024-2025

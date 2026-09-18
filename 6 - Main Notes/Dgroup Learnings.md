@@ -275,3 +275,37 @@ What is stopping you from coming to Jesus? What struck you the most?
 
 Prayer requests:
 - proper preparation for the training tomorrow
+
+
+---
+
+## 09/07/26 - Priority Check
+
+Sometimes, it's not that we don't have enough time. We just don't know what should come first.
+
+What comes first in your life?
+
+"Putting first things first means organizing and executing around your most important priorities. It is living and being driven by the principles you value most, not by the agendas and forces surrounding you."
+
+"There is no one busy in this world, it's always about priorities. You will always find time for the things you feel are important."
+
+**Priorities**
+1. God
+2. Family
+3. Calling (work/school)
+4. Disciples
+5. Ministry
+6. Others
+7. Self
+
+God is first in a way where you bring God in all areas of your life
+
+Remember, I am a Christian that happens to be a student, and not vice versa. Isingit ko dapat yung schoolworks sa relationship ko with God, hindi baliktad.
+
+
+Prayer Requests
+- glorify God in my prelim exam preparation and performance
+
+
+---
+

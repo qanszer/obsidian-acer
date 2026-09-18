@@ -170,13 +170,13 @@ Holy Spirit
 	- fire
 	- dove
 - advocate - defends, promotes, supports
-- Jesus left the Holy Spirit
+- Jesus left the Holy Spirit for us
 - Saint Cyrene - said the HS closest to our hearts
 - if you cannot approach anyone for help, approach the Holy Spirit
 
 Confirmation
 - Latin ‘confirmare’ to ratify (approve formally)
-- ratifying and strengthening the baptismal grace and makin the confirmands mature Christians
+- ratifying and strengthening the baptismal grace and making the confirmands mature Christians
 - confirm means strengthen
 - baptism - we become disciples
 - confirmation - revisiting the baptismal commitment and inviting God to strengthen
@@ -228,3 +228,139 @@ Questions:
 - why are bishops the only one
 
 Next meeting Thursday
+
+---
+
+### 9/3/26 - Strengthening
+
+three graces 7 gifts of the holy spirit wisdom-to judge and order all things according to gods will. knowledge-to discover the truths of the spiritual and material worlds, and to relate them to the creator. understanding-to grasp the truths of faith easily and deeply. strength-to presevere the fulfilling the will of god in moments of trial. counsel-to discern correctly and immediately the will of god in different circumstances of life. piety-to worship god with all heart, and consequently to love our neighbor as ourselves . fear of the lord-to respect the majesty of god and to be scared of sin. •Imprints the character •make us mature christians candidates for confirmation -every baptized catholic -the age of reason(7 years old) responsibilities of godparents -guiding them in their christian life mandatory before a catholic marriage -if it can be done without grave inconvenience -the church strongly recommends all catholics to be fully
+
+
+---
+
+### 9/10/26
+
+Some reasons for not attending mass
+- not like homily of the priest
+- busy in assignments, work, games, barkada, out of town etc
+- boring ritual
+
+Eucharist/Mass
+- commemoration of the Last Supper
+- Jesus' Road to Emmaus - liturgy of the Eucharist
+	- Jesus took, broke, blessed, and gave the bread
+	- they saw Jesus' pierced hands
+	- 2 things
+		- explained to the 2 the scriptures (scripture reading)
+		- joined the two in their meal (break the bread)
+- why the need to attend?
+	- Greek: Eukaristia - thanksgiving
+	- to recognize and remember Jesus, that He is also with us in the mass
+	- thank God for saving us
+- 2 principal parts of the mass
+	- liturgy of the Word
+	- liturgy of the Eucharist
+	- two tables:
+		- fed in the Mass through hearing God's word
+		- true presence of Jesus in the Eucharist
+- concluding rite 
+	- priest: go and announce the Gospel of the Lord
+	- response: thanks be to God
+- best symbol of love: crucifix
+- to know and understand love, go to the Eucharist/Mass
+- everyone is welcome in Jesus meal' fellowship
+- should be fully conscious and active participation in liturgical celebrations
+- Jesus is in the mass when the scripture is read by the priest, He is speaking through the scripture
+- People of God
+	- when gathered in the mass, Jesus is with us
+- challenge: to live by the teachings of Christ and of the Church and to be like Jesus in words and deeds
+- Eucharistic actions
+	- gathering of the faithful 
+		- be aware that everyone lives in and is part of the community
+		- acknowledge others as brothers and sisters in Christ
+	- listening to the faithful
+	- confessing of sins and receiving of forgiveness
+		- only benial(light not heavy) sins are forgiven like cussing
+		- you cannot receive communion if you have mortal sins
+
+---
+
+### 9/14/26
+
+**Continuation of Eucharist/Mass**
+- Sharing of Christ's Peace
+	- the peace of Christ should be shared with everyone
+		- neighbors, enemies, church attendees, 
+- God forgave our sins, which tells us to be humble during mass when asking for forgiveness
+- Do not be selfish by sharing the Gospel to others after mass
+- Promote peace not war, reconciliation not conflict, and love not hatred
+- Be thankful/grateful
+	- be thankful from the start to the end of the mass
+	- be thankful that God created you, saved you, gave you a family who loves you, friends who love you, etc
+- Partaking in the Communion
+	- receive and share Jesus Christ by: (corporal works of mercy)
+		- feed the hungry
+		- give drink to thirsty
+		- welcome strangers
+		- clothe the naked
+		- care for the sick
+		- visit the imprisoned
+		- give proper burial to the dead
+- Doing the mission
+	- Mass in Latin is Missio meaning "sending forth"
+	- sharing the Gospel is not only talking, but also enacting it
+- Share what we received and experienced in the Eucharist and become witnesses of the Gospel
+
+Additional Info
+- we have mass because of the last supper
+	- Luke 22 - Jesus took, gave, broke, and gave the bread to them saying "This is my body, which is given for you. Do this in remembrance of me. This cup that is poured out for you is the new covenant in my blood"
+- Institution of the Sacrament
+	- The last supper in the bernacle of Jerusalem
+- Who can precide/minister the mass?
+	- priests
+	- bishops
+	- deacons cannot
+- Matter
+	- Grape wine - must be the fruit of the vine (Matthew 26:29)
+	- Unleavened bread - Passover Ritual prescribed the unleavened bread (Exodus 12:8)
+- Order of Mass
+	- introductory rites
+		- entrance
+		- greeting
+		- penitential act
+		- glory to God
+		- collect
+	- liturgy of the Word
+		- first reading
+		- responsorial psalm
+		- second reading
+		- gospel acclamation
+		- gospel
+		- homily
+		- profession of faith
+		- universal prayer
+	- liturgy of the eucharist
+		- presentation of the gifts and preparation of the altar
+		- prayer over the offerings
+		- eucharistic prayer
+		- the Lord's prayer
+		- sign of peace
+		- lamb of God
+		- communion
+		- prayer after communion
+	- concluding rites
+		- optional announcements
+		- greeting and blessing
+- Four Graces
+	- receive the body and blood of Christ
+	- receive eternal life (a life with God)
+	- in communion with the Church
+
+- Presence of Christ in the Mass
+	- Eucharistic species
+	- Eucharistic ministers
+		- Jesus is present through them
+	- Word of God
+		- when we are listening, Jesus is speaking to us
+	- People of God
+		- where we are gathered, God is in the midst of them

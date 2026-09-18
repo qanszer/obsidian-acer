@@ -79,6 +79,9 @@ Note: an inline element cannot contain a block-level element!
 		`http://ipv4address:5500/index.html`
 
 
+
+
+
 ## DOM (Document Object Model)
 
 It is the browser's blueprint or object model of your web page. It is what Javascript uses to find, alter, or add elements to build interactive websites.

@@ -87,7 +87,7 @@ sudo apt autoremove
 
 Clean cache: 
 ```bash
-sudo apt-get clean
+sudo apt clean
 ```
 
 Clean system journal logs:

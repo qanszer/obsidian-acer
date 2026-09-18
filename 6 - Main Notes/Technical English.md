@@ -18,7 +18,7 @@ Tags: [[School]]
 - Allowed to leave if professor is 15 mins late
 
 
-## Absence/Consultation Form
+### Absence/Consultation Form
 
 This is for request for permisson of **absence** or **consulation**.
 
@@ -42,7 +42,7 @@ John Steven Trigo Maluenda
 ```
 
 
-## Subject Outline
+### Subject Outline
 
 **Prelim** - Research proposal
 **Midterm** - Data gathering
@@ -50,6 +50,8 @@ John Steven Trigo Maluenda
 
 
 ---
+
+## Prelim
 
 ### Aug 11, 2026 - Introduction to Technical English
 
@@ -91,7 +93,7 @@ Technical
 
 ---
 
-### Sep 1, 2026
+### Sep 1-4, 2026
 
 Cs of Effective, Empathic, and Ethical Communication (Technical Writing)
 1. **Correctness**
@@ -147,7 +149,7 @@ Cs of Effective, Empathic, and Ethical Communication (Technical Writing)
 	- format
 
 
-**Assignemnt**
+**Assignment**
 - compare jargons
 	- columns: definition, baby boomers, millenials, gen z
 	- hard copy
@@ -156,3 +158,17 @@ Cs of Effective, Empathic, and Ethical Communication (Technical Writing)
 	- sandwich psychology approach, 
 	- politically correct terms
 - buy the tech eng book
+
+
+---
+
+### Sep 8
+
+Magic words
+- examples: "may i?"
+
+Politically correct terms
+- 
+
+Sandwich psychology approach
+- situations that challenge our patience, character, 

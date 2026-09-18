@@ -111,3 +111,7 @@ intel iris xe graphics
 - better styling for input elements (dropdown, label, etc)
 - correct the hover styling on activity stream page
 - connect the nord light and dark mode themes, and then make a system default option for it
+
+
+Free time: - thursday 9:00-10:30am, 5:00-6:00pm - friday 9:00-11:30am
+Free time: thursday- 1:00pm onwards Friday - 10:00 hanggang 11:30am

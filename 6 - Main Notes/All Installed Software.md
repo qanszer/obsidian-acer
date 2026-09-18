@@ -59,7 +59,7 @@ This is a list of all of my installed software in case my laptop breaks/gets sto
 
 ### Scripts
 
-#### CUSTOM KEYBOARD SHORTCUTS
+#### Custom keyboard shortcuts
 
 | Name            | Command                                        | Shortcut                  | Script                                    |
 | --------------- | ---------------------------------------------- | ------------------------- | ----------------------------------------- |
@@ -70,7 +70,7 @@ This is a list of all of my installed software in case my laptop breaks/gets sto
 | Gromit draw     | gromit-mpx --toggle                            | f12                       |                                           |
 
 
-#### GENERAL
+#### Custom scripts
 
 `theme.sh`:
 

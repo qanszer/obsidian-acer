@@ -52,7 +52,7 @@
       {
         "id": "f61e9383bdc88ac5",
         "type": "tabs",
-        "dimension": 64.76476476476476,
+        "dimension": 64.24632352941177,
         "children": [
           {
             "id": "9cd4f00a09e550b2",
@@ -101,7 +101,7 @@
       {
         "id": "452a3f7cbbea89b3",
         "type": "tabs",
-        "dimension": 35.23523523523524,
+        "dimension": 35.75367647058824,
         "children": [
           {
             "id": "d459e4c6ded27c8a",
@@ -117,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.50907135009766,
+    "width": 263.7069091796875,
     "collapsed": true
   },
   "right": {
@@ -232,32 +232,35 @@
   },
   "active": "f0299c390fe557bd",
   "lastOpenFiles": [
-    "6 - Main Notes/Terminal Commands.md",
-    "6 - Main Notes/Workout Routine Archive.md",
-    "6 - Main Notes/Bible Verse Logs.md",
-    "6 - Main Notes/Victories and Prayer Requests.md",
-    "6 - Main Notes/All Installed Software.md",
+    "6 - Main Notes/Theology 3.md",
     "6 - Main Notes/Technical English.md",
+    "6 - Main Notes/Bible Verse Logs.md",
+    "6 - Main Notes/Terminal Commands.md",
     "1 - Rough Notes/Quick Note.md",
-    "6 - Main Notes/Form Basics and Validation.md",
-    "6 - Main Notes/HTML Cheat Sheet.md",
     "6 - Main Notes/CSS Cheat Sheet.md",
+    "6 - Main Notes/22nd Birthday.md",
+    "6 - Main Notes/Practice Critical Thinking.md",
+    "6 - Main Notes/HTML Cheat Sheet.md",
+    "6 - Main Notes/AI Prompts.md",
+    "2 - Source Material/Class/2025-26 2nd Sem/Networking 2.md",
+    "6 - Main Notes/Dgroup Learnings.md",
+    "Media/Pasted image 20260907200736.png",
+    "Media/Pasted image 20260907200629.png",
+    "Media/Pasted image 20260907200608.png",
+    "6 - Main Notes/Things About Her.md",
+    "3 - Tags/Eli.md",
+    "6 - Main Notes/All Installed Software.md",
+    "6 - Main Notes/Workout Routine Archive.md",
+    "6 - Main Notes/Victories and Prayer Requests.md",
+    "6 - Main Notes/Form Basics and Validation.md",
     "6 - Main Notes/quick.md",
     "6 - Main Notes/Git Commit Message.md",
     "6 - Main Notes/Our Conflict Agreements.md",
-    "6 - Main Notes/Theology 3.md",
-    "6 - Main Notes/AI Prompts.md",
     "6 - Main Notes/Nihongo.md",
     "6 - Main Notes/Personal IT College Course Logs.md",
     "6 - Main Notes/Deal with Canker Sore.md",
     "6 - Main Notes/Website Inspo Links.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Networking 2.md",
     "6 - Main Notes/Useful Links For Programming.md",
-    "6 - Main Notes/Personal Sleep Tracking.md",
-    "Unite Dgroup Event.md",
-    "6 - Main Notes/Dgroup Disciples.md",
-    "3 - Tags/Customization.md",
-    "6 - Main Notes/Created Devotionals.md",
     "Media/Pasted image 20260810085316.png",
     "Media/Pasted image 20260725100150.png",
     "2 - Source Materials/Books",
@@ -275,9 +278,6 @@
     "Media/Pasted image 20260625011744.png",
     "Media/Screenshot from 2026-06-25 01-03-23.png",
     "Media/Screenshot from 2026-06-25 00-58-07.png",
-    "Media/Pasted image 20260617203803.png",
-    "Media/Pasted image 20260523131102.png",
-    "Media/Pasted image 20260523110103.png",
     "Untitled.canvas"
   ]
 }
