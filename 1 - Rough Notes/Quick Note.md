@@ -1,4 +1,24 @@
 
+Networking 2
+29213
+
+
+3Cs in 
+
+
+
+Computer networking, the discipline that connects devices and people across the globe, offers more than technical training when studied through the Vincentian 3Cs — Competence, Character, and Charity. These values reframe networking from a purely technical subject into a formation in professional virtue.
+
+Competence is the foundation. Understanding how data travels through layered architectures, how devices communicate using addressing and protocols, and how networks are designed for speed, security, and reliability demands precision, patience, and continuous learning. A poorly designed network can mean lost data, security breaches, or systems that fail exactly when people depend on them most. This teaches students that true competence is not memorizing configurations but developing the discipline to build things that work reliably for the people who rely on them. In the Vincentian tradition, competence is a moral obligation: doing one's work with excellence out of respect for others.
+
+Character emerges in how students respond when networks fail or problems arise. Diagnosing connectivity issues, security vulnerabilities, or performance bottlenecks requires honesty about one's own mistakes, patience under pressure, and the integrity to fix root causes rather than mask symptoms. These habits, repeated in practice, become habits of professional life — accountability, humility, and perseverance.
+
+Charity is the outward-facing dimension. Networking skills are tools for service, not ends in themselves. Designing affordable, reliable connectivity for underserved schools, barangays, or community outreach programs embodies the Vincentian call to use one's gifts for others, especially those with the least access to technology. A well-designed network can mean a clinic staying connected, a classroom reaching remote learners, or a family gaining access to opportunity.
+
+Together, the 3Cs reframe networking as a formation in professional virtue: competence pursued with excellence, character tested through failure and honesty, and charity expressed by directing skill toward the common good. This reminds IT students that technical mastery finds its fullest meaning when placed at the service of others.
+
+
+
 after defense, go immediately downstairs and get your desired technical advisor kasi mabilis maubusan ng slot
 
 right now, isip na agad ng magiging team for capstone 1

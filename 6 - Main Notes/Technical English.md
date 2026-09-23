@@ -172,3 +172,45 @@ Politically correct terms
 
 Sandwich psychology approach
 - situations that challenge our patience, character, 
+
+
+---
+
+## Midterm
+
+
+### 9/22/26 - Accomplishment Report
+
+It is not a simply a list of what someone did, but also the results (data, percentage, other)
+
+Why?
+- clear undeniable proof of progress, value, and accountability
+
+Who?
+- managers, team leaders
+	- summarize their output
+- employees and professions
+	- document professional impacts, accomplishments
+- non profit organizatin and government agencies
+	- maintain accountability with stakeholders
+
+When?
+- monthly, quarterly, end of project, or performance period
+
+Where?
+- civil service and government agencies
+	- to comply with statutory transparency mandates
+- corporate and organizational admiistrative offices
+	- huma resource departments
+- academic institutions
+
+How?
+1. establish objectives and baselines
+2. collect and compile data and evidence
+3. map actions to outcomes
+4. incorporate challenges and solutions
+5. format and finalize
+
+Questions
+- what is the basis of writing an accomplishment report?
+- an activity report vs accomplishment report

@@ -1,7 +1,9 @@
 
 2025-09-14  19:02
 
-Tags: [[Terminal]] [[Git]] [[Github]] [[Coding]] [[The Odin Project]]
+Tags: [[Terminal]], [[Git]], [[Github]], [[Coding]], [[The Odin Project]]
+
+---
 
 # Git Commands
 
@@ -24,6 +26,21 @@ Commands when git push does not work
 - git pull origin main
 - git push origin main
 
+Add local repository to a newly-made remote repo from github
+1. create repo from github
+2. copy ssh
+3. go to terminal and on repo folder
+```bash
+git add -A
+git commit -m "initial commit"
+git branch -M main
+git remote add origin (ssh link)
+git push -u origin main
+```
+
+
+---
+
 The basic Git syntax is program | action | destination.
 
 For example,
@@ -34,7 +51,8 @@ For example,
 
 
 
-
+---
 # References
 
 Odin Project - Foundations
+Gemini/Claude

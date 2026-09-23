@@ -4,7 +4,7 @@
 Tags: [[Collection]], [[Advice]], [[Reflection]]
 
 ---
-# My Commonplace Book
+# Quotes
 
 A collection of my favorite quotes. Quotes that struck something in me.
 
@@ -91,5 +91,10 @@ A collection of my favorite quotes. Quotes that struck something in me.
 
 *"Those that remember it, call that freedom of speech with a good dose of common sense, known as an opinion, which when expressed does not have to be agreed with nor dismissed, but it is good manners to respect the persons point of view as theirs, just as you would wish your own to be."*
 
-“The magic you’re looking for is in the work you’re avoiding.”
+
+“*The magic you’re looking for is in the work you’re avoiding.*”
+
+
+"*If everyone in the world wrote down their problems and put them in a hat, would you risk grabbing one, or keep yours?*"
+
 

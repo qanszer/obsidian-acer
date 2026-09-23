@@ -6,6 +6,9 @@ Tags:
 ---
 # Theology 3
 
+As a Born-Again Christian, I disagree with the teachings of Catholicism. But since this is a required subject, I have to take notes.
+
+---
 
 ### 8/20/26 - Chapter 1: People of God Belonging to God's community of love
 
@@ -364,3 +367,37 @@ Additional Info
 		- when we are listening, Jesus is speaking to us
 	- People of God
 		- where we are gathered, God is in the midst of them
+
+---
+
+### 9/21/26 - Sacrament of Reconciliation (Forgiveness)
+
+Why is Eucharist called Mass?
+- Mass is 'missio' in Greek(?) which means 'to send'. This means that what we heard and received during the Mass should be shared to everyone after the event, whether in words and action.
+
+Sacraments of Healing
+- sacrament of reconciliation
+- sacrament of anointing of the sick
+
+Sacrament of Reconciliation
+- temptation -> sin
+- devil is the cause of temptation
+- if you fall into temptation, that is sin
+- to become good and holy, Jesus instituted the sacrament of reconciliation
+	- sanctifying grace makes us holy
+	- advent season
+		- go to church for confession
+		- why confess sins? to prepare for 2nd coming of Christ
+	- lenten season
+		- commemorate the death of Jesus
+	- flagellation
+- discern
+	- the parable of the prodigal son
+		- **The Request:** A younger son asks his father for his share of the family inheritance early. The father agrees and divides his property between his two sons.
+		- **The Departure:** The younger son leaves home for a distant country. There, he wastes all his money on reckless and extravagant living.
+		- **The Hard Times:** A severe famine hits the land. Left completely broke and starving, he takes a job feeding pigs. He becomes so desperate that he even envies the food given to the pigs.
+		- **The Realization:** He comes to his senses and remembers that even his father’s hired servants have plenty of food. He decides to return home, confess his sins, and ask to be treated just as a hired servant.
+		- **The Welcome:** While he is still far away, his father spots him, feels deep compassion, runs to him, and embraces and kisses him.
+		- **The Celebration:** The father forgives him immediately. He orders his servants to bring the finest robe, a ring, and sandals, and prepares a grand feast with a fattened calf to celebrate.
+		- **The Older Brother’s Anger:** The older son, who has always worked hard and stayed obedient, returns from the fields and hears the music and dancing. He becomes angry and resents the celebration, complaining that his father never threw a party for him despite his loyalty.
+		- **The Father’s Plea:** The father gently reminds the older son that everything he owns already belongs to him. He explains that they must celebrate because the younger brother "was dead and is alive again; he was lost and is found"

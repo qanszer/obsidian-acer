@@ -206,6 +206,11 @@ ffmpeg -ss 00:00:00 -to 00:01:30 -i input.mp3 -acodec copy output.mp3
 ffmpeg -i input.mp3 -af "volume=1.5" output.mp3
 ```
 
+**Rotate video**:
+```bash
+ffmpeg -i input.mov -c copy -metadata:s:v:0 rotate=90 output.mov
+```
+
 
 **Mass convert webm to mp4**:
 

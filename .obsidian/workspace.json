@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0268cfac18c8b683",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Victories and Prayer Requests.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Victories and Prayer Requests"
-            }
-          },
-          {
             "id": "f0299c390fe557bd",
             "type": "leaf",
             "pinned": true,
@@ -37,6 +21,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Bible Verse Logs"
+            }
+          },
+          {
+            "id": "0268cfac18c8b683",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Gratitude Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Gratitude Journal"
             }
           }
         ],
@@ -60,7 +60,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Bible Verse Logs.md",
+                "file": "6 - Main Notes/Gratitude Journal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -230,37 +230,37 @@
       "readest-highlights:Sync all books to folder": false
     }
   },
-  "active": "f0299c390fe557bd",
+  "active": "0268cfac18c8b683",
   "lastOpenFiles": [
-    "6 - Main Notes/Theology 3.md",
-    "6 - Main Notes/Technical English.md",
+    "5 - Template/Default Template.md",
+    "6 - Main Notes/Gratitude Journal.md",
     "6 - Main Notes/Bible Verse Logs.md",
-    "6 - Main Notes/Terminal Commands.md",
     "1 - Rough Notes/Quick Note.md",
+    "6 - Main Notes/Askly Project.md",
+    "6 - Main Notes/Git Commit Message.md",
+    "6 - Main Notes/Git Commands.md",
+    "6 - Main Notes/Terminal Commands.md",
+    "6 - Main Notes/Technical English.md",
+    "6 - Main Notes/Deal with Canker Sore.md",
+    "6 - Main Notes/Kotlin.md",
+    "6 - Main Notes/Terminal.md",
+    "3 - Tags/Terminal.md",
+    "6 - Main Notes/How to Read A Book.md",
+    "6 - Main Notes/Zen Browser Configurations.md",
+    "6 - Main Notes/Quotes.md",
+    "6 - Main Notes/My Commonplace Book.md",
+    "6 - Main Notes/Theology 3.md",
+    "1 - Rough Notes/Quotess.md",
+    "6 - Main Notes/Mobile Development Project.md",
+    "6 - Main Notes/Random Ideas.md",
+    "6 - Main Notes/All Installed Software.md",
+    "1 - Rough Notes/Personal Testimonies.md",
     "6 - Main Notes/CSS Cheat Sheet.md",
     "6 - Main Notes/22nd Birthday.md",
     "6 - Main Notes/Practice Critical Thinking.md",
-    "6 - Main Notes/HTML Cheat Sheet.md",
-    "6 - Main Notes/AI Prompts.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Networking 2.md",
-    "6 - Main Notes/Dgroup Learnings.md",
     "Media/Pasted image 20260907200736.png",
     "Media/Pasted image 20260907200629.png",
     "Media/Pasted image 20260907200608.png",
-    "6 - Main Notes/Things About Her.md",
-    "3 - Tags/Eli.md",
-    "6 - Main Notes/All Installed Software.md",
-    "6 - Main Notes/Workout Routine Archive.md",
-    "6 - Main Notes/Victories and Prayer Requests.md",
-    "6 - Main Notes/Form Basics and Validation.md",
-    "6 - Main Notes/quick.md",
-    "6 - Main Notes/Git Commit Message.md",
-    "6 - Main Notes/Our Conflict Agreements.md",
-    "6 - Main Notes/Nihongo.md",
-    "6 - Main Notes/Personal IT College Course Logs.md",
-    "6 - Main Notes/Deal with Canker Sore.md",
-    "6 - Main Notes/Website Inspo Links.md",
-    "6 - Main Notes/Useful Links For Programming.md",
     "Media/Pasted image 20260810085316.png",
     "Media/Pasted image 20260725100150.png",
     "2 - Source Materials/Books",
