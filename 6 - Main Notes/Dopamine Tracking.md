@@ -47,7 +47,7 @@ Tags: [[Healthy-Living]], [[Tracking]]
 | Porn                                       |     | ☑︎  |
 | Binging alcohol                            |     |     |
 | Gambling/betting                           |     |     |
-| Doomscrolling                              | ☑︎  | ☑︎  |
+| Doomscrolling                              |     | ☑︎  |
 | Pointless phone checks                     |     | ☑︎  |
 | Eating refined ultraprocessed foods        |     | ☑︎  |
 | Getting angry at strangers in the internet |     |     |
