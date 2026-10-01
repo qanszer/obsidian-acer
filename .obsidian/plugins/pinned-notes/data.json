@@ -1,0 +1,28 @@
+{
+  "pinnedNotes": [
+    {
+      "title": "Bible Verses",
+      "path": "6 - Main Notes/Bible Verse Logs",
+      "icon": "book-a",
+      "id": "31f5f534-97a7-48d5-8d99-ae291a443feb"
+    },
+    {
+      "title": "Gratitude Journal",
+      "path": "6 - Main Notes/Gratitude Journal",
+      "icon": "hand-coins",
+      "id": "cfe9883e-b0a8-47fa-8b9d-ea47b375e9ed"
+    },
+    {
+      "title": "Worn Clothing",
+      "path": "6 - Main Notes/Worn Clothing Logs",
+      "icon": "shirt",
+      "id": "3d2fd7e9-6a6c-4571-8132-91f65bacc43d"
+    },
+    {
+      "title": "Dopamine Tracking",
+      "path": "6 - Main Notes/Dopamine Tracking",
+      "icon": "clipboard-clock",
+      "id": "980fe152-bd33-4e92-8492-07d33c3d3422"
+    }
+  ]
+}

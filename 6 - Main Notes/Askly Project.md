@@ -53,7 +53,6 @@ Askly allows students to submit queries instantly and anonymously directly from 
 - Sort classrooms (manual drag, newest, oldest, a-z, z-a)
 
 
-
 - Settings feature for customization
 	- adjust font size 
 	- light and dark mode with different themes for each mode (w/ system default)
@@ -62,6 +61,7 @@ Askly allows students to submit queries instantly and anonymously directly from 
 	- turn on "are you sure?" popup
 		- questions (off by default for individual, on for multiselect)
 		- classrooms (default is on)
+- Creation of a classroom can only be done if you have an account
 
 
 ---

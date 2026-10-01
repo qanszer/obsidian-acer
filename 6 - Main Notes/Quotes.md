@@ -98,3 +98,16 @@ A collection of my favorite quotes. Quotes that struck something in me.
 "*If everyone in the world wrote down their problems and put them in a hat, would you risk grabbing one, or keep yours?*"
 
 
+*“Anger isnt the problem, yelling is.
+Disappointment isnt the problem, blaming is.
+Failure isnt the problem, quitting is.
+Disagreement isnt the problem, disrespect is.
+Pain isnt the problem, hurting problem is.
+Jealousy isnt the problem, controlling is.
+Social media isnt the problem, comparison is.
+Your feelings are valid, but your reaction is your choice.”*
+
+
+*”If you spend 15 hours a week scrolling through social media and spend 1 hour a week at church, which shapes you more between the two?”*
+
+

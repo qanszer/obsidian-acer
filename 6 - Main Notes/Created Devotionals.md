@@ -255,7 +255,7 @@ So again, if you have an issue with a brother or sister, handle it before the su
 ---
 
 ## July 11 | How to Find Time For God While Busy
-Dgroup Downline
+Heard by: JM, Khyle, Eze
 
 Finding time with God in a busy schedule is not about adding another taxing item to your to-do list; it is a posture of inviting Him into the moments you already have. A real connection with God happens by **integrating short moments of prayer and scripture into your daily routines**. 
 
@@ -289,6 +289,7 @@ But what if we ARE free? That we have time to read the Bible and have a devotion
 ---
 
 ## July 25 | Find Joy in Trials
+Heard by: (Khyle)
 
 1 - Imagine you've had the worst days of your life for the past week
 2 - You vent about it to your friend and he says "Great! Good for you! Consider yourself blessed!"
@@ -312,6 +313,9 @@ The testing of your faith produces perseverance. Let perseverance finish its wor
 
 ---
 
+## August 8 - Solomon's Life
+Source: FB Page
+Heard by: (none yet)
 
 Born into royalty around 1010 BCE, Solomon’s life began in the shadow of controversy as the son of King David and Bathsheba. Despite being a younger son, he ascended the throne of Israel after a fierce palace power struggle, guided by the strategic counsel of his mother and the prophet Nathan. Early in his reign, the young king sought divine guidance, asking God not for wealth or long life, but for an understanding mind to govern his people justly. 
 
@@ -328,305 +332,258 @@ However, the golden age eventually gave way to spiritual and political decline. 
 𝙞𝙛 𝙎𝙤𝙡𝙤𝙢𝙤𝙣 𝙬𝙖𝙨 𝙩𝙝𝙚 𝙬𝙞𝙨𝙚𝙨𝙩 𝙢𝙖𝙣, 𝙝𝙤𝙬 𝙙𝙞𝙙 𝙝𝙚 𝙚𝙣𝙙 𝙪𝙥 𝙢𝙖𝙠𝙞𝙣𝙜 𝙨𝙤 𝙢𝙖𝙣𝙮 𝙛𝙤𝙤𝙡𝙞𝙨𝙝 𝙘𝙝𝙤𝙞𝙘𝙚𝙨?
 
 𝘐 𝘳𝘦𝘢𝘭𝘪𝘻𝘦𝘥 𝘐 𝘤𝘰𝘮𝘱𝘭𝘦𝘵𝘦𝘭𝘺 𝘮𝘪𝘴𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘰𝘰𝘥 𝘚𝘰𝘭𝘰𝘮𝘰𝘯'𝘴 𝘴𝘵𝘰𝘳𝘺.
-
 When people think of Solomon,
-
 one word usually comes to mind.
-
 W I S D O M.
 
 After all, he's known as the wisest man who ever lived.
-
 God Himself gave him extraordinary wisdom.
-
 So here's the question that kept bothering me.
-
 If Solomon was the wisest man who ever lived,
-
 how did he end up making some of the biggest mistakes
-
 in the Bible?
 
 Honestly...
-
 that doesn't seem to make sense.
-
 Until I read his story again.
-
 Most of us know what happened at the beginning.
-
 Nag-appear si Lord kay Solomon in a dream and said,
-
 "Ask for whatever you want Me to give you." (1 Kings 3:5)
 
 Imagine that.
-
 You could ask for anything.
-
 Riches.
-
 Long life.
-
 Victory over your enemies.
-
 Instead, ang hiningi ni Solomon ay wisdom.
-
 More specifically, he asked for "an understanding heart"
-
 to lead God's people well.
 
 At ang sabi ng Scripture,
-
 GOD WAS PLEASED.
-
 So He gave Solomon wisdom unlike anyone else.
-
 But that's not all.
-
 God also gave him wealth, honor, and influence.
 
 Everything seemed to be going perfectly.
-
 Until I reached 1 Kings 11.
-
 And I honestly had to stop reading for a moment.
-
 Ang sabi ng Bible,
-
 "King Solomon LOVED many FOREGN WOMEN..." (1 Kings 11:1)
-
 Then it tells us he had 700 wives and 300 concubines.
 
 Every time I read that, I used to think,
-
 Wow ha, that's really a lot ha! haha
-
 But I never stopped to ask kung bakit sinama pa rin ito sa Bible.
-
 Naisip mo rin ba?
 
 Then I discovered something I had completely missed.
-
 Hundreds of years earlier, God had already warned Israel's future kings.
-
 In Deuteronomy 17:17,
-
 God said,
-
 "He must not take many wives, or his heart will be led astray."
-
 Did you catch that?
-
 Hindi lang ito random rule.
-
 God already knew what would happen.
-
 And that's exactly what happened to Solomon.
 
 The Bible says,
-
 "His wives turned his heart after other gods." (1 Kings 11:4)
-
 And I want you to notice something important.
-
 The problem wasn't that Solomon married women from other nations because of their ethnicity.
-
 The issue was their gods.
-
 Many of these marriages were political alliances.
-
 At sa ancient world, kings often married the daughters
-
 of neighboring kingdoms to secure peace.
-
 But those alliances also brought foreign worship
-
 into Israel.
-
 Eventually, Solomon didn't just allow it.
-
 He built places of worship for those false gods.
-
 The very king who built God's temple,
-
 also built altars for IDOLS.
-
 That honestly broke my heart.
 
 Then I asked myself,
-
 How could the wisest man do something so unwise?
-
 And I think the answer surprised me.
-
 Ready?
-
 .
-
 .
-
 .
-
 Sure?
-
 .
-
 .
-
 .
-
 Here's the thing.
-
 The Bible never says Solomon stopped being intelligent.
-
 It never says God suddenly took away his wisdom.
-
 The tragedy wasn't that Solomon didn't know what was right.
-
 The tragedy was that he didn't continue living it.
-
 And maybe, that's one of the biggest lessons in his story.
-
 Because wisdom isn't just knowing the right thing.
-
 It's CHOOSING the right thing again,
-
 and again,
-
 and AGAIN..
 
 Think about it.
-
 How many times do we already know kung ano yung sinabi ni Lord?
-
 but still struggle to obey?
-
 We know we should forgive.
-
 But we hold on to bitterness.
-
 We know we should be honest.
-
 But we compromise when it benefits us.
-
 We know our identity is found in Christ.
-
 But we keep looking for approval from people.
 
 Because here's the truth my friend.
-
 The problem isn't always a lack of knowledge.
-
 Sometimes, it's a lack of obedience.
-
 And that's exactly why Solomon's story feels so relevant.
-
 Because today, we have more access to biblical teaching
-
 than ever before.
 
 There's thousands of podcast already available.
-
 Books.
-
 YouTube.
-
 Bible apps.
-
 Sermons.
-
 We can know a lot about God.
-
 But knowing isn't the same as following.
-
 Then something else hit me.
-
 Solomon himself wrote Proverbs,
-
 where he repeatedly warned people to fear the Lord and walk in wisdom.
 
 Yet later,
-
 his own life drifted from those very truths.
-
 But that doesn't make Solomon's writings worthless.
-
 If anything, it makes his story even more sobering.
-
 It reminds us that it's possible to speak wisely,
-
 while slowly drifting in our hearts.
 
 And honestly,
-
 that scares me.
-
 Because this story isn't just about Solomon.
-
 IT'S ABOUT US.
-
 Maybe today,
-
 God isn't asking,
-
 "How much do you know?"
-
 Maybe He's asking,
-
 "What are you doing with what you already know?"
-
 Because at the end of the day,
-
 God isn't simply looking for people who know His Word.
-
 He's looking for people who will live it.
-
 And that's where I found the beauty of the Gospel.
-
 When I finished reading Solomon's story,
-
 ito yung na-realize ko.
 
 If the wisest man couldn't save himself through wisdom alone,
-
 what hope do the rest of us have?
-
 The answer isn't
-
 "Try harder."
-
 The answer
-
 is Jesus.
-
 The Bible calls Jesus someone "greater than Solomon."
-
 (Matthew 12:42)
-
 Unlike Solomon, Jesus never allowed His heart to turn away
-
 from the Father.
-
 Unlike Solomon, He perfectly lived the wisdom He taught.
-
 And unlike Solomon, Jesus didn't simply tell us how to live.
-
 He came to rescue people who have failed to live wisely.
-
 That's why our hope has never been our own wisdom.
 
 Our hope is Christ.
-
 The One who perfectly obeyed where every one of us, including Solomon,
-
 has fallen short.
-
 At alam mo ba, Reading Solomon's story made me realize something.
-
 I'm not afraid of not knowing enough.
-
 I'm afraid of slowly drifting while thinking na okay naman ako.
-
 So tonight, my prayer is simple,
-
 "Jesus, never let my heart drift from You."
+
+
+---
+
+## September 26 - Bible Meditation
+Heard by: JM
+
+```
+Joshua 1:8 NIV
+8 Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful.
+```
+
+Biblical meditation "day and night" (as commanded in Joshua 1:8 and Psalm 1:2) is the continuous practice of filling your mind, speaking aloud, and ruminating on God’s Word—much like an animal chewing its cud—rather than emptying your mind.
+
+**What is Biblical Meditation?**
+
+- Active Ruminating: The Hebrew word for meditate (_hagah_) means to mutter, whisper, or moan, implying repeating phrases of Scripture to yourself under your breath.
+- Not Just Reading: Reading is gathering information; meditation is savoring and digesting every "morsel" so it transforms your heart and actions.
+
+---
+
+**How to Meditate During the Day**
+
+- Memorize Scripture: You cannot meditate on what you do not remember. Memorize short verses or passages so they are always in your mind.
+- Mutter the Word: Keep the verse on your lips by quietly repeating it while doing routine tasks like driving, working, or walking.
+- Turn Truth into Prayer: Talk to God about the passage. Ask Him how the verse applies to your current choices, struggles, or joys.
+- Obey Actively: Connect your thoughts to observation—watching for ways to live out what the text commands throughout your day.
+
+---
+
+**How to Meditate During the Night**
+
+- Make Scripture Your Last Thought: Read or recall a chosen verse just before going to sleep so your mind has a final anchor in God's truth.
+- Ponder in the Watches of the Night: If you wake up in the middle of the night, intentionally replace anxious or wandering thoughts with a rehearsed passage of Scripture (echoing Psalm 63:6).
+- Let the Subconscious Rest in Truth: Going to sleep on God's Word allows your mind to process divine promises, offering peace and letting the Word "talk to you" the moment you wake up.
+
+---
+
+The best Bible verses for day and night meditation are short, anchor-like statements about God’s character, presence, and peace that you can easily repeat under your breath.
+
+**Verses for Peace and Rest**
+
+- Psalm 23:1 ("The Lord is my shepherd, I lack nothing."): Great for repeating before sleep to remind your heart of total provision and safety.
+- Isaiah 26:3 ("You will keep in perfect peace those whose minds are steadfast, because they trust in you."): Ideal for daytime use when your mind feels scattered or anxious.
+
+**Verses for Courage and Presence**
+
+- Isaiah 41:10 ("So do not fear, for I am with you; do not be dismayed, for I am your God."): A powerful promise to whisper during difficult or frightening moments of the day.
+- Joshua 1:8 ("Keep this Book of the Law always on your lips; meditate on it day and night..."): The direct instruction for the practice itself, reminding you to keep God's Word active in your mind.
+
+**Verses for Trust and Guidance**
+
+- Proverbs 3:5-6 ("Trust in the Lord with all your heart and lean not on your own understanding..."): Perfect for morning meditation to surrender your daily plans and decisions to God.
+- Philippians 4:6-7 ("Do not be anxious about anything, but in every situation, by prayer and petition... present your requests to God."): Excellent for turning sudden worries into calm prayers during the night or day.
+
+**When Facing Difficult Decisions & Confusion**
+
+- The Goal: To quiet panic and align your steps with God's timing.
+- James 1:5 ("If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.")
+- How to meditate: Repeat this verse when facing a blank page, an overwhelming email inbox, or a heavy life choice. It shifts your focus from your own lack of answers to God's abundant generosity.
+
+**When Experiencing Grief, Hurt, or Loneliness**
+
+- The Goal: To soothe an aching heart and remind yourself that you are not abandoned.
+- Psalm 34:18 ("The Lord is close to the brokenhearted and saves those who are crushed in spirit.")
+- How to meditate: Whisper this in the quiet "night watches" when grief feels heaviest. Breathe in the first half of the verse ("The Lord is close...") and breathe out the second half ("...and saves those crushed in spirit").
+
+**When Fighting Anger or Temptation**
+
+- The Goal: To build a mental guardrail before you react poorly or give in to a habit.
+- Psalm 141:3 ("Set a guard over my mouth, Lord; keep watch over the door of my lips.")
+- How to meditate: Mutter this verse in your car or right before a difficult meeting or conversation where you know your patience will be tested.
+
+**When Practicing Gratitude & Fighting Discontentment**
+
+- The Goal: To rewire a mind that naturally drifts toward complaining or noticing what is missing.
+- Psalm 103:1-2 ("Praise the Lord, my soul; all my inmost being, praise his holy name. Praise the Lord, my soul, and forget not all his benefits.")
+- How to meditate: Use this as a daytime "reset." Stop what you are doing and repeat it to yourself, then force your mind to list three specific "benefits" or blessings from your day.
+
+**When You Need Physical and Mental Rest**
+
+- The Goal: To let go of the pressure to produce and achieve, resting instead in God's strength.
+- Matthew 11:28 ("Come to me, all you who are weary and burdened, and I will give you rest.")
+- How to meditate: This is a perfect bedside verse. As you close your eyes, picture yourself physically handing your heavy burdens over to Jesus.
+
+---
+
+## 

@@ -117,6 +117,8 @@ Tags: [[Christianity]]
 - Lola's health to improve
 - Wisdom for the summative tests (ANSWERED)
 	- Only 1 test got a failing mark; everything else was passed
+- School since it's very tiring
+- Follow his schedule
 
 ### Current Life Events
 

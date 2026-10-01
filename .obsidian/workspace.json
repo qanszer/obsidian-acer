@@ -8,39 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0299c390fe557bd",
+            "id": "e4b72631a96993f9",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Bible Verse Logs.md",
+                "file": "6 - Main Notes/Dopamine Tracking.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Bible Verse Logs"
-            }
-          },
-          {
-            "id": "0268cfac18c8b683",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Gratitude Journal.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Gratitude Journal"
+              "title": "Dopamine Tracking"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Gratitude Journal.md",
+                "file": "6 - Main Notes/Dopamine Tracking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,26 +198,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
       "obsidian-file-cleaner:Clean files": false,
-      "obsidian-git:Open Git source control": false,
+      "obsidian-git:Open Git source control": true,
       "remotely-save:Remotely Save": false,
-      "readest-highlights:Sync all books to folder": false
+      "pinned-notes:Bible Verses": false,
+      "pinned-notes:Gratitude Journal": false,
+      "pinned-notes:Worn Clothing": false,
+      "pinned-notes:Dopamine Tracking": false
     }
   },
-  "active": "0268cfac18c8b683",
+  "active": "e4b72631a96993f9",
   "lastOpenFiles": [
-    "5 - Template/Default Template.md",
+    "5 - Template/Dopamine Template.md",
+    "6 - Main Notes/Dopamine Tracking.md",
+    "6 - Main Notes/Worn Clothing Logs.md",
     "6 - Main Notes/Gratitude Journal.md",
+    "6 - Main Notes/Theology 3.md",
+    "6 - Main Notes/AI Prompts.md",
+    "5 - Template/Default Template.md",
+    "Media/IMG_2020.jpeg",
+    "6 - Main Notes/Families Growing in Love.md",
+    "6 - Main Notes/Created Devotionals.md",
+    "6 - Main Notes/Dgroup Disciples.md",
     "6 - Main Notes/Bible Verse Logs.md",
-    "1 - Rough Notes/Quick Note.md",
     "6 - Main Notes/Askly Project.md",
+    "6 - Main Notes/Mobile Development.md",
+    "Media/IMG_2428.jpeg",
+    "1 - Rough Notes/Quick Note.md",
     "6 - Main Notes/Git Commit Message.md",
     "6 - Main Notes/Git Commands.md",
     "6 - Main Notes/Terminal Commands.md",
@@ -249,15 +244,6 @@
     "6 - Main Notes/Zen Browser Configurations.md",
     "6 - Main Notes/Quotes.md",
     "6 - Main Notes/My Commonplace Book.md",
-    "6 - Main Notes/Theology 3.md",
-    "1 - Rough Notes/Quotess.md",
-    "6 - Main Notes/Mobile Development Project.md",
-    "6 - Main Notes/Random Ideas.md",
-    "6 - Main Notes/All Installed Software.md",
-    "1 - Rough Notes/Personal Testimonies.md",
-    "6 - Main Notes/CSS Cheat Sheet.md",
-    "6 - Main Notes/22nd Birthday.md",
-    "6 - Main Notes/Practice Critical Thinking.md",
     "Media/Pasted image 20260907200736.png",
     "Media/Pasted image 20260907200629.png",
     "Media/Pasted image 20260907200608.png",
@@ -276,8 +262,6 @@
     "Media/Pasted image 20260625012806.png",
     "Media/Pasted image 20260625011809.png",
     "Media/Pasted image 20260625011744.png",
-    "Media/Screenshot from 2026-06-25 01-03-23.png",
-    "Media/Screenshot from 2026-06-25 00-58-07.png",
     "Untitled.canvas"
   ]
 }

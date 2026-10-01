@@ -42,5 +42,17 @@ Tags: [[Tracking]]
 
 ---
 
-## References  
+## Suggested to Read
 
+Christian Books
+
+Crime and Punishment
+Mere Christianity
+Mr Blue
+On the Incarnation
+Silence by Shusaku
+The Hiding Place
+Galahad and the Grail
+Screwtape Letters
+Notes from Underground
+Basic Christianity by John Stott

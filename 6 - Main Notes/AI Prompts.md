@@ -7,7 +7,7 @@ Tags: [[Productivity]]
 # AI Prompts
 
 ```
-Ask me questions using AskUserQuestion before you start. I want to insertTaskHere. Read my files.
+Ask me questions using AskUserQuestion before you start. I want to insertTaskHere. Read my files. No commentary. No explanations. Just the output.
 ```
 
 ## Detectors

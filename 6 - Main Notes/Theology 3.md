@@ -1,7 +1,7 @@
 
 2026-08-20  02:13pm
 
-Tags: 
+Tags: [[School]], [[Christianity]]
 
 ---
 # Theology 3
@@ -241,7 +241,7 @@ three graces 7 gifts of the holy spirit wisdom-to judge and order all things acc
 
 ---
 
-### 9/10/26
+### 9/10/26 - Eucharist/Mass
 
 Some reasons for not attending mass
 - not like homily of the priest
@@ -401,3 +401,169 @@ Sacrament of Reconciliation
 		- **The Celebration:** The father forgives him immediately. He orders his servants to bring the finest robe, a ring, and sandals, and prepares a grand feast with a fattened calf to celebrate.
 		- **The Older Brother’s Anger:** The older son, who has always worked hard and stayed obedient, returns from the fields and hears the music and dancing. He becomes angry and resents the celebration, complaining that his father never threw a party for him despite his loyalty.
 		- **The Father’s Plea:** The father gently reminds the older son that everything he owns already belongs to him. He explains that they must celebrate because the younger brother "was dead and is alive again; he was lost and is found"
+
+
+**Assignment**
+
+Maluenda, John Steven T.
+3rd Year BSIT
+MTh 2:00-3:30 PM
+
+After learning about the Catholic belief in the Eucharist, what aspect of it do you find meaningful or interesting, and why?
+
+The aspect that stuck with me the most as a Born-Again Christian is how the core reason for the Communion, as we call the it, is very much similar to our beliefs, which is that the event serves as a reminder to remember and be thankful of Jesus Christ's sacrfiice that He did for us. This shared similarity shows that despite our differences in interpretation, whether the bread and wine are seen as literal or symbolic, both traditions agree on the heart of the practice, which is keeping Christ's sacrifice at the center of worship. It reminds me that no matter the denomination, the call to remember and be thankful for what Jesus did on the cross remains a unifying thread among us Christians.
+
+
+Memorize the Act of Contrition
+
+O my God, I am heartily sorry for having offended You and I detest all my sins, because I dread the loss of heaven and the pains of hell, but most of all because they offend you, my God, who are all good and deserving of all my love. I firmly resolve, with the help of your grace, to confess my sins, to do penance and to amend my life.
+
+---
+
+### 9/28/26 - Liturgy (supplementary lesson)
+
+Greek - Leitourgia - "public duty" - service to the state undertaken by a citizen - church: public service of worship
+
+1. Introductory Rites
+	- entrance - collect
+2. Liturgy of the Word
+	- first reading - prayers of the faithful
+3. Liturgy of the Eucharist
+	- preparation of the altar and the gifts - communion rite
+4. Concluding Rites
+	- announcements - dismissal
+
+ministers
+- choir
+- greeters
+- 
+
+for liturgical ministers
+- must be well prepared for their roles
+- must know how to carry them out with reverence, dignity and understanding
+
+other orgs in the parish
+- knights of columbus
+- legion of mary
+- apostleship of prayer
+- divine mercy association
+- couples and singles for christ
+- youth ministry
+- etc
+
+possible contributions
+- lenten season
+	- cactus
+- ordinary time
+	- ?
+- easter season
+	- easter lily
+
+books
+- gospel book (letter A on middle with 4 circles around the cross)
+	- used for special occasions
+- lectionary
+- roman missal
+
+
+paten
+purificator
+chalice
+ciborium
+holy water vessel
+cruets
+pitcher and basin
+missal stand
+bell
+tabernacle
+
+3 parts
+1. sanctuary
+	- altar
+2. naeve
+
+
+cope
+- used during benediction
+
+humeral veil
+- covers the hands of the priest to emphasize that Jesus is giving the blessing
+
+monstrans
+- holds the body of Christ
+
+cassock
+- usual uniform for outside church
+
+surplice
+
+
+
+**liturgical colors**
+- depends on season/celebration
+
+green
+- symbol of hope and living vegetation
+- during ordinary time 1 and 2
+
+red
+- symbolizes blood
+- during:
+	- feasts of our Lord’s Cross and Passion
+	- feasts of the Apostles and of martyrs
+	- Pentecost
+		- red symbolizes fire
+	- Holy Spirit mass
+
+white
+- symbol of innocence and triumph
+- during:
+	- feasts of our Lord
+	- feasts of the blessed virgin mary
+	- feasts of the angels
+	- feasts of all non martyr saints
+
+violet
+- symbol of penance and mourning
+- during Abbent, Lent, funeral masses
+
+rose (pink)
+- symbol of joy and moderation in penance
+- during third sunday of advent, and laetare sunday (lenten)
+
+start of church calendar is advent (december)
+
+why do we have liturgical year?
+because God became man
+the whole year we are celebrating the life of Christ
+
+advent season
+- 3 puple candles, 1 rose candle
+- purpose
+	- commemorate Jesus’ birth
+	- preparing for His coming
+- beginning of liturgical year
+- 4 week preparation
+- 3rd sunday is Gaudete(rejoice) Sunday
+- simbang gabi
+	- aguinaldo mass or misa de gallo
+	- in honor of blessed virgin mary
+	- only filipinos have this
+	- novena or 9 days before Christmas
+- december 25 ends on the feast of the Lord’s baptism
+
+ordinary time
+- 33/34 weeks
+- devoted to mystery of Christ in all its aspects
+- time for growth and maturation of faith
+- ordinary time 1
+	- after feast of Baptism of the Lord (monday)
+	- before Ash wednesday
+- ordinary time 2
+	- after pentecost
+	- before advent
+- 4th sunday of lent as laetare sunday
+
+holy week
+- begins at palm sunday
+- 
