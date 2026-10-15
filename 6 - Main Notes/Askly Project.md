@@ -129,3 +129,301 @@ If you distribute the APK right now, **the app will only save data locally on th
 
 ---
 
+### Database
+
+User
+- user ID
+- name (nullable)
+- email (nullable)
+- is anonymous
+- created at
+
+Classroom
+- classroom ID
+- 4-letter join code (unique)
+- name/subject
+- owner user ID (FK → User)
+- active/archived status
+
+Membership          (also create a row for the owner)
+- user ID (FK → User)
+- classroom ID (FK → Classroom)
+- joined at          (classroom sort: newest/oldest)
+- sort order         (NEW, manual drag)
+- is blocked
+
+Question
+- question ID
+- classroom ID (FK → Classroom)
+- author user ID (FK → User)
+- question text
+- timestamp submitted
+- edited at (nullable)          (NEW)
+- deleted at (nullable)         (NEW, replaces status; powers the archive)
+- deleted by (nullable)         (NEW, author / professor)
+
+Upvote              (NEW)
+- question ID (FK → Question)
+- user ID (FK → User)
+- primary key: (question ID, user ID)
+
+---
+
+## Tasks
+
+- finish all the screens
+- add room implementation to all screens
+- duplicate the repo and name it `askly-application`
+- change from room to firebase
+
+
+---
+
+## Color Scheme
+
+```css
+:root {
+  --background: #f2f2f4;
+  --foreground: #111113;
+  --card: #ffffff;
+  --card-foreground: #111113;
+  --primary: #111113;
+  --primary-foreground: #ffffff;
+  --muted: #e6e6ea;
+  --muted-foreground: #8e8e93;
+  --accent: #111113;
+  --accent-foreground: #ffffff;
+  --border: #e3e3e8;
+  --ring: #111113;
+  --radius: 14px;
+}
+
+html.dark {
+  --background: #0c0c0d;
+  --foreground: #f4f4f6;
+  --card: #1a1a1c;
+  --card-foreground: #f4f4f6;
+  --primary: #f4f4f6;
+  --primary-foreground: #0c0c0d;
+  --muted: #232326;
+  --muted-foreground: #8e8e93;
+  --accent: #f4f4f6;
+  --accent-foreground: #0c0c0d;
+  --border: #2a2a2e;
+  --ring: #f4f4f6;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-border: var(--border);
+  --color-ring: var(--ring);
+  --font-serif: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+```
+
+**Surfaces**
+Variable 	        Light	        Dark     Used for
+--background	 #f2f2f4   #0c0c0d	App background
+--card	         #ffffff 	#1a1a1c	Cards, sheets, inputs
+--muted	     #e6e6ea	 #232326	Pressed and hover fills, segmented control track
+
+**Text**
+Variable	                     Light	     Dark	    Used for
+--foreground	             #111113	#f4f4f6	Main text
+--card-foreground	     #111113	#f4f4f6	Text on cards
+--muted-foreground	#8e8e93	#8e8e93	Secondary text, hints, timestamps
+
+**Actions**
+Variable	                     Light	     Dark	    Used for
+--primary	                 #111113	#f4f4f6	Main buttons, join code card
+--primary-foreground	#ffffff   	#0c0c0d	Text and icons on primary
+--accent	                 #111113	#f4f4f6	Toggles, checkboxes, selected states, warnings
+--accent-foreground	#ffffff	    #0c0c0d	Text and icons on accent
+
+**Lines and focus**
+Variable	     Light	     Dark	    Used for
+--border	#e3e3e8	#2a2a2e	Dividers, outlines, dashed empty states
+--ring	     #111113	#f4f4f6	Keyboard focus ring
+
+
+**Colours set directly in the code, outside the variables**
+**Where	                                                             Value**
+Bottom sheet backdrop	                                   black at 30% opacity
+Phone frame shadow (wide screens)	               rgba(28,26,21,0.5)
+Shadow on a classroom card while dragging	       rgba(28,26,21,0.35)
+Google logo	                                       #EA4335, #4285F4, #FBBC05, #34A853
+Theme preview tiles in Settings  #f4f1ea, #16140f, #1c1a15, #efe9dc, #b3512d
+
+---
+
+## Fonts
+
+**Font Sizes**
+1. Small - 14px
+2. Default - 16px
+3. Large - 18.5px
+
+**Fonts**
+Plus Jakarta Sans, system-ui, sans-serif
+
+
+---
+
+Askly
+Submit questions anonymously during a lecture. Ask without raising a hand.
+
+
+```kotlin
+@Composable
+fun CustomScreenWithoutScaffold() {
+    // Root container filling full screen + handling system status/navigation bars
+    Column(
+        modifier = Modifier
+            .fillMaxSize()
+            .systemBarsPadding() // Ensures content doesn't get cut off by status/nav bar
+    ) {
+        // 1. CUSTOM TOP BAR (Fixed at very top)
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .height(56.dp)
+                .background(MaterialTheme.colorScheme.surfaceVariant)
+                .padding(horizontal = 16.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Text(
+                text = "My Custom TopBar",
+                style = MaterialTheme.typography.titleMedium
+            )
+        }
+
+        // 2. MIDDLE CONTENT (Pushed closer to the top)
+        Column(
+            modifier = Modifier
+                .fillMaxWidth()
+                .weight(1f) // Takes up all remaining space, pushing bottom content down
+                .padding(16.dp),
+            verticalArrangement = Arrangement.Top // Ensures content stays near top
+        ) {
+            Text(
+                text = "Upper Content",
+                style = MaterialTheme.typography.headlineSmall
+            )
+            Spacer(modifier = Modifier.height(8.dp))
+            Text(
+                text = "This content stays near the top section of the screen.",
+                style = MaterialTheme.typography.bodyMedium
+            )
+        }
+
+        // 3. TWO CARDS AT THE VERY BOTTOM
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(16.dp),
+            horizontalArrangement = Arrangement.spacedBy(12.dp) // Gap between cards
+        ) {
+            // Card 1 (flex-grow: 1)
+            Card(
+                modifier = Modifier
+                    .weight(1f)
+                    .height(100.dp)
+            ) {
+                Box(
+                    modifier = Modifier.fillMaxSize(),
+                    contentAlignment = Alignment.Center
+                ) {
+                    Text("Card 1")
+                }
+            }
+
+            // Card 2 (flex-grow: 1)
+            Card(
+                modifier = Modifier
+                    .weight(1f)
+                    .height(100.dp)
+            ) {
+                Box(
+                    modifier = Modifier.fillMaxSize(),
+                    contentAlignment = Alignment.Center
+                ) {
+                    Text("Card 2")
+                }
+            }
+        }
+    }
+}
+```
+
+
+---
+
+## Branches
+
+ 1. Start with foundations (Auth & Settings)
+- git switch -c feature/ui-auth-nav /
+- git switch -c feature/ui-settings
+
+ 2. Build Student Flow
+- git switch -c feature/ui-student-dashboard /
+- git switch -c feature/ui-student-questions 
+
+ 2. Build Professor Flow
+- git switch -c feature/ui-prof-dashboard
+- git switch -c feature/ui-prof-questions
+
+ 4. Finish with Shared Screens
+- git switch -c feature/ui-archive
+
+
+---
+
+## Boilerplate
+
+```kotlin
+val context = LocalContext.current;  
+  
+Column(  
+    modifier = Modifier  
+        .fillMaxSize()  
+        .systemBarsPadding()  
+) {  
+    // Custom Top Bar  
+    Column(  
+        modifier = Modifier  
+            .padding(horizontal = 10.dp)  
+            .fillMaxWidth(),  
+        verticalArrangement = Arrangement.Center  
+    ) {  
+        Row(  
+            modifier = Modifier  
+                .fillMaxWidth(),  
+            verticalAlignment = Alignment.CenterVertically,  
+            horizontalArrangement = Arrangement.SpaceBetween  
+        ) {  
+            
+        }
+	}  
+        
+    // Content Area  
+    Column() {
+	    
+	}
+	  
+    // Bottom Bar  
+    Button() {
+	   
+	}    
+	Spacer( modifier = Modifier.height(20.dp))  
+}
+```

@@ -575,7 +575,7 @@ The best Bible verses for day and night meditation are short, anchor-like statem
 **When Practicing Gratitude & Fighting Discontentment**
 
 - The Goal: To rewire a mind that naturally drifts toward complaining or noticing what is missing.
-- Psalm 103:1-2 ("Praise the Lord, my soul; all my inmost being, praise his holy name. Praise the Lord, my soul, and forget not all his benefits.")
+- Psalm 103:1-2 ("**Praise the Lord, my soul; all my inmost being, praise his holy name. Praise the Lord, my soul, and forget not all his benefits.**")
 - How to meditate: Use this as a daytime "reset." Stop what you are doing and repeat it to yourself, then force your mind to list three specific "benefits" or blessings from your day.
 
 **When You Need Physical and Mental Rest**

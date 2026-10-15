@@ -1,9 +1,9 @@
 
-
 2025-10-30  18:19
 
 Tags: [[Finance]] [[Guide]]
 
+---
 
 One of the most frequent questions in /r/personalfinance goes something like:
 
@@ -188,4 +188,9 @@ Detailed flowchart graphic: /u/atlasvoid
 
 
 
-# References
+- Find ways to increase your salary (get a higher paying job or do find a side income job), but stay within your current living expenses. Don't let lifestyle creep happen.
+- Financial independence is not about money, it's about everything else. So find the balance of saving and still enjoying life. Because what's the point of saving until you're 50 if you get hit by a bus at 49? Work out and keep yourself healthy for the same reason.
+- High income comes from building skills, being educated and creating value for others.
+- Don't just search for apartments to rent online. There are many other options available for you and if you wait patiently you can always catch highly cheap, affordable rent. If you're willing, finding a roommate can be a good, long-term strategy; I currently pay less than half the price of the average monthly rent in my area
+- Cook most if not all of your meals
+- 

@@ -477,44 +477,45 @@ missal stand
 bell
 tabernacle
 
-3 parts
+
+---
+
+### 10/1/26 - Continuation to Liturgy
+
+**3 PARTS**
 1. sanctuary
-	- altar
-2. naeve
+	- elevated space at front where altar is
+2. nave
+	- where congregation sits
+3. narthex
+	- entrance transition from outside to inside
 
-
+**Clothes they wear**
 cope
 - used during benediction
-
 humeral veil
 - covers the hands of the priest to emphasize that Jesus is giving the blessing
-
 monstrans
 - holds the body of Christ
-
 cassock
 - usual uniform for outside church
-
 surplice
 
 
-
-**liturgical colors**
+**Liturgical Colors**
 - depends on season/celebration
 
 green
 - symbol of hope and living vegetation
 - during ordinary time 1 and 2
-
 red
-- symbolizes blood
+- symbolizes blood and fire
 - during:
 	- feasts of our Lord’s Cross and Passion
 	- feasts of the Apostles and of martyrs
 	- Pentecost
 		- red symbolizes fire
 	- Holy Spirit mass
-
 white
 - symbol of innocence and triumph
 - during:
@@ -522,14 +523,13 @@ white
 	- feasts of the blessed virgin mary
 	- feasts of the angels
 	- feasts of all non martyr saints
-
 violet
 - symbol of penance and mourning
 - during Abbent, Lent, funeral masses
-
 rose (pink)
 - symbol of joy and moderation in penance
 - during third sunday of advent, and laetare sunday (lenten)
+
 
 start of church calendar is advent (december)
 
@@ -537,7 +537,7 @@ why do we have liturgical year?
 because God became man
 the whole year we are celebrating the life of Christ
 
-advent season
+**Advent Season**
 - 3 puple candles, 1 rose candle
 - purpose
 	- commemorate Jesus’ birth
@@ -552,8 +552,8 @@ advent season
 	- novena or 9 days before Christmas
 - december 25 ends on the feast of the Lord’s baptism
 
-ordinary time
-- 33/34 weeks
+**Ordinary Time**
+- 33-34 weeks
 - devoted to mystery of Christ in all its aspects
 - time for growth and maturation of faith
 - ordinary time 1
@@ -564,6 +564,71 @@ ordinary time
 	- before advent
 - 4th sunday of lent as laetare sunday
 
-holy week
+**Holy Week**
 - begins at palm sunday
-- 
+
+
+---
+
+### Sacrament of Reconciliation
+
+Jesus’ temptation in the desert
+- 40 days 40 nights without eating
+
+Henry Nouwen
+- the greatest trap in our lives is not success
+
+Self rejection
+- rejecting one’s goodness
+- drugs, porn, cheating, littering
+
+Reminding that genesis is good
+
+For jews, pigs are unclean
+- they have split hooves (left and right), which is spirituality and worldy things
+- they dont chew the cud
+	- thinking twice (reviewing choices and behavior)
+
+Act of eating food of the pig 
+- man to animal
+- reaching lowest of the low
+- sinner
+
+Coming to himself (his senses)
+- importance of fasting (on lenten)
+	- hunger tells us that something is important, which is God
+- humility and genuine repentance
+
+Points of the parable
+- the boundless love and mercy of God
+	- lovingly welcome his son back
+- the joy in heaven when a sinner repents
+- the need for humility and the willingness to forgive others as God has forgiven us
+- the older brother represents self righteousness and lack of forgiveness
+- the importance of forgiveness, the call to repentance, and the participation in tbe ministry of reconciliation within the church and the world
+
+Other parables on reconciliation
+- the lost sheep
+	- 100-1 = 99
+- the lost coin
+	- 7-1 = 6
+- the prodigal son
+	- 2-1 = 1
+
+- lost, found, rejoice and celebrate
+
+God is finding us and waiting for us
+God wants us to be hunble and to repent
+God loves us
+
+**What is sacrament of reconciliation?**
+- **a repentant sinner is reconciled with God and the church**
+
+Why?
+- because Jesus commanded it
+
+
+---
+
+### Anointing of the Sick
+

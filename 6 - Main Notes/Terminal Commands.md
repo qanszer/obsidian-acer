@@ -211,6 +211,19 @@ ffmpeg -i input.mp3 -af "volume=1.5" output.mp3
 ffmpeg -i input.mov -c copy -metadata:s:v:0 rotate=90 output.mov
 ```
 
+**Rotate multiple videos**:
+windows directory
+```bash
+Get-ChildItem *.mov | ForEach-Object {
+    ffmpeg -i $_.Name -c copy -metadata:s:v:0 rotate=90 "r_$($_.Name)"
+}
+```
+ubuntu directory
+```bash
+for f in *.mov; do
+    ffmpeg -i "$f" -c copy -metadata:s:v:0 rotate=90 "r_${f}"
+done
+```
 
 **Mass convert webm to mp4**:
 
@@ -780,6 +793,92 @@ gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-8 "['<Shift><Al
 gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-9 "['<Shift><Alt>9']"
 ```
 
+---
+### Increase wifi strength
+
+To push your Wi-Fi performance further on a crowded school network, you can look into aggressive BSSID roaming, custom DNS routing to bypass throttling, and MAC address randomization tweaks.
+
+On a public school campus, your laptop will often stubbornly stick to a weak, distant router (Access Point) even if you walk right next to a stronger one. These advanced methods will force Ubuntu 22.04 to always grab the absolute best connection available.
+
+1. Force Aggressive Roaming (BSSID Locking)
+```bash
+sudo apt install network-manager
+```
+2. Open the NetworkManager connection editor GUI:
+```bash
+nm-connection-editor
+```
+2. Select your school’s Wi-Fi network and click the Gear icon (Edit).
+3. Go to the Wi-Fi tab.
+4. Find the BSSID field. If it is empty, look at the dropdown menu. It will show the MAC addresses of all physical school routers broadcasting that Wi-Fi name.
+5. Select the router with the strongest signal in your primary classroom.  
+    _(Note: If you move between buildings frequently, leave this blank, but change the Band dropdown right below it from "Automatic" to 5 GHz to force Ubuntu onto the faster, less congested frequency)._
+
+Disable Random MAC Address Scanning
+While MAC randomization is good for privacy, Ubuntu's default behavior constantly changes your MAC address while _scanning_ for networks. On restrictive school networks, this background switching can trigger security filters that briefly throttle or drop your connection.
+
+1. Open your NetworkManager configuration file:
+```bash
+sudo nano /etc/NetworkManager/NetworkManager.conf
+```
+2. Add the following lines at the bottom of the file to lock your MAC address behavior during scans:
+```text
+[device]
+wifi.scan-rand-mac-address=no
+```
+3. Save and exit (`Ctrl` + `O`, `Enter`, `Ctrl` + `X`), then restart NetworkManager:
+```bash
+sudo systemctl restart NetworkManager
+```
+
+Bypass School DNS Throttling (DoT / DoH)
+School Wi-Fi routers often route all your traffic through slow, heavily filtered school DNS servers. Switching to encrypted DNS protocols like DNS over TLS (DoT) encrypts your tracking requests so the router can't easily queue or throttle your lookup times.
+
+1. Open your system's resolved configuration:
+```bash
+sudo nano /etc/systemd/resolved.conf
+```
+2. Modify or uncomment the following lines to use Cloudflare’s secure, high-speed DNS:
+```text
+[Resolve]
+DNS=1.1.1.1 1.0.0.1
+FallbackDNS=8.8.8.8
+DNSOverTLS=yes
+```
+3. Save and exit, then restart the systemd-resolved service:
+```bash
+sudo systemctl restart systemd-resolved
+```
+
+Enable TCP BBR (Bottleneck Bandwidth and RTT)
+BBR is a congestion control algorithm developed by Google. If the school Wi-Fi is suffering from massive "bufferbloat" (high latency because hundreds of students are downloading files at once), BBR will significantly improve your web page loading speeds.
+
+1. Open your system control configuration file:
+```bash
+sudo nano /etc/sysctl.conf
+```
+2. Scroll to the very bottom and paste these two lines:
+```text
+net.core.default_qdisc=fq
+net.ipv4.tcp_congestion_control=bbr
+```
+3. Save and exit, then apply the changes immediately:
+```bash
+sudo sysctl -p
+```
+
+---
+
+### Run PHP App
+
+```bash
+php -S localhost:8000
+```
+
+Open on browser:
+```url
+http://localhost:8000
+```
 
 ---
 
@@ -788,3 +887,14 @@ gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-9 "['<Shift><Al
 1. Chatgpt
 2. Claude
 3. Google
+
+
+Upload your Presentation file or Canva link inside the link provided.
+
+PPTX File - Upload it directly inside the folder. Rename the file to "Group 1.pptx". Replace 1 with your group number
+Canva Link - Paste your canva link inside the .txt file
+
+Thank you!
+
+
+As for the laptop, whose laptop was used beforehand for presentation and worked perfectly? 

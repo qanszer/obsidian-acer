@@ -36,3 +36,6 @@ A digital/analog indicator for the total voltage used on a given set of time for
 
 Offer services of changing the overall design and layout of badly designed existing websites.
 
+
+
+Make a contraption for jeeps where passengers can press a button to signal the driver to stop. This is for drivers who have hearing problems and passengers who dont want to shout to stop the jeep.

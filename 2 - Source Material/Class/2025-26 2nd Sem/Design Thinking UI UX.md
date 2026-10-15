@@ -232,56 +232,21 @@ To ask:
 
 
 ---
-### 04/
+### 15 UX Principles
+https://www.youtube.com/watch?v=GGg61sdEjeI&t=635s
 
-
-
----
-
-## Finals
-
-
-### Date - Topic
-
-#### Subtopic
-
-
-
----
-
-# 2nd Semester
-## Prelim
-
-
-### Date - Topic
-
-#### Subtopic
-
-
-
----
-
-## Midterm
-
-
-### Date - Topic
-
-#### Subtopic
-
-
-
----
-
-## Finals
-
-
-### Date - Topic
-
-#### Subtopic
-
-
-
-
-
-
+- **Visual Contrast & Legibility:** Ensure interface elements remain clear and readable over any dynamic background.
+- **Systemic Grid & Spatial Alignment:** Follow a consistent layout grid to create balance, order, and visual predictability.
+- **Proportional White Space & Rhythm:** Use standardized spacing to establish logical relationships between elements.
+- **Subtle Section Separation:** Divide content areas using light dividers or space rather than harsh visual borders.
+- **Typographic Hierarchy & Restraint:** Build hierarchy using size, weight, and line height within a single font family.
+- **Comfortable Content Scannability:** Optimize line height and contrast to make copy easy to scan and read.
+- **Supporting Color Palettes:** Use soft, purposeful colors that complement content without overwhelming it.
+- **Iconographic Consistency:** Maintain uniform icon styles, stroke weights, and colors so they support rather than distract.
+- **Standardized Media Framing:** Display images and media within a scalable grid and consistent aspect ratios.
+- **Contextual Minimalism & De-Cluttering:** Eliminate redundant text or labels when context makes the meaning clear.
+- **Concise Microcopy & Badges:** Keep tags, status badges, and interface labels brief and free of visual clutter.
+- **Context-Driven Data Proximity:** Group related and interdependent information tightly together.
+- **Early Trust Building:** Place social proof and key status metrics directly near decision-making focal points.
+- **Low-Friction Action Placement:** Pair primary action buttons closely with relevant input controls and clear, upfront details.
 

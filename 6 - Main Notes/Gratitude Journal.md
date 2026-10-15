@@ -1,7 +1,7 @@
 
 2026-07-07  11:52 pm
 
-Tags: [[Christianity]], [[Reflection]]
+Tags: [[Christianity]], [[Reflection]], [[Healthy-Living]], [[Thoughts]]
 
 ---
 
@@ -9,6 +9,42 @@ Tags: [[Christianity]], [[Reflection]]
 
 List of good and great things God has done to me so that I can look back on how good He has been to me.
 
+
+October 12, 2026
+- Thankful that my theology class got cancelled suddenly, so I had time to study more for my nihongo quiz
+- Really grateful for my mother who thought to bring me 2 sets of mealboxes for lunch and dinner, because I woke up early for my 7am class and did not get to bring any food with me. Also thankful to david for carrying it despite being extra heavy for him
+- Thankful that I got to read the bible today
+- Thankful that I had a lot of progress to my mobdev project (askly)
+- Thankful for my competent groupmates in my subjects (tech eng, app dev, net2)
+
+October 11, 2026
+- Thankful that I can always feel God's presence greatly every time I attend praise and worship sessions
+- Thankful for eli's safe arrival and great condition of her newly bought monitor
+
+October 10, 2026
+- Thankful for the food that's cooked and that there are always alot. I don't get to be hungry
+- Thankful for my great schoolwork setup and quiet workplace where I can focus properly
+- Thankful for a pretty gf
+- Thankful for a very understanding mother, too understanding even
+- Thankful for all the good things that have happened to me
+
+October 9, 2026
+- Thankful that Sir Amado Sapit teaches the best practices and industry standards instead of the absolute basics only. (like using jetpack compose for the UI instead of the traditional XML layouts)
+- 
+
+October 8, 2026
+- Grateful for the sponty vanilla ice cream that we enjoyed last tuesday
+- Grateful that we still pulled off our scope and design presentation even with the sudden setbacks because of requirements misunderstanding
+- Grateful that I got to visit the dentist again yesterday after 2 months of no visit to continue the process of my jacket tooth. I have to revisit 2 weeks later though and hopefully will be finalized by then
+- Thankful for great group members who know what they are doing and are capable themselves
+
+October 5, 2026
+- Thankful that God woke me up minutes before I have to go for school so that I can still atleast get there on time even if I could not prepare properly (I overslept)
+
+October 2, 2026
+- Thankful that I didnt have to line up for the train because my beep card was already loaded beforehand.
+- Grateful to have my own room in my house to have chill days with, just listening to music.
+- Really grateful for my dad who always used to drive me outside for school even in college (just until the main road, but still)
 
 October 1, 2026
 - Thankful for another monthsary with Eli. I'm regretful for forgetting about it because of being too focused on my acads
@@ -69,4 +105,5 @@ No date
 - Tito Jun Datoy
 - Tita Ria Datoy
 - Sir Mel Awit
+- Sir Jayson Ocampo
 - 

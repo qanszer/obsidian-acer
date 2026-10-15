@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9d0dc0005551db4a",
+        "id": "1c072992b4410686",
         "type": "tabs",
         "children": [
           {
-            "id": "e4b72631a96993f9",
+            "id": "6d9a6308413f0d0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Dopamine Tracking.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dopamine Tracking"
+              "title": "New tab"
             }
           }
         ]
@@ -116,7 +112,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Dopamine Tracking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,36 +209,36 @@
       "pinned-notes:Dopamine Tracking": false
     }
   },
-  "active": "e4b72631a96993f9",
+  "active": "6d9a6308413f0d0a",
   "lastOpenFiles": [
-    "5 - Template/Dopamine Template.md",
-    "6 - Main Notes/Dopamine Tracking.md",
-    "6 - Main Notes/Worn Clothing Logs.md",
-    "6 - Main Notes/Gratitude Journal.md",
-    "6 - Main Notes/Theology 3.md",
-    "6 - Main Notes/AI Prompts.md",
-    "5 - Template/Default Template.md",
-    "Media/IMG_2020.jpeg",
-    "6 - Main Notes/Families Growing in Love.md",
-    "6 - Main Notes/Created Devotionals.md",
-    "6 - Main Notes/Dgroup Disciples.md",
-    "6 - Main Notes/Bible Verse Logs.md",
-    "6 - Main Notes/Askly Project.md",
-    "6 - Main Notes/Mobile Development.md",
-    "Media/IMG_2428.jpeg",
     "1 - Rough Notes/Quick Note.md",
-    "6 - Main Notes/Git Commit Message.md",
+    "6 - Main Notes/AI Prompts.md",
     "6 - Main Notes/Git Commands.md",
     "6 - Main Notes/Terminal Commands.md",
+    "2 - Source Material/Class/2025-26 2nd Sem/Design Thinking UI UX.md",
+    "6 - Main Notes/Book Logs.md",
+    "6 - Main Notes/Git Commit Message.md",
+    "6 - Main Notes/Askly Project.md",
+    "6 - Main Notes/Dopamine Tracking.md",
+    "6 - Main Notes/Gratitude Journal.md",
+    "6 - Main Notes/Worn Clothing Logs.md",
     "6 - Main Notes/Technical English.md",
-    "6 - Main Notes/Deal with Canker Sore.md",
+    "6 - Main Notes/Tech Job Roles.md",
+    "6 - Main Notes/Bible Verse Logs.md",
+    "6 - Main Notes/Mobile Development.md",
     "6 - Main Notes/Kotlin.md",
-    "6 - Main Notes/Terminal.md",
-    "3 - Tags/Terminal.md",
-    "6 - Main Notes/How to Read A Book.md",
-    "6 - Main Notes/Zen Browser Configurations.md",
-    "6 - Main Notes/Quotes.md",
-    "6 - Main Notes/My Commonplace Book.md",
+    "6 - Main Notes/Useful Links For Programming.md",
+    "6 - Main Notes/Future Job Choices.md",
+    "6 - Main Notes/Theology 3.md",
+    "6 - Main Notes/Created Devotionals.md",
+    "6 - Main Notes/Workout Routine Archive.md",
+    "6 - Main Notes/Personal Finance Guide.md",
+    "6 - Main Notes/Random Ideas.md",
+    "6 - Main Notes/My Interests.md",
+    "5 - Template/Dopamine Template.md",
+    "5 - Template/Default Template.md",
+    "Media/IMG_2020.jpeg",
+    "Media/IMG_2428.jpeg",
     "Media/Pasted image 20260907200736.png",
     "Media/Pasted image 20260907200629.png",
     "Media/Pasted image 20260907200608.png",

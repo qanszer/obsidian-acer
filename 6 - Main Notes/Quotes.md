@@ -111,3 +111,13 @@ Your feelings are valid, but your reaction is your choice.”*
 *”If you spend 15 hours a week scrolling through social media and spend 1 hour a week at church, which shapes you more between the two?”*
 
 
+One failure, no matter how painful, is not a reason to stop trying.
+
+
+Sin feels like freedom until you try to stop.
+
+
+Dont tell me your priorities. Show me your calendar, screentime, and transactions and I’ll tell you what you value.
+
+
+Do not let comparison affect you in your obedience to God. Results do not matter in the eyes of God, just that you are obeying Him.
