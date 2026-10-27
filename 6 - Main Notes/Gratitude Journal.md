@@ -10,6 +10,24 @@ Tags: [[Christianity]], [[Reflection]], [[Healthy-Living]], [[Thoughts]]
 List of good and great things God has done to me so that I can look back on how good He has been to me.
 
 
+October 26, 2026
+- Thankful for the meal boxes provided by mama
+- Thankful that we don't have to wear uniforms now for the rest of the semester
+- Thankful that I did not get marked as late by Ma'am Tina despite being late because I had to wait for the meal boxes for my siblings as well
+
+October 25, 2026
+- Grateful that God used me as an instrument to reconnect khyle with Him again
+- Grateful to God for protecting me multiple times from any sign or creep of lust today
+
+October 24, 2026
+- God freed me from the sin of lust through a [youtube video](https://www.youtube.com/watch?v=ApJSaUfRPgk)
+
+October 15, 2026
+- Grateful to be fit and healthy
+- Really grateful that I have no wart on my finger anymore (i had 1 on my left hand middle finger for about 2-3 years; it did not do anything but it looked ugly and dirty)
+- Thankful that I could flex my cool laptop setup to my class muahahahah
+- Thankful for the really chill and fun class in Nihongo today; we sang our individually made songs based on our custom henohenomoheji drawings. Mine was ku shi he tsu with the tone from "if you're happy and you know it clap your hands" 
+
 October 12, 2026
 - Thankful that my theology class got cancelled suddenly, so I had time to study more for my nihongo quiz
 - Really grateful for my mother who thought to bring me 2 sets of mealboxes for lunch and dinner, because I woke up early for my 7am class and did not get to bring any food with me. Also thankful to david for carrying it despite being extra heavy for him
@@ -30,7 +48,6 @@ October 10, 2026
 
 October 9, 2026
 - Thankful that Sir Amado Sapit teaches the best practices and industry standards instead of the absolute basics only. (like using jetpack compose for the UI instead of the traditional XML layouts)
-- 
 
 October 8, 2026
 - Grateful for the sponty vanilla ice cream that we enjoyed last tuesday

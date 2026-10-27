@@ -121,8 +121,14 @@ Add unstaged to previous commit:
 git commit --ammend
 ```
 
-Duplicate your own already-existing repository:
+
+----
+
+## Duplicate your own already-existing repository
+
 ```bash
+create the new repo on github first and leave the repo empty (no readme, no license, etc)
+
 # 1. Clone the original repository as a bare copy
 git clone --bare https://github.com
 
@@ -130,7 +136,7 @@ git clone --bare https://github.com
 cd OLD-REPOSITORY-NAME.git
 
 # 3. Mirror-push the contents into your new repository
-git push --mirror https://github.com
+git push --mirror https://github.com/new-repository-name
 
 # 4. Remove the temporary local bare folder
 cd ..

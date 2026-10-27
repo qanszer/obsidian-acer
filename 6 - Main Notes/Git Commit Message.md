@@ -27,15 +27,13 @@ blank line separating the summary from the body is critical (unless
 you omit the body entirely); various tools like `log`, `shortlog`
 and `rebase` can get confused if you run the two together.
 
-Explain the problem that this commit is solving. Focus on why you
-are making this change as opposed to how (the code explains that).
-Are there side effects or other unintuitive consequences of this
-change? Here's the place to explain them.
+Explain the problem that this commit is solving.
+Focus on why you are making this change as opposed to how (the code explains that).
+Are there side effects or other unintuitive consequences of this change? Here's the place to explain them.
 
 Further paragraphs come after blank lines.
 
  - Bullet points are okay, too
-
  - Typically a hyphen or asterisk is used for the bullet, preceded
    by a single space, with blank lines in between, but conventions
    vary here
@@ -46,16 +44,9 @@ like this:
 Resolves: #123
 See also: #456, #789
 
-====
+---
 
-git log --oneline
-git shortlog 
-
-google-chrome index.html
-
-====
-
-Git Commit Template:
+## Git Commit Template:
 
 ```
 

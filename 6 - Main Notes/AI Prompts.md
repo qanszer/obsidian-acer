@@ -21,16 +21,20 @@ Ask me questions using AskUserQuestion before you start. I want to insertTaskHer
 ```
 
 ```
-Complete this activity for me. Humanize your answers and make them student like. Don't use em dash and don't end with period on questions with a short answer (1-4 words). For the parts you can't answer yourself, give concise steps for me to do them. I am on Ubuntu 22.04
+Complete this activity for me. Humanize your answers and make them student like. Don't use em dash and don't end with a period on questions with a short answer (1-4 words). For the parts you can't answer yourself, give concise steps for me to do them.
 ```
 
 
-```
+---
+
+### Academix
+
+```DONE
 add this new feature to this mockup frontend project:
 
 - the admin should be able to change the theme color of the website, both light and dark, using hex colors. they should be able to change the main accent color (for example navy blue for adamson university), the background color of the whole page, etc(you decide for the rest while adhering to the ux principles)
 
-give the whole revised codebase to me in a .zip file. no need to test it if it is working. make no mistakes.
+give the whole revised codebase to me in a .zip file. no need to test it if it is working.
 ```
 
 ```DONE
@@ -49,28 +53,20 @@ add this new feature to this mockup frontend project:
 give the whole revised codebase to me in a .zip file. no need to test it if it is working. make no mistakes.
 ```
 
-```
+```DONE
 add this new feature to this mockup frontend project:
 
-- add a student/staff profile settings (reset password and other settings features relevant to the program)
+- add a student/staff profile settings (personal info, reset password, and other settings features relevant to the program)
 
-give the whole revised codebase to me in a .zip file. no need to test it if it is working. make no mistakes.
+give the whole revised codebase to me in a .zip file. no need to test it if it is working.
 ```
 
-```
+```DONE
 add this new feature to this mockup frontend project:
 
 - students should have an option to request for a number of copies
 - for each document type, their requirements should be listed when trying to submit a new document request upon choosing them so that the student knows what files to upload (the uploading of files is inside the main panel, but the requirements list is on the side panel just above the fee label)
  
-give the whole revised codebase to me in a .zip file. no need to test it if it is working. make no mistakes.
-```
-
-```
-add this new feature to this mockup frontend project:
-
-- in the requests list panel of staff role, multiple documents made by the same student should be grouped together (just be next to each other vertically). also add a sort option ( a-z, modified, newest; and then reverse when clicked again for all the mentioned options)
-
 give the whole revised codebase to me in a .zip file. no need to test it if it is working. make no mistakes.
 ```
 
@@ -80,7 +76,7 @@ give the whole revised codebase to me in a .zip file. no need to test it if it i
 ## Detectors
 
 https://copyleaks.com/ai-detector
-https://www.turnitin.com/
+https://www.turnitindetector.ai/
 
 ## Humanizer
 

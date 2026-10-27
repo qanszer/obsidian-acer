@@ -7,6 +7,24 @@ Tags: [[School]], [[Coding]], [[Kotlin]]
 # Mobile Development
 
 
+## Machine Problems
+
+1 - Installation of android studio
+2 - Counter application
+3 - My profile application
+4 - Employee CRUD logic
+5 - Database schema
+6 - Room implementation
+7 - Github repository
+8 - Firebase implementation (add)
+9 - Firebase (full CRUD)
+
+Midterms
+- 
+
+
+---
+
 ## Local Database Setup Using Room Feature (Manual)
 
 1. Copy paste this under build.gradle.kts > dependencies

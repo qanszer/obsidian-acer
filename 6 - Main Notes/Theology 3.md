@@ -589,7 +589,7 @@ For jews, pigs are unclean
 - they dont chew the cud
 	- thinking twice (reviewing choices and behavior)
 
-Act of eating food of the pig 
+Act of man eating food of the pig 
 - man to animal
 - reaching lowest of the low
 - sinner
@@ -605,7 +605,7 @@ Points of the parable
 - the joy in heaven when a sinner repents
 - the need for humility and the willingness to forgive others as God has forgiven us
 - the older brother represents self righteousness and lack of forgiveness
-- the importance of forgiveness, the call to repentance, and the participation in tbe ministry of reconciliation within the church and the world
+- the importance of forgiveness, the call to repentance, and the participation in the ministry of reconciliation within the church and the world
 
 Other parables on reconciliation
 - the lost sheep
@@ -632,3 +632,45 @@ Why?
 
 ### Anointing of the Sick
 
+The Paralayzed Man
+
+The 10 Lepers
+- Jesus saw 10 lepers begging to be healed
+- Jesus said stand up and go, your faith has saved you
+- In their time, any skin disease is leprosy and they would be exiled into the wilderness
+- What saved the lepers is their faith in Jesus
+
+The Paralytic Man
+- They went to Jesus but the place was crowded. They went to the roof and lowered him in the stretcher in front of Jesus
+- When Jesus saw their faith, He said “as for you, your sins are forgiven. ruse pickup your strrtcher”
+- His sins were forgiven and he was healed
+- healed because of faith
+- experienced forgiveness from sins
+
+We experience this through Sacrament of Anointing of the Sick
+- the sacrament is to chre the ailments of the body, soul, and prepare for Holy Death
+- this sacrament will ensure that you are holy before you die
+- only priests and bishops can minister this
+- matter: oil of the sick
+	- made of olives
+	- blessed by the bishop during chrism mass (every morning of holy thursday; holy week)
+- form
+	- while anointing on the forehead - through this holy anointing may the Lord in his love and mercu help you with the grace of the Holy Spirit
+	- while anointing on the palm of the hands - may the Lord who frees you from sin save you and raise you up
+- 3 graces
+	- sharing in Christ’s passion
+	- forgiveness of sins
+	- healing or preparation for holy death
+- recipients: only catholics
+	- in danger of death because of sickness (stage 4 cancer)
+	- old age
+	- serious operation
+- last rites of the dying
+	-  confession and apostolic pardon - he is now being forgiven by the church and God (only has to say short words)
+	- anointing of the sick - on the forehead and palm of the hand
+	- viaticum (or holy communion) - allowance for a journey
+- physical healing is not always possible or desirable, but sometimes, through our struggles or sickness, we grow closer to God and become more fully and truly human
+
+2 points about the topic
+- be more loving snd caring for one’s brothers and sisters in the community, especially for the sick
+- life life to its fullest 

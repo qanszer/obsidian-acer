@@ -217,42 +217,47 @@ Questions
 
 ---
 
-### Research Proposal Details
+### 10/20/26 - Research
 
-Actually, there is an even easier scope that takes away the hassle of distributing surveys and waiting for responses: **Pure Desktop Research (Document Analysis)**.
+tuesday 27 
+hardcopy of introduction
 
-Surveyless desktop research is the absolute lowest-effort route for a 10-hour timeline because you don't have to rely on anyone else to get your data. Instead of surveying students or auditing physical labs, you simply compare official documents.
+exam based on discussion of research
 
-### The Easiest Scope: Curriculum vs. Job Postings Gap Analysis
+IMRAD + References
 
-#### 1. Simplified Title
+essence/concept
+benefits 
+- apply the skills learned into one endeavor
+attributes
+- systematic
+   - first step: identify the gap by reading the current existing literature
+- analytical
+    - deeper study of the topic
+- empirical
+    - should be factual, observable and measureable
+    - making sure that you as researcher will benefit from it
+- valid/verifiable
+    - should be backed by data, not by assumptions
+    - assumptions of the study (like usage of ai, or try to claim that you trust the surveyed’s judgmemt and honesty)
+    - bibliography (the references used, which will be found in the body of the paper) all literature used even not 
+- controlled
+    - able to identify your variables (indp and dp)
+    - quanti titles should have their variables in the title
+    - control the subvariables included for the research 
 
-> _“A Comparative Gap Analysis of the Adamson University BSIT Prospectus Against Entry-Level Web/Software Development Job Requirements”_
-
-#### 2. Single Research Question
-
-- How do the programming languages and technical tools taught in the Adamson University BSIT curriculum align with current entry-level IT job postings in the Philippines?
-
-#### 3. Why This is Easier (No Human Participants)
-
-- **No Surveys Needed:** You don’t need to make a Google Form, nag classmates to answer it, or wait for responses.
-    
-- **Data is Already Online:** You only need two things:
-    
-    1. The public Adamson University BSIT program curriculum/prospectus.
-        
-    2. About 10 recent entry-level software developer or IT job descriptions from platforms like JobStreet or LinkedIn.
-        
-- **Analysis:** Simply put side-by-side what the school teaches versus what employers are asking for, and highlight the gaps (e.g., school teaching legacy tools vs. industry asking for cloud/modern frameworks).
-    
-
-### Revised 4-Week Desktop Research Timeline (2–3 Hours/Week)
-
-- **Week 1 (2 hours):** Download or review the current Adamson BSIT curriculum course list. Write a short 1-page introduction.
-    
-- **Week 2 (2 hours):** Browse 10 entry-level IT job postings online and note down the required tools and languages.
-    
-- **Week 3 (3 hours):** Compare them in a simple comparison table and write down 2–3 key gaps found.
-    
-- **Week 4 (3 hours):** Write a brief conclusion with recommendations on what tools the curriculum could adopt, and format your final paper.
-
+types
+- qualitative
+    - types: phenomenology, ethnography, grounded, case study, 
+- quantitative
+    - stats, numbers
+    - observations, experience, 
+    - types: 
+	    - descriptive, 
+	    - correlation, 
+	    - experimental, 
+	    - quasi experimental, 
+	    - comparative
+    - hardest to publish
+- mixed
+    - types: convergent parallel, explanatory sequential(quanti first), exploratory sequential(quali first)

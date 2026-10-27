@@ -51,13 +51,7 @@ Tags: [[Eli]], [[Thoughts]]
 
 
 
-
-
-
-
-
-
-
+- add a link or hidden feature to the app or mystery detective puzzle to invite eli to a date
 
 
 

@@ -376,10 +376,10 @@ fun CustomScreenWithoutScaffold() {
 
  2. Build Student Flow
 - git switch -c feature/ui-student-dashboard /
-- git switch -c feature/ui-student-questions 
+- git switch -c feature/ui-student-questions /
 
  2. Build Professor Flow
-- git switch -c feature/ui-prof-dashboard
+- git switch -c feature/ui-prof-dashboard 
 - git switch -c feature/ui-prof-questions
 
  4. Finish with Shared Screens
@@ -427,3 +427,11 @@ Column(
 	Spacer( modifier = Modifier.height(20.dp))  
 }
 ```
+
+
+---
+
+### Midterm checking comments
+
+- improve the ui more
+- add max word count to textfield input (better if dynamic)

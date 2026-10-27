@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1c072992b4410686",
+        "id": "9efa3937962505b6",
         "type": "tabs",
         "children": [
           {
-            "id": "6d9a6308413f0d0a",
+            "id": "4a0a21b08b0bbf2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Dopamine Tracking.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Dopamine Tracking"
             }
           }
         ]
@@ -112,6 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "6 - Main Notes/Dopamine Tracking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,37 +211,39 @@
       "pinned-notes:Bible Verses": false,
       "pinned-notes:Gratitude Journal": false,
       "pinned-notes:Worn Clothing": false,
-      "pinned-notes:Dopamine Tracking": false
+      "pinned-notes:Dopamine Tracking": false,
+      "pinned-notes:Quotes": false
     }
   },
-  "active": "6d9a6308413f0d0a",
+  "active": "4a0a21b08b0bbf2d",
   "lastOpenFiles": [
-    "1 - Rough Notes/Quick Note.md",
-    "6 - Main Notes/AI Prompts.md",
-    "6 - Main Notes/Git Commands.md",
-    "6 - Main Notes/Terminal Commands.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Design Thinking UI UX.md",
-    "6 - Main Notes/Book Logs.md",
-    "6 - Main Notes/Git Commit Message.md",
-    "6 - Main Notes/Askly Project.md",
-    "6 - Main Notes/Dopamine Tracking.md",
-    "6 - Main Notes/Gratitude Journal.md",
-    "6 - Main Notes/Worn Clothing Logs.md",
-    "6 - Main Notes/Technical English.md",
-    "6 - Main Notes/Tech Job Roles.md",
+    "6 - Main Notes/Quotes.md",
+    "6 - Main Notes/Promises of God.md",
     "6 - Main Notes/Bible Verse Logs.md",
-    "6 - Main Notes/Mobile Development.md",
-    "6 - Main Notes/Kotlin.md",
-    "6 - Main Notes/Useful Links For Programming.md",
-    "6 - Main Notes/Future Job Choices.md",
+    "6 - Main Notes/Technical English.md",
+    "6 - Main Notes/AI Prompts.md",
+    "3 - Tags/Eli.md",
     "6 - Main Notes/Theology 3.md",
-    "6 - Main Notes/Created Devotionals.md",
-    "6 - Main Notes/Workout Routine Archive.md",
-    "6 - Main Notes/Personal Finance Guide.md",
-    "6 - Main Notes/Random Ideas.md",
+    "6 - Main Notes/Gratitude Journal.md",
+    "1 - Rough Notes/Quick Note.md",
+    "6 - Main Notes/Special Event Date Ideas.md",
+    "6 - Main Notes/Worn Clothing Logs.md",
+    "3 - Tags/Thoughts.md",
+    "6 - Main Notes/Askly Project.md",
+    "6 - Main Notes/Terminal Commands.md",
+    "6 - Main Notes/Her Interests.md",
     "6 - Main Notes/My Interests.md",
-    "5 - Template/Dopamine Template.md",
-    "5 - Template/Default Template.md",
+    "3 - Tags/Customization.md",
+    "6 - Main Notes/All Installed Software.md",
+    "6 - Main Notes/Side Quests from the Internet.md",
+    "Media/Pasted image 20261020232214.png",
+    "2 - Source Material/Articles/1 Science-Based Deep Work.md",
+    "6 - Main Notes/IAS 1.md",
+    "6 - Main Notes/Odin advice for capstone time crunch.md",
+    "6 - Main Notes/Git Commands.md",
+    "6 - Main Notes/Mobile Development.md",
+    "6 - Main Notes/Document Types List.md",
+    "2 - Source Material/Class/2025-26 2nd Sem/Design Thinking UI UX.md",
     "Media/IMG_2020.jpeg",
     "Media/IMG_2428.jpeg",
     "Media/Pasted image 20260907200736.png",
@@ -256,7 +263,6 @@
     "rs-test-folder-kCM9iGhTY3r3MQtn0jsyT",
     "Media/Pasted image 20260625012806.png",
     "Media/Pasted image 20260625011809.png",
-    "Media/Pasted image 20260625011744.png",
     "Untitled.canvas"
   ]
 }

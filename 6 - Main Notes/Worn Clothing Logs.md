@@ -19,10 +19,10 @@ These items often have a "barrier" (like an undershirt) or are made of sturdier 
 
 | Clothing                 | Max | Current |
 | ------------------------ | --- | ------- |
-| Orange black hoodie      | 5   | 3       |
+| Orange black hoodie      | 5   | 4       |
 | Overflow black hoodie    | 5   | 0       |
 | Striped black sweater    | 5   | 3       |
-| Athlete dark gray hoodie | 5   | 2       |
+| Athlete dark gray hoodie | 5   | 3       |
 | Small gray hoodie        | 5   | 0       |
 | Gray plain sweater       | 5   | 3       |
 | Beige turtleneck         | 4   | 2       |
@@ -30,7 +30,7 @@ These items often have a "barrier" (like an undershirt) or are made of sturdier 
 | Dark gray turtleneck     | 4   |         |
 | Beige chino pants        | 7   |         |
 | Beige slacks             | 7   | 1       |
-| Black slacks             | 7   | 5       |
+| Black slacks             | 7   | 7       |
 | White slacks             | 3   | 3       |
 
 

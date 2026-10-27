@@ -5,6 +5,40 @@
 - discuss mailbox or lalamove for courier
 
 
+### 1. Products Migration Columns
+
+I would include the auto-incrementing id and timestamps, along with a foreign key column for the category using `foreignId('category_id')->constrained()`. For the product details, I would add a string column for the name and a decimal column for the price.
+
+### 2. Product Model Relationships
+
+In the Product model, I will define a `category()` method that returns `$this->belongsTo(Category::class)`. Then I will add a `reviews()` method that returns `$this->hasMany(Review::class)` to handle the product feedback records.
+
+### 3. Validation Rules
+
+For creating a product, I would set the name as `required|string|max:255` and the price as `required|numeric`. I will also validate that the `category_id` is `required|exists:categories,id` to ensure it links to an existing category.
+
+### 4. Blade Directive
+
+I would use the `@csrf` directive inside the form to securely include the CSRF token. Laravel requires this protection on all POST forms so our application stays safe from cross-site request forgery.
+
+
+
+
+
+- **The Baseline Test:** If you met her for the very first time today, knowing everything you know about her personality and who she is right now, would you actively choose to date her?
+- **Obligation vs. Desire:** Are you staying because you genuinely _want_ to build a future with her, or are you staying because you feel like you _have_ to because of what you've done in the past?
+
+
+
+
+```
+add these new features to this mockup frontend project:
+
+- Remake the ui/ux on new document request page that adhere to the 15 ux principles wherever needed
+  
+give the whole revised codebase to me in a .zip file. no need to test it if it is working. make no mistakes.
+```
+
 ```
 - Remake the ui/ux on new document request page that adhere to the 15 ux principles wherever needed
 - How should the document type be chosen on the new request page? we will have around 40 types of documents total in different categories (transfer credential page, transcript of records, certificates, authentication, for Ched only, certified true copy of the original records, others). choose the best ux approach for that. the list is sent below so you can add it all. as for their fees, requirements, etc make mockups for it.
@@ -75,70 +109,6 @@ For Ched Only
 Others
 ```
 
-
-Document
-- True Copy of Grades
-- AESAR (Automated Evaluation of Students Academic Records)
-Transfer Credential Package
-- Transfer Credential Package (Honorable Dismissal) Undergraduate
-	- Certificate of Good Moral Character
-	- Transfer Credential Certificate (Honorable Dismissal)
-	- True Copy of Grades
-Transcript of Records
-- Transcript of Records - For Abroad OTR (Undergraduate)
-- Transcript of Records - For Employment OTR (Undergraduate)
-- Transcript of Records - For Evaluation
-- Transcript of Records - For Evaluation (Application for Bachelor of Laws Entrance Exam)
-- Transcript of Records - For Evaluation (Application for Graduate Studies)
-- Transcript of Records - For International Evaluation
-- Transcript of Records - For OJT
-- Transcript of Records - For Professional Regulations Commission (PRC - Undergraduate)
-- Transcript of Records - For Scholarship Application
-Certificates
-- Certificate of Class Ranking (Undergraduate)
-- Certificate of Clock Hours (Undergraduate)
-- Certificate of Correction of Name/Birth Date/Place of Birth
-- Certificate of Eligibility (C1) for Law Students
-- Certificate of English Course Taken
-- Certificate of Equivalency (UAE)
-- Certificate of General Weighted Average (Undergraduate)
-- Certificate of Good Moral Character
-- Certificate of Grading System
-- Certificate of Medium of Instruction
-- Certificate of Medium of Instruction (with Percentage)
-- Certificate of NSTP Serial Number
-- Certificate of Student Status
-- Certificate of Translation to English for Filipino Students
-- Certificate of Units Earned (Undergraduate)
-- Course Descriptions (Undergraduate)
-- Related Learning Experiences (RLE - Undergraduate)
-Authentication / CAV / Apostille
-- For Abroad - Undergraduate
-- Certificate of Enrollment
-- Certified Copy of Transcript of Records
-- CHED Endorsement
-For Ched Only
-- Certificate of Enrollment
-- CHED Endorsement
-- Transcript of Records
-Certified True Copy of The Original Records
-- Academic Calendar
-- Certificate of Registration
-- Computerized Grades
-Others
-
-
-
-
-Computer networking, the discipline that connects devices and people across the globe, offers more than technical training when studied through the Vincentian 3Cs — Competence, Character, and Charity. These values reframe networking from a purely technical subject into a formation in professional virtue.
-
-Competence is the foundation. Understanding how data travels through layered architectures, how devices communicate using addressing and protocols, and how networks are designed for speed, security, and reliability demands precision, patience, and continuous learning. A poorly designed network can mean lost data, security breaches, or systems that fail exactly when people depend on them most. This teaches students that true competence is not memorizing configurations but developing the discipline to build things that work reliably for the people who rely on them. In the Vincentian tradition, competence is a moral obligation: doing one's work with excellence out of respect for others.
-
-Character emerges in how students respond when networks fail or problems arise. Diagnosing connectivity issues, security vulnerabilities, or performance bottlenecks requires honesty about one's own mistakes, patience under pressure, and the integrity to fix root causes rather than mask symptoms. These habits, repeated in practice, become habits of professional life — accountability, humility, and perseverance.
-
-Charity is the outward-facing dimension. Networking skills are tools for service, not ends in themselves. Designing affordable, reliable connectivity for underserved schools, barangays, or community outreach programs embodies the Vincentian call to use one's gifts for others, especially those with the least access to technology. A well-designed network can mean a clinic staying connected, a classroom reaching remote learners, or a family gaining access to opportunity.
-
-Together, the 3Cs reframe networking as a formation in professional virtue: competence pursued with excellence, character tested through failure and honesty, and charity expressed by directing skill toward the common good. This reminds IT students that technical mastery finds its fullest meaning when placed at the service of others.
 
 
 

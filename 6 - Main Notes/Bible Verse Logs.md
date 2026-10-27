@@ -1436,13 +1436,13 @@ but a real friend sticks closer than a brother.
 ### Chapter 9
 
 **Matthew 9:2-6a**
-**2**And when Jesus saw their faith, he said to the paralytic, “Take heart, my son; your sins are forgiven.” **3**And behold, some of the scribes said to themselves, “This man is blaspheming.” **4**But Jesus, knowing[[34]](#f40-34 "Some manuscripts 'perceiving'") their thoughts, said, “Why do you think evil in your hearts? **5**For which is easier, to say, ‘Your sins are forgiven,’ or to say, ‘Rise and walk’? **6**But that you may know that the Son of Man has authority on earth to forgive sins”
+**2**And when Jesus saw their faith, he said to the paralytic, “Take heart, my son; your sins are forgiven.” **3**And behold, some of the scribes said to themselves, “This man is blaspheming.” **4**But Jesus, knowing their thoughts, said, “Why do you think evil in your hearts? **5**For which is easier, to say, ‘Your sins are forgiven,’ or to say, ‘Rise and walk’? **6**But that you may know that the Son of Man has authority on earth to forgive sins”
 
 **Matthew 9:6b-7**
 he then said to the paralytic—“Rise, pick up your bed and go home.” **7**And he rose and went home.
 
 **Matthew 9:10-12**
-**10**And as Jesus[[35]](#f40-35 "Greek 'he'") reclined at table in the house, behold, many tax collectors and sinners came and were reclining with Jesus and his disciples. **11**And when the Pharisees saw this, they said to his disciples, “Why does your teacher eat with tax collectors and sinners?” **12**But when he heard it, he said, “Those who are well have no need of a physician, but those who are sick.
+**10**And as Jesus reclined at table in the house, behold, many tax collectors and sinners came and were reclining with Jesus and his disciples. **11**And when the Pharisees saw this, they said to his disciples, “Why does your teacher eat with tax collectors and sinners?” **12**But when he heard it, he said, “Those who are well have no need of a physician, but those who are sick.
 
 **Matthew 9:13b**
 For I came not to call the righteous, but sinners.

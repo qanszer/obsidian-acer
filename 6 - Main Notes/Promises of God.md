@@ -30,7 +30,8 @@ These are verses of God's faithfulness and hope for us.
    understanding will guard you,  
 **12**delivering you from the way of evil
 
-
+**James 1:12 ESV**
+Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive the crown of life, which God has promised to those who love Him.
 
 
 ---

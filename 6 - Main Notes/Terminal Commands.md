@@ -1,6 +1,6 @@
 2025-09-14  18:43
 
-Tags: [[Coding]] [[Terminal]] [[Customization]]
+Tags: [[Coding]], [[Terminal]], [[Customization]]
 
 ---
 
@@ -208,19 +208,19 @@ ffmpeg -i input.mp3 -af "volume=1.5" output.mp3
 
 **Rotate video**:
 ```bash
-ffmpeg -i input.mov -c copy -metadata:s:v:0 rotate=90 output.mov
+ffmpeg -i e.MOV -c copy -metadata:s:v:0 rotate=360 output.MOV
 ```
 
 **Rotate multiple videos**:
 windows directory
 ```bash
-Get-ChildItem *.mov | ForEach-Object {
-    ffmpeg -i $_.Name -c copy -metadata:s:v:0 rotate=90 "r_$($_.Name)"
+Get-ChildItem *.MOV | ForEach-Object {
+    ffmpeg -i $_.MOV -c copy -metadata:s:v:0 rotate=90 "r_$($_.MOV)"
 }
 ```
 ubuntu directory
 ```bash
-for f in *.mov; do
+for f in *.MOV; do
     ffmpeg -i "$f" -c copy -metadata:s:v:0 rotate=90 "r_${f}"
 done
 ```
@@ -774,6 +774,33 @@ Categories=Development;
 EOF
 ```
 
+**XAMPP Default Folder**
+```bash
+cd /opt/lampp/htdocs
+```
+
+Give current Ubuntu user permission to edit files:
+```bash
+sudo chown -R $USER:$USER /opt/lampp/htdocs
+```
+
+**Use vscode to go to htdocs:**
+```bash
+code /opt/lampp/htdocs
+```
+
+Create laravel composer project:
+```bash
+composer create-project laravel/laravel example
+cd example
+```
+
+Run the app:
+```bash
+php artisan serve
+```
+
+
 ---
 ### Add more workspace keybinds
 
@@ -868,7 +895,6 @@ sudo sysctl -p
 ```
 
 ---
-
 ### Run PHP App
 
 ```bash
@@ -878,6 +904,27 @@ php -S localhost:8000
 Open on browser:
 ```url
 http://localhost:8000
+```
+
+---
+### Reset gnome music list
+
+```bash
+tracker3 daemon --terminate
+```
+
+```bash
+tracker3 daemon --start
+```
+
+if new songs do not show up:
+```bash
+tracker3 reset --soft
+```
+
+if still nothing:
+```bash
+tracker3 reset --hard
 ```
 
 ---

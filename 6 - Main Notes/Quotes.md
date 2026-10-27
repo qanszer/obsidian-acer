@@ -6,7 +6,7 @@ Tags: [[Collection]], [[Advice]], [[Reflection]]
 ---
 # Quotes
 
-A collection of my favorite quotes. Quotes that struck something in me.
+A collection of my favorite quotes. Quotes that struck something with me.
 
 ---
 
@@ -121,3 +121,13 @@ Dont tell me your priorities. Show me your calendar, screentime, and transaction
 
 
 Do not let comparison affect you in your obedience to God. Results do not matter in the eyes of God, just that you are obeying Him.
+
+
+What’s the most important step a man can take? The next one.
+
+
+The sound of an ambulance is just noise until it stops at your house. A crying baby on a plane is annoying until you find out you can’t have one. The dishes piling up are exhausting until you’re setting the table for one. The gym is a chore until your body stops doing what it used to. Your dad’s same old story is boring until you’d give anything to hear them again. Your mom asking where you are is annoying until there’s nobody left to call.
+Everything you’re mildly irritated by right now is something somebody is praying for. That’s not a guilt trip. That’s just how perspective works. You cannot feel the weight of something you’ve never been without. Which means you’re going to be slightly annoyed in life by things that are actually the whole point.
+The noise, the mess, the people who need something from you—that’s not the stuff that is getting in the way of your life—that, is, your life. 
+
+
