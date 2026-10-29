@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Gratitude Journal.md",
+                "file": "6 - Main Notes/Device Setup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gratitude Journal"
+              "title": "Device Setup"
             }
           }
         ]
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Gratitude Journal.md",
+                "file": "6 - Main Notes/Device Setup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,10 +226,11 @@
   },
   "active": "4a0a21b08b0bbf2d",
   "lastOpenFiles": [
+    "6 - Main Notes/Dgroup Learnings.md",
+    "6 - Main Notes/Gratitude Journal.md",
     "6 - Main Notes/Dopamine Tracking.md",
     "6 - Main Notes/Theology 3.md",
-    "6 - Main Notes/All Installed Software.md",
-    "6 - Main Notes/Gratitude Journal.md",
+    "6 - Main Notes/Device Setup.md",
     "6 - Main Notes/AI Prompts.md",
     "3 - Tags/Customization.md",
     "6 - Main Notes/Terminal Commands.md",
@@ -252,7 +253,6 @@
     "6 - Main Notes/Odin advice for capstone time crunch.md",
     "6 - Main Notes/Git Commands.md",
     "6 - Main Notes/Mobile Development.md",
-    "6 - Main Notes/Document Types List.md",
     "Media/IMG_2020.jpeg",
     "Media/IMG_2428.jpeg",
     "Media/Pasted image 20260907200736.png",

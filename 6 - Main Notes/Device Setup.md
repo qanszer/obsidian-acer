@@ -4,11 +4,11 @@
 Tags: [[Tracking]], [[Customization]], [[Productivity]]
 
 ---
-# All Installed Software
+# Device Setup
 
 This is a list of all of my installed software in case my laptop breaks/gets stolen and I need to install them again.
 
-# Linux (Ubuntu 22.04 LTS)
+# Linux (Ubuntu 24.04 LTS)
 
 ### Apps
 
@@ -58,6 +58,23 @@ This is a list of all of my installed software in case my laptop breaks/gets sto
 - User themes
 - System monitor
 - Workspace indicator
+- Auto move windows
+- Rounded corner windows
+- Undecorate window
+- Workspace indicator
+
+### Workspaces
+
+1. Nautilus + settings + cava
+2. Super productivity
+3. Obsidian
+4. Terminals
+5. Main workspace (coding, video editing, etc)
+6. Zen browser
+7. To be decided
+8. Spotify
+9. Readest
+
 
 ### Scripts
 
