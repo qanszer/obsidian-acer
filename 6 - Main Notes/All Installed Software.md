@@ -51,10 +51,12 @@ This is a list of all of my installed software in case my laptop breaks/gets sto
 - Blur my shell
 - Color picker
 - Dash to dock
-- Rounded window corners
+- Image popup extension (custom)
+- Open bar
+- Simple timer
 - Tiling shell
-- Places status indicator
 - User themes
+- System monitor
 - Workspace indicator
 
 ### Scripts
@@ -69,6 +71,31 @@ This is a list of all of my installed software in case my laptop breaks/gets sto
 | Toggle cursor   | /home/YOURUSERNAME/.local/bin/toggle_cursor.sh | alt + c                   | [toggle_cursor.sh]([[Terminal Commands]]) |
 | Gromit draw     | gromit-mpx --toggle                            | f12                       |                                           |
 
+#### Workspace switching keyboard setup
+
+```bash
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-1 "['<Alt>1', '<Alt>KP_1']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-2 "['<Alt>2', '<Alt>KP_2']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-3 "['<Alt>3', '<Alt>KP_3']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-4 "['<Alt>4', '<Alt>KP_4']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-5 "['<Alt>5', '<Alt>KP_5']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 "['<Alt>6', '<Alt>KP_6']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-7 "['<Alt>7', '<Alt>KP_7']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-8 "['<Alt>8', '<Alt>KP_8']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-9 "['<Alt>9', '<Alt>KP_9']"
+```
+
+```bash
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-1 "['<Alt><Shift>1', '<Alt><Shift>KP_1']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-2 "['<Alt><Shift>2', '<Alt><Shift>KP_2']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-3 "['<Alt><Shift>3', '<Alt><Shift>KP_3']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-4 "['<Alt><Shift>4', '<Alt><Shift>KP_4']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-5 "['<Alt><Shift>5', '<Alt><Shift>KP_5']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-6 "['<Alt><Shift>6', '<Alt><Shift>KP_6']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-7 "['<Alt><Shift>7', '<Alt><Shift>KP_7']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-8 "['<Alt><Shift>8', '<Alt><Shift>KP_8']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-9 "['<Alt><Shift>9', '<Alt><Shift>KP_9']"
+```
 
 #### Custom scripts
 

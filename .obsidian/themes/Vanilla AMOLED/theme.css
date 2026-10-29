@@ -1,25 +1,28 @@
 .theme-dark {
-	--color-base-00: #000;
-	--color-base-05: #080808;
-	--color-base-10: #111;
-	--color-base-20: #1a1a1a;
+	--color-base-00: #00000010;
+	--color-base-05: #00000010;
+	--color-base-10: transparent;
+	--color-base-20: transparent;
 	--color-base-25: #222;
-	--color-base-30: #333;
-	--color-base-35: #363636;
+	--color-base-30: transparent;
+	--color-base-35: #99999940;
 	--color-base-40: #4a4a4a;
 	--color-base-50: #666;
 	--color-base-60: #999;
-	--color-base-70: #bbb;
+	--color-base-70: #fff;
 	--color-base-100: #fff;
+	--accent-color: #21242b;
 
 	--background-primary: var(--color-base-00);
 	--background-secondary: var(--color-base-05);
 	--titlebar-background: var(--color-base-00);
 	--titlebar-background-focused: var(--color-base-10);
+	
+	--modal-background: var(--accent-color);
+	--scrollbar-thumb-bg: var(--color-base-10);
+	--scrollbar-active-thumb-bg: var(--color-base-10);
 }
 
-
-/*
-	No, seriously, that's as simple as it gets.
-	  - Sakura
-*/
+.prompt {
+  	background-color: var(--accent-color);
+}

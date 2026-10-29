@@ -219,6 +219,11 @@ Questions
 
 ### 10/20/26 - Research
 
+|     |     |
+| --- | --- |
+|     |     |
+
+
 tuesday 27 
 hardcopy of introduction
 

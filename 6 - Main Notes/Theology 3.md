@@ -642,21 +642,20 @@ The 10 Lepers
 
 The Paralytic Man
 - They went to Jesus but the place was crowded. They went to the roof and lowered him in the stretcher in front of Jesus
-- When Jesus saw their faith, He said “as for you, your sins are forgiven. ruse pickup your strrtcher”
-- His sins were forgiven and he was healed
-- healed because of faith
-- experienced forgiveness from sins
+- When Jesus saw their faith, He said “as for you, your sins are forgiven. rise and pickup your stretcher”
+- His sins were forgiven and he was healed because of faith
+- Experienced forgiveness from sins
 
 We experience this through Sacrament of Anointing of the Sick
-- the sacrament is to chre the ailments of the body, soul, and prepare for Holy Death
+- the sacrament is to cure the ailments of the body, soul, and prepare for Holy Death
 - this sacrament will ensure that you are holy before you die
 - only priests and bishops can minister this
 - matter: oil of the sick
 	- made of olives
 	- blessed by the bishop during chrism mass (every morning of holy thursday; holy week)
 - form
-	- while anointing on the forehead - through this holy anointing may the Lord in his love and mercu help you with the grace of the Holy Spirit
-	- while anointing on the palm of the hands - may the Lord who frees you from sin save you and raise you up
+	- while anointing on the forehead - priest says "through this holy anointing may the Lord in his love and mercy help you with the grace of the Holy Spirit"
+	- while anointing on the palm of the hands - priest says "may the Lord who frees you from sin save you and raise you up"
 - 3 graces
 	- sharing in Christ’s passion
 	- forgiveness of sins
@@ -672,5 +671,46 @@ We experience this through Sacrament of Anointing of the Sick
 - physical healing is not always possible or desirable, but sometimes, through our struggles or sickness, we grow closer to God and become more fully and truly human
 
 2 points about the topic
-- be more loving snd caring for one’s brothers and sisters in the community, especially for the sick
-- life life to its fullest 
+- be more loving and caring for one’s brothers and sisters in the community, especially for the sick
+- live life to its fullest 
+
+
+---
+
+### YT Video about Anointing of the Sick
+
+**Overview of the Anointing of the Sick**
+
+The Sacrament of the Anointing of the Sick is a profound and ancient practice within the Catholic Church, rooted in the traditions of early Christian communities. It is a sacrament of healing and spiritual strength, rather than a sacrament of death.
+
+**Dispelling Misconceptions**
+
+*   **Not for the Dead:** This sacrament is exclusively for the living. It is not intended to be performed after death; the Church has separate prayers for the deceased.
+*   **Not Just for the Final Moments:** The term "Last Rites" is an outdated label that contributes to the misconception that the sacrament should be withheld until the absolute final moment of life. Associating the priest’s arrival only with the end of hope is a misunderstanding of the sacrament's purpose.
+*   **A Repeatable Sacrament:** Along with the Eucharist and Reconciliation, this is a repeatable sacrament. Catholics are encouraged to receive it when appropriate, though it is not intended to be requested for minor illnesses.
+
+**When to Receive the Sacrament**
+
+*   **Serious Illness or Surgery:** It is appropriate to receive the sacrament when one is facing a serious, long-term, or terminal illness, or before undergoing a significant medical procedure or surgery.
+*   **Advanced Age:** As parents and grandparents experience the health challenges associated with aging, this is a fitting time to seek anointing.
+*   **Worsening Conditions:** One may receive it more than once if their condition worsens after an initial anointing.
+
+**The Spiritual Purpose and Effects**
+
+This sacrament is a way to experience God's grace through human senses. It provides several key benefits:
+
+*   **Spiritual Health:** It focuses on the well-being of the soul, offering comfort and strength.
+*   **Unity with Christ:** It allows the sick to unite their personal suffering with the suffering Jesus endured during his final hours.
+*   **Forgiveness:** It imparts the forgiveness of sins.
+*   **Endurance and Peace:** It grants the recipient the peace and courage necessary to endure the burdens of illness or the challenges of old age.
+*   **Preparation:** It prepares the individual for the journey into eternal life.
+
+**How the Sacrament is Administered**
+
+*   **Who performs it:** Because it involves the forgiveness of sins, it can only be administered by a priest or a bishop.
+*   **Where it occurs:** It can be celebrated in various settings, including the home, a hospital, or during Sunday Mass at a local parish.
+*   **The Ritual:** The priest lays his hands on the head of the person, then uses specially blessed oil to anoint their forehead and palms, accompanied by prayers for God's love, mercy, and the grace of the Holy Spirit to raise the person up.
+
+**Conclusion**
+
+While sickness and death are often frightening topics that people prefer to avoid, the Anointing of the Sick serves as a tangible reminder of God's promise. It assures believers that they do not have to face suffering alone, providing courage and hope through the prayers of the Church.

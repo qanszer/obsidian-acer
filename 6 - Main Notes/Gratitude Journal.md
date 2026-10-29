@@ -10,6 +10,13 @@ Tags: [[Christianity]], [[Reflection]], [[Healthy-Living]], [[Thoughts]]
 List of good and great things God has done to me so that I can look back on how good He has been to me.
 
 
+October 29, 2026
+- Thankful for the great weather today
+- Thankful for the good night's rest I had
+- Thankful for the food I get to eat
+- Thankful for the strong wifi we have
+- Thankful that it's online class today
+
 October 26, 2026
 - Thankful for the meal boxes provided by mama
 - Thankful that we don't have to wear uniforms now for the rest of the semester

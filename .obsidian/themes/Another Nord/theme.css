@@ -85,9 +85,9 @@ body
     --color-orange:                  var(--orange);
     /* --color-pink:                    var(--purple); */
 
-    --background-primary:            #2e3440;
+    --background-primary:            #33373f;
     --background-primary-alt:        #1d1d1d;
-    --background-secondary:          #262b36;
+    --background-secondary:          #21242b;
     --background-secondary-alt:      #22262e;
     --background-modifier-border:    #434c5e;
 

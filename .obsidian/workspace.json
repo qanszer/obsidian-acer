@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Dopamine Tracking.md",
+                "file": "6 - Main Notes/Gratitude Journal.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Dopamine Tracking"
+              "title": "Gratitude Journal"
             }
           }
         ]
@@ -98,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.7069091796875,
-    "collapsed": true
+    "width": 263.7069091796875
   },
   "right": {
     "id": "6de475dd2b4c5e52",
@@ -116,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Dopamine Tracking.md",
+                "file": "6 - Main Notes/Gratitude Journal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,24 +226,25 @@
   },
   "active": "4a0a21b08b0bbf2d",
   "lastOpenFiles": [
+    "6 - Main Notes/Dopamine Tracking.md",
+    "6 - Main Notes/Theology 3.md",
+    "6 - Main Notes/All Installed Software.md",
+    "6 - Main Notes/Gratitude Journal.md",
+    "6 - Main Notes/AI Prompts.md",
+    "3 - Tags/Customization.md",
+    "6 - Main Notes/Terminal Commands.md",
+    "6 - Main Notes/Askly Project.md",
     "6 - Main Notes/Quotes.md",
+    "6 - Main Notes/Worn Clothing Logs.md",
     "6 - Main Notes/Promises of God.md",
     "6 - Main Notes/Bible Verse Logs.md",
     "6 - Main Notes/Technical English.md",
-    "6 - Main Notes/AI Prompts.md",
     "3 - Tags/Eli.md",
-    "6 - Main Notes/Theology 3.md",
-    "6 - Main Notes/Gratitude Journal.md",
     "1 - Rough Notes/Quick Note.md",
     "6 - Main Notes/Special Event Date Ideas.md",
-    "6 - Main Notes/Worn Clothing Logs.md",
     "3 - Tags/Thoughts.md",
-    "6 - Main Notes/Askly Project.md",
-    "6 - Main Notes/Terminal Commands.md",
     "6 - Main Notes/Her Interests.md",
     "6 - Main Notes/My Interests.md",
-    "3 - Tags/Customization.md",
-    "6 - Main Notes/All Installed Software.md",
     "6 - Main Notes/Side Quests from the Internet.md",
     "Media/Pasted image 20261020232214.png",
     "2 - Source Material/Articles/1 Science-Based Deep Work.md",
@@ -243,7 +253,6 @@
     "6 - Main Notes/Git Commands.md",
     "6 - Main Notes/Mobile Development.md",
     "6 - Main Notes/Document Types List.md",
-    "2 - Source Material/Class/2025-26 2nd Sem/Design Thinking UI UX.md",
     "Media/IMG_2020.jpeg",
     "Media/IMG_2428.jpeg",
     "Media/Pasted image 20260907200736.png",

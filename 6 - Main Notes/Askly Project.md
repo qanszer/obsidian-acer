@@ -4,7 +4,6 @@
 Tags: [[Coding]], [[School]], [[Kotlin]]
 
 ---
-# Askly Project
 
 This is a project for my Mobile Development class. 
 
