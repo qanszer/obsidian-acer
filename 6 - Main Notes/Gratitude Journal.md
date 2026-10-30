@@ -9,6 +9,14 @@ Tags: [[Christianity]], [[Reflection]], [[Healthy-Living]], [[Thoughts]]
 
 List of good and great things God has done to me so that I can look back on how good He has been to me.
 
+October 30, 2026
+- I got to eat icecream. I did not really enjoy it because it was rocky road but icecream is icecream. Thanks Lord and kuya noynoy
+- I also got to eat 2 melonas
+- All about icecreaaam
+- I got to code properly for today
+- I played mobile legends with my senior highschool friends for 2 games today (leo and miles)
+- I got to workout today!!
+- Eli was not kicked out of her job opportunity because of me haha. Thank you jud Lorddd
 
 October 29, 2026
 - Thankful for the great weather today
